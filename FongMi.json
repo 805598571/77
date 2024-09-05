@@ -11,7 +11,7 @@
 			"filterable": 0,
 			"indexs":1,
 			"changeable": 1,
-			"ext": "./lib/douban.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/douban.json"
 		},
 {
   "key": "小苹果",
@@ -333,14 +333,14 @@
 			"name": "👽玩偶哥哥┃云盘",
 			"type": 3,
 			"api": "csp_Wogg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;698738dac19b3b829e0f7371572cbbba",                   
-			"searchable": 1,
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;698738dac19b3b829e0f7371572cbbba",                            "searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.wogg.net/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"
-		},
+                     	"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.wogg.net/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"
+		},    		 
+
 		{
 			"key": "Wobg",
 			"name": "🎭玩偶表哥┃云盘",
