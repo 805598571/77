@@ -182,232 +182,7 @@
         "cookie": "SESSDATA=12549645%2C1732862233%2C035e5%2A62CjCfGCm6Lr_yyi5SNLnGnM7LoouIEnA9oSgZUEvOhyzLgoO8VVDCZ4xtsY3zTXjTK4wSVmF6VFpPNTQtUmJaNDlRVVdXSHRBa1pLNDVfUmlyeVRaa1dBaDdlWkNLWEh1amZUcUJ4RnRhX2JoVTNJcDJQb08yZWVoaXZlOUJtOGNMWmR5dW1UTHF3IIEC; bili_jct=0030bb7175b0a43b9ee5c842da540516; DedeUserID=3546695193332013; DedeUserID__ckMd5=db2575717b89a1a9; sid=7fekk7r0; header_theme_version=CLOSE; CURRENT_FNVAL=1; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MTc1Njk1NTgsImlhdCI6MTcxNzMxMDI5OCwicGx0IjotMX0.7D8ObQJ4ruQLYmdlM8a1KHNUkRb_MNGawLB35KPoKD4; bili_ticket_expires=1717569498"
       }
     },
-{
-			"key": "csp_Wexwuxiang",
-			"name": "🥊武享|格斗",
-			"type": 3,
-			"api": "csp_Wexwuxiang",
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"searchable": 2,
-			"quickSearch": 0,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "JustLive",
-			"name": "🎮️JustLive┃游戏",
-			"type": 3,
-			"api": "csp_JustLive",
-			"searchable": 1,
-			"changeable": 2
-		},
-		{
-			"key": "酷狗",
-			"name": "🐶酷狗┃MV",
-			"type": 3,
-			"api": "csp_Kugou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 2
-		},
-		{
-			"key": "MV_vod",
-			"name": "🎸明星┃MV",
-			"type": 1,
-			"api": "https://mv.wogg.link/mv/vod",
-			"style": {
-				"type": "oval"
-			},
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2
-		},
-		{
-			"key": "酷奇js",
-			"name": "🎤酷奇┃MV",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 2,
-			"ext": "./js/酷奇MV.js"
-		},
-		{
-			"key": "虎牙直播js",
-			"name": "🐯虎牙┃直播",
-			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"style": {
-				"type": "rect",
-				"ratio": 1.755
-			},
-			"ext": "./js/huya2.js",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"changeable": 2
-		},
-{
-			"key": "csp_Wexliyuan",
-			"name": "🎪看呗┃戏曲",
-			"type": 3,
-			"api": "csp_Wexliyuan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wextangdou",
-			"name": "🕺🏽玩呗┃舞蹈",
-			"type": 3,
-			"api": "csp_Wextangdou",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wexergeduoduo",
-			"name": "👶多多┃儿歌",
-			"type": 3,
-			"api": "csp_Wexergeduoduo",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wexbaobaobashi",
-			"name": "🧒宝宝┃儿歌",
-			"type": 3,
-			"api": "csp_Wexbaobaobashi",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wexbeiwa",
-			"name": "👦贝贝┃儿歌",
-			"type": 3,
-			"api": "csp_Wexbeiwa",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wextuxiaobei",
-			"name": "👧兔兔┃儿歌",
-			"type": 3,
-			"api": "csp_Wextuxiaobei",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 2
-			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wexqingfengdj",
-			"name": "🤘DJ┃舞曲",
-			"type": 3,
-			"api": "csp_Wexqingfengdj",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wexxsmp3",
-			"name": "🗃︎随身┃相声",
-			"type": 3,
-			"api": "csp_Wexxsmp3",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_Wexpsmp3",
-			"name": "🏷随身┃评书",
-			"type": 3,
-			"api": "csp_Wexpsmp3",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
-		},
-		{
-			"key": "csp_YGP",
-			"name": "🚀叨观荐影┃速递",
-			"type": 3,
-			"api": "csp_YGP",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
-		},
-		{
-			"key": "csp_Bili",
-			"name": "👨‍👩‍👦‍👦哔哩┃合辑",
-			"type": 3,
-			"api": "csp_Bili",
-			"style": {
-				"type": "rect",
-				"ratio": 1.597
-			},
-			"searchable": 1,
-			"quickSearch": 0,
-			"filterable": 1,
-			"changeable": 2,
-			"ext":{
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":"buvid3=44DBF22A-B60B-955B-DE01-4B9D64CF9F9017701infoc; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; buvid4=84F7F4DB-9F1A-8010-818D-86D35BAA372B19526-124062115-8MSlMq49BIiAXsvoFshSJA%3D%3D; _uuid=D25E10691-310E7-F165-298F-1E95926C9981019957infoc; buvid_fp=2646a0723d916b230869e2a20c23c2de; rpdid=|(J|)lR~)RmJ0J'u~u)m)JmYl; b_nut=100; bsource=search_baidu; b_lsid=2EC219F2_190A0102B28; SESSDATA=3cb2234a%2C1736224412%2C7d62e%2A72CjD1m7FW-Sag88ogqIfw7mXO1VeRFmtocdGLQKjJFVzsgAY33sBL_aCenBg_zW_UrrMSVnRUMEo0RldXRHgwZ2RKR2Z0cWhpYkJobEVQVzJuT1hUZDl3cm9MeElZSi12OWpQRGFSS3o4NUR1OGZHSzJsQ2QxdWgybHJUcWw0eER3dExrWGZVVGRnIIEC; bili_jct=fd0207bb24a781e7a9602bded2879a2e; DedeUserID=3493289667856604; DedeUserID__ckMd5=308d98941752e821; sid=6olfaapf"
-			}
-		},
+
 {
 			"key": "配置中心",
 			"name": "🔧配置中心",
@@ -1177,7 +952,32 @@
             "分类url": "https://y.u9a9y.xyz/?type={cateId}&p={catePg};;m"
                 }
     },
-{"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/pg.jar","searchable":1,"changeable":0},		
+{"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/pg.jar","searchable":1,"changeable":0},	{
+            "key": "csp_PikPakShare181",
+            "name": "💿PikPak分享 18+[PGⅠ]",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.txt$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pa.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pa.json.txt.gz",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar"
+        },
+        {
+            "key": "csp_PikPakShare182",
+            "name": "💿PikPak分享 18+[PGⅡ]",
+            "type": 3,
+            "api": "csp_PikPakShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "filterable": 1,
+            "timeout": 60,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.txt$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pa1.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pa1.json.txt.gz",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar"
+        },	
 		{
 			"key": "MeijuTT",
 			"name": "🌫️美剧天天┃磁力",
