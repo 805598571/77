@@ -2147,58 +2147,8 @@
             "ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pa1.json$$$https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pa1.json.txt.gz",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar"
         },
-{
-			"key": "csp_MyAv",
-			"name": "MyAv┃磁力",
-			"type": 3,
-			"api": "csp_MyAv",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;1d34b38328e31a08fd291525066cd6eb", 
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://xh5.top$$$noproxy"
-		},
-{
-			"key": "csp_MyAv",
-			"name": "MyAv┃磁力",
-			"type": 3,
-			"api": "csp_MyAv",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;1d34b38328e31a08fd291525066cd6eb", 
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://xh5.top$$$noproxy"
-		},
-{
-			"key": "csp_JAV",
-			"name": "JAV┃磁力",
-			"type": 3,
-			"api": "csp_JAV",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;1d34b38328e31a08fd291525066cd6eb", 
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://pc5.top$$$noproxy"
-		},
-{
-			"key": "csp_JAV",
-			"name": "JAV┃磁力",
-			"type": 3,
-			"api": "csp_MyAv",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;1d34b38328e31a08fd291525066cd6eb", 
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://jav98.xyzp$$$noproxy"
-		},
+
+
 {"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"playerType":1,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"https://gitlab.com/lemon52030/BOX/-/raw/main/ext/if_p2p.js","ext":"18+"},
 {"key":"lf_js_search","name":"搜索|lf_search","type":3,"searchable":0,"changeable":0,"quickSearch":0,"filterable":1,"api":"https://gitlab.com/lemon52030/BOX/-/raw/main/ext/lf_search1_min.js"},
 {"key": "88js","name": "⚽ 88看球","type": 3,"api": "https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext": "https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style": {"type": "list"},"searchable": 0,"quickSearch": 0,"changeable": 0},
