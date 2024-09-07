@@ -906,7 +906,7 @@
 			"timeout": 1801,	
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://avmisss.com/$$$noproxy"
 		},
-	  {"key":"MissAV","name":"🔞MissAV","type":3,"searchable":0,"quickSearch":0,"api":"csp_Miss", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;698738dac19b3b829e0f7371572cbbba","style":{"type":"rect","ratio":1.78}},
+	  {"key":"MissAV","name":"🔞MissAV","type":3,"searchable":0,"quickSearch":0,"api":"csp_MissAV", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;1d34b38328e31a08fd291525066cd6eb","style":{"type":"rect","ratio":1.78}},
 	{
 			"key": "csp_JavDb",
 			"name": "JavDb┃磁力",
