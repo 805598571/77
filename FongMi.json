@@ -897,7 +897,7 @@
 			"key": "csp_MissAV",
 			"name": "MissAV",
 			"type": 3,
-			"api": "csp_JavDb",
+			"api": "csp_MissAV",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;1d34b38328e31a08fd291525066cd6eb", 
 			"searchable": 1,
 			"quickSearch": 1,
