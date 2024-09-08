@@ -2839,6 +2839,26 @@
 			"timeout": 1801,
 			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
 		},
+ {
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H%E5%8C%85/py/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93.py",
+            "filterable": 1,
+            "key": "農民",
+            "name": "農民py🔞",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+{
+            "key": "csp_XYQHiker_300分类",
+            "name": "♥️300分类♥️",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/Aoki.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/300分类.json"
+        },
     {
       "key": "玩偶 | 蜡笔",
       "name": "玩偶 | 蜡笔",
