@@ -2839,15 +2839,7 @@
 			"timeout": 1801,
 			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
 		},
-           { "key": "黄色仓库",
-            "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;39ddbdfa96d68be53f18623a8e352d3e", 
-            "filterable": 1,
-            "key": "黄色仓库",
-            "name": "黄色仓库py🔞",
-            "quickSearch": 1,
-            "searchable": 1,
-            "type": 3
-            " api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H包/py/黄色仓库.py },           
+        
     {
       "key": "玩偶 | 蜡笔",
       "name": "玩偶 | 蜡笔",
