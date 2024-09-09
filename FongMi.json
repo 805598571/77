@@ -2677,14 +2677,14 @@
 "ext":"https://cdn05042023.gitlink.org.cn/YSBXS/ZYK/raw/branch/master/ZYJK/体育/JS/360吧.js"},
 	{"key":"310直播","name":"310｜直播","type":3,"api":"https://cdn05042023.gitlink.org.cn/YSBXS/ZYK/raw/branch/master/ZYJK/体育/JS/drpy2.min.js","style":{"type":"list"},
 "ext":"https://cdn05042023.gitlink.org.cn/YSBXS/ZYK/raw/branch/master/ZYJK/体育/JS/310直播.js"},
-{"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
+{"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath",  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350","style":{"type":"list"},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
 {"key":"看球","name":"看球","type":3,"api":"csp_Kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
-{"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
-{"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
+{"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter",  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter",  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {"key":"JRKAN直播","name":"JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
 {"key":"88看球","name":"⚽88看球","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/88看球.js"},
-{"key":"csp_xp_jrszb2018","name":"球赛(HD)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/jrszb2018.json"},
-{"key":"csp_xp_jrskan","name":"直播(HD)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/sports.json"},
+{"key":"csp_xp_jrszb2018","name":"球赛(HD)","type":3,"api":"csp_XPathFilter",  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/jrszb2018.json"},
+{"key":"csp_xp_jrskan","name":"直播(HD)","type":3,"api":"csp_XPathMacFilter",  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724264468171/fan.txt;md5;74e273c7722d5b4b8cabcb11171ee350","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/sports.json"},
 		{
       "key": "saohuo",
       "name": "🌙️骚火┃电影",
@@ -2839,7 +2839,26 @@
 			"timeout": 1801,
 			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
 		},
-
+ {
+            "api": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H%E5%8C%85/py/%E9%BB%84%E8%89%B2%E4%BB%93%E5%BA%93.py",
+            "filterable": 1,
+            "key": "農民",
+            "name": "農民py🔞",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+{
+            "key": "csp_XYQHiker_300分类",
+            "name": "♥️300分类♥️",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/Aoki.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/300分类.json"
+        },
     {
       "key": "玩偶 | 蜡笔",
       "name": "玩偶 | 蜡笔",
