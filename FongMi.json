@@ -117,6 +117,56 @@
 {"key":"JOJO弹幕","name":"✨里里┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
    {"key":"荐片弹幕","name":"✨荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
 {"key":"立播弹幕","name":"✨立播┃弹幕","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+{
+      "key": "💥 天堂 | JAR",
+      "name": "💥 天堂 | JAR",
+      "type": 3,
+      "api": "csp_TvDy",
+      "searchable": 1,
+      "filterable": 1
+    },
+{
+      "key": "🍀 RARBT | JAR",
+      "name": "🍀 RARBT | JAR",
+      "type": 3,
+      "api": "csp_Rarbt",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "siteUrl": "https://www.rarbt.fun",
+        "jxToken": "tm://tm/jxToken.txt",
+        "enableJX": false
+      }
+    },
+    {
+      "key": "🧲 电影港 | JAR",
+      "name": "🧲 电影港 | JAR",
+      "type": 3,
+      "api": "csp_DyGang",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "🧲 迅雷吧 | JAR",
+      "name": "🧲 迅雷吧 | JAR",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1
+    },
+    {
+      "key": "🧲 6V | JAR",
+      "name": "🧲 6V | JAR",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.66ss.org/"
+    },
 {  
  "key": "fxzWP",  
  "name": "💖分享罗盘",  
@@ -2891,6 +2941,7 @@
 			"timeout": 1801,
 			"ext":"null$$$127.0.0.1:10072"
 		},
+
 {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
         "ext": {
@@ -3289,7 +3340,38 @@
       }
     },
 
-
+{
+      "name": "很牛逼",
+      "url": "http://rxjx.kuanjv.com/allm3u8.php?url=",
+      "type": 1,
+      "ext": {
+        "flag": [
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "qq 预告及花絮",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "mgtv",
+          "芒果",
+          "sohu",
+          "xigua",
+          "fun",
+          "风行"
+        ]
+      },
+      "header": {
+        "User-Agent": "Mozilla/5.0"
+      }
+    },
 
 
 {
