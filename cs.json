@@ -1,5 +1,5 @@
-﻿{
-	"spider": "./jar/pg.jar;md5;7f6ccc2bc95a20e11324253556875036",
+{
+	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;7f6ccc2bc95a20e11324253556875036",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"./lib/cs.jpeg",
 	"sites": [{
@@ -12,16 +12,64 @@
 			"filterable": 0,
 			"indexs":1,
 			"changeable": 1,
-			"ext": "./lib/douban.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/douban.json"
 		},
+{
+      "key": "hipy_js_好趣网",
+      "name": "电视|直播",
+      "type": 3,
+      "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 87,
+      "ext": "https://gitee.com/juanxiao/bh/raw/master/hqw.js"
+    },
+{"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar"   },   
+{
+            "key": "文采影视", 
+            "name": "文采┃秒播", 
+            "type": 3, 
+            "api": "csp_XBPQ", 
+            "changeable": 0,
+            "ext": {
+                "主页url": "https://www.hkybqufgh.com/", 
+                "简介": "</label>&&</div>", 
+                "嗅探词":"m3u8",
+                "影片类型": "tags\">&&director\">", 
+                "影片状态": "bottom\">&&</div>", 
+                "二次截取": "videoList\":\\[&&\\]", 
+                "数组": "{&&}[不包含:伦理剧]", 
+                "图片": "https+://ywxohs.com+obs.gduamoe.com&&\",", 
+                "标题": "vodName\":\"&&\"", 
+                "副标题": "vodRemarks\":\"&&\"", 
+                "链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,", 
+                "导演": "导演:</div>&&主演", 
+                "主演": "主演:</div>&&别名", 
+                "线路标题": "宝盒专享", 
+                "播放数组": "listitem\">&&info\">", 
+                "播放列表": "<a&&</a>", 
+                "倒序": "否", 
+                "搜索url": "https://www.hkybqufgh.com/vod/search/{wd}", 
+                "搜索副标题":"class=\"boottom\"*<div>&&</div",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
+                "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+            }
+        },
+{"key":"机器人弹幕","name":"✨机器┃弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+{"key":"哔嘀弹幕","name":"✨哔嘀┃弹幕","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.yjys02.com","danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+{"key":"一起看弹幕","name":"✨起起┃弹幕","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+{"key":"JOJO弹幕","name":"✨里里┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+   {"key":"荐片弹幕","name":"✨荐片┃弹幕","type":3,"api":"csp_Jianpian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
+{"key":"立播弹幕","name":"✨立播┃弹幕","type":3,"api":"csp_Libvio","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
 		{
 			"key": "drpy_js_磁力熊",
 			"name": "🐻磁力熊┃索引",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./js/cilixiongp.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/cilixiongp.js"
 		},
 		{
 			"key": "csp_YGP",
@@ -31,7 +79,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Bili",
@@ -80,7 +128,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_WexIktv",
@@ -91,7 +139,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Alist",
@@ -103,7 +151,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,	
-			"ext": "./lib/al.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/al.json"
 		},	
 		{
 			"key": "csp_Wexduanjuvop",
@@ -114,7 +162,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexduanjuhema",
@@ -125,7 +173,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexduanju001",
@@ -136,7 +184,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexduanjuvip",
@@ -147,7 +195,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 {"key": "玩偶gg",
       "name": "玩偶gg",
@@ -380,7 +428,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/pushshare.txt$$$db$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/pushshare.txt$$$db$$$1"
 		},
 		{
 			"key": "csp_AliShare",
@@ -396,7 +444,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/alishare.txt$$$db$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
 		},
 		{
 			"key": "csp_QuarkShare",
@@ -412,7 +460,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/quarkshare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
 		},
 		{
 			"key": "csp_UCShare",
@@ -428,7 +476,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/ucshare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/ucshare.txt"
 		},
 		{
 			"key": "csp_P115Share",
@@ -444,7 +492,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/115share.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$./lib/115share.txt"
 		},
 		{
 			"key": "csp_ThunderShare",
@@ -460,7 +508,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/thundershare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/thundershare.txt"
 		},
 		{
 			"key": "csp_PikPakShare",
@@ -476,7 +524,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/pikpakclass.json$$$./lib/pikpakclass.json.txt.gz"
 		},
 		/*{
 			"key": "csp_SambaShare",
@@ -492,7 +540,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/sambashare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$./lib/sambashare.txt"
 		},*/
 {
             "key": "玩偶弹幕",
@@ -503,9 +551,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "wogg": true,
                 "danmu": true
             }
@@ -519,9 +567,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://wogg.xxooo.cf",
                 "danmu": true
             }
@@ -536,8 +584,8 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "http://wobgg.run-us-west2.goorm.io",
                 "danmu": true
             }
@@ -551,8 +599,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "https://tudou.lvdoui.top",
                 "danmu": true
             }
@@ -566,8 +614,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             }
@@ -581,8 +629,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "https://duopan.fun",
                 "danmu": true
             }
@@ -596,9 +644,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             }
@@ -612,9 +660,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://vip.omii.top",
                 "danmu": true
             }
@@ -628,9 +676,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://4k.4u4.cn",
                 "danmu": true
             }
@@ -644,9 +692,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "http://mogg.top",
                 "danmu": true
             }
@@ -660,8 +708,8 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -674,8 +722,8 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -688,7 +736,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -701,7 +749,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -714,7 +762,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -727,7 +775,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -740,7 +788,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true,
                 "cookie": "satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf"
             }
@@ -754,7 +802,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
                 "danmu": true
             }
@@ -768,7 +816,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "https://www.misou.fun",
                 "danmu": true
             }
@@ -782,7 +830,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -795,7 +843,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -809,7 +857,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -823,7 +871,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -836,7 +884,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -850,7 +898,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
 		},
 		{
 			"key": "Wobg",
@@ -862,7 +910,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$./lib/wogg.json$$$WOBG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOBG"
 		},
 		{
 			"key": "Wnlg",
@@ -874,7 +922,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WNLG"
 		},
 		{
 			"key": "蜡笔",
@@ -886,7 +934,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://duopan.fun/$$$noproxy$$$1$$$./lib/wogg.json$$$LABI"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://duopan.fun/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$LABI"
 		},
 		{
 			"key": "木偶",
@@ -898,7 +946,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$http://mogg.top/$$$noproxy$$$1$$$./lib/wogg.json$$$MOGG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$http://mogg.top/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"
 		},
 		{
 			"key": "土豆",
@@ -910,7 +958,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://tudou.lvdoui.top/$$$noproxy$$$1$$$./lib/wogg.json$$$TUDOU"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://tudou.lvdoui.top/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$TUDOU"
 		},
 		{
 			"key": "小米",
@@ -922,7 +970,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://mihdr.top/$$$noproxy$$$1$$$./lib/wogg.json$$$XIAOMI"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://mihdr.top/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$XIAOMI"
 		},
 		{
 			"key": "Moli",
@@ -934,7 +982,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.hdmoli.pro/$$$noproxy$$$1$$$./lib/moli.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.hdmoli.pro/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/moli.json"
 		},
 		{
 			"key": "Hdhive",
@@ -946,7 +994,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.hdhive.online/$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.hdhive.online/$$$noproxy$$$1"
 		},
 		{
 			"key": "4KHDR",
@@ -958,7 +1006,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,		
-			"ext": "./lib/ab.json$$$./lib/4khdr.json$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/4khdr.json$$$1"
 		},
 		{
 			"key": "csp_Wo4k",
@@ -970,7 +1018,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.wo4k.com/$$$noproxy$$$1$$$./lib/wogg.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.wo4k.com/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"
 		},
 		{
 			"key": "Bt0",
@@ -994,7 +1042,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext": "./lib/ab.json$$$https://xzyshd.com$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://xzyshd.com$$$noproxy$$$1"
 		},
 		{
 			"key": "团长",
@@ -1006,7 +1054,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext": "./lib/ab.json$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$noproxy$$$1"
 		},
 		{
 			"key": "小盘盘",
@@ -1018,7 +1066,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext": "./lib/ab.json$$$https://xpanpan.site$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://xpanpan.site$$$noproxy$$$1"
 		},
 		{
 			"key": "csp_YunPan",
@@ -1030,7 +1078,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$null$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$null$$$noproxy$$$1"
 		},
 		{
 			"key": "皮皮",
@@ -1042,7 +1090,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext": "./lib/ab.json$$$https://ppxzy.ink$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://ppxzy.ink$$$noproxy$$$1"
 		},
 		{
 			"key": "ddys",
@@ -1054,7 +1102,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext":"./lib/ab.json$$$https://ddys.pro/$$$noproxy$$$1$$$"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://ddys.pro/$$$noproxy$$$1$$$"
 		},
 		{
 			"key": "Gaoqing",
@@ -1066,7 +1114,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext":"./lib/ab.json$$$https://gaoqing.la/$$$noproxy$$$1"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gaoqing.la/$$$noproxy$$$1"
 		},
 		{
 			"key": "Yinfans",
@@ -1078,7 +1126,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext":"./lib/ab.json$$$https://www.yinfans.me/$$$noproxy$$$1"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.yinfans.me/$$$noproxy$$$1"
 		},
 		{
 			"key": "csp_Meijumi",
@@ -1089,7 +1137,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./lib/ab.json$$$https://www.meijumi.xyz/$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.meijumi.xyz/$$$noproxy$$$1"
 		},
 		{
 			"key": "哔嘀",
@@ -1100,7 +1148,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./lib/ab.json$$$https://www.yjys01.com/$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.yjys01.com/$$$noproxy$$$1"
 		},
 		{
 			"key": "欧乐",
@@ -1111,7 +1159,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./lib/ab.json$$$null$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$null$$$noproxy$$$1"
 		},
 		{
 			"key": "热播",
@@ -1196,7 +1244,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexshandian",
@@ -1207,7 +1255,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Djtt",
@@ -1218,7 +1266,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Kkys",
@@ -1229,7 +1277,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Zx4k",
@@ -1240,7 +1288,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "原创",
@@ -1251,7 +1299,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Wexxpgtv",
@@ -1262,7 +1310,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Appxdys",
@@ -1273,7 +1321,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Xinshijue",
@@ -1284,7 +1332,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "/lib/aa.json$$$https://www.80yy3.com/$$$noproxy$$$1$$$./lib/wogg.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.80yy3.com/$$$noproxy$$$1$$$./lib/wogg.json"
 		},
 		{
 			"key": "csp_NewCz",
@@ -1318,7 +1366,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Kekys",
@@ -1329,7 +1377,7 @@
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Jpys",
@@ -1340,7 +1388,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Appmq",
@@ -1351,7 +1399,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "萌米",
@@ -1361,7 +1409,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
 			"ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
 		},
 		{
@@ -1373,7 +1421,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
 			"ext": "https://www.zxzjhd.com/"
 		},
 		{
@@ -1385,7 +1433,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext":"./lib/ab.json$$$https://www.libvio.pw$$$null$$$1"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.libvio.pw$$$null$$$1"
 		},
 		{
 			"key": "csp_Auete",
@@ -1396,7 +1444,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
 			"ext": "https://auete.pro/"
 		},	
 		{
@@ -1408,7 +1456,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext":"./lib/jianpian.json$$$1",
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/jianpian.json$$$1",
 			"timeout":60
 		},
 		{
@@ -1421,7 +1469,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,		
-			"ext": "./lib/ab.json$$$https://www.66ss.org/$$$null$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.66ss.org/$$$null$$$1"
 		},
 		{
 			"key": "csp_kuaikan",
@@ -1452,7 +1500,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Ying",
@@ -1463,7 +1511,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Ysj",
@@ -1474,7 +1522,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "csp_Anime1",
@@ -1485,51 +1533,51 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "腾讯",
 			"name": "🐧腾讯┃解析",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./js/tencent.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/tencent.js"
 		},
 		{
 			"key": "爱奇艺",
 			"name": "🍊爱奇艺┃解析",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./js/iqiyi.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/iqiyi.js"
 		},
 		{
 			"key": "优酷",
 			"name": "🇾优酷┃解析",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./js/youku.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/youku.js"
 		},
 		{
 			"key": "芒果",
 			"name": "🥭芒果┃解析",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"ext": "./js/mangguo.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/mangguo.js"
 		},
 		{
 			"key": "csp_Yj1211",
@@ -1540,7 +1588,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de"
 		},
 		{
 			"key": "Aid",
@@ -1567,13 +1615,13 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_qiumi",
 			"name": "⚽Jrs┃球迷",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1
@@ -1582,13 +1630,13 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"ext": "./js/jrk.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/jrk.js"
 		},
 		{
 			"key": "csp_310直播",
 			"name": "⚽310┃看球",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1
@@ -1597,7 +1645,7 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"ext": "./js/310直播.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/310直播.js"
 		},
 		{
 			"key": "csp_XPath_鹅直播",
@@ -1611,8 +1659,8 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"jar": "./jar/hh.jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
-			"ext": "./xp/企鹅直播.json"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/xp/企鹅直播.json"
 		},
 		{
 			"key": "csp_Wexwuxiang",
@@ -1627,7 +1675,7 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "JustLive",
@@ -1663,7 +1711,7 @@
 			"key": "酷奇js",
 			"name": "🎤酷奇┃MV",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.597
@@ -1672,18 +1720,18 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"ext": "./js/酷奇MV.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/酷奇MV.js"
 		},
 		{
 			"key": "虎牙直播js",
 			"name": "🐯虎牙┃直播",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.755
 			},
-			"ext": "./js/huya2.js",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/huya2.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
@@ -1693,7 +1741,7 @@
 			"key": "斗鱼直播js",
 			"name": "🐟斗鱼┃直播",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.755
@@ -1702,29 +1750,29 @@
 			"quickSearch": 0,
 			"filterable": 0,
 			"changeable": 2,
-			"ext": "./js/斗鱼直播.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/斗鱼直播.js"
 		},
 		{
 			"key": "csp_聚短视频",
 			"name": "📽聚合┃短视频",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
-			"ext": "./js/短视频.js"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/短视频.js"
 		},
 		{
 			"key": "有声小说js",
 			"name": "🎧有声┃小说",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1
 			},
-			"ext": "./js/有声小说吧.js",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/有声小说吧.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
@@ -1743,7 +1791,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wextangdou",
@@ -1758,7 +1806,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexergeduoduo",
@@ -1773,7 +1821,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexbaobaobashi",
@@ -1788,7 +1836,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexbeiwa",
@@ -1803,7 +1851,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wextuxiaobei",
@@ -1818,7 +1866,7 @@
 				"type": "rect",
 				"ratio": 2
 			},
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexqingfengdj",
@@ -1829,7 +1877,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexxsmp3",
@@ -1840,7 +1888,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 			"key": "csp_Wexpsmp3",
@@ -1851,7 +1899,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 		{
 		    "key":"TGYunPan",
@@ -1860,7 +1908,7 @@
 		    "api":"csp_TGYunPanLocal",
 		    "timeout":60, 
 		    "changeable": 2,
-		    "ext":"./lib/ab.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe,PikPakShare$$$noproxy$$$1"
+		    "ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe,PikPakShare$$$noproxy$$$1"
 		},
 		{
 			"key": "YiSo",
@@ -1873,7 +1921,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$./lib/yiso.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/yiso.txt"
 		},
 		{
 			"key": "Zhaozy",
@@ -1886,7 +1934,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$guub123$$$aa123456"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$guub123$$$aa123456"
 		},
 		{
 			"key": "PanSou",
@@ -1899,7 +1947,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "UpYun",
@@ -1911,7 +1959,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "PanSearch",
@@ -1923,7 +1971,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$null$$$noproxy"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$null$$$noproxy"
 		},
 		{
 			"key": "csp_QuarkPanso",
@@ -1935,7 +1983,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "csp_Funletu",
@@ -1947,7 +1995,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "csp_PanSearch",
@@ -1960,7 +2008,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "csp_YunSo",
@@ -1972,7 +2020,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "csp_YunPanOne",
@@ -1984,7 +2032,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$null$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$null$$$noproxy$$$1"
 		},
 		{
 			"key": "88pan",
@@ -1996,7 +2044,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,
-			"ext": "./lib/ab.json$$$https://662688.xyz$$$"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://662688.xyz$$$"
 		},
 		{
 			"key": "csp_Panta",
@@ -2008,7 +2056,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://www.91panta.cn/$$$null$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
 		{
 			"key": "csp_DaPanSo",
@@ -2020,7 +2068,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://dapanso.com$$$noproxy$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://dapanso.com$$$noproxy$$$1"
 		},
 		{
 			"key": "csp_Qianfan",
@@ -2032,7 +2080,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json$$$https://pan.qianfan.app$$$null$$$QianFanID=m8rg8iylgvc1pglkj51m3fxxjrk305zm$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://pan.qianfan.app$$$null$$$QianFanID=m8rg8iylgvc1pglkj51m3fxxjrk305zm$$$1"
 		},
 		{
 			"key": "csp_MiaoSou",
@@ -2044,7 +2092,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "csp_HunHePan",
@@ -2056,7 +2104,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "csp_PikaSo",
@@ -2068,7 +2116,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "盘友圈",
@@ -2080,7 +2128,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext": "./lib/ab.json$$$site$$$noproxy"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$site$$$noproxy"
 		},
 		{
 			"key": "影搜",
@@ -2092,7 +2140,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 30,		
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},	
 		{
 			"key": "csp_Star",
@@ -2113,18 +2161,18 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 2,
-			"ext": "./lib/duboku.json$$$noproxy"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/duboku.json$$$noproxy"
 		},
 		{
 			"key": "dr_兔小贝",
 			"name": "🐰兔小贝┃儿童",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
 			"style": {
 				"type": "rect",
 				"ratio": 1.597
 			},
-			"ext": "./js/兔小贝.js",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/兔小贝.js",
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
@@ -2134,8 +2182,8 @@
 			"key": "drpy_js_97tvs",
 			"name": "9️⃣97TV┃云盘",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/97tvs.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/97tvs.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2
@@ -2144,8 +2192,8 @@
 			"key": "drpy_js_rrdyw",
 			"name": "🔁RRDV┃云盘",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/rrdyw.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/rrdyw.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2
@@ -2154,8 +2202,8 @@
 			"key": "drpy_js_aipanso",
 			"name": "💘爱盘搜┃云搜",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/aipanso.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/aipanso.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2
@@ -2192,7 +2240,7 @@
 				"ratio": 1.5
 			},
 			"timeout": 1801,
-			"ext":"./lib/ab.json$$$null$$$null$$$1"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$null$$$null$$$1"
 		},
 		{
 			"key": "csp_BtSearch",
@@ -2208,7 +2256,7 @@
 				"ratio": 1.5
 			},
 			"timeout": 1801,
-			"ext":"./lib/ab.json$$$null$$$null$$$1"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$null$$$null$$$1"
 		},
 		{
 			"key": "csp_Clg",
@@ -2224,14 +2272,14 @@
 				"ratio": 1.5
 			},
 			"timeout": 1801,
-			"ext":"./lib/ab.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
 		},
 		{
 			"key": "drpy_js_MP4电影",
 			"name": "📀MP4电影┃磁力",
 			"type": 3,
-			"api": "./lib/drpy2.min.js",
-			"ext": "./js/mp4us.js",
+			"api": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/drpy2.min.js",
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/js/mp4us.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2
@@ -2335,7 +2383,7 @@
 			"quickSearch": 0,
 			"changeable": 0,
 			"ext":{
-				"token":"./lib/ab.json",
+				"token":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json",
 				"json":"./lib/youtube.json",
 				"type":"直播#新闻#剧集#电影#综艺#纪录片#音乐#体育#动物#风光#放松#4K#HDR#movie#music#documentary#bbc documentary#national geographic documentary",
 				"keywords":"排行榜,HOT,TRENDS,热门话题,热门趋势,热门综艺,热门电影,热门电视剧,小姐姐",
@@ -2362,7 +2410,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},	
-			"ext": "./lib/ab.json$$$./lib/alishare.ebook.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$./lib/alishare.ebook.txt"
 		},
 		{
 			"key": "csp_PikPakShare.a",
@@ -2377,7 +2425,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.txt.gz"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.txt.gz"
 		},
 		{
 			"key": "csp_PikPakShare.a1",
@@ -2392,7 +2440,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "./lib/ab.json$$$./lib/pikpakclass.a1.json$$$./lib/pikpakclass.a1.json.txt.gz"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/pikpakclass.a1.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/pikpakclass.a1.json.txt.gz"
 		},
 		{
 			"key": "csp_WexPandalivetv",
@@ -2403,172 +2451,9 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
-			"jar": "./jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
+			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
-		{
-			"key": "csp_Netflav",
-			"name": "🇳Netflav┃直连",
-			"type": 3,
-			"api": "csp_Netflav",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,
-			"ext":"null$$$noproxy"
-		},
-		{
-			"key": "Cable",
-			"name": "🈲Cable┃直连",
-			"type": 3,
-			"api": "csp_Cable",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,
-			"ext":"noproxy"
-		},
-		{
-			"key": "csp_Taohuazu",
-			"name": "🍑桃花族┃App",
-			"type": 3,
-			"api": "csp_Taohuazu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			},
-			"timeout": 1801,
-			"ext":"./lib/ab.json$$$http://777631.xyz/$$$noproxy$$$1"
-		},	
-		{
-			"key": "csp_SeHuaTang",
-			"name": "🥀色花堂┃Mix",
-			"type": 3,
-			"api": "csp_SeHuaTang",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			},
-			"timeout": 1801,
-			"ext":"./lib/ab.json$$$null$$$noproxy"
-		},
-		{
-			"key": "csp_Xojav",
-			"name": "🇽XOjav┃直连",
-			"type": 3,
-			"api": "csp_Xojav",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			},
-			"timeout": 1801,
-			"ext":"null$$$noproxy"
-		},
-		{
-			"key": "csp_JavDb",
-			"name": "🔞JavDb┃磁力",
-			"type": 3,
-			"api": "csp_JavDb",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "./lib/ab.json$$$http://javdb3656.com$$$noproxy"
-		},
-		{
-			"key": "csp_JavBus",
-			"name": "㊙️JavBus┃磁力",
-			"type": 3,
-			"api": "csp_JavBus",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.6
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "./lib/ab.json$$$https://www.busdmm.art$$$noproxy"
-		},
-		{
-			"key": "csp_Doll",
-			"name": "🚷Doll┃直连",
-			"type": 3,
-			"api": "csp_Doll",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "noproxy"
-		},
-		{
-			"key": "csp_Hanime",
-			"name": "🚫Hanime┃直连",
-			"type": 3,
-			"api": "csp_Hanime",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.485
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "noproxy"
-		},
-		{
-			"key": "MissAV",
-			"name": "👠MissAV┃直连",
-			"type": 3,
-			"api": "csp_Miss",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "noproxy"
-		},
-		{
-			"key": "top888",
-			"name": "🔝Top888┃直连",
-			"type": 3,
-			"api": "csp_Top888",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "null$$$noproxy"
-		},
+		
 		{
 			"key": "配置中心",
 			"name": "🔧配置中心",
@@ -2580,7 +2465,7 @@
 			},
 			"searchable": 0,
 			"changeable": 0,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 		{
 			"key": "应用商店",
@@ -2593,7 +2478,7 @@
 			},
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"./lib/market.json"
+			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/market.json"
 		},
 		{
 			"key": "push_agent",
@@ -2607,7 +2492,7 @@
 			"changeable": 0,
 			"recordable": 0,
 			"timeout": 60,
-			"ext": "./lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		}
 	],
 	"parses": [
@@ -2651,12 +2536,167 @@
 		    "name":"xmflv",
 		    "type":0,
 		    "url":"https://jx.xmflv.com/?url="},
-		{
-			"name": "夜幕",
-			"type": 0,
-			"url": "https://www.yemu.xyz/?url="
-		}
-	],
+	{
+    "name": "一马当先",
+    "type": 1,
+    "url": "http://122.228.85.203:6789/api/?key=31b42c9fbe45f07021f3a67d6935d718&url=",
+    "ext": {
+        "flag": [
+            "qq"
+        ]
+    }
+},
+{
+    "name": "茫茫南海",
+    "type": 1,
+    "url": "http://122.228.85.203:7979/api/?key=8cc4ec77067499207387ece70fbeef91&url=",
+    "ext": {
+        "flag": [
+            "qq"
+        ],
+        "header": {
+            "User-Agent": "okhttp/4.1.0"
+        }
+    }
+},
+{
+    "name": "万马奔腾",
+    "type": 1,
+    "url": "http://hjapi.hjfggzs.top/json.php?url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "mgtv",
+            "芒果",
+            "ST4K",
+            "NBY"
+        ]
+    }
+},
+{
+    "name": "秒播狂飙",
+    "type": 1,
+    "url": "http://www.mpanso.com/%E6%88%91%E7%88%B1%E4%BD%A0.php?url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "bilibili",
+            "1905"
+        ]
+    }
+},
+{
+    "name": "唯我独尊",
+    "type": 1,
+    "url": "https://jx.xiaofengtv.com/M3/json.php/?url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "bilibili",
+            "1905"
+        ]
+    }
+},
+{
+    "name": "华为解析",
+    "type": 1,
+    "url": "http://110.42.99.99:3722/lg.php/?url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "tucheng",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "yzm",
+            "aliyun",
+            "RJuMao",
+            "bilibili",
+            "1905",
+            "xinvip",
+            "XAL",
+            "qiqi",
+            "XALS",
+            "YuMi-vip"
+        ]
+    }
+},
+{
+    "name": "永恒解析",
+    "type": 0,
+    "url": "https://jx.xmflv.com/?url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "mgtv",
+            "芒果",
+            "imgo",
+            "letv",
+            "乐视",
+            "pptv",
+            "PPTV",
+            "sohu",
+            "bilibili",
+            "哔哩哔哩",
+            "哔哩"
+        ],
+        "header": {
+            "UserAgent": "okhttp/4.1.0"
+        }
+    }
+}
+],
 	"flags": [
         "youku",
         "qq",
