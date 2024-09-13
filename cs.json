@@ -68,7 +68,8 @@
             "key": "文采影视", 
             "name": "文采┃秒播", 
             "type": 3, 
-            "api": "csp_XBPQ", 
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", 
             "changeable": 0,
             "ext": {
                 "主页url": "https://www.hkybqufgh.com/", 
@@ -92,6 +93,32 @@
                 "搜索副标题":"class=\"boottom\"*<div>&&</div",
                 "分类": "电影$1#电视剧$2#综艺$3#动漫$4", 
                 "分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"
+            }
+        },
+{
+            "key": "卫总影院",
+            "name": "🌙卫总|影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://py.nxog.eu.org/https://raw.githubusercontent.com/guot55/yg/main/lib/XBPQ2.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "数组": "myui-vodlist__thumb lazyload&&</a",
+                "副标题": "pic-text text-right\">&&</span",
+                "简介": "剧情介绍</h3>&&<div class=\"myui-panel myui-panel-bg clearfix",
+                "线路数组": "<li><a href=\"\\#playlist&&</li",
+                "线路标题": ">&&</a",
+                "播放数组": "<ul class=\"myui-content__list sort-list&&</ul",
+                "跳转播放链接": "var now=\"&&\"",
+                "搜索数组": "lazyload\"&&</a",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "https://wzznl.buzz/search.php?page={pg}&searchword={wd}&searchtype=",
+                "分类url": "https://wzznl.buzz/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
+                "分类": "电影$1#电视剧$2#18禁$11#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#综艺$3#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
             }
         },
 {
@@ -279,7 +306,7 @@
   "name":"💡哔嘀影视",
   "type":3,
   "api":"csp_XYQHiker",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",
+  "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE",
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -296,6 +323,7 @@
   "filterable":1,
   "ext":"https://www.yjys02.com"
 },
+{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 {"key":"机器人弹幕","name":"✨机器┃弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
 {"key":"哔嘀弹幕","name":"✨哔嘀┃弹幕","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.yjys02.com","danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
 {"key":"一起看弹幕","name":"✨起起┃弹幕","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
@@ -467,6 +495,30 @@
         "cookie": "qwewqddasdasd"
       }
     },
+{
+      "key": "Biliych",
+      "name": "🅱明星┃演唱会",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json",
+      "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725545601667/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700"
+    },
+   {"key": "戏曲自定义",
+    "name": " 💖吾爱戏曲",
+    "type": 3,"api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://cdn09022024.gitlink.org.cn/api/v1/repos/aishang/aishangtv5/raw/xiqu.json?ref=master",
+    "spider":"https://cdn09022024.gitlink.org.cn/api/v1/repos/aishang/aishangtv5/raw/xiqu.jar?ref=master"
+    },
     {
       "key": "玩偶 | 蜡笔",
       "name": "玩偶 | 蜡笔",
@@ -491,6 +543,19 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+      }
+    },
+{
+      "key": "多多玩偶",
+      "name": "多多影音",
+      "type": 3,
+      "api": "csp_kongbai",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "siteUrl": "https://tv.yydsys.cc/",
+        "filter": "https://cdn05042023.gitlink.org.cn/ss1234ss/iduoduo/raw/branch/main/wogg.json"
       }
     },
     {
@@ -2537,6 +2602,68 @@
 			"timeout": 1801,
 			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
 		},
+{
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H包/py/黄色仓库.py",
+            "filterable": 1,
+            "key": "黄色仓库",
+            "name": "黄色仓库py🔞",
+            "quickSearch": 1,
+            "searchable": 1,
+            "type": 3
+        },
+{
+            "key": "hsck",
+            "name": "黄仓库🔞",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "发布地址": "1:hsck.net2:hscangku.com",
+                "人机验证": "1",
+                "免嗅": "1",
+                "直接播放": "1",
+                "数组": "stui-vodlist__thumb lazyload&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文字幕$8#有码中文字幕$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
+                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
+            },
+            "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
+        },
+{
+            "key": "黄色仓库php",
+            "name": "🔞黄色仓库🔞php",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "ext": {
+               "搜索url":"http://8236ck.cc/vodsearch/{wd}----------{pg}---.html",
+"主页url":"http://8236ck.cc/",
+"链接前缀":"http+://8236ck.cc/",
+                "简介": "时间：&&<",
+                "副标题": "❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
+                "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
+                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
+            }
+        },
+{
+      "key": "ck",
+      "name": "🍁黄色仓库",
+      "type": 3,
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/黄色仓库.json"
+    },
 		{
 			"key": "drpy_js_MP4电影",
 			"name": "📀MP4电影┃磁力",
