@@ -2696,6 +2696,67 @@
             "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
         },
 {
+			"key": "csp_JavDb",
+			"name": "JavDb┃磁力",
+			"type": 3,
+			"api": "csp_JavDb",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar, 
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,	
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://javdb368.com$$$noproxy"
+		},
+		{
+			"key": "csp_JavBus",
+			"name": "️JavBus┃磁力",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar",    
+			"type": 3,
+			"api": "csp_JavBus",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.6
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.busfan.help$$$noproxy"
+		},
+
+{
+			"key": "csp_Netflav",
+			"name": "🇳Netflav┃直连",
+			"type": 3,
+			"api": "csp_Netflav",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar",   
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,
+			"ext":"null$$$127.0.0.1:10072"
+		},
+
+{
+      "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
+        "ext": {
+            "搜索url":"https://y.u9a9y.xyz/?type=2&search={wd}&p={pg}",
+            "数组":"<tr&&</tr>",
+            "首页":"0",
+            "副标题":"B</td>*\">&& ",
+            "简介":"Date:</div>&&</",
+            "图片":"http+://欧阳.oyxx-1.eu.org/u9a9.php?u=+https+://u9a9b.cc+href=\"&&\"",
+            "播放二次截取":"panel-footer clearfix&&</div>",
+            "播放数组":"<a&&</a >[不包含:Torrent#filecove]",
+                    "分类": "U9A9$2#DHT网络(无图)$1",
+            "分类url": "https://y.u9a9y.xyz/?type={cateId}&p={catePg};;m"
+                }
+    },
+{"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/pg.jar","searchable":1,"changeable":0},
+{
             "key": "黄色仓库php",
             "name": "🔞黄色仓库🔞php",
             "type": 3,
