@@ -2651,52 +2651,13 @@
 {
             "api": "https://ghp.ci/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H包/py/黄色仓库.py",
             "filterable": 1,
-            "key": "黄色仓库",
+            "key": "库",
             "name": "黄色仓库py🔞",
             "quickSearch": 1,
             "searchable": 1,
             "type": 3
         },
-{
-            "key": "hsck",
-            "name": "黄仓库🔞",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-"直接播放":"1",
-"站名":"黄仓库",
-"主页url":"http://8248ck.cc/",
-"数组":"<a class=\"stui-vodlist__thumb&&</a>",
-"图片":"data-original=\"&&\"",
-"标题":"title=\"&&\"",
-"链接":"href=\"&&\"",
-"副标题":"<span class=\"pic-text text-right\">&&</span>",
-"影片类型":"<div class=\"stui-player__foot\"&&</div>",
-"导演":"导演：&&</p>",
-"主演":"主演：&&</p>",
-"简介":"简介：&&</p>",
-"搜索url": "/vodsearch/{wd}----------{pg}---.html",
-"搜索模式":"0",
-"搜索数组":"<a class=\"stui-vodlist__thumb&&</a>",
-"搜索图片":"data-original=\"&&\"",
-"搜索标题":"title=\"&&\"",
-"搜索链接":"href=\"&&\"",
-"播放二次截取": "<div class=\"stui-vodlist__detail\">&&</div>",
-"播放数组": "<h4 class=\"title\"&&</h4>",
-"列表二次截取": "",
-"播放列表": "<a&&/a>",
-"播放标题": ">&&<",
-"播放链接": "href=\"&&\"",
-"免嗅":"0",
-"嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
-"分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-"分类url":"http://8248ck.cc/?type={cateId}&p={catePg}"
-},
-            "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
-        },
+
 {
 			"key": "csp_JavDb",
 			"name": "JavDb┃磁力",
@@ -2761,7 +2722,7 @@
 
 {
       "key": "ck",
-      "name": "🍁黄色仓库",
+      "name": "🍁仓库",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
@@ -2774,7 +2735,7 @@
       },
       "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/黄色仓库.json"
     },
- {"key":"花都影视","name":"🔞花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+ {"key":"花都","name":"花都","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 
 		{
 			"key": "drpy_js_MP4电影",
