@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;7f6ccc2bc95a20e11324253556875036",
+	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;f198ed8d573d7c2e4cab2d22e79a291c6",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"https://gitlab.com/kerkier/yhb/-/blob/main/lib/cs.jpeg",
 	"sites": [{
@@ -2646,6 +2646,8 @@
 			"timeout": 1801,
 			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
 		},
+{"key":"drpy_js_技术派搜索","name":"🧲｜技术派","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/main/lib/drpy2.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/main/js/jsp.js"},
+		{"key":"drpy_js_磁力熊搜索","name":"🧲｜磁力熊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":1,"quickSearch":1,"changeable":1},
 {
             "api": "https://ghp.ci/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H包/py/黄色仓库.py",
             "filterable": 1,
@@ -2691,7 +2693,7 @@
 "免嗅":"0",
 "嗅探词":".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
 "分类":"日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-"分类url":"https://hsck123.26img.com/?type={cateId}&p={catePg}"
+"分类url":"http://8248ck.cc/?type={cateId}&p={catePg}"
 },
             "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
         },
@@ -2769,7 +2771,7 @@
                 "简介": "时间：&&<",
                 "副标题": "❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
                 "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
-                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
+                "分类url": "http://8248ck.cc/?type={cateId}&p={catePg}"
             }
         },
 {
@@ -2787,6 +2789,8 @@
       },
       "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/黄色仓库.json"
     },
+ {"key":"花都影视","name":"🔞花都影视","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+
 		{
 			"key": "drpy_js_MP4电影",
 			"name": "📀MP4电影┃磁力",
@@ -2938,7 +2942,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$./lib/pikpakclass.a.json$$$./lib/pikpakclass.a.json.txt.gz"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/pikpakclass.a.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/pikpakclass.a.json.txt.gz"
 		},
 		{
 			"key": "csp_PikPakShare.a1",
