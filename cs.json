@@ -2772,7 +2772,7 @@
 		},  
 {
             "key": "Netflav",
-            "name": "Netflav🔞🧲🛩️",
+            "name": "Netflav",
             "type": 3,
             "api": "csp_Netflav",
             "searchable": 1,
@@ -2803,7 +2803,7 @@
 {"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","searchable":1,"changeable":0},
 {
             "key": "新",
-            "name": "新",
+            "name":"新",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2850,7 +2850,7 @@
         },
 {
       "key": "csp_C谢谢48",
-      "name": "🎶XB",
+      "name": "XB",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",  
@@ -2916,7 +2916,7 @@
 		},
 		{
 			"key": "非凡",
-			"name": "🚱非凡┃采集",
+			"name": "非凡┃采集",
 			"type": 1,
 			"api": "http://127.0.0.1:10079/p/0/noproxy/http://cj.ffzyapi.com/api.php/provide/vod/?",
 			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=noproxy&url=",
@@ -3142,24 +3142,9 @@
     }
 },
 {
-    "name": "万马奔腾",
+    "name": "腾云解析",
     "type": 1,
-    "url": "http://hjapi.hjfggzs.top/json.php?url=",
-    "ext": {
-        "flag": [
-            "qq",
-            "腾讯",
-            "qiyi",
-            "爱奇艺",
-            "奇艺",
-            "youku",
-            "优酷",
-            "mgtv",
-            "芒果",
-            "ST4K",
-            "NBY"
-        ]
-    }
+    "url": "http://43.136.176.188:91/api/?key=00dedb41bf339254cd63657d09543da9&url="
 },
 {
     "name": "秒播狂飙",
