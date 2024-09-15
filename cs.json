@@ -841,7 +841,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$./lib/115share.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/115share.txt"
 		},
 		{
 			"key": "csp_ThunderShare",
@@ -1863,6 +1863,26 @@
 			"changeable": 2,
 			"categories": ["国产剧", "韩剧", "日剧", "港剧", "台剧", "动作片", "喜剧片", "爱情片", "科幻片", "战争片", "恐怖片", "剧情片", "国产动漫", "日韩动漫", "欧美动漫", "大陆综艺", "日韩综艺"]
 		},
+{
+            "key": "快乐副页",
+            "name": "🌼快乐┃推荐",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"https://8249.kstore.space/tb/YSCK/dokilwss.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "副标题": "极速蓝光",
+                "影片地区": "快乐制作",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+                "线路数组": "onclick=&&</li>",
+                "线路标题": "极速蓝光",
+                "分类url": "https://www.03yy.co/{cateId}-{catePg}.html",
+                "分类": "豆瓣电影Top250$topiclist/1#奥斯卡最佳影片$topiclist/17#网飞专场$topiclist/24#热映电影$topiclist/25#动作片$type/index5#喜剧片$type/index10#爱情片$type/index6#科幻片$type/index7#恐怖片$type/index8#战争片$type/index9#剧情片$type/index12#动画片$type/index25#大陆剧$type/index13#欧美剧$type/index27#韩国剧$type/index26#香港剧$type/index14#台湾剧$type/index46#日本剧$type/index16#泰国剧$type/index47#海外剧$type/index28#大陆动漫$type/index33#日韩动漫$type/index34#欧美动漫$type/index35#少儿动画$type/index64#大陆综艺$type/index29#港台综艺$type/index30#日韩综艺$type/index31#欧美综艺$type/index32#经典韩剧（国语）$topiclist/19#经典港剧（粤语）$topiclist/18#经典美剧（英语）$topiclist/21"
+            }
+        },
+
 		{
 			"key": "csp_Dm84",
 			"name": "🚌巴士┃动漫",
@@ -2647,7 +2667,7 @@
 			"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://clg.clgvip1.xyz/$$$null$$$1"
 		},
 {"key":"drpy_js_技术派搜索","name":"🧲｜技术派","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/main/lib/drpy2.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/main/js/jsp.js"},
-		{"key":"drpy_js_磁力熊搜索","name":"🧲｜磁力熊","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"Taohuazu","name":"桃花","type":3,"api":"csp_Taohuazu","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"http://thze.cc/"},
 {
             "api": "https://ghp.ci/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H包/py/黄色仓库.py",
             "filterable": 1,
@@ -2657,7 +2677,43 @@
             "searchable": 1,
             "type": 3
         },
-
+{
+            "key": "纤纤影视",
+            "name": "纤纤影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "https://m.xian372.top/",
+                "请求头": "手机",
+                "编码": "gb2312",
+                "数组": "<a class=\"ui-pic&&</a",
+                "图片": "src=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "ui-type\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "description\"><p>&&</p",
+                "线路数组": "class=\"intro\">&&</h1",
+                "线路标题": "✨PRO专享✨+<h1>飘逸线路<",
+                "播放数组": "<div class=\"playlist&&</div",
+                "播放列表": "<li>&&</li",
+                "播放标题": ">&&</a",
+                "播放链接": "href='&&'",
+                "搜索数组": "<a class=\"ui-pic&&</a",
+                "搜索图片": "src=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "搜索url": "https://m.xian372.top/search.asp?page={pg}&searchword={wd}&searchtype=-1",
+                "分类数组": "<a&&</a",
+                "分类标题": ".html\">&&</a[不包含:视频二#综艺娱乐]",
+                "分类ID": "href=\"/L/&&.html\"",
+                "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"
+            }
+        },
 {
 			"key": "csp_JavDb",
 			"name": "JavDb┃磁力",
@@ -2701,7 +2757,21 @@
 			"timeout": 1801,
 			"ext":"null$$$127.0.0.1:10072" 
 		   
-		},   
+		},  
+{
+            "key": "Netflav",
+            "name": "Netflav🔞🧲🛩️",
+            "type": 3,
+            "api": "csp_Netflav",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/kan31467/9/main/netflav.jar",   
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
+        }, 
 		
 {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
@@ -2735,8 +2805,52 @@
       },
       "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/黄色仓库.json"
     },
- {"key":"花都","name":"花都","type":1,"api":"https://hdys2.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
-
+{
+            "key": "花都",
+            "name": "花都",
+            "type": 0,"style":{ "type":"rect", "ratio":1.485 },
+            "api": "https://apisesehuzy.com/api.php/provide/vod/at/xml",
+            "searchable": 1,
+            "quickSearch": 1
+        },
+{
+            "key": "hsck",
+            "name": "仓🔞",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "发布地址": "1:hsck.net2:hscangku.com",
+                "人机验证": "1",
+                "免嗅": "1",
+                "直接播放": "1",
+                "数组": "stui-vodlist__thumb lazyload&&</a>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文字幕$8#有码中文字幕$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
+                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}.html;;z"
+            },
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar"
+        },
+        {
+            "key": "库php",
+            "name": "🔞库🔞php",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "ext": {
+                "搜索url": "https://hsck123.26img.com/?p={pg}&search2=ndafeoafa&search={wd}",
+                "主页url": "https://hsck123.26img.com/hs1.php/",
+                "链接前缀": "https://hsck123.26img.com/hs1.php?u=",
+                "简介": "时间：&&<",
+                "副标题": "❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
+                "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4#无码中文$8#有码中文$9#日本无码$10#日本有码$7#国产视频$15#欧美高清$21#动漫剧情$22",
+                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}.html;;zm"
+            }
+        },
 		{
 			"key": "drpy_js_MP4电影",
 			"name": "📀MP4电影┃磁力",
