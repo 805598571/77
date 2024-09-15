@@ -2775,7 +2775,6 @@
             "name": "Netflav🔞🧲🛩️",
             "type": 3,
             "api": "csp_Netflav",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/kan31467/9/main/netflav.jar",   
             "searchable": 1,
             "changeable": 1,
             "timeout": 60,
@@ -2784,6 +2783,7 @@
                 "ratio": 1.485
             }
         }, 
+           
 		
 {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
@@ -2803,7 +2803,7 @@
 {"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","searchable":1,"changeable":0},
 {
             "key": "新",
-            "name": "🌲🔞新",
+            "name": "新",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -2850,11 +2850,12 @@
         },
 {
       "key": "csp_C谢谢48",
-      "name": "🎶18jXB",
+      "name": "🎶XB",
       "type": 3,
       "api": "csp_XBPQ",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",  
       "playerType": 2,
-      "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/xbpq黄仓库.json","jar":"hhttps://cdn05042023.gitlink.org.cn/ss1234ss/sky4726.gitlink.net/raw/branch/master/pg.jar"},
+      "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/xbpq黄仓库.json"},
 		{
 			"key": "drpy_js_MP4电影",
 			"name": "📀MP4电影┃磁力",
