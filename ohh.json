@@ -1,4 +1,4 @@
-﻿
+
 {
 	"wallpaper": "https://picsum.photos/1280/720/?blur=2",
   "spider":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Fpg.jar?ref=master;md5;https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Fpg.jar.md5?ref=master",
@@ -409,12 +409,13 @@
         
         
         
-        
-        {"key": "push_agent","name": "🌸推送|p g","type": 3,"api": "csp_Push","changeable":0, "timeout":30,
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
-		},
+      
        {"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
 {"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
+ 
+        {"key": "push_agent","name": "🌸推送|p g","type": 3,"api": "csp_Push","changeable":0, "timeout":30,
+		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
+		} ],
 "parses": [
 {
     "name": "自动优选",
@@ -582,15 +583,7 @@
     }
 }
 ],
-"lives": [
-{
-    "name": "live",
-    "type": 0,
-    "url": "https://raw.gitcode.com/woxinyijiu/YL/raw/main/live2.json",
-    "epg": "http://epg.tvcms.top/api/diyp/",
-    "logo": "https://epg.112114.xyz/logo/{name}.png"
-}
-],
+
 "doh": [
 {
     "name": "Google",
