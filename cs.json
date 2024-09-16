@@ -2979,8 +2979,8 @@
 {"key":"AI2","name":"🤱AI2搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ==","jar":"http://cdn.qiaoji8.com/fix24914.jar"},
 {"key":"AI3","name":"🤱AI3搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp","jar":"http://cdn.qiaoji8.com/fix24914.jar"},
 {
-      "key": "你搜影视",
-      "name": "🔞你搜影视",
+      "key": "搜影视",
+      "name": "搜影视",
       "type": 3,
       "changeable": 1,
       "searchable": 1,
@@ -3096,7 +3096,7 @@
         },
         {
             "key": "hsck",
-            "name": "黄仓库🔞",
+            "name": "库库🔞",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -3117,8 +3117,8 @@
             "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
         },
         {
-            "key": "黄色仓库php",
-            "name": "🔞黄色仓库🔞php",
+            "key": "库php",
+            "name": "php",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
@@ -3133,8 +3133,7 @@
             }
         },
  
-   {"key":"仓仓","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","style":{"ratio":1.7},"ext":"http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄色仓库.json"},        
-{"key":"黄色仓库","name":"🔞黄色仓库","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","style":{"ratio":1.7},"ext":"http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄色仓库.json"},		
+  	
 {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
         "ext": {
