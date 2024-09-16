@@ -3094,7 +3094,7 @@
                 "ratio": 1.485
             }
         }, 
-   {"key":"黄色仓库","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"./jar/XBPQ.jar;md5;4145467d49e0437dc43e8bbb79e3ff7d","style":{"ratio":1.7},"ext":"ttps://cdn05042023.gitlink.org.cn/ninemui/qistBOX/raw/commit/master/XBPQ/黄色仓库.json"},        
+   {"key":"黄色仓库","name":"黄色仓库","type":3,"api":"csp_XBPQ","jar":"https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar","style":{"ratio":1.7},"ext":"http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄色仓库.json"},        
 		
 {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/sky4726/sky4726.gitlink.net/raw/ttkx.jar?ref=master","style":{"ratio":1.7},
@@ -3120,7 +3120,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": ""https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/花花堂.json",
+      "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/花花堂.json",
       "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/zy.jar"
     },
 {
