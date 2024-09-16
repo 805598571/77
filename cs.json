@@ -3118,7 +3118,7 @@
         },
         {
             "key": "库php",
-            "name": "php",
+            "name": "库php",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
