@@ -157,8 +157,514 @@ GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
 TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
 BBC,https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
 BBC,https://bbceu-doctorwho-3-fr.rakuten.wurl.tv/playlist.m3u8
+台·澳·港,#genre#
+凤凰中文,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://58.144.154.93:80/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://58.144.154.93:80/qctv.fengshows.cn/live/0701phk72.m3u8         
 
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
 
+TVB娛樂新聞台,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+東森超視HD,rtmp://f13h.mine.nu/sat/tv331
+MOMOTVHD,rtmp://f13h.mine.nu/sat/tv761
+大愛電視1台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱電視2台,https://pulltv2.wanfudaluye.com/live/tv2.m3u8 
+八大戲劇台HD,http://61.221.215.25:8800/hls/39/index.m3u8
+八大綜合台HD,http://61.221.215.25:8800/hls/56/index.m3u8
+三立戲劇台,http://61.221.215.25:8800/hls/41/index.m3u8
+AMC電影台,http://61.221.215.25:8800/hls/43/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+ELEVEN體育1台,rtmp://f13h.mine.nu/sat/tv731 
+ELEVEN體育2台,rtmp://f13h.mine.nu/sat/tv741
+中國環球,http://live.cgtn.com/500/prog_index.m3u8
+美亞電視台,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8 
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+香港佛陀台,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+生命電視台,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
+唯心電視台,http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8 
+中旺電視台，http://38.64.72.148/hls/modn/list/4010/chunklist0.m3u8
+大立電視台，http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+緯來體育，https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+公視,http://mywlkj.ddns.net:754/tv/tw6.php?id=46
+大立電視台，http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
+民視HD,rtmp://f13h.mine.nu/sat/tv051 
+中視HD,rtmp://f13h.mine.nu/sat/tv091 
+華視HD,rtmp://f13h.mine.nu/sat/tv111 
+台視HD,rtmp://f13h.mine.nu/sat/tv071
+东森超視HD,rtmp://f13h.mine.nu/sat/tv331 
+ELEVEN體育1台，rtmp://f13h.mine.nu/sat/tv731
+ELEVEN體育2台，rtmp://f13h.mine.nu/sat/tv741
+緯來育樂，rtmp://f13h.mine.nu/sat/tv701
+緯來日本，rtmp://f13h.mine.nu/sat/tv771
+MoMo综合，rtmp://f13h.mine.nu/sat/tv761
+东森超視HD，rtmp://f13h.mine.nu/sat/tv331
+東森超視HD，rtmp://f13h.mine.nu/sat/tv331
+MOMOTVHD，rtmp://f13h.mine.nu/sat/tv761
+
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+星光综合,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+TVB娱乐新闻,http://v2h.jdshipin.com/enew/enew.stream/chunklist.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+JIB TV,http://61.221.215.25:8800/hls/51/index.m3u8
+LISTEN ON SPOTIFY,http://61.221.215.25:8800/hls/58/index.m3u8
+TVBS NEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+纯享音乐,http://61.221.215.25:8800/hls/49/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+
+香港33台高清,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+香港34台高清,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+香港35台高清,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+4k👉修复全网,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+4k👉动物全网,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+4K「时尚」台,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+4K「自然」台,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+香港34台全网,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8 
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8 
+耀才財經,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8 
+耀才財經,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000 
+全球信息,http://61.221.215.25:8800/hls/1/index.m3u8
+GTV八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+GTV少儿,http://61.221.215.25:8800/hls/40/index.m3u8
+三立戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+aMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+discover亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+NHKworld,http://61.221.215.25:8800/hls/51/index.m3u8
+GTV八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+GTV八大动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+GTV listen,http://61.221.215.25:8800/hls/58/index.m3u8
+litv,#genre#
+
+1 頻道表,https://www.litv.tv/channel/watch/litv-vchannel1
+2 LiTV 精采預告,https://www.litv.tv/channel/watch/litv-vchannel2
+4 民視第一台,https://www.litv.tv/channel/watch/4gtv-4gtv003
+5 民視台灣台,https://www.litv.tv/channel/watch/4gtv-4gtv001
+6 民視,https://www.litv.tv/channel/watch/4gtv-4gtv155
+7 綜藝大集合,https://www.litv.tv/channel/watch/litv-vchannel7
+8 台視,https://www.litv.tv/channel/watch/4gtv-4gtv066
+9 包青天 1993版,https://www.litv.tv/channel/watch/litv-vchannel9
+10 中視,https://www.litv.tv/channel/watch/4gtv-4gtv040
+11 天才衝衝衝 精選,https://www.litv.tv/channel/watch/litv-vchannel11
+12 華視,https://www.litv.tv/channel/watch/4gtv-4gtv041
+13 公視戲劇,https://www.litv.tv/channel/watch/4gtv-4gtv042
+14 向風而行,https://www.litv.tv/channel/watch/litv-vchannel14
+15 好消息,https://www.litv.tv/channel/watch/litv-ftv16
+16 空中英語教室HD頻道,https://www.litv.tv/channel/watch/litv-playout955
+17 哆啦Ａ夢台,https://www.litv.tv/channel/watch/litv-vchannel17
+18 全民星攻略,https://www.litv.tv/channel/watch/litv-vchannel18
+20 食尚玩家-來去住一晚,https://www.litv.tv/channel/watch/litv-vchannel20
+21 最強綜藝秀,https://www.litv.tv/channel/watch/litv-vchannel21
+22 去有風的地方,https://www.litv.tv/channel/watch/litv-vchannel22
+23 台灣1001個故事,https://www.litv.tv/channel/watch/litv-vchannel23
+25 台灣啟示錄,https://www.litv.tv/channel/watch/litv-vchannel25
+26 WTO姐妹會,https://www.litv.tv/channel/watch/litv-vchannel26
+27 民視綜藝台,https://www.litv.tv/channel/watch/4gtv-4gtv004
+28 世界第一等,https://www.litv.tv/channel/watch/litv-vchannel28
+29 綜藝玩很大,https://www.litv.tv/channel/watch/litv-vchannel29
+30 詹姆士出走料理,https://www.litv.tv/channel/watch/litv-vchannel30
+31 Focus歡樂綜合台,https://www.litv.tv/channel/watch/litv-playout952
+32 東森娛樂台,https://www.litv.tv/channel/watch/litv-vchannel32
+33 健康2.0,https://www.litv.tv/channel/watch/litv-vchannel33
+34 亞洲旅遊台,https://www.litv.tv/channel/watch/litv-longturn17
+35 琅琊榜,https://www.litv.tv/channel/watch/litv-vchannel35
+36 中天亞洲台,https://www.litv.tv/channel/watch/4gtv-4gtv109
+37 小明星大跟班,https://www.litv.tv/channel/watch/litv-vchannel37
+39 龍華戲劇台,https://www.litv.tv/channel/watch/litv-longturn18
+40 TVBS精采台,https://www.litv.tv/channel/watch/4gtv-4gtv067
+41 三十而已,https://www.litv.tv/channel/watch/litv-vchannel41
+42 TVBS歡樂台,https://www.litv.tv/channel/watch/4gtv-4gtv068
+43 東森購物1台,https://www.litv.tv/channel/watch/4gtv-4gtv102
+44 民視影劇台,https://www.litv.tv/channel/watch/litv-ftv09
+45 龍華偶像台,https://www.litv.tv/channel/watch/litv-longturn12
+46 龍華日韓台,https://www.litv.tv/channel/watch/litv-longturn11
+47 Yes娛樂,https://www.litv.tv/channel/watch/litv-vchannel47
+48 Focus風采戲劇台,https://www.litv.tv/channel/watch/litv-playout951
+49 東森購物2台,https://www.litv.tv/channel/watch/4gtv-4gtv103
+50 掏掏新聞,https://www.litv.tv/channel/watch/litv-playout50
+51 東森新聞台,https://www.litv.tv/channel/watch/4gtv-4gtv152
+52 華視新聞,https://www.litv.tv/channel/watch/4gtv-4gtv052
+53 民視新聞台,https://www.litv.tv/channel/watch/litv-ftv13
+54 三立新聞iNEWS,https://www.litv.tv/channel/watch/iNEWS
+55 TVBS新聞,https://www.litv.tv/channel/watch/4gtv-4gtv072
+56 TVBS,https://www.litv.tv/channel/watch/4gtv-4gtv073
+57 東森財經新聞台,https://www.litv.tv/channel/watch/4gtv-4gtv153
+58 非凡新聞台,https://www.litv.tv/channel/watch/4gtv-4gtv010
+59 台視新聞,https://www.litv.tv/channel/watch/4gtv-4gtv051
+60 中視新聞,https://www.litv.tv/channel/watch/4gtv-4gtv074
+61 中天新聞台,https://www.litv.tv/channel/watch/4gtv-4gtv009
+62 寰宇新聞台灣台,https://www.litv.tv/channel/watch/litv-longturn15
+63 寰宇新聞台,https://www.litv.tv/channel/watch/litv-longturn14
+64 龍華經典台,https://www.litv.tv/channel/watch/litv-longturn21
+65 FOCUS焦點電影台,https://www.litv.tv/channel/watch/litv-vchannel65
+66 媽媽好神之俗女家務事,https://www.litv.tv/channel/watch/litv-vchannel66
+67 楚喬傳,https://www.litv.tv/channel/watch/litv-vchannel67
+68 影迷數位電影台,https://www.litv.tv/channel/watch/4gtv-4gtv011
+69 CATCHPLAY電影台,https://www.litv.tv/channel/watch/4gtv-4gtv076
+70 Golden Movies,https://www.litv.tv/channel/watch/litv-vchannel70
+71 龍華電影台,https://www.litv.tv/channel/watch/litv-longturn03
+72 靖天電影台,https://www.litv.tv/channel/watch/4gtv-4gtv061
+73 靖天映畫,https://www.litv.tv/channel/watch/4gtv-4gtv055
+74 芈月傳,https://www.litv.tv/channel/watch/litv-vchannel74
+75 Golden影迷台,https://www.litv.tv/channel/watch/litv-vchannel75
+76 中影電影院,https://www.litv.tv/channel/watch/litv-vchannel76
+77 博斯高球台,https://www.litv.tv/channel/watch/litv-longturn05
+78 博斯高球二台,https://www.litv.tv/channel/watch/litv-longturn06
+79 博斯運動一台,https://www.litv.tv/channel/watch/litv-longturn07
+80 博斯無限台,https://www.litv.tv/channel/watch/litv-longturn10
+81 博斯網球台,https://www.litv.tv/channel/watch/litv-longturn09
+82 博斯運動二台,https://www.litv.tv/channel/watch/litv-longturn08
+83 博斯魅力台,https://www.litv.tv/channel/watch/litv-longturn04
+84 博斯無限二台,https://www.litv.tv/channel/watch/litv-longturn13
+85 綜藝新時代,https://www.litv.tv/channel/watch/litv-vchannel85
+86 贅婿,https://www.litv.tv/channel/watch/litv-vchannel86
+87 東森購物快閃台,https://www.litv.tv/channel/watch/litv-vchannel87
+88 第1財經,https://www.litv.tv/channel/watch/litv-vchannel88
+89 非凡商業台,https://www.litv.tv/channel/watch/4gtv-4gtv048
+90 台視財經,https://www.litv.tv/channel/watch/4gtv-4gtv056
+91 寰宇財經台,https://www.litv.tv/channel/watch/litv-longturn23
+92 法眼黑與白,https://www.litv.tv/channel/watch/litv-vchannel92
+93 以愛為營,https://www.litv.tv/channel/watch/litv-vchannel93
+94 豬哥壹級棒,https://www.litv.tv/channel/watch/litv-vchannel94
+95 食尚玩家-熱血48小時,https://www.litv.tv/channel/watch/litv-vchannel95
+96 一字千金(6~8季),https://www.litv.tv/channel/watch/litv-vchannel96
+97 一字千金(1~5季),https://www.litv.tv/channel/watch/litv-vchannel97
+98 我們這一家,https://www.litv.tv/channel/watch/litv-vchannel98
+99 銀髮聚樂部,https://www.litv.tv/channel/watch/litv-vchannel99
+100 蠟筆小新台,https://www.litv.tv/channel/watch/litv-vchannel100
+101 南風知我意,https://www.litv.tv/channel/watch/litv-vchannel101
+102 豬哥亮歌廳秀,https://www.litv.tv/channel/watch/4gtv-4gtv006
+103 我們的翻譯官,https://www.litv.tv/channel/watch/litv-vchannel103
+104 青囊傳,https://www.litv.tv/channel/watch/litv-vchannel104
+105 流光之下,https://www.litv.tv/channel/watch/litv-vchannel105
+106 愛的厘米,https://www.litv.tv/channel/watch/litv-vchannel106
+107 粉紅色口紅,https://www.litv.tv/channel/watch/litv-vchannel107
+108 19層,https://www.litv.tv/channel/watch/litv-vchannel108
+109 金庸武俠台,https://www.litv.tv/channel/watch/litv-vchannel109
+110 倚天屠龍記 2019,https://www.litv.tv/channel/watch/litv-vchannel110
+111 紳士與小姐(國語配音),https://www.litv.tv/channel/watch/litv-vchannel111
+112 對你不止是喜歡,https://www.litv.tv/channel/watch/litv-vchannel112
+113 做自己的光,https://www.litv.tv/channel/watch/litv-vchannel113
+114 村裡來了個暴走女外科,https://www.litv.tv/channel/watch/litv-vchannel114
+115 秘密的男人(國語配音),https://www.litv.tv/channel/watch/litv-vchannel115
+117 愛情來了(國語配音),https://www.litv.tv/channel/watch/litv-vchannel117
+118 媽媽要出嫁(國語配音),https://www.litv.tv/channel/watch/litv-vchannel118
+119 白夜童話(國語配音),https://www.litv.tv/channel/watch/litv-vchannel119
+120 善德女王(國語配音),https://www.litv.tv/channel/watch/litv-vchannel120
+121 天才衝衝衝,https://www.litv.tv/channel/watch/litv-vchannel121
+123 食尚玩家-魚肉鄉民,https://www.litv.tv/channel/watch/litv-vchannel123
+124 溢遊未盡,https://www.litv.tv/channel/watch/litv-vchannel124
+125 看板人物,https://www.litv.tv/channel/watch/litv-vchannel125
+126 食尚玩家-就要醬玩,https://www.litv.tv/channel/watch/litv-vchannel126
+127 威廉沈歡樂送,https://www.litv.tv/channel/watch/litv-vchannel127
+128 一步一腳印 發現新台灣,https://www.litv.tv/channel/watch/litv-vchannel128
+129 食尚玩家-2天1夜go,https://www.litv.tv/channel/watch/litv-vchannel129
+130 文茜的世界周報,https://www.litv.tv/channel/watch/litv-vchannel130
+131 文茜的世界財經周報,https://www.litv.tv/channel/watch/litv-vchannel131
+132 寰宇全視界,https://www.litv.tv/channel/watch/litv-vchannel132
+133 頭條開講,https://www.litv.tv/channel/watch/litv-vchannel133
+134 大新聞大爆卦,https://www.litv.tv/channel/watch/litv-vchannel134
+135 新聞大白話,https://www.litv.tv/channel/watch/litv-vchannel135
+136 國民大會,https://www.litv.tv/channel/watch/litv-vchannel136
+137 少康戰情室,https://www.litv.tv/channel/watch/litv-vchannel137
+138 台灣戲劇台,https://www.litv.tv/channel/watch/litv-longturn22
+139 視納華仁紀實頻道,https://www.litv.tv/channel/watch/4gtv-4gtv013
+141 佳映娛樂,https://www.litv.tv/channel/watch/litv-vchannel141
+142 Focus亞洲電影台,https://www.litv.tv/channel/watch/litv-vchannel142
+143 華語電影台,https://www.litv.tv/channel/watch/litv-vchannel143
+144 Focus精采戲劇台,https://www.litv.tv/channel/watch/litv-playout953
+145 八大精彩台,https://www.litv.tv/channel/watch/4gtv-4gtv034
+146 采昌影劇台,https://www.litv.tv/channel/watch/4gtv-4gtv049
+147 靖天戲劇台,https://www.litv.tv/channel/watch/4gtv-4gtv058
+148 靖天日本台,https://www.litv.tv/channel/watch/4gtv-4gtv047
+149 靖天育樂台,https://www.litv.tv/channel/watch/4gtv-4gtv062
+150 KLT-靖天國際台,https://www.litv.tv/channel/watch/4gtv-4gtv063
+151 靖洋戲劇台,https://www.litv.tv/channel/watch/4gtv-4gtv045
+152 靖天綜合台,https://www.litv.tv/channel/watch/4gtv-4gtv046
+153 Nice TV靖天歡樂台,https://www.litv.tv/channel/watch/4gtv-4gtv054
+154 靖天資訊台,https://www.litv.tv/channel/watch/4gtv-4gtv065
+155 民視旅遊台,https://www.litv.tv/channel/watch/litv-ftv07
+156 Smart知識台,https://www.litv.tv/channel/watch/litv-longturn19
+157 愛爾達娛樂台,https://www.litv.tv/channel/watch/4gtv-4gtv070
+158 中視菁采台,https://www.litv.tv/channel/watch/4gtv-4gtv064
+159 中視經典台,https://www.litv.tv/channel/watch/4gtv-4gtv080
+160 八大綜藝台,https://www.litv.tv/channel/watch/4gtv-4gtv039
+162 客家電視台,https://www.litv.tv/channel/watch/4gtv-4gtv043
+163 金光布袋戲台,https://www.litv.tv/channel/watch/litv-vchannel163
+164 Focus探索新知台,https://www.litv.tv/channel/watch/litv-vchannel164
+165 相聲瓦舍,https://www.litv.tv/channel/watch/litv-vchannel165
+166 市井豪門,https://www.litv.tv/channel/watch/litv-vchannel166
+167 燼相思,https://www.litv.tv/channel/watch/litv-vchannel167
+168 我的婆婆怎麼那麼可愛,https://www.litv.tv/channel/watch/litv-vchannel168
+169 賀先生的戀戀不忘,https://www.litv.tv/channel/watch/litv-vchannel169
+170 大老婆的反擊,https://www.litv.tv/channel/watch/litv-vchannel170
+171 一把青,https://www.litv.tv/channel/watch/litv-vchannel171
+172 以家人之名,https://www.litv.tv/channel/watch/litv-vchannel172
+173 漂洋過海來看你,https://www.litv.tv/channel/watch/litv-vchannel173
+174 俗女養成記,https://www.litv.tv/channel/watch/litv-vchannel174
+175 愛情是Beautiful，人生是Wonderful,https://www.litv.tv/channel/watch/litv-vchannel175
+176 風起西州,https://www.litv.tv/channel/watch/litv-vchannel176
+177 天雷一部之春花秋月,https://www.litv.tv/channel/watch/litv-vchannel177
+180 電動車時代,https://www.litv.tv/channel/watch/litv-vchannel180
+181 SiCAR愛車酷,https://www.litv.tv/channel/watch/litv-vchannel181
+182 Auto-Online 汽車線上情報誌,https://www.litv.tv/channel/watch/litv-vchannel182
+183 統哥 嗜駕Pit63,https://www.litv.tv/channel/watch/litv-vchannel183
+184 CARLINK鏈車網,https://www.litv.tv/channel/watch/litv-vchannel184
+185 狂人日誌,https://www.litv.tv/channel/watch/litv-vchannel185
+186 Super Snow Show,https://www.litv.tv/channel/watch/litv-vchannel186
+187 DR. IF fACTORY 硬核車媒,https://www.litv.tv/channel/watch/litv-vchannel187
+188 玩車大麥克,https://www.litv.tv/channel/watch/litv-vchannel188
+189 夢想街57號 預約你的夢想,https://www.litv.tv/channel/watch/litv-vchannel189
+190 脖子解說 Mr. Neck,https://www.litv.tv/channel/watch/litv-vchannel190
+194 半島國際新聞台,https://www.litv.tv/channel/watch/litv-ftv10
+195 VOA美國之音,https://www.litv.tv/channel/watch/litv-ftv03
+196 第1商業台,https://www.litv.tv/channel/watch/4gtv-4gtv104
+197 國會頻道1台,https://www.litv.tv/channel/watch/4gtv-4gtv084
+198 國會頻道2台,https://www.litv.tv/channel/watch/4gtv-4gtv085
+200 蠟筆小新劇場版,https://www.litv.tv/channel/watch/litv-vchannel200
+201 劉德華台,https://www.litv.tv/channel/watch/litv-vchannel201
+204 周星馳台,https://www.litv.tv/channel/watch/litv-vchannel998
+205 香港天王台,https://www.litv.tv/channel/watch/litv-vchannel205
+207 狸貓換太子,https://www.litv.tv/channel/watch/litv-vchannel207
+208 報告班長台,https://www.litv.tv/channel/watch/litv-vchannel208
+211 撩星聞,https://www.litv.tv/channel/watch/litv-vchannel211
+212 饕客揪愛吃,https://www.litv.tv/channel/watch/litv-vchannel212
+220 TRACE Sport Stars,https://www.litv.tv/channel/watch/4gtv-4gtv077
+221 智林體育台,https://www.litv.tv/channel/watch/4gtv-4gtv101
+222 時尚運動X,https://www.litv.tv/channel/watch/4gtv-4gtv014
+223 GINX Esports TV,https://www.litv.tv/channel/watch/4gtv-4gtv053
+227 TRACE Urban,https://www.litv.tv/channel/watch/4gtv-4gtv082
+228 Mezzo Live HD,https://www.litv.tv/channel/watch/4gtv-4gtv083
+229 CLASSICA 古典樂,https://www.litv.tv/channel/watch/4gtv-4gtv059
+230 ARIRANG阿里郎頻道,https://www.litv.tv/channel/watch/4gtv-4gtv079
+240 達文西頻道,https://www.litv.tv/channel/watch/4gtv-4gtv018
+241 ELTV生活英語台,https://www.litv.tv/channel/watch/litv-longturn20
+242 靖洋卡通Nice Bingo,https://www.litv.tv/channel/watch/4gtv-4gtv057
+243 靖天卡通台,https://www.litv.tv/channel/watch/4gtv-4gtv044
+244 龍華卡通台,https://www.litv.tv/channel/watch/litv-longturn01
+245 東森兒童台,https://www.litv.tv/channel/watch/litv-vchannel245
+246 FOCUS快樂兒童台,https://www.litv.tv/channel/watch/litv-playout246
+247 卡通明星台,https://www.litv.tv/channel/watch/litv-vchannel247
+248 動畫電影台,https://www.litv.tv/channel/watch/litv-vchannel248
+250 YOYO點點名,https://www.litv.tv/channel/watch/litv-vchannel250
+251 天才麵包理髮師,https://www.litv.tv/channel/watch/litv-vchannel251
+252 迷你特工隊 第三季,https://www.litv.tv/channel/watch/litv-vchannel252
+253 喜羊羊與灰太狼之決戰次時代,https://www.litv.tv/channel/watch/litv-vchannel253
+254 HELLO CARBOT衝鋒戰士,https://www.litv.tv/channel/watch/litv-vchannel254
+255 HELLO CARBOT衝鋒戰士 二台,https://www.litv.tv/channel/watch/litv-vchannel255
+256 新忍者哈特利,https://www.litv.tv/channel/watch/litv-vchannel256
+264 湯姆貓與傑利鼠,https://www.litv.tv/channel/watch/litv-vchannel264
+265 頑皮豹,https://www.litv.tv/channel/watch/litv-vchannel265
+266 烤箱讀書會,https://www.litv.tv/channel/watch/litv-vchannel266
+268 神奇故事屋,https://www.litv.tv/channel/watch/litv-vchannel268
+270 i-Fun動漫台,https://www.litv.tv/channel/watch/litv-ftv15
+280 獵人(國),https://www.litv.tv/channel/watch/litv-vchannel280
+281 家庭教師HITMAN REBORN!(國),https://www.litv.tv/channel/watch/litv-vchannel281
+282 新蠟筆小新(1~3季),https://www.litv.tv/channel/watch/litv-vchannel282
+283 鬼滅之刃(國),https://www.litv.tv/channel/watch/litv-vchannel283
+284 SPY X FAMILY 間諜家家酒,https://www.litv.tv/channel/watch/litv-vchannel284
+285 葬送的芙莉蓮,https://www.litv.tv/channel/watch/litv-vchannel285
+286 中華一番(國),https://www.litv.tv/channel/watch/litv-vchannel286
+287 SPY X FAMILY 間諜家家酒(中文版),https://www.litv.tv/channel/watch/litv-vchannel287
+288 關於我轉生變成史萊姆這檔事(國),https://www.litv.tv/channel/watch/litv-vchannel288
+289 無職轉生，到了異世界就拿出真本事,https://www.litv.tv/channel/watch/litv-vchannel289
+290 夏目友人帳,https://www.litv.tv/channel/watch/litv-vchannel290
+291 新蠟筆小新(4~6季),https://www.litv.tv/channel/watch/litv-vchannel291
+292 第一神拳,https://www.litv.tv/channel/watch/litv-vchannel292
+320 2分之一強,https://www.litv.tv/channel/watch/litv-vchannel320
+321 11點熱吵店,https://www.litv.tv/channel/watch/litv-vchannel321
+322 萌寵明星粗乃玩,https://www.litv.tv/channel/watch/litv-vchannel322
+330 野蠻遊戲：We Play,https://www.litv.tv/channel/watch/litv-vchannel330
+331 效定與洧彬的甜蜜小屋,https://www.litv.tv/channel/watch/litv-vchannel331
+360 娛樂百分百,https://www.litv.tv/channel/watch/litv-vchannel360
+361 女人我最大,https://www.litv.tv/channel/watch/litv-vchannel361
+362 醫學大聯盟,https://www.litv.tv/channel/watch/litv-vchannel362
+363 醫師好辣 精選,https://www.litv.tv/channel/watch/litv-vchannel363
+364 食在有健康,https://www.litv.tv/channel/watch/litv-vchannel364
+373 家庭８點檔轉轉發現愛,https://www.litv.tv/channel/watch/litv-vchannel373
+374 真情部落格,https://www.litv.tv/channel/watch/litv-vchannel374
+376 愛+好醫生,https://www.litv.tv/channel/watch/litv-vchannel376
+377 真情部落格(名人篇),https://www.litv.tv/channel/watch/litv-vchannel377
+379 進擊的台灣,https://www.litv.tv/channel/watch/litv-vchannel379
+380 鬼話連篇,https://www.litv.tv/channel/watch/litv-vchannel380
+400 發現大絲路 南北絲路篇,https://www.litv.tv/channel/watch/litv-vchannel400
+401 北緯30度,https://www.litv.tv/channel/watch/litv-vchannel401
+403 33廚房,https://www.litv.tv/channel/watch/litv-vchannel403
+404 台灣第一等,https://www.litv.tv/channel/watch/litv-vchannel404
+405 我的非洲很有事,https://www.litv.tv/channel/watch/litv-vchannel405
+406 東森旅遊玩樂誌,https://www.litv.tv/channel/watch/litv-vchannel406
+407 非凡大探索,https://www.litv.tv/channel/watch/litv-vchannel407
+408 發現地中海,https://www.litv.tv/channel/watch/litv-vchannel408
+409 秘境不思溢,https://www.litv.tv/channel/watch/litv-vchannel409
+410 食尚玩家,https://www.litv.tv/channel/watch/litv-vchannel410
+411 台灣真善美,https://www.litv.tv/channel/watch/litv-vchannel411
+412 台灣壹百種味道,https://www.litv.tv/channel/watch/litv-vchannel412
+413 台灣部落尋奇,https://www.litv.tv/channel/watch/litv-vchannel413
+416 驚奇大冒險,https://www.litv.tv/channel/watch/litv-vchannel416
+420 發現大絲路 宗教巡禮篇,https://www.litv.tv/channel/watch/litv-vchannel420
+421 食在有健康,https://www.litv.tv/channel/watch/litv-vchannel421
+422 舒夢蘭聚焦世界全紀錄,https://www.litv.tv/channel/watch/litv-vchannel422
+424 健康新煮流,https://www.litv.tv/channel/watch/litv-vchannel424
+425 食尚玩家-瘋狂總部,https://www.litv.tv/channel/watch/litv-vchannel425
+500 一代洪商,https://www.litv.tv/channel/watch/litv-vchannel500
+501 琉璃,https://www.litv.tv/channel/watch/litv-vchannel501
+502 安樂傳,https://www.litv.tv/channel/watch/litv-vchannel502
+503 女醫明妃傳,https://www.litv.tv/channel/watch/litv-vchannel503
+504 長歌行,https://www.litv.tv/channel/watch/litv-vchannel504
+505 花青歌,https://www.litv.tv/channel/watch/litv-vchannel505
+506 秦時麗人明月心,https://www.litv.tv/channel/watch/litv-vchannel506
+507 山河月明,https://www.litv.tv/channel/watch/litv-vchannel507
+509 君九齡,https://www.litv.tv/channel/watch/litv-vchannel509
+511 冼夫人傳奇,https://www.litv.tv/channel/watch/litv-vchannel511
+512 春家小姐是訟師,https://www.litv.tv/channel/watch/litv-vchannel512
+513 一代匠師,https://www.litv.tv/channel/watch/litv-vchannel513
+514 錦衣之下,https://www.litv.tv/channel/watch/litv-vchannel514
+515 班淑傳奇,https://www.litv.tv/channel/watch/litv-vchannel515
+521 大秦賦(大秦帝國之天下),https://www.litv.tv/channel/watch/litv-vchannel521
+522 大明風華,https://www.litv.tv/channel/watch/litv-vchannel522
+523 東宮,https://www.litv.tv/channel/watch/litv-vchannel523
+524 開創盛世,https://www.litv.tv/channel/watch/litv-vchannel524
+525 真命天子,https://www.litv.tv/channel/watch/litv-vchannel525
+529 傳奇大掌櫃,https://www.litv.tv/channel/watch/litv-vchannel529
+531 西遊記 2011,https://www.litv.tv/channel/watch/litv-vchannel531
+532 哪吒降妖記,https://www.litv.tv/channel/watch/litv-vchannel532
+535 軍師聯盟,https://www.litv.tv/channel/watch/litv-vchannel535
+536 軍師聯盟2 虎嘯龍吟,https://www.litv.tv/channel/watch/litv-vchannel536
+537 親愛的天狐大人,https://www.litv.tv/channel/watch/litv-vchannel537
+538 天外飛仙,https://www.litv.tv/channel/watch/litv-vchannel538
+539 花千骨,https://www.litv.tv/channel/watch/litv-vchannel539
+540 沉香如屑,https://www.litv.tv/channel/watch/litv-vchannel540
+541 沉香重華,https://www.litv.tv/channel/watch/litv-vchannel541
+542 蜀山戰紀之劍俠傳奇,https://www.litv.tv/channel/watch/litv-vchannel542
+543 步步驚心,https://www.litv.tv/channel/watch/litv-vchannel543
+545 天下長河(閩南語版),https://www.litv.tv/channel/watch/litv-vchannel545
+555 天涯女人心,https://www.litv.tv/channel/watch/litv-vchannel555
+557 老酒館,https://www.litv.tv/channel/watch/litv-vchannel557
+558 女人不哭,https://www.litv.tv/channel/watch/litv-vchannel558
+559 老閨蜜,https://www.litv.tv/channel/watch/litv-vchannel559
+560 裝腔啟示錄,https://www.litv.tv/channel/watch/litv-vchannel560
+561 極速救援,https://www.litv.tv/channel/watch/litv-vchannel561
+562 女士的品格,https://www.litv.tv/channel/watch/litv-vchannel562
+563 一路朝陽,https://www.litv.tv/channel/watch/litv-vchannel563
+564 一見傾心,https://www.litv.tv/channel/watch/litv-vchannel564
+565 我知道我愛你,https://www.litv.tv/channel/watch/litv-vchannel565
+566 小城故事多,https://www.litv.tv/channel/watch/litv-vchannel566
+567 無與倫比的美麗,https://www.litv.tv/channel/watch/litv-vchannel567
+568 辣媽正傳,https://www.litv.tv/channel/watch/litv-vchannel568
+569 歡樂家長群,https://www.litv.tv/channel/watch/litv-vchannel569
+570 甜甜的陷阱,https://www.litv.tv/channel/watch/litv-vchannel570
+571 溫暖的，甜蜜的,https://www.litv.tv/channel/watch/litv-vchannel571
+572 請成為我的家人,https://www.litv.tv/channel/watch/litv-vchannel572
+573 星辰大海,https://www.litv.tv/channel/watch/litv-vchannel573
+574 白色城堡,https://www.litv.tv/channel/watch/litv-vchannel574
+575 好好生活,https://www.litv.tv/channel/watch/litv-vchannel575
+579 聽說你喜歡我,https://www.litv.tv/channel/watch/litv-vchannel579
+582 人間至味是清歡,https://www.litv.tv/channel/watch/litv-vchannel582
+586 燦爛的轉身,https://www.litv.tv/channel/watch/litv-vchannel586
+587 戀人的謊言,https://www.litv.tv/channel/watch/litv-vchannel587
+588 極速悖論,https://www.litv.tv/channel/watch/litv-vchannel588
+589 故鄉，別來無恙,https://www.litv.tv/channel/watch/litv-vchannel589
+590 非凡醫者,https://www.litv.tv/channel/watch/litv-vchannel590
+591 與你十年，予我半生,https://www.litv.tv/channel/watch/litv-vchannel591
+601 世上最漂亮的女兒,https://www.litv.tv/channel/watch/litv-vchannel601
+602 假面女王,https://www.litv.tv/channel/watch/litv-vchannel602
+603 最佳愛情,https://www.litv.tv/channel/watch/litv-vchannel603
+604 紳士與小姐,https://www.litv.tv/channel/watch/litv-vchannel604
+605 白夜童話,https://www.litv.tv/channel/watch/litv-vchannel605
+607 善德女王,https://www.litv.tv/channel/watch/litv-vchannel607
+608 朝鮮律師,https://www.litv.tv/channel/watch/litv-vchannel608
+610 綠洲,https://www.litv.tv/channel/watch/litv-vchannel610
+611 7人的逃脫,https://www.litv.tv/channel/watch/litv-vchannel611
+612 監獄醫生,https://www.litv.tv/channel/watch/litv-vchannel612
+613 榴蓮小姐,https://www.litv.tv/channel/watch/litv-vchannel613
+614 韓國小姐,https://www.litv.tv/channel/watch/litv-vchannel614
+615 我的燦爛人生(國語配音),https://www.litv.tv/channel/watch/litv-vchannel615
+616 結過一次了(國語配音),https://www.litv.tv/channel/watch/litv-vchannel616
+617 人偶之家(國語配音),https://www.litv.tv/channel/watch/litv-vchannel617
+618 優雅的母女(國語配音),https://www.litv.tv/channel/watch/litv-vchannel618
+622 婚禮大捷,https://www.litv.tv/channel/watch/litv-vchannel622
+623 我的野蠻王妃,https://www.litv.tv/channel/watch/litv-vchannel623
+624 先熱情地打掃吧,https://www.litv.tv/channel/watch/litv-vchannel624
+625 追蹤者,https://www.litv.tv/channel/watch/litv-vchannel625
+626 白晝之月,https://www.litv.tv/channel/watch/litv-vchannel626
+629 木偶的季節,https://www.litv.tv/channel/watch/litv-vchannel629
+661 你是我的氧氣,https://www.litv.tv/channel/watch/litv-vchannel661
+680 美麗戰場(國語配音),https://www.litv.tv/channel/watch/litv-vchannel680
+700 黃金歲月,https://www.litv.tv/channel/watch/litv-vchannel700
+703 艋舺燿輝,https://www.litv.tv/channel/watch/litv-vchannel703
+704 多情城市,https://www.litv.tv/channel/watch/litv-vchannel704
+705 新兵日記之特戰英雄,https://www.litv.tv/channel/watch/litv-vchannel705
+706 新兵日記,https://www.litv.tv/channel/watch/litv-vchannel706
+707 女兵日記,https://www.litv.tv/channel/watch/litv-vchannel707
+716 就想賴著妳,https://www.litv.tv/channel/watch/litv-vchannel716
+721 台灣靈異事件,https://www.litv.tv/channel/watch/litv-vchannel721
+722 藍色水玲瓏,https://www.litv.tv/channel/watch/litv-vchannel722
+725 苦力,https://www.litv.tv/channel/watch/litv-vchannel725
+726 茶金,https://www.litv.tv/channel/watch/litv-vchannel726
+727 麻醉風暴,https://www.litv.tv/channel/watch/litv-vchannel727
+729 四樓的天堂,https://www.litv.tv/channel/watch/litv-vchannel729
+730 你的婚姻不是你的婚姻,https://www.litv.tv/channel/watch/litv-vchannel730
+731 你的孩子不是你的孩子,https://www.litv.tv/channel/watch/litv-vchannel731
+743 廉政英雄,https://www.litv.tv/channel/watch/litv-vchannel743
+764 春天後母心,https://www.litv.tv/channel/watch/litv-vchannel764
+765 春天父母心,https://www.litv.tv/channel/watch/litv-vchannel765
+766 飛龍在天,https://www.litv.tv/channel/watch/litv-vchannel766
+800 黑金丑島君,https://www.litv.tv/channel/watch/litv-vchannel800
+801 雙面姊妹,https://www.litv.tv/channel/watch/litv-vchannel801
+803 獨活女子的守則 3,https://www.litv.tv/channel/watch/litv-vchannel803
+804 Black familia-新堂家的復仇,https://www.litv.tv/channel/watch/litv-vchannel804
+805 禁果-那個不能XX的世界,https://www.litv.tv/channel/watch/litv-vchannel805
+861 (測)Focus歡樂綜合台,https://www.litv.tv/channel/watch/litv-fast1223
+862 (測)Focus風采戲劇台,https://www.litv.tv/channel/watch/litv-fast1224
+863 (測)黃金八點檔,https://www.litv.tv/channel/watch/litv-fast1225
+900 好消息2台,https://www.litv.tv/channel/watch/litv-ftv17
+901 大衛鮑森新約縱覽,https://www.litv.tv/channel/watch/litv-vchannel901
+902 大衛鮑森舊約縱覽,https://www.litv.tv/channel/watch/litv-vchannel902
+903 葉光明講座,https://www.litv.tv/channel/watch/litv-vchannel903
+904 大衛鮑森講座,https://www.litv.tv/channel/watch/litv-vchannel904
+910 天堂敬拜,https://www.litv.tv/channel/watch/litv-vchannel910
+911 經典音樂河,https://www.litv.tv/channel/watch/litv-vchannel911
+912 心靈音樂會,https://www.litv.tv/channel/watch/litv-vchannel912
+920 有聲聖經 新約,https://www.litv.tv/channel/watch/litv-vchannel920
+921 有聲聖經 舊約,https://www.litv.tv/channel/watch/litv-vchannel921
+923 恩典365,https://www.litv.tv/channel/watch/litv-vchannel923
+928 主日崇拜 台北靈糧堂,https://www.litv.tv/channel/watch/litv-vchannel928
+930 蒙福人生（中文配音）,https://www.litv.tv/channel/watch/litv-vchannel930
+931 生命的贏家,https://www.litv.tv/channel/watch/litv-vchannel931
+932 豐盛人生,https://www.litv.tv/channel/watch/litv-vchannel932
+933 生命的觸動,https://www.litv.tv/channel/watch/litv-vchannel933
+934 生命的觸動（中文配音）,https://www.litv.tv/channel/watch/litv-vchannel934
+935 特會精選,https://www.litv.tv/channel/watch/litv-vchannel935
+936 蒙福人生,https://www.litv.tv/channel/watch/litv-vchannel936
+937 生命的贏家（中文配音）,https://www.litv.tv/channel/watch/litv-vchannel937
+938 豐盛人生（中文配音）,https://www.litv.tv/channel/watch/litv-vchannel938
+940 空中主日學,https://www.litv.tv/channel/watch/litv-vchannel940
+941 關鍵三十,https://www.litv.tv/channel/watch/litv-vchannel941
+942 共享觀點,https://www.litv.tv/channel/watch/litv-vchannel942
+943 福氣人生,https://www.litv.tv/channel/watch/litv-vchannel943
+944 劉三講古,https://www.litv.tv/channel/watch/litv-vchannel944
+945 客家新事講台系列,https://www.litv.tv/channel/watch/litv-vchannel945
+946 空中聖經學院,https://www.litv.tv/channel/watch/litv-vchannel946
+947 蒙福卡通台,https://www.litv.tv/channel/watch/litv-vchannel947
 📀港•澳,#genre#
 
 年代新闻,http://211.72.65.236:8529/.m3u8
@@ -996,7 +1502,33 @@ CGTV-5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 优漫卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225656/index.m3u8
 卡酷少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 金鹰卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8
-
+云南频道,#genre#
+云南｜卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010119/1.m3u8
+云南｜都市,http://tvlive.ynradio.com/live/yunnandushi/chunks.m3u8
+云南｜都市,http://tvlive.ynradio.com/live/yunnandushi/playlist.m3u8
+云南｜娱乐,http://tvlive.ynradio.com/live/yunnanyule/chunks.m3u8
+云南｜娱乐,http://tvlive.ynradio.com/live/yunnanyule/playlist.m3u8
+云南｜少儿,http://tvlive.ynradio.com/live/yunnanshaoer/chunks.m3u8
+云南｜少儿,http://tvlive.ynradio.com/live/yunnanshaoer/playlist.m3u8
+云南｜康旅,http://tvlive.ynradio.com/live/yunnangonggong/chunks.m3u8
+云南｜康旅,http://tvlive.ynradio.com/live/yunnangonggong/playlist.m3u8
+云南｜文山州新闻综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8?zyund
+云南｜文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
+云南｜文山州新闻综合,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund
+云南｜红河县综合,http://tv.drs.hhtv.cc:8100/channellive/hhxdst.flv?zyund
+云南｜红河州公共,http://tv.drs.hhtv.cc:8100/channellive/hhtv-2.flv?zyund
+云南｜红河州新闻综合,http://tv.drs.hhtv.cc:8100/channellive/hhtv-1.flv?zyund
+云南｜西双版纳公共,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8?zyund
+云南｜西双版纳综合,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel1/playlist.m3u8?zyund
+云南｜贡山,http://livebroadcast.ccwb.cn/live/w1609121671179943.flv
+云南｜贡山,http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8
+云南｜麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
+云南｜麻栗坡,https://m3u8.channel.wsrtv.com.cn/nmip-media/channellive/channel107237/playlist.m3u8
+云南｜麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund
+云南｜麻栗坡,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
+云南｜新平综合,http://livebroadcast.ccwb.cn/live/w1615257519790969.m3u8?zyund
+云南｜福贡综合,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8?zyund
+云南｜贡山综合,http://livebroadcast.ccwb.cn/live/w1609121671179943.m3u8?zyund
 🍁海岸一线,#genre#
 民视,rtmp://f13h.mine.nu/sat/tv051
 视,rtmp://f13h.mine.nu/sat/tv071
@@ -1583,7 +2115,64 @@ history,http://tv.tvbox6.icu/tv/tw9.php?id=27
 hits,http://tv.tvbox6.icu/tv/tw9.php?id=28
 crime investigation,http://tv.tvbox6.icu/tv/tw9.php?id=29
 cinemaworld,http://tv.tvbox6.icu/tv/tw9.php?id=30
-
+澳·港·台,#genre#
+凤凰卫视,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+凤凰卫视,http://122.224.232.218:8888/rtp/233.50.200.191:5140
+凤凰卫视,http://171.88.42.147:8888/udp/239.93.0.162:2192
+凤凰卫视,http://60.164.228.49:4040/udp/239.255.30.50:8231
+凤凰资讯,http://60.164.228.49:4040/udp/239.255.30.70:8231
+凤凰香港,http://171.108.239.77:8181/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰香港,http://60.164.228.49:4040/udp/239.255.30.123:8231
+凤凰卫视,http://58.215.231.60/live2.rxip.sc96655.com/live/test1_4000.m3u8
+凤凰资讯,http://58.215.231.60/live2.rxip.sc96655.com/live/test2_4000.m3u8
+凤凰卫视,http://103.116.245.163/sxg/sxg.php?id=/test1_4000.m3u8
+凤凰资讯,http://103.116.245.163/sxg/sxg.php?id=/test2_4000.m3u8
+东森电影,http://171.108.239.77:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+东森电影,http://1b6467f415.iok.la:9931/tsfile/live/1043_1.m3u8
+东森超视,http://171.108.239.77:8181/tsfile/live/1023_1.m3u8?key=txiptv&playlive=1&authid=0
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛新闻,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8?
+大爱1,https://pulltv2.wanfudaluye.com/live/tv1.m3u8
+大爱2,http://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2,http://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv1.wanfudaluye.com/live/tv2.m3u8?
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8?
+大立电视,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+新加坡中文,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+有线新闻,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8
+有线新闻,http://61.10.2.141:80/live_freedirect/freehd209_h.live/chunklist.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w1949275579.m3u8
+有线新闻,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8
+有线财经资讯,http://61.10.2.145/live_freedirect/freehd208_h.live/chunklist.m3u8
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+番薯111,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
+纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=8ee59707fee3ef96c922e680-167055218938751&wsIPSercert=d24f6d7c9d3646d9533d492d5209384b&wsMonitor=0
+香港卫视,http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
+香港国际财经,http://61.10.2.140/live_freedirect/opentvhd002_h.live/playlist.m3u8
+香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+ABC新闻,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+Fox新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+GOODTV卡通,https://dqhxk7sbp7xog.cloudfront.net/osmflivech45.m3u8
+GOODTV好消息,https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
 🍁海岸二线,#genre#
 翡翠台,http://185.81.28.58/🥝.php?id=ca9b19519b657d524c001ef858181b5d
 TVB Plus,http://185.81.28.58/🥝.php?id=6c926e1cfe37408a9fc33d9666854c33
@@ -1815,7 +2404,7 @@ NHK,http://61.221.215.25:8800/hls/51/index.m3u8
 
 
 
-北京IPTV,#genre#❤❤❤
+北京IPTV,#genre#
 CCTV-1 HD,http://111.199.234.14:18888/rtp/239.3.1.129:8008
 CCTV-2 HD,http://111.199.234.14:18888/rtp/239.3.1.60:8084
 CCTV-3 HD,http://111.199.234.14:18888/rtp/239.3.1.172:8001
@@ -2767,18 +3356,36 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 梅州,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv1.m3u8?sign=82f6794a8f8da4f7dfe3fbcafd6716a3&t=654dcaac
 客家生活,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8?sign=47a396d727488e670ef394a060109293&t=654dcaac
 客家生活,http://pili-live-hls.xianchangliving.gdmztv.com/meizhou-xianchangliving/mztv2.m3u8?sign=47a396d727488e670ef394a060109293&t=654dcaac
-🈵
 
 嘉定,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
 崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
-凤凰香港
+
 凤凰中文1,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文3,http://ayolee.com:5253/udp/239.93.1.9:2192
 凤凰资讯1,http://ayolee.com:5253/udp/239.93.0.118:2191
 香港卫视1,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视2,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 星空卫视,http://ayolee.com:5253/udp/239.93.0.156:2193
-福建
+嘉定,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+
+凤凰中文1,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文3,http://ayolee.com:5253/udp/239.93.1.9:2192
+凤凰资讯1,http://ayolee.com:5253/udp/239.93.0.118:2191
+香港卫视1,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视2,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,http://ayolee.com:5253/udp/239.93.0.156:2193🈵
+
+嘉定,https://pili-live-hls.wdit.com.cn/wditlive/15472c98517744b994e85c9c60cc93cf6a3b.m3u8
+崇明,https://pili-live-hls.wdit.com.cn/wditlive/c038f4fafbdf4f97ba74c74ad67259b931ee.m3u8
+
+凤凰中文1,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+凤凰中文3,http://ayolee.com:5253/udp/239.93.1.9:2192
+凤凰资讯1,http://ayolee.com:5253/udp/239.93.0.118:2191
+香港卫视1,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
+香港卫视2,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+星空卫视,http://ayolee.com:5253/udp/239.93.0.156:2193
+
 武夷山,http://fjwysdb.chinashadt.com:2036/live/1.stream/playlist.m3u8
 武夷山文旅茶,http://fjwysdb.chinashadt.com:2036/live/3.stream/playlist.m3u8
 三明新闻,http://stream.smntv.cn/smtv1/sd/live.m3u8?zfud
@@ -2791,7 +3398,7 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 福州生活,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 福州新闻,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 福州少儿,http://live.zohi.tv/video/s10001-fztv-4/index.m3u8
-海南
+
 三沙卫视,http://sunny2017.forver.one:4022/udp/239.21.2.9:5002
 
 🈵西南地区,#genre#
@@ -2852,7 +3459,7 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 四川科教,http://182.150.115.21:8030/pcgacg/pcgacg_0.m3u8
 自贡,http://110.189.153.160:1001/zhpd.flv
 自贡文化生活,http://110.189.153.160:1002/ggpd.flv
-云南
+
 福贡,http://livebroadcast.ccwb.cn/live/w1612505860303999.m3u8
 麻栗坡,http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
 麻栗坡,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8
@@ -2865,7 +3472,7 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 西双版纳文旅,http://file.xsbnrtv.cn/vms/videos/nmip-media/channellive/channel3/playlist.m3u8
 砚山,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel16/playlist.m3u8
 影用仓库,https://wp.sqsq.net/view.php/8b3eea23e7bf605e907b2850b7a57815.mp4
-广西
+
 广西新闻,http://116.9.204.242:9901/tsfile/live/1001_1.m3u8
 广西都市,http://116.9.204.242:9901/tsfile/live/1002_1.m3u8
 广西综艺,http://116.9.204.242:9901/tsfile/live/0125_1.m3u8
@@ -2889,12 +3496,12 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 
 
 🈵西北地区,#genre#
-宁夏
+
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
 宁夏少儿,https://hls.ningxiahuangheyun.com/live/nxse1M.m3u8
 宁夏影视,https://hls.ningxiahuangheyun.com/live/nxwl1M.m3u8
-内蒙
+
 内蒙古新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 内蒙古少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=ff5a1fd70ea228ee35b0d29895f37c56&txTime=771E8800
@@ -2910,7 +3517,7 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 松桃新闻,http://live.strmtzx.cn/stxw/sd/live.m3u8
 凤冈,http://live.fgxrmtzx.cn:90/live/zhpd.m3u8
 七星关,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
-西藏
+
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 西藏影视文化,http://php.jdshipin.com:8880/xztv.php?id=ys
@@ -2927,7 +3534,7 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 胡杨河新闻,http://klmysjtzb.rcsxzx.com/hls/qishi1.m3u8
 新星,http://test5.btzx.com.cn/live/13TV.stream/playlist.m3u8
 克拉玛依影视剧场,http://klmysjtzb.rcsxzx.com/hls/klmy3.m3u8
-青海
+
 青海卫视,http://stream.qhbtv.com/qhws/playlist.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/playlist.m3u8
 青海经视,http://stream.qhbtv.com/qhsh/sd/live.m3u8
@@ -2944,7 +3551,7 @@ CCTV17,http://106.111.74.38:10001/rtp/239.49.1.7:6000
 化隆,http://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8
 青海,http://lmt.scqstv.com/live1/live1.m3u8
 泉州新闻,https://live.qztv.cn/live/news.m3u8?auth_key=1703677905-0-0-f4f62f0f35088962a4477f1096d4bdb1
-❤
+
 🈵县城秒开,#genre#
 河南|新郑,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
 河南|扶沟,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
@@ -3094,7 +3701,7 @@ CCTV-01綜合,http://tvpull.dxhmt.cn:9081/tv/11527-1.m3u8
 泌阳新闻,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 开封新闻,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
 内乡,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
-❤
+
 
 
 💑斗鱼视频,#genre#
