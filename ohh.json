@@ -69,7 +69,7 @@
             }
         },
   {"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar"   },
-
+{"key":"csp_YCyz","name":"☀原创","type":3,"api":"csp_YCyz", "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
   { 
   "key": "酷云$七七",
   "name": "🌤️酷云七七",
