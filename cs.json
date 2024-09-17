@@ -3144,8 +3144,8 @@
                 "图片": "data-original=\"&&\"",
                 "标题": "title=\"&&\"",
                 "链接": "href=\"&&\"",
-                "分类": "国产$gc#无码$wz#有码$yz#欧美$om#动画$dm",
-                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
+                "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4",
+                "分类url": "http://8341ck.cc/vodtype/{cateId}-{catePg}.html;;z"
             },
             "jar":" https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
         },
@@ -3162,7 +3162,7 @@
                 "简介": "时间：&&<",
                 "副标题": "❤️+fa fa-heart\"></i>&&<+🔥+\"fa fa-eye\"></i>&&<",
                 "分类": "国产$gc#无码$wz#有码$yz#欧美$om#动画$dm",
-                "分类url": "http://oy.oyxx-1.eu.org/hs1.php?u=vodtype/{cateId}-{catePg}.html;;zm"
+                "分类url": "https://hsck123.26img.com.php?u=vodtype/{cateId}-{catePg}.html;;zm"
             }
         },
 {
@@ -3207,6 +3207,16 @@
         "ratio": 1.7
       },
       "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/黄色仓库.json"
+    },
+{
+      "key": "大地",
+      "name": "🆕大地|采集",
+      "type": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.6
+      },
+      "api": "https://dadiapi.com/api.php"
     },
 {
             "key": "花都",
