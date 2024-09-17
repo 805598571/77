@@ -106,7 +106,135 @@
             "quickSearch": 1,
             "changeable": 1
         },
+{"key": "csp_瓜子","name": "🇾丨瓜子影视丨秒播","api": "csp_Gz360","jar": "https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/yhykeji/YHYTV/raw/lib%2Fxm.jar?ref=master","type": 3,"searchable": 1,"playerType": 2,"timeout": 30,"changeable": 0},
+{"key":"csp_厂长弹幕","name":"🇾丨厂长弹幕","type":3,"api":"csp_Czzy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/jpdc/tvys/raw/dm.jar?ref=master","ext":{"danmu":true},"timeout":25},
+{"key":"hipy_js腾腾","name":"🇾丨腾腾4K","type":3,"api":"http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/jpdc/tvys/raw/qq.js?ref=master"},
+{"key":"hipy_js芒芒","name":"🇾丨芒芒4K","type":3,"api":"http://193.134.211.100:1888/tv/ijia/4kk/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/jpdc/tvys/raw/mg.js?ref=master"},
+{"key":"360影视","name":"🇾丨360影视","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable":1,"quickSearch":1,"filterable":1},
+{
+  "key": "drpy_js_360影视",
+  "name": "🍊360(官)",
+  "type": 3,
+  "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+  "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/360影视.js"
+},
 
+{
+  "key": "meowtv_yksp",
+  "name": "🍊优酷(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/优酷视频.js"
+},
+{
+  "key": "meowtv_qysp",
+  "name": "🍊爱奇艺(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/奇艺视频.js"
+},
+{
+  "key": "meowtv_sgys",
+  "name": "🍊搜狗(官)",
+  "type": 3,
+  "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://cdn.teyonds.com/js/搜狗视频.js"
+},
+{
+  "key": "csp_SP2345",
+  "name": "🦌2345影视",
+  "type": 3, 
+  "api": "csp_SP2345",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Fx.txt"
+},
+{
+  "key":"圣城影视",
+  "name":"💡圣城影视",
+  "type":3,
+  "api":"csp_SC1080",
+  "jar":"https://xn--bmw-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",	
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "小点",
+  "name": "💥小点多线",
+  "type": 3,
+  "api": "csp_Appxd",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 0,
+  "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
+},
+{
+  "key": "萌米",
+  "name": "👀萌米多线",
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726526452957/fan.txt;md5;498aae475d2719b161b97e18dfeafa28",
+  "timeout": 15,
+  "playerType": 1,
+  "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+},
+{
+  "key": "热播",
+  "name": "📺热播多线",
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726526452957/fan.txt;md5;498aae475d2719b161b97e18dfeafa28",
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
+},
+{
+  "key":"热播影视",
+  "name":"💡热播影视",
+  "type":3,
+  "api":"csp_AppRB",
+  "jar":"https://xn--xn6-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
+{
+  "key": "可可",
+  "name": "👻可可多线",
+  "type": 3,
+  "api": "csp_Kekys",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726526452957/fan.txt;md5;498aae475d2719b161b97e18dfeafa28",
+  "timeout": 15,
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1
+},
+{
+  "key":"可可影视",
+  "name":"💡可可影视",
+  "type":3,
+  "api":"csp_Keke",
+  "jar": "https://xn--tft-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;ba2be4662147a4ab7ec2292cc516fb32",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1
+},
         {
             "key": "biliych",
             "name": "🤓哔歌|o k",
@@ -399,7 +527,10 @@
 	  
       
     
-        
+       {"key":"YiSo","name":"FD😹易搜┃搜索","type":3,"api":"csp_YiSo",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
+{"key":"PanSou","name":"FE🦊盘搜┃搜索","type":3,"api":"csp_PanSou",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
+{"key":"UpYun","name":"FF😻Up搜┃搜索","type":3,"api":"csp_UpYun",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
+{"key":"PanSearch","name":"FG🙀盘Se┃搜索","type":3,"api":"csp_PanSearch",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}}, 
         
         
         
@@ -410,8 +541,8 @@
         
         
       
-       {"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
-{"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
+       {"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
  
         {"key": "push_agent","name": "🌸推送|p g","type": 3,"api": "csp_Push","changeable":0, "timeout":30,
 		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
