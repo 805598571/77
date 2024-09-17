@@ -45,6 +45,8 @@
       "changeable": 0,
 	  "indexs": 0
     },
+{"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {
       "key": "115",
       "name": "💓‍115┃4K💓‍",
@@ -462,7 +464,36 @@
   "quickSearch":1,
   "filterable":1
 },
-
+{
+			"key":"csp_Nkdy",
+			"name":"耐看",
+			"type":3,
+			"api":"csp_Nkdy",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
+		},
+		{
+			"key":"csp_Qiyou",
+			"name":"淘奇",
+			"type":3,
+			"api":"csp_Qiyou",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
+		},
+		{
+			"key":"哔嘀影视",
+			"name":"哔嘀",
+			"type":3,
+			"api":"csp_XYQHiker",
+			"searchable":1,
+			"quickSearch":1,
+			"filterable":1,
+			"ext":"https://gitlab.com/YLEDE/dr_py/raw/main/xpath/bdys.json"
+		},
 {
   "key": "csp_XYQHiker_哔嘀影视",
   "name":"💡哔嘀影视",
@@ -3096,7 +3127,7 @@
         },
    {"key":"dr_29片库","name":"29片库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/29片库[密].js"},
  {"key":"dr_九妖仓库","name":"九妖仓库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/九妖仓库[密].js"},
-    
+   {"key":"黄仓库","name":"黄仓库","type":1,"api":"http://www.uuneed.cn/nmnm123/MHQTV/raw/master//xBPQ/1黄仓库.json", "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar","searchable":1,"quickSearch":1},
   {
       "key": "k",
       "name": "k",
@@ -3128,6 +3159,7 @@
                 }
     },
 {"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","searchable":1,"changeable":0},
+{"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav"},
 {
       "key": "csp堂",
       "name": "堂",
@@ -3417,10 +3449,66 @@
 			"url": "Web"
 		},
 		{
-			"name": "玩偶",
-			"type": 0,
-			"url": "https://jx.jsonplayer.com/player/?url="
-		},
+      "name": "🌎天招VIP1",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "imgo",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
+    },
+{
+      "name": "🌎天招VIP2",//近邻无敌
+      "type": 1,
+      //"url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
+      "url":"https://jx.xiaofengtv.com/M3/json.php/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+
 		{
 			"name": "五妹",
 			"type": 0,
