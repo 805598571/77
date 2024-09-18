@@ -70,7 +70,7 @@
         },
 {
             "key": "🤓配置中心",
-            "name":🤓 "配置｜中心|云盘",
+            "name": "配置｜中心|云盘",
             "type": 3,
             "api": "csp_Config",
             "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
@@ -587,7 +587,7 @@
         },
         {
             "key": "🐶玩偶备用弹幕",
-            "name":🤓 "🍁玩偶备用｜4K弹幕",
+            "name":🤓 "玩偶备用｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
             "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",    
@@ -620,35 +620,6 @@
       "timeout": 25
     },
 
-    {
-      "key": "玩偶gg",
-      "name": "玩偶gg",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
-        "siteUrl": "https://www.wogg.bf/",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
-      }
-    },
-   
-    {
-      "key": "玩偶 | 蜡笔",
-      "name": "玩偶 | 蜡笔",
-      "type": 3,
-      "api": "csp_kongbai",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
-        "siteUrl": "https://duopan.fun",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
-      }
-    },
     {
       "key": "ConfigCenter",
       "name": "配置中心",
