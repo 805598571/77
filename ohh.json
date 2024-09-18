@@ -621,8 +621,49 @@
     },
 
     {
-      "key": "🍁星剧社",
-      "name":🤓 "星剧社",
+      "key": "玩偶gg",
+      "name": "玩偶gg",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
+      }
+    },
+   
+    {
+      "key": "玩偶 | 蜡笔",
+      "name": "玩偶 | 蜡笔",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "siteUrl": "https://duopan.fun",
+        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
+      }
+    },
+    {
+      "key": "ConfigCenter",
+      "name": "配置中心",
+      "type": 3,
+      "api": "csp_ConfigCenter",
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "searchable": 0,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+      }
+    },
+    {
+      "key": "星剧社",
+      "name": "星剧社",
       "type": 3,
       "api": "csp_Star2",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -634,11 +675,11 @@
       }
     },
     {
-      "key": "🍁易搜",
-      "name":🤓 "易搜|4K",
+      "key": "易搜",
+      "name": "易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",       
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -647,11 +688,11 @@
       }
     },
     {
-      "key": 🤓"盤搜索",
-      "name":🤓 "盤搜索",
+      "key": "盤搜索",
+      "name": "盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",         
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -659,51 +700,24 @@
       }
     },
     {
-      "key": "🍁紙條搜",
-      "name":🤓 "紙條搜",
+      "key": "紙條搜",
+      "name": "紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",     
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
       }
     },
-    {
-      "key": "🍁Youtube",
-      "name": 🤓"Youtube",
-      "type": 3,
-      "api": "csp_Youtube",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",        
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
-        "json": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fyoutube.json?ref=master",
-        "cookie": ""
-      }
-    },
-    {
-      "key": "賤賤",
-      "name": 🍁"賤賤",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
-    },
+    
     {
       "key": "TgYunPanLocal1",
-      "name": "🍁TgYunPanLocal1",
+      "name": "TgYunPanLocal1",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -714,10 +728,10 @@
     },
     {
       "key": "TgYunPanLocal2",
-      "name":🤓 "TgYunPanLocal2",
+      "name": "TgYunPanLocal2",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -727,11 +741,11 @@
       }
     },
     {
-      "key": "🍁TgYunPanLocal3",
-      "name": 🍁"TgYunPanLocal3",
+      "key": "TgYunPanLocal3",
+      "name": "TgYunPanLocal3",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -741,11 +755,11 @@
       }
     },
     {
-      "key": "🍁TgYunPanLocal4",
-      "name":🍁 "TgYunPanLocal4",
+      "key": "TgYunPanLocal4",
+      "name": "TgYunPanLocal4",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",  
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -755,8 +769,8 @@
       }
     },
     {
-      "key": "🍁TgYunPanLocal5",
-      "name": 🍁"TgYunPanLocal5",
+      "key": "TgYunPanLocal5",
+      "name": "TgYunPanLocal5",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -769,17 +783,46 @@
       }
     },
     {
-      "key": "🍁网盘集合",
-      "name": 🍁"网盘集合|4K",
+      "key": "网盘集合",
+      "name": "网盘集合|4K",
       "type": 3,
       "api": "csp_网盘集合",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",     
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
         "share": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2F%E7%BD%91%E7%9B%98%E9%9B%86%E5%90%88.json?ref=master"
+      }
+    },
+   {
+      "key": "玩偶gg",
+      "name": "玩偶gg",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
+      }
+    },
+   
+    {
+      "key": "玩偶 | 蜡笔",
+      "name": "玩偶 | 蜡笔",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "siteUrl": "https://duopan.fun",
+        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
       }
     },
   {
@@ -825,35 +868,7 @@
                 "danmu": true
             }
         },
-       {
-      "key": "🍁玩偶gg",
-      "name":🍁 "玩偶gg",
-      "type": 3,
-      "api": "csp_Wogg",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
-        "siteUrl": "https://www.wogg.bf/",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
-      }
-    },
-        
-		{
-      "key": "🍁玩偶 | 蜡笔",
-      "name": 🍁"玩偶 | 蜡笔",
-      "type": 3,
-      "api": "csp_kongbai",
-      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
-        "siteUrl": "https://duopan.fun",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
-      }
-    },
+    
 		{"key":"AliShare",
 		"name":"🌾阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, 
 		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Falishare.txt?ref=master$$$db$$$1",
