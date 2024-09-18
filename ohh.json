@@ -960,7 +960,7 @@
 {"key":"小学","name":"🅱️小学","type":3,"api":"csp_Bili", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/小学课堂.json"},
 {"key":"初中","name":"🅱️初中","type":3,"api":"csp_Bili", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/初中课堂.json"},
 {"key":"高中","name":"🅱️高中","type":3,"api":"csp_Bili", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/高中课堂.json"}
-],
+,
         {"key": "push_agent","name": "🌸推送|p g","type": 3,"api": "csp_Push","changeable":0, "timeout":30,
 		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
 		} ],
