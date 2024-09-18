@@ -68,20 +68,7 @@
                 "ratio": 1.43
             }
         },
-{
-            "key": "🤓配置中心",
-            "name": "配置｜中心|云盘",
-            "type": 3,
-            "api": "csp_Config",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            }
-        },
+
   {"key":"🍁农民影视","name":"🍁农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar"   },
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爱看","name":"❤️爱看","type":3,"api":"csp_Ikan", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
