@@ -73,7 +73,7 @@
             "name": "配置｜中心|云盘",
             "type": 3,
             "api": "csp_Config",
-            "jar": ""https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
+            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
