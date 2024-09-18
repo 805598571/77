@@ -70,7 +70,7 @@
         },
 {
             "key": "🤓配置中心",
-            "name": "配置｜中心|云盘",
+            "name":🤓 "配置｜中心|云盘",
             "type": 3,
             "api": "csp_Config",
             "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7de46c7534b68d446aa91e6ecfb267cd",
@@ -570,7 +570,7 @@
 		},
  {
             "key": "🐶玩偶弹幕",
-            "name": "🍁玩偶哥哥｜4K弹幕",
+            "name":🤓 "玩偶哥哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
             "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -587,7 +587,7 @@
         },
         {
             "key": "🐶玩偶备用弹幕",
-            "name": "🍁玩偶备用｜4K弹幕",
+            "name":🤓 "🍁玩偶备用｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
             "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",    
@@ -622,7 +622,7 @@
 
     {
       "key": "🍁星剧社",
-      "name": "🍁星剧社",
+      "name":🤓 "星剧社",
       "type": 3,
       "api": "csp_Star2",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -635,7 +635,7 @@
     },
     {
       "key": "🍁易搜",
-      "name": "🍁易搜|4K",
+      "name":🤓 "易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",       
@@ -647,11 +647,11 @@
       }
     },
     {
-      "key": "🍁盤搜索",
-      "name": "🍁盤搜索",
+      "key": 🤓"盤搜索",
+      "name":🤓 "盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;66d4a4c0c82c778c29b2abc084a2d0ea",         
+      "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",         
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -660,7 +660,7 @@
     },
     {
       "key": "🍁紙條搜",
-      "name": "🍁紙條搜",
+      "name":🤓 "紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",     
@@ -672,7 +672,7 @@
     },
     {
       "key": "🍁Youtube",
-      "name": "Youtube",
+      "name": 🤓"Youtube",
       "type": 3,
       "api": "csp_Youtube",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",        
@@ -689,7 +689,7 @@
       }
     },
     {
-      "key": "🍁賤賤",
+      "key": "賤賤",
       "name": 🍁"賤賤",
       "type": 3,
       "api": "csp_Jianpian",
@@ -699,7 +699,7 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
     },
     {
-      "key": "🍁TgYunPanLocal1",
+      "key": "TgYunPanLocal1",
       "name": "🍁TgYunPanLocal1",
       "type": 3,
       "api": "csp_TgYunPanLocal",
@@ -713,8 +713,8 @@
       }
     },
     {
-      "key": "🍁TgYunPanLocal2",
-      "name": "🍁TgYunPanLocal2",
+      "key": "TgYunPanLocal2",
+      "name":🤓 "TgYunPanLocal2",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
