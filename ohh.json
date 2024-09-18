@@ -82,7 +82,7 @@
                 "ratio": 1.597
             }
         },
-  {"key":"🍁农民影视","name":"农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar"   },
+  {"key":"🍁农民影视","name":"🍁农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar"   },
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"爱看","name":"❤️爱看","type":3,"api":"csp_Ikan", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"比特","name":"✌️比特","type":3,"api":"csp_Bttwo","jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1, "quickSearch":1,"filterable":1},
@@ -383,7 +383,7 @@
     },
     {
       "key": "🐶素白白",
-      "name": "🩴拖鞋┃秒播┃纯净",
+      "name": "🍁🩴拖鞋┃秒播┃纯净",
       "type": 3,
       "api": "csp_Subaibai",
       "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
@@ -392,7 +392,7 @@
     },
     {
       "key": "🐶七味影视",
-      "name": "🌿七味┃蓝光┃秒播",
+      "name": "🌿🍁七味┃蓝光┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://我不是.摸鱼儿.top/by/jar/xpbq.php",
@@ -570,7 +570,7 @@
 		},
  {
             "key": "🐶玩偶弹幕",
-            "name": "玩偶哥哥｜4K弹幕",
+            "name": "🍁玩偶哥哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
             "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -587,7 +587,7 @@
         },
         {
             "key": "🐶玩偶备用弹幕",
-            "name": "玩偶备用｜4K弹幕",
+            "name": "🍁玩偶备用｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
             "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",    
@@ -622,7 +622,7 @@
 
     {
       "key": "🍁星剧社",
-      "name": "星剧社",
+      "name": "🍁星剧社",
       "type": 3,
       "api": "csp_Star2",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -635,7 +635,7 @@
     },
     {
       "key": "🍁易搜",
-      "name": "易搜|4K",
+      "name": "🍁易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",       
@@ -648,7 +648,7 @@
     },
     {
       "key": "🍁盤搜索",
-      "name": "盤搜索",
+      "name": "🍁盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;66d4a4c0c82c778c29b2abc084a2d0ea",         
@@ -660,7 +660,7 @@
     },
     {
       "key": "🍁紙條搜",
-      "name": "紙條搜",
+      "name": "🍁紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",     
@@ -690,7 +690,7 @@
     },
     {
       "key": "🍁賤賤",
-      "name": "賤賤",
+      "name": 🍁"賤賤",
       "type": 3,
       "api": "csp_Jianpian",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
@@ -700,7 +700,7 @@
     },
     {
       "key": "🍁TgYunPanLocal1",
-      "name": "TgYunPanLocal1",
+      "name": "🍁TgYunPanLocal1",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
@@ -714,7 +714,7 @@
     },
     {
       "key": "🍁TgYunPanLocal2",
-      "name": "TgYunPanLocal2",
+      "name": "🍁TgYunPanLocal2",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
@@ -728,7 +728,7 @@
     },
     {
       "key": "🍁TgYunPanLocal3",
-      "name": "TgYunPanLocal3",
+      "name": 🍁"TgYunPanLocal3",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
@@ -742,7 +742,7 @@
     },
     {
       "key": "🍁TgYunPanLocal4",
-      "name": "TgYunPanLocal4",
+      "name":🍁 "TgYunPanLocal4",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
@@ -756,7 +756,7 @@
     },
     {
       "key": "🍁TgYunPanLocal5",
-      "name": "TgYunPanLocal5",
+      "name": 🍁"TgYunPanLocal5",
       "type": 3,
       "api": "csp_TgYunPanLocal",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -770,7 +770,7 @@
     },
     {
       "key": "🍁网盘集合",
-      "name": "网盘集合|4K",
+      "name": 🍁"网盘集合|4K",
       "type": 3,
       "api": "csp_网盘集合",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",     
@@ -827,7 +827,7 @@
         },
        {
       "key": "🍁玩偶gg",
-      "name": "玩偶gg",
+      "name":🍁 "玩偶gg",
       "type": 3,
       "api": "csp_Wogg",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
@@ -842,7 +842,7 @@
         
 		{
       "key": "🍁玩偶 | 蜡笔",
-      "name": "玩偶 | 蜡笔",
+      "name": 🍁"玩偶 | 蜡笔",
       "type": 3,
       "api": "csp_kongbai",
       "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
