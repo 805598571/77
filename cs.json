@@ -3125,6 +3125,8 @@
                 "ratio": 1.485
             }
         },
+{"key":"jkunzyapi.com","name":"鸡坤资源","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
+{"key":"soporn","name":"🔞soporn(T)","type":3,"api":"csp_XBPQ","searchable":0,"recordable":0, "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar","ext":{"简介":"name=\"description\"content=\"&&\"/>","分类url":"https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"}},
    {"key":"dr_29片库","name":"29片库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/29片库[密].js"},
  {"key":"dr_九妖仓库","name":"九妖仓库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/九妖仓库[密].js"},
    {"key":"Gxqvlj","name":"Gxqvlj","type":3,"api":"csp_Gxqvlj","searchable":1,"changeable":1},
@@ -3143,6 +3145,7 @@
             "分类url": "https://y.u9a9y.xyz/?type={cateId}&p={catePg};;m"
                 }
     },
+{"key":"dr_UAA","name":"UAA[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/UAA[密].js"},
 {"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","searchable":1,"changeable":0},
 {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav"},
 {
