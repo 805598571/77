@@ -3010,18 +3010,14 @@
 {"key":"AI2","name":"🤱AI2搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ==","jar":"http://cdn.qiaoji8.com/fix24914.jar"},
 {"key":"AI3","name":"🤱AI3搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp","jar":"http://cdn.qiaoji8.com/fix24914.jar"},
 {
-      "key": "搜影视",
-      "name": "搜影视",
-      "type": 3,
-      "changeable": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": 2,
-      "api": "csp_XBPQ",
-      "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
-      "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/AV搜.json"
-    },
+"key": "csp_XBPQ超清③",
+"name": "🛳超清资源",
+"type": 3,
+"playerType": 1,
+"api": "csp_XBPQ",
+"jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar",
+"ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/天天超清资源.json"
+        },
 {
             "api": "https://ghp.ci/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H包/py/黄色仓库.py",
             "filterable": 1,
@@ -3125,8 +3121,52 @@
                 "ratio": 1.485
             }
         },
-{"key":"jkunzyapi.com","name":"鸡坤资源","type":1,"api":"https://jkunzyapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"playUrl":"json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=","recordable":0,"style":{"type":"rect","ratio":1.33},"header":{"Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7","User-Agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"}},
-{"key":"soporn","name":"soporn(T)","type":3,"api":"csp_XBPQ","searchable":0,"recordable":0, "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar","ext":{"简介":"name=\"description\"content=\"&&\"/>","分类url":"https://www.anticasf.com/cn/tag/{cateId}?page={catePg}"}},
+{
+            "key": "MMM25",
+            "name": "MMM25",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar",
+            "ext": {
+            "数组": "class=\"col-6 col- md-4 col-lg-3 col-xl-3\">&&class=\"video-block video-with-trailer",
+    "图片": "data-src=\"&&\"",
+    "标题": "title\">&&</span>",
+    "链接": "href=\"&&\"",
+    "播放标题": "title\">&&</span>",
+    "播放链接": "href=\"&&\"",
+    "直接播放": "1",
+    "分类": "日本有码$464#日本无码$465#国产情色$466#激情欧美$467#制服丝袜$468#熟女人妻$470#中文字幕$471#巨乳肥臀$472#国产传媒$478",
+    "分类url": "https://xn--2mxw8hnvi.javmmm25.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html"
+  }
+        },
+
+{
+      "key": "csp_XBPQ天天③",
+      "name": "🛳天天",
+      "type": 3,
+      "playerType": 1,
+      "api": "csp_XBPQ",
+      "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar",
+      "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/天天中文资源.json"
+    },
+{
+    "key": "仓库",
+    "name": "仓库影院️ | 业余♻️",
+    "type": 3,
+    "style": {"type": "rect","ratio":1.33},
+    "api": "csp_XBPQ",
+    "ext": {
+    "站名": "仓库影视",
+    "主页url": "http://691hsck.cc",
+    "数组": "<div class=\"stui-vodlist__box\">&&</a",
+    "链接": "href=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "<span class=\"pic-text text-right\">&&</span>",
+    "分类url": "http://691hsck.cc/vodtype/{cateId}-{catePg}.html",
+    "分类": "国产系列$2#欧美系列$3#日韩系列$1#成人动漫$4"},
+    "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
+    },
    {"key":"dr_29片库","name":"29片库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/29片库[密].js"},
  {"key":"dr_九妖仓库","name":"九妖仓库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/九妖仓库[密].js"},
    {"key":"Gxqvlj","name":"Gxqvlj","type":3,"api":"csp_Gxqvlj","searchable":1,"changeable":1},
