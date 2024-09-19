@@ -3149,24 +3149,17 @@
       "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar",
       "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/天天中文资源.json"
     },
-{
-    "key": "仓库",
-    "name": "仓库影院️ | 业余♻️",
-    "type": 3,
-    "style": {"type": "rect","ratio":1.33},
-    "api": "csp_XBPQ",
-    "ext": {
-    "站名": "仓库影视",
-    "主页url": "http://691hsck.cc",
-    "数组": "<div class=\"stui-vodlist__box\">&&</a",
-    "链接": "href=\"&&\"",
-    "图片": "data-original=\"&&\"",
-    "标题": "title=\"&&\"",
-    "副标题": "<span class=\"pic-text text-right\">&&</span>",
-    "分类url": "http://691hsck.cc/vodtype/{cateId}-{catePg}.html",
-    "分类": "国产系列$2#欧美系列$3#日韩系列$1#成人动漫$4"},
-    "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
-    },
+{ "key": "鸡坤资源", "name": "👠鸡坤资源", "type": 1, "api": "https://jkunzyapi.com/api.php/provide/vod/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+{"key": "农夫与少妇",
+            "name": "🔞农夫与少妇",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar", 
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/lib/nfsf.json"
+        },
    {"key":"dr_29片库","name":"29片库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/29片库[密].js"},
  {"key":"dr_九妖仓库","name":"九妖仓库[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/九妖仓库[密].js"},
    {"key":"Gxqvlj","name":"Gxqvlj","type":3,"api":"csp_Gxqvlj","searchable":1,"changeable":1},
@@ -3188,6 +3181,8 @@
 {"key":"dr_UAA","name":"UAA[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/UAA[密].js"},
 {"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","searchable":1,"changeable":0},
 {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav"},
+{"key":"csp_XBPQ_BE視頻","name":"BE視頻[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://l6bvp3.bbbeee.fun/type/{cateId}-{catePg}.html","直接播放": "1","图片": "data-src=\"&&\"","分类":"视频一区$1#视频二区$29#视频三区$47"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+
 {
       "key": "csp堂",
       "name": "堂",
