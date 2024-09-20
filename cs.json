@@ -3231,7 +3231,7 @@
                 "链接": "href=\"&&\"",
                 "播放链接": "href=\"&&\"",
                 "副标题": "<span class=\"pic-text text-right\">&&</span>",
-                "搜索url": "https://hsck1.26img.com/?search2=ndafeoafa&search={wd}",
+                "搜索url": "https://hsck123.26img.com/?p={pg}&search2=ndafeoafa&search={wd}",
                 "搜索模式": "0",
                 "搜索数组": "<div class=\"stui-vodlist__box\">&&</li>",
                 "搜索图片": "data-original=\"&&\"",
@@ -3240,7 +3240,7 @@
                 "免嗅": "1",
                 "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
                 "分类": "无码中文$wz#日本无码$rw#国产视频$gc#欧美高清$om#动漫剧情$dm#其他分类$other#有码中文$yz#日本有码$ry",
-                "分类url": "https://hsck1.26img.com/?type={cateId}&p={catePg};;az"
+                "分类url": "https://hsck123.26img.com/?type={cateId}&p={catePg}"
             }
         },
   
