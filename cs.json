@@ -3074,7 +3074,7 @@
             "name": "JAVSB",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar",   
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
             "ext": {
                 "主页url": "https://jav.sb/",
                 "直接播放": "1",
@@ -3130,43 +3130,13 @@
                 "ratio": 1.485
             }
         },
- {
-            "key": "JavDb",
-            "name": "🔞JavDb┃磁力",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "timeout": 60,
-            "ext": "https://javdb368.com$$$127.0.0.1:10072",
-            "style": {
-                "type": "rect",
-                "ratio": 1.485
-            }
-        },
-        {
-            "key": "JavBus",
-            "name": "🔞JavBus┃磁力",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "timeout": 60,
-            "ext": "https://www.busfan.help$$$127.0.0.1:10072",
-            "style": {
-                "ratio": 1.485
-            }
-        },
+ 
 {
             "key": "大师兄影视H版",
             "name": "大师兄影视|H版",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar", 
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", 
             "playerType": "2",
             "ext": {
                 "请求头": "手机",
@@ -3189,13 +3159,13 @@
                 "分类url": "http://www.dsxdy.shop/index.php/vodshow/{cateId}--------{catePg}---.html"
             }
         },
-   {"key":"三千","name":"三千","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar", "searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"1:www.sqmfav.cc,2:www.sqmfav.xyz,3:www.sqmfav.top","主页url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya","二次截取":"<ul class=\"thumbnail-group&&</ul","数组":"<li&&</li","图片":"data-original=\"&&\"","标题":"<h5><a href=*>&&</a","副标题":"<p class=*>&&-","简介":"description\" content=\"&&【","链接":"href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/search/page/{pg}/wd/{wd}.html","分类数组":"<a&&/a","分类标题":">&&<[不包含:更多]","分类ID":"/duoziyuan/laoya/index.php/vod/type/id/&&.html","分类url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},    
+   {"key":"三千","name":"三千","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", "searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"1:www.sqmfav.cc,2:www.sqmfav.xyz,3:www.sqmfav.top","主页url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya","二次截取":"<ul class=\"thumbnail-group&&</ul","数组":"<li&&</li","图片":"data-original=\"&&\"","标题":"<h5><a href=*>&&</a","副标题":"<p class=*>&&-","简介":"description\" content=\"&&【","链接":"href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/search/page/{pg}/wd/{wd}.html","分类数组":"<a&&/a","分类标题":">&&<[不包含:更多]","分类ID":"/duoziyuan/laoya/index.php/vod/type/id/&&.html","分类url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},    
 {
             "key": "csp_XBPQ_yyxl",
             "name": "夜夜新郎",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar",  
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -3243,7 +3213,37 @@
 {"key":"av188","name":"Netflav|网盘","type":3,"api":"csp_Netflav","searchable":1,"changeable":0},
 {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav"},
 {"key":"csp_XBPQ_BE視頻","name":"BE視頻[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://l6bvp3.bbbeee.fun/type/{cateId}-{catePg}.html","直接播放": "1","图片": "data-src=\"&&\"","分类":"视频一区$1#视频二区$29#视频三区$47"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
-
+ {
+            "key": "csp_hs",
+            "name": "🔞库库",
+            "type": 3,
+             "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "站名": "黄仓库",
+                "主页url": "https://hsck1.26img.com/",
+                "直接播放": "1",
+                "数组": "<div class=\"stui-vodlist__box\">&&</li>",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "链接": "href=\"&&\"",
+                "播放链接": "href=\"&&\"",
+                "副标题": "<span class=\"pic-text text-right\">&&</span>",
+                "搜索url": "https://hsck1.26img.com/?search2=ndafeoafa&search={wd}",
+                "搜索模式": "0",
+                "搜索数组": "<div class=\"stui-vodlist__box\">&&</li>",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索标题": "title=\"&&\"",
+                "搜索链接": "href=\"&&\"",
+                "免嗅": "1",
+                "嗅探词": ".m3u8#.mp4#.flv#.m4a#.avi#.mkv#.mov#.3gp#.asf#.rm#.rmvb#.wmv#.mpg#.mpeg#.mpe#.ts#.vob#.mp3#.wma",
+                "分类": "无码中文$wz#日本无码$rw#国产视频$gc#欧美高清$om#动漫剧情$dm#其他分类$other#有码中文$yz#日本有码$ry",
+                "分类url": "https://hsck1.26img.com/?type={cateId}&p={catePg};;az"
+            }
+        },
+  
 {
       "key": "csp堂",
       "name": "堂",
