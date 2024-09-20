@@ -3136,7 +3136,7 @@
             "name": "大师兄影视|H版",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", 
+            "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
             "playerType": "2",
             "ext": {
                 "请求头": "手机",
@@ -3159,7 +3159,7 @@
                 "分类url": "http://www.dsxdy.shop/index.php/vodshow/{cateId}--------{catePg}---.html"
             }
         },
-   {"key":"三千","name":"三千","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar", "searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"1:www.sqmfav.cc,2:www.sqmfav.xyz,3:www.sqmfav.top","主页url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya","二次截取":"<ul class=\"thumbnail-group&&</ul","数组":"<li&&</li","图片":"data-original=\"&&\"","标题":"<h5><a href=*>&&</a","副标题":"<p class=*>&&-","简介":"description\" content=\"&&【","链接":"href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/search/page/{pg}/wd/{wd}.html","分类数组":"<a&&/a","分类标题":">&&<[不包含:更多]","分类ID":"/duoziyuan/laoya/index.php/vod/type/id/&&.html","分类url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},    
+   {"key":"三千","name":"三千","type":3,"api":"csp_XBPQ",  "jar": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar", "searchable":1,"quickSearch":1,"filterable":1,"ext":{"发布地址":"1:www.sqmfav.cc,2:www.sqmfav.xyz,3:www.sqmfav.top","主页url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya","二次截取":"<ul class=\"thumbnail-group&&</ul","数组":"<li&&</li","图片":"data-original=\"&&\"","标题":"<h5><a href=*>&&</a","副标题":"<p class=*>&&-","简介":"description\" content=\"&&【","链接":"href=\"&&\"[替换:detail>>play#.html>>/sid/1/nid/1.html]","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索模式":"1","搜索url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/search/page/{pg}/wd/{wd}.html","分类数组":"<a&&/a","分类标题":">&&<[不包含:更多]","分类ID":"/duoziyuan/laoya/index.php/vod/type/id/&&.html","分类url":"https://ru4.sqmfav-ebvq.buzz/duoziyuan/laoya/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}},    
 {
             "key": "csp_XBPQ_yyxl",
             "name": "夜夜新郎",
