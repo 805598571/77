@@ -285,17 +285,10 @@
                 "分类": "电影$1#电视剧$2#18禁$11#动漫$4#动作片$5#爱情片$6#科幻片$7#恐怖片$8#战争片$9#喜剧片$10#综艺$3#剧情片$12#大陆剧$13#港台剧$14#欧美剧$15#日韩剧$16"
             }
         },
-{
-  "key": "小点",
-  "name": "💥小点多线",
-  "type": 3,
-  "api": "csp_Appxd",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1724162869872/fan.txt;md5;5d760b50584f03b3f71c8a6d1c17aa8e",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 0,
-  "ext": "FbjEd1ddiJ6bwA0Z8ijG89k6OstPBosSHy5L8uXWgRZGSNrCqC7DmxucvvflR3fsMy/Wnih3xSpmA3pwCNspfAcIH4fYhmOEdGxX3jEdjqUpC+m0fSxkNAbkIy0diJWirn+WOtBkBcYhsgA8u1igBBUadbO0s0MCPsYcbHFRNw=="
-},
+
+			{"key":"csp_Yhys","name":"🎥｜宇航｜肥貓","type":3,"api":"csp_Yhys","playerType":2,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar"},
+			{"key":"宇航影视","name":"🎥｜宇航｜XYQ","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍:+video-info-itemvideo-info-contentvod_content\">&&</div>","分类url":"http://yuhang007.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$34#电视剧$2#电影$1#动漫$4#综艺$3"}},
+			{"key":"csp_XYQHiker_华乐影院","name":"🎥｜华乐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/华乐影院.json","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar"},
 {
   "key": "可可",
   "name": "👻可可多线",
@@ -3137,6 +3130,37 @@
                 "ratio": 1.485
             }
         },
+ {
+            "key": "JavDb",
+            "name": "🔞JavDb┃磁力",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "https://javdb368.com$$$127.0.0.1:10072",
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
+        },
+        {
+            "key": "JavBus",
+            "name": "🔞JavBus┃磁力",
+            "type": 3,
+            "api": "csp_JavBus",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "timeout": 60,
+            "ext": "https://www.busfan.help$$$127.0.0.1:10072",
+            "style": {
+                "ratio": 1.485
+            }
+        },
 {
             "key": "大师兄影视H版",
             "name": "大师兄影视|H版",
@@ -3584,11 +3608,12 @@
 			"type": 0,
 			"url": "https://v.ljxnet.cn/?url="
 		},
-		{
-            "name": "巧技",
-            "type": 1,
-            "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url="
-        },
+	{"name": "📦天招4k会员1","type": 1,"url": "http://122.228.85.203:6789/api/?key=b0eb275e1d779b0b2c0f9644f6d6bf83&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析
+
+
+
+
+{"name":"📦天招4k会员2","type": 1,"url":"http://122.228.85.203:7979/api/?key=b9ef43e71b3fc7fb3c23a9ff8f970d18&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
 		{
 		    "name":"xmflv",
 		    "type":0,
