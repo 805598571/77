@@ -45,8 +45,8 @@
       "changeable": 0,
 	  "indexs": 0
     },
-{"key":"csp_xp_yoozhibo","name":💋"赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
-{"key":"csp_xp_ddkanqiu","name":💋"低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
+{"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {
       "key": "115",
       "name": "💓‍115┃4K💓‍",
@@ -3139,17 +3139,7 @@
         "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
 {"key":"csp_XBPQ酷","name":"酷[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://youku.syk6.fun/youku/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail\"&&</div></li","图片": "data-original=\"&&\"","分类":"国产视频$1#网曝泄密$2#日本无码$3#日本有码$4#无码中字$5#有码中字$6#欧美视频$7#色情动漫$8"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {"key":"csp_XBPQ_SOSOPA","name":"SOSOPA[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.sosopa5.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail group\"&&</div>","图片": "data-original=\"&&\"","分类":"國產$12#日本$10#韓國$11#歐美$5#動漫$6#三級$9#AV解說$9#AI換臉$14"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
-{
-            "key": "csp_XBPQ_花丛视频",
-            "name":"花丛视频(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/XBPQ/花丛视频.json",
-            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/xkl0525.jar;md5;478A5CBD0EF4FA23B183B98BD8E8E914"
-        },
+
 {
             "key": "csp_XBPQ_yyxl",
             "name": "夜夜新郎",
