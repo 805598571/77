@@ -459,7 +459,7 @@
 },
 {
 			"key":"csp_Nkdy",
-			"name":"耐看",
+			"name":"💗耐看",
 			"type":3,
 			"api":"csp_Nkdy",
 			"searchable":1,
@@ -469,7 +469,7 @@
 		},
 		{
 			"key":"csp_Qiyou",
-			"name":"淘奇",
+			"name":"💗淘奇",
 			"type":3,
 			"api":"csp_Qiyou",
 			"searchable":1,
@@ -479,7 +479,7 @@
 		},
 		{
 			"key":"哔嘀影视",
-			"name":"哔嘀",
+			"name":💗"哔嘀",
 			"type":3,
 			"api":"csp_XYQHiker",
 			"searchable":1,
@@ -3191,6 +3191,8 @@
                 "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
             }
         },
+{"key":"csp_XBPQ酷","name":"酷[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://youku.syk6.fun/youku/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail\"&&</div></li","图片": "data-original=\"&&\"","分类":"国产视频$1#网曝泄密$2#日本无码$3#日本有码$4#无码中字$5#有码中字$6#欧美视频$7#色情动漫$8"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_SOSOPA","name":"SOSOPA[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.sosopa5.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail group\"&&</div>","图片": "data-original=\"&&\"","分类":"國產$12#日本$10#韓國$11#歐美$5#動漫$6#三級$9#AV解說$9#AI換臉$14"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {
             "key": "csp_XBPQ_yyxl",
             "name": "夜夜新郎",
