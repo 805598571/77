@@ -45,8 +45,8 @@
       "changeable": 0,
 	  "indexs": 0
     },
-{"key":"csp_xp_yoozhibo","name":"赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
-{"key":"csp_xp_ddkanqiu","name":"低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
+{"key":"csp_xp_yoozhibo","name":💋"赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_ddkanqiu","name":"💋低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {
       "key": "115",
       "name": "💓‍115┃4K💓‍",
@@ -286,9 +286,7 @@
             }
         },
 
-			{"key":"csp_Yhys","name":"🎥｜宇航｜肥貓","type":3,"api":"csp_Yhys","playerType":2,"jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/PandaQ240913.jar"},
-			{"key":"宇航影视","name":"🎥｜宇航｜XYQ","type":3,"api":"csp_XBPQ","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar","ext":{"简介":"小林子为您剧情介绍:+video-info-itemvideo-info-contentvod_content\">&&</div>","分类url":"http://yuhang007.com/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"短剧$34#电视剧$2#电影$1#动漫$4#综艺$3"}},
-			{"key":"csp_XYQHiker_华乐影院","name":"🎥｜华乐","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/json/华乐影院.json","jar":"https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/zy.jar"},
+{"key":"hipy_js_旋风视频","name":"味精┃独家┃旋风","type":3,"api":"https://bitbucket.org/xduo/libs/raw/master/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"ext":"https://bitbucket.org/xduo/libs/raw/master/drpy_js/旋风视频.js"},
 {
   "key": "可可",
   "name": "👻可可多线",
@@ -3170,29 +3168,20 @@
         "分类数组":"<a&&/a",
         "分类标题":">&&<",
         "分类ID":"/vod/type/id/&&/",
-        "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}}, {
-            "key": "avge",
-            "name": "💗┃💋AVge┃💠",
-            "type": 3,
-            "api": "csp_XBPQ",
-            
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": {
-                "主页url": "https://avgle.to",
-                "数组": "col-6 col-sm-4 col-lg-3\">&&class=\"sub-title&&</div>",
-                "图片": "data-src=\"&&\"",
-                "标题": "class=\"title\"><a*>&&</a >",
-                "链接": "<a href=\"&&\"",
-                "直接播放": "1",
-                "分类url": "http://avgle.to/zh/vtype/{cateId}-{catePg}.html",
-                "分类": "日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#中文字幕$JAV_CHN.SUBs#有碼破壞$Mosaic_Removed#MGS動画$MGS#國產成人$Asian_Amateur#歐美成人$Western_Porn#寫真特級$Adult_IDOL#動畫$Anime"
-            }
-        },
+        "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
 {"key":"csp_XBPQ酷","name":"酷[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://youku.syk6.fun/youku/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail\"&&</div></li","图片": "data-original=\"&&\"","分类":"国产视频$1#网曝泄密$2#日本无码$3#日本有码$4#无码中字$5#有码中字$6#欧美视频$7#色情动漫$8"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {"key":"csp_XBPQ_SOSOPA","name":"SOSOPA[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.sosopa5.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail group\"&&</div>","图片": "data-original=\"&&\"","分类":"國產$12#日本$10#韓國$11#歐美$5#動漫$6#三級$9#AV解說$9#AI換臉$14"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{
+            "key": "csp_XBPQ_花丛视频",
+            "name":💋 "花丛视频(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/XBPQ/花丛视频.json",
+            "jar": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/xkl0525.jar;md5;478A5CBD0EF4FA23B183B98BD8E8E914"
+        },
 {
             "key": "csp_XBPQ_yyxl",
             "name": "夜夜新郎",
