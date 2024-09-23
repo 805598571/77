@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;ff53b1105d4725d608c89d3ad28a0aaa6",
+	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;53625aa779510a1184f090e7958c9c69",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"https://gitlab.com/kerkier/yhb/-/blob/main/lib/cs.jpeg",
 	"sites": [{
@@ -701,6 +701,49 @@
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
             }
         },
+ {
+            "key": "csp_秒播",
+            "name": "米其林秒播",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {"分类": "国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
+  "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", 
+  "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
+  "数组二次截取": "list\":[&&]", 
+  "数组": "{&&}[不包含:]", 
+  "图片": "vod_pic\":\"&&\"", 
+  "标题": "vod_name\":\"&&\"", 
+  "副标题": "+vod_remarks\":\"&&\"", 
+  "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
+  "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", 
+  "搜索模式": "1", 
+  "搜索二次截取": "list\":[&&]", 
+  "搜索数组": "{&&}[不包含:]", 
+  "搜索图片": "vod_pic\"*\"&&\"", 
+  "搜索标题": "vod_name\"*\"&&\"", 
+  "搜索副标题": "type_name\":\"&&\"", 
+  "搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
+  "影片类型": "vod_class\"*\"&&\"", 
+  "导演": "vod_director\"*\"&&\"", 
+  "主演": "vod_actor\"*\"&&\"", 
+  "简介":  "vod_content\"*\"&&\"", 
+  "线路二次截取": "\"list\":[&&]", 
+  "线路数组": "<h3 class=\"title\">&&</h3>[排序:播放线路3>播放线路2>播放线路4>播放线路5>播放线路6>播放线路1>]", 
+  "线路标题": "夜泊金沙+>播放线路</h3>", 
+  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", 
+  "播放二次截取": "", 
+  "播放列表": "表&&表", 
+  "播放标题": "题&&题", 
+  "播放链接": "链&&链", 
+  "嗅探词": ".m3u8", 
+  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
+  "免嗅": "0" 
+}},
+
 	 {"key":"csp_xBPQ可可","name":"可可|影视x","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"},
 {"key":"csp_圣城","name":"📺圣城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2883/nzk/圣城影视.json","jar":"https://download.kstore.space/download/2883/nzk/nzk0722.jar"},
 {"key":"csp_xBPQ_奇优","name":"📺奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2883/nzk/奇优影视.json","jar":"https://download.kstore.space/download/2883/nzk/nzk0722.jar"},
@@ -3113,7 +3156,21 @@
             }
         },
  {"key":"努可影院","name":"努可影院","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},
-
+{
+            "key": "netflav5",
+            "name": "netflav5🔞🧲",
+            "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",      
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+                "数组": "grid_0_cell&&video_grid_overlays_root",
+                "标题": "grid_0_title\">&&</div>",
+                "图片": "src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://netflav5.com/{cateId}?page={catePg};;z",
+                "分类": "有码$censored#无码$uncensored#中文字幕$chinese-sub"
+            }
+        },
   {"key":"天堂岛",
         "name":"天堂岛",
         "type":3,
