@@ -3144,7 +3144,7 @@
 		},  
 {
             "key": "Netflav",
-            "name": "Netflav",
+            "name":"Netflav",
             "type": 3,
             "api": "csp_Netflav",
             "searchable": 1,
@@ -3156,28 +3156,7 @@
             }
         },
  {"key":"努可影院","name":"努可影院","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},
-{
-      "key": "手",
-      "name": "手",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",     
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.99
-      },
-      "ext": {
-        "请求头": "手机",
-        "免嗅探": "开",
-        "直接播放": "1",
-        "数组": "<div class=\"stui-vodlist__box\">&&</div>",
-        "分类url": "http://8718ck.cc/vodtype/{cateId}-{catePg}.html",
-        "分类": "日韩AV$1#国产系列$2#欧美$3#成人动漫$4"
-      }
-    },
+
   {"key":"天堂岛",
         "name":"天堂岛",
         "type":3,
@@ -3203,7 +3182,7 @@
         "分类url":"https://www.ttdao666.buzz/vod/type/id/{cateId}/page/{catePg}/;;z"}},
 {"key":"csp_XBPQ酷","name":"酷[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://youku.syk6.fun/youku/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail\"&&</div></li","图片": "data-original=\"&&\"","分类":"国产视频$1#网曝泄密$2#日本无码$3#日本有码$4#无码中字$5#有码中字$6#欧美视频$7#色情动漫$8"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {"key":"csp_XBPQ_SOSOPA","name":"SOSOPA[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.sosopa5.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail group\"&&</div>","图片": "data-original=\"&&\"","分类":"國產$12#日本$10#韓國$11#歐美$5#動漫$6#三級$9#AV解說$9#AI換臉$14"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
-
+{"key":"csp_XBPQ_3GO.FUN","name":"3GO.FUN[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://3gofun.online/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","分类":""},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {
             "key": "csp_XBPQ_yyxl",
             "name": "夜夜新郎",
