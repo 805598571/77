@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;53625aa779510a1184f090e7958c9c69",
+	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;677a128c268db2099543e6d4ccf4061d",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"https://gitlab.com/kerkier/yhb/-/blob/main/lib/cs.jpeg",
 	"sites": [{
@@ -1712,6 +1712,7 @@
             "name": "土豆｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar", 
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
