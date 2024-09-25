@@ -3562,13 +3562,31 @@
             }
         },
  {"key":"努可影院","name":"努可影院","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},
-
-  
+{"key":"csp_xBPQ_清","name":"清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉超清.json","jar":"https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar"},
+{"key":"csp_xBPQ_热","name":"热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉久久热.json","jar":"https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar"},
+	{"key":"csp_xBPQ_产","name":"产","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉国产.json","jar":"https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar"},
+	{"key":"csp_xBPQ_搜索","name":"搜索","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉搜索.json","jar":"https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar"},
+	{"key":"csp_xBPQ源","name":"源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉资源.json","jar":"https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar"},
+  {
+      "key": "k",
+      "name": "k",
+      "type": 3,
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄仓库.json"
+    },
 {"key":"csp_XBPQ酷","name":"酷[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://youku.syk6.fun/youku/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","数组":"class=\"thumbnail\"&&</div></li","图片": "data-original=\"&&\"","分类":"国产视频$1#网曝泄密$2#日本无码$3#日本有码$4#无码中字$5#有码中字$6#欧美视频$7#色情动漫$8"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {"key":"dr_飞狗影院","name":"飞狗影院[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/飞狗影院[密].js"},
 {"key":"dr_一点视频","name":"一点视频[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/一点视频[密].js"},
 {"key":"dr_老司视频","name":"老司视频[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/老司视频[密].js"},
-{"key":"玩偶","name":"大白兔","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
+{"key":"偶","name":"大白兔","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {
         "主页url": "https://dcwxgf.dbtav9.today/cn/home/web/",
         "直接播放": "1",
         "分类url": "https://dcwxgf.dbtav9.today/vodtype/{cateId}/{catePg}/;;a",
@@ -3676,7 +3694,7 @@
 "简介":"<p>&&</p>",
 "分类url":"https://su-qq.vip/gccm/{cateId}-{catePg}.html",
 "免嗅":"0"}},
-
+{"key":"dr_地瓜视频","name":"地瓜视频[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/地瓜视频[密].js"},
 {"key":"农夫",
             "name": "农夫",
             "type": 3,
