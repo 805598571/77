@@ -182,7 +182,7 @@
     },
 {
       "key": "hipy_js_好趣网",
-      "name": "电视|直播",
+      "name": "💋电视|直播",
       "type": 3,
       "api": "https://www.gitlink.org.cn/api/kvymin/TVRule/raw/quickjs/lib/drpy2.min.js?ref=JavaScript",
       "searchable": 1,
@@ -195,7 +195,7 @@
 
   { 
   "key": "酷云$七七",
-  "name": "🌤️酷云七七",
+  "name": "💋酷云七七",
   "type":3,
   "api":"csp_XBPQ",
   "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
@@ -565,7 +565,7 @@
 {"key":"csp_xBPQ_奇优","name":"🏥┃奇优TV┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/X/main/json/奇优影视.json","jar":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/X/main/jar/HeChengChaXiu.jar"},
  {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
 {"key":"csp_IQIYI_ZAL","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
-{"key":"csp_MGTV_ZAL","name":"雷蒙影视 | 🥭芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
+{"key":"csp_MGTV_ZAL","name":"💋雷蒙影视 |💋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
 {"key":"csp_QQ_ZAL","name":"雷蒙影视 | 🐧腾讯视频(SP)","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
 {"key":"csp_YOUKU_ZAL","name":"雷蒙影视 | 🔻优酷(SP)","type":3,"api":"csp_YOUKU","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
 {"key":"csp_Xunlei8","name":"🧲迅雷电影","type":3,"api":"csp_Xunlei8","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitee.com/liu4331126/liu4331126/raw/master/jar/Yoursmile0721.jar"},
@@ -734,48 +734,129 @@
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
             }
         },
+{
+            "key": "白羊影院",
+            "name": "👨‍👩‍👧邵氏影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+              "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "./lib/白羊影院.json"
+        },
  {
-            "key": "csp_秒播",
-            "name": "💋米其林秒播",
+            "key": "影视森林",
+            "name": "🐘森林影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+              "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.ncshdxx.com/",
+                "分类url": "https://www.ncshdxx.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}/",
+                "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#爽文短剧$shuangwenduanju#4k电影$4kdianying#体育赛事$tiyusaishi",
+                "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian#武侠片$wuxiapian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||空||空"
+            }
+        },
+         {
+            "key": "影梦影视",
+            "name": "💭梦莹影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+          
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://m.yingmeng.net/",
+                "分类url": "https://m.yingmeng.net/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4#短剧$35#体育$39#预告片$60#电影解说$44",
+                "类型": "动作片$6#喜剧片$7#科幻片$8#恐怖片$9#爱情片$10#记录片$11#灾难片$12#悬疑片$62#犯罪片$61#奇幻片$54#动画片$59#战争片$33#剧情片$34#其他$53||国产剧$14#香港剧$13#日本剧$15#泰剧$16#欧美剧$58#韩国剧$57#台湾剧$56#海外剧$21#其他$22||国产动漫$23#日本动漫$24#欧美动漫$25#港台动漫$26#其他$27||国产综艺$28#日韩综艺$29#欧美综艺$30#港台综艺$31#其他$32||重生民国$45#穿越年代$46#现代言情$47#反转爽文$48#女恋总裁$49#闪婚离婚$50#都市脑洞$51#古装仙侠$52||足球$40#篮球$41#网球$42#斯诺克$43#赛事$55||空||空",
+                "剧情": "喜剧&爱情&动作&动画&恐怖&惊悚&枪战&悬疑&科幻&战争&犯罪&奇幻&剧情&青春&冒险&家庭&警匪&历史&武侠&儿童&灾难&传记&伦理&运动&音乐&魔幻&歌舞&戏曲&玄幻&西部&悲剧&史诗&其他||爱情&古装&悬疑&都市&家庭&喜剧&传奇&武侠&军旅&权谋&革命&现实&青春&猎奇&科幻&竞技&玄幻||交幻&科幻&武侠&冒险&战斗&搞笑&恋爱&魔幻&竞技&悬疑&日常&校园&真人&推理&历史&经典&其他||游戏&脱口秀&音乐舞台&情感&生活&职场&喜剧&美食&潮流运动&竞技&影视&电竞&推理&访谈&亲子&文化&互动&晚会&资讯&其他||空||空||空||空",
+                "剧情值": "*"
+            }
+        },       
+         {
+            "key": "妖狐影视",
+            "name": "🦊妖妃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+        
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 0,
-            "ext": {"分类": "国产剧&国产动漫&电影&爱情片&恐怖片&战争片&科幻片&动作片&综艺&欧美剧&港台剧&日韩剧", 
-  "分类值": "14&75&1&26&36&25&30&23&69&15&16&62", 
-  "分类url": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}", 
-  "数组二次截取": "list\":[&&]", 
-  "数组": "{&&}[不包含:]", 
-  "图片": "vod_pic\":\"&&\"", 
-  "标题": "vod_name\":\"&&\"", 
-  "副标题": "+vod_remarks\":\"&&\"", 
-  "链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
-  "搜索url": "https://api.zeqaht.com/api.php/provide/vod?ac=detail&wd={wd}", 
-  "搜索模式": "1", 
-  "搜索二次截取": "list\":[&&]", 
-  "搜索数组": "{&&}[不包含:]", 
-  "搜索图片": "vod_pic\"*\"&&\"", 
-  "搜索标题": "vod_name\"*\"&&\"", 
-  "搜索副标题": "type_name\":\"&&\"", 
-  "搜索链接": "https://api.zeqaht.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,", 
-  "影片类型": "vod_class\"*\"&&\"", 
-  "导演": "vod_director\"*\"&&\"", 
-  "主演": "vod_actor\"*\"&&\"", 
-  "简介":  "vod_content\"*\"&&\"", 
-  "线路二次截取": "\"list\":[&&]", 
-  "线路数组": "<h3 class=\"title\">&&</h3>[排序:播放线路3>播放线路2>播放线路4>播放线路5>播放线路6>播放线路1>]", 
-  "线路标题": "夜泊金沙+>播放线路</h3>", 
-  "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]", 
-  "播放二次截取": "", 
-  "播放列表": "表&&表", 
-  "播放标题": "题&&题", 
-  "播放链接": "链&&链", 
-  "嗅探词": ".m3u8", 
-  "播放请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Origin$www.whbax.cn#Referer$www.whbax.cn#Cookie$PHPSESSID=7da46a353cf8bac46b4f8226f06042ad", 
-  "免嗅": "0" 
-}},
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.midianshi.com/",
+                "分类url": "https://www.midianshi.com/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#热门短剧$remenduanju#体育赛事$tiyusaishi",
+                "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju#爽文短剧$shuangwenduanju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||篮球$lanqiu#足球$zuqiu"
+            }
+        }, 
+            {
+            "key": "青苹果影院",
+            "name": "🍏青苹果影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.meizhifeng.com/",
+                "分类url": "/vodshow/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
+                "分类": "电影$dianying#电视剧$dsj#综艺$zongyi#动漫$dongman#热门短剧$remenduanju#体育赛事$tiyusaishi",
+                "类型": "喜剧片$xijupian#动作片$dongzuopian#爱情片$aiqingpian#科幻片$kehuanpian#恐怖片$kongbupian#剧情片$juqingpian#战争片$zhanzhengpian#悬疑片$xuanyipian#犯罪片$fanzuipian#冒险片$maoxianpian#动画片$donghuapian#惊悚片$jingsongpian#奇幻片$qihuanpian#纪录片$jilupian||国产剧$guochanju#欧美剧$oumeiju#日剧$riju#韩剧$hanju#港剧$gangju#台剧$taiju#泰剧$taiju#海外剧$haiwaiju#爽文短剧$shuangwenduanju||空||国产动漫$guochandongman#日韩动漫$rihandongman#欧美动漫$oumeidongman#港台动漫$gangtaidongman#海外动漫$haiwaidongman||空||篮球$lanqiu#足球$zuqiu",
+                "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他||空||空",
+                "剧情值": "*",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他||空||空",
+                "地区值": "*",
+                "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它||国语&英语&粤语&闽南语&韩语&日语&其它||国语&英语&粤语&闽南语&韩语&日语&其它||国语&英语&粤语&闽南语&韩语&日语&其它||空||空",
+                "语言值": "*",
+                "年份": "2000-2024",
+                "年份值": "*",
+                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+                "字母值": "*",
+                "排序": "时间&人气&评分",
+                "排序值": "time&hits&score"
+            }
+        },    
+          {
+            "key": "影视大全",
+            "name": "🖼影视大全",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      
+            "ext": {
+                "分类url": "https://www.daquan9.cc/dqshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#记录片$20||国产剧$13#香港剧$14#韩国剧$15#欧美剧$16#台湾剧$21#日本剧$22#泰国剧$23||空||空",
+                "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||选秀&情感&访谈&播报&旅游&音乐&美食&纪实&曲艺&生活&游戏互动&财经&求职||情感&科幻&热血&推理&搞笑&冒险&萝莉&校园&动作&机战&运动&战争&少年&少女&社会&原创&亲子&益智&励志&其他",
+                "剧情值": "*",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他||内地&韩国&香港&台湾&日本&美国&泰国&英国&新加坡&其他||内地&港台&日韩&欧美||国产&日本&欧美&其他",
+                "地区值": "*",
+                "年份": "2000-2024",
+                "年份值": "*",
+                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+                "字母值": "*",
+                "排序": "时间&人气&评分",
+                "排序值": "time&hits&score"
+            }
+        },
 {
             "key": "8号影院",
             "name": "🌞首选┃蓝光┃专线",
@@ -1170,6 +1251,9 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
             }
         },
+{"key":"两个BT","name":"🖼BT影院","type":3,"api":"csp_XBPQ",
+"jar": "https://cdn05042023.gitlink.org.cn/rghy/jy/raw/branch/master/yt.jar",
+"searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.bttwo.org/{cateId}/page/{catePg}/.;;ar1","分类":"今日更新$new-movie#高分电影$gf#电视剧$dsj#热门$hot#国产剧$zgjun#美剧$meiju#日韩剧$jpsrtv"}},
 	 {"key":"csp_xBPQ可可","name":"💓可可|影视x","type":3,"api":"csp_XBPQ", "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gitlink.org.cn/attachments/entries/get_file?download_url=https://www.gitlink.org.cn/api/guot55/yg/raw/pg%2Flib%2F%E5%8F%AF%E5%8F%AF%E5%BD%B1%E8%A7%86.json?ref=main"},
 {"key":"csp_圣城","name":"📺圣城影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2883/nzk/圣城影视.json","jar":"https://download.kstore.space/download/2883/nzk/nzk0722.jar"},
 {"key":"csp_xBPQ_奇优","name":"📺奇优影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://download.kstore.space/download/2883/nzk/奇优影视.json","jar":"https://download.kstore.space/download/2883/nzk/nzk0722.jar"},
@@ -1310,7 +1394,7 @@
 			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
 {"key": "玩偶gg",
-      "name": "💓玩偶gg",
+      "name": "💋玩偶gg",
       "type": 3,
       "api": "csp_Wogg",
       "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
@@ -2096,7 +2180,7 @@
 		},
 		{
 			"key": "木偶",
-			"name": "🪵木偶┃云盘",
+			"name": "💋木偶┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
 			"searchable": 1,
@@ -3128,7 +3212,7 @@
 		},
 		{
 			"key": "UpYun",
-			"name": "🦶UP搜┃云搜",
+			"name": "💋UP搜┃云搜",
 			"type": 3,
 			"api": "csp_UpYun",
 			"searchable": 1,
