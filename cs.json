@@ -47,6 +47,8 @@
     },
 {"key":"csp_xp_yoozhibo","name":"🛳赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
 {"key":"csp_xp_ddkanqiu","name":"🛳低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
+{"key":"TGYunPanLocal","name":"🉑1TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
+	{"key":"TGYunPan","name":"🉑2TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},
 {
       "key": "115",
       "name": "💓‍115┃4K💓‍",
@@ -3452,15 +3454,8 @@
 {"key":"drpy_js_技术派搜索","name":"🧲｜技术派","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/main/lib/drpy2.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/main/js/jsp.js"},
 {"key":"AI2","name":"🤱AI2搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ==","jar":"http://cdn.qiaoji8.com/fix24914.jar"},
 {"key":"AI3","name":"🤱AI3搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp","jar":"http://cdn.qiaoji8.com/fix24914.jar"},
-{
-"key": "csp_XBPQ超清③",
-"name": "🛳超清资源",
-"type": 3,
-"playerType": 1,
-"api": "csp_XBPQ",
-"jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar",
-"ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/天天超清资源.json"
-        },
+{"key":"csp_XBPQ播","name":"播[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.wmkb1.buzz/vodtype/{cateId}-{catePg}.html","线路标题":"檸檬影視+>&&<","播放数组": "class=\"detail-source&&</div>","图片": "data-original=\"&&\"","分类":"精品推荐$44#传媒出品$68#日本无码$31#日本有码$30#制服诱惑$22#强奸乱伦$21"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_一号","name":"一号[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://1hbz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "0","图片": "img src=\"&&\"","线路标题":"檸檬影視+>&&<","播放数组": "class=\"detail-content tab-content&&</div>","分类":"日韩视频$1#国产传媒$2#日本无码$3#动漫卡通$4#欧美情色$5"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {
             "api": "https://ghp.ci/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/H包/py/黄色仓库.py",
             "filterable": 1,
@@ -3618,8 +3613,8 @@
       "type": 3,
       "playerType": 1,
       "api": "csp_XBPQ",
-      "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar",
-      "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/天天中文资源.json"
+      "jar": "https://git.acwing.com/lltv/69/-/raw/main/jar/xyq.jar",
+      "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/lib/天天AV解说.json"
     },
 {
       "key": "影视",
@@ -3656,7 +3651,7 @@
       "name": "🛳天天综合",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/jar/XBPQ.jar", 
+      "jar": "https://git.acwing.com/lltv/69/-/raw/main/jar/xyq.jar", 
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
