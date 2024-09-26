@@ -630,6 +630,7 @@
   "name":"🕶️墨点影视",
   "type":3,
   "api":"csp_XBPQ",
+  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",   
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -642,6 +643,7 @@
   "name":"🕵️‍♀️老王电影",
   "type":3,
   "api":"csp_XBPQ",
+  "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",  
   "searchable":1,
   "quickSearch":1,
   "filterable":1,
@@ -834,7 +836,7 @@
             "name": "💋星辰｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-	 "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+	    "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",    
             "ext": {
                 "分类url": "http://m.disc800.com/species/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/page/{catePg}/year/{year}.html",
                 "分类": "电影$1#连续剧$2#动漫$3#综艺$4#纪录片$5"
@@ -1103,7 +1105,7 @@
 		"name": "🎥｜飞兔",
 		"type": 3,
 		"api": "csp_XPathFilter",
-		"jar": https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;2dd1047cb29daf7d351201a1cca49ae5",
+		"jar": "https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/dokilwss.jar;md5;2dd1047cb29daf7d351201a1cca49ae5",
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1,
