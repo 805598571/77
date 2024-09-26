@@ -17,6 +17,1553 @@ CCTV15音乐,http://115.171.216.191:4000/udp/225.1.8.74:8136
 CCTV17农业农村,http://115.171.216.191:4000/udp/225.1.8.17:8144
 CCTV5+体育赛事,http://115.171.216.191:4000/udp/225.1.8.20:8004
 CETV1,http://115.171.216.191:4000/udp/225.1.8.32:8152
+极速频道,#genre#
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=1&time=20240924132303&ip=111.60.49.200
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=2&time=20240924132303&ip=111.60.49.200
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240924132303&ip=111.60.49.200
+TVB Plus,https://cdn.iptv8k.top/dl/jrys.php?id=4&time=20240924132303&ip=111.60.49.200
+TVB无线新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=5&time=20240924132303&ip=111.60.49.200
+TVB无线新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=6&time=20240924132303&ip=111.60.49.200
+TVB无线新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=7&time=20240924132303&ip=111.60.49.200
+TVB明珠台,https://cdn.iptv8k.top/dl/jrys.php?id=8&time=20240924132303&ip=111.60.49.200
+TVB明珠台,https://cdn.iptv8k.top/dl/jrys.php?id=9&time=20240924132303&ip=111.60.49.200
+TVB星河频道,https://cdn.iptv8k.top/dl/jrys.php?id=10&time=20240924132303&ip=111.60.49.200
+TVB星河频道,https://cdn.iptv8k.top/dl/jrys.php?id=11&time=20240924132303&ip=111.60.49.200
+凤凰资讯台,https://cdn.iptv8k.top/dl/jrys.php?id=12&time=20240924132303&ip=111.60.49.200
+凤凰资讯台,https://cdn.iptv8k.top/dl/jrys.php?id=13&time=20240924132303&ip=111.60.49.200
+凤凰香港台,https://cdn.iptv8k.top/dl/jrys.php?id=14&time=20240924132303&ip=111.60.49.200
+凤凰香港台,https://cdn.iptv8k.top/dl/jrys.php?id=15&time=20240924132303&ip=111.60.49.200
+凤凰中文台,https://cdn.iptv8k.top/dl/jrys.php?id=16&time=20240924132303&ip=111.60.49.200
+星空卫视,https://cdn.iptv8k.top/dl/jrys.php?id=17&time=20240924132303&ip=111.60.49.200
+TVB Pearl Drama 明珠劇集台,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240924132303&ip=111.60.49.200
+TVBJ1,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240924132303&ip=111.60.49.200
+TVB Drama 翡翠劇集台,https://cdn.iptv8k.top/dl/jrys.php?id=20&time=20240924132303&ip=111.60.49.200
+TVB E 翡翠娛樂台,https://cdn.iptv8k.top/dl/jrys.php?id=21&time=20240924132303&ip=111.60.49.200
+POP C,https://cdn.iptv8k.top/dl/jrys.php?id=22&time=20240924132303&ip=111.60.49.200
+Now爆谷台,https://cdn.iptv8k.top/dl/jrys.php?id=23&time=20240924132303&ip=111.60.49.200
+Now爆谷台,https://cdn.iptv8k.top/dl/jrys.php?id=24&time=20240924132303&ip=111.60.49.200
+Now爆谷星影台,https://cdn.iptv8k.top/dl/jrys.php?id=25&time=20240924132303&ip=111.60.49.200
+Now爆谷星影台,https://cdn.iptv8k.top/dl/jrys.php?id=26&time=20240924132303&ip=111.60.49.200
+Now華劇台,https://cdn.iptv8k.top/dl/jrys.php?id=27&time=20240924132303&ip=111.60.49.200
+Now劇集台,https://cdn.iptv8k.top/dl/jrys.php?id=28&time=20240924132303&ip=111.60.49.200
+Now劇集台,https://cdn.iptv8k.top/dl/jrys.php?id=29&time=20240924132303&ip=111.60.49.200
+Now新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=30&time=20240924132303&ip=111.60.49.200
+Now直播台,https://cdn.iptv8k.top/dl/jrys.php?id=31&time=20240924132303&ip=111.60.49.200
+Now财经台,https://cdn.iptv8k.top/dl/jrys.php?id=32&time=20240924132303&ip=111.60.49.200
+NowJelli紫金国际,https://cdn.iptv8k.top/dl/jrys.php?id=33&time=20240924132303&ip=111.60.49.200
+NowSports1,https://cdn.iptv8k.top/dl/jrys.php?id=34&time=20240924132303&ip=111.60.49.200
+NowSports2,https://cdn.iptv8k.top/dl/jrys.php?id=35&time=20240924132303&ip=111.60.49.200
+NowSports4,https://cdn.iptv8k.top/dl/jrys.php?id=36&time=20240924132303&ip=111.60.49.200
+NowSports5,https://cdn.iptv8k.top/dl/jrys.php?id=37&time=20240924132303&ip=111.60.49.200
+NowSports6,https://cdn.iptv8k.top/dl/jrys.php?id=38&time=20240924132303&ip=111.60.49.200
+NowSports641,https://cdn.iptv8k.top/dl/jrys.php?id=39&time=20240924132303&ip=111.60.49.200
+NowSports英超1台,https://cdn.iptv8k.top/dl/jrys.php?id=40&time=20240924132303&ip=111.60.49.200
+NowSports英超2台,https://cdn.iptv8k.top/dl/jrys.php?id=41&time=20240924132303&ip=111.60.49.200
+NowSports英超3台,https://cdn.iptv8k.top/dl/jrys.php?id=42&time=20240924132303&ip=111.60.49.200
+NowSports英超4台,https://cdn.iptv8k.top/dl/jrys.php?id=43&time=20240924132303&ip=111.60.49.200
+NowSports英超5台,https://cdn.iptv8k.top/dl/jrys.php?id=44&time=20240924132303&ip=111.60.49.200
+NowSports英超6台,https://cdn.iptv8k.top/dl/jrys.php?id=45&time=20240924132303&ip=111.60.49.200
+bEINSports2,https://cdn.iptv8k.top/dl/jrys.php?id=46&time=20240924132303&ip=111.60.49.200
+Now630体育台,https://cdn.iptv8k.top/dl/jrys.php?id=47&time=20240924132303&ip=111.60.49.200
+NBA TV,https://cdn.iptv8k.top/dl/jrys.php?id=48&time=20240924132303&ip=111.60.49.200
+澳门莲花,https://cdn.iptv8k.top/dl/jrys.php?id=49&time=20240924132303&ip=111.60.49.200
+澳门莲花,https://cdn.iptv8k.top/dl/jrys.php?id=50&time=20240924132303&ip=111.60.49.200
+澳门莲花,https://cdn.iptv8k.top/dl/jrys.php?id=51&time=20240924132303&ip=111.60.49.200
+TVB功夫台,https://cdn.iptv8k.top/dl/jrys.php?id=52&time=20240924132303&ip=111.60.49.200
+TVB功夫台,https://cdn.iptv8k.top/dl/jrys.php?id=53&time=20240924132303&ip=111.60.49.200
+KTSF26美国旧金山,https://cdn.iptv8k.top/dl/jrys.php?id=54&time=20240924132303&ip=111.60.49.200
+KR ALL TV,https://cdn.iptv8k.top/dl/jrys.php?id=55&time=20240924132303&ip=111.60.49.200
+中国电影频道,https://cdn.iptv8k.top/dl/jrys.php?id=56&time=20240924132303&ip=111.60.49.200
+Thrill,https://cdn.iptv8k.top/dl/jrys.php?id=57&time=20240924132303&ip=111.60.49.200
+Thrill,https://cdn.iptv8k.top/dl/jrys.php?id=58&time=20240924132303&ip=111.60.49.200
+天映经典,https://cdn.iptv8k.top/dl/jrys.php?id=59&time=20240924132303&ip=111.60.49.200
+香港卫视HKS,https://cdn.iptv8k.top/dl/jrys.php?id=60&time=20240924132303&ip=111.60.49.200
+HOY 77,https://cdn.iptv8k.top/dl/jrys.php?id=61&time=20240924132303&ip=111.60.49.200
+HOY 78,https://cdn.iptv8k.top/dl/jrys.php?id=62&time=20240924132303&ip=111.60.49.200
+無線衛星亞洲台,https://cdn.iptv8k.top/dl/jrys.php?id=63&time=20240924132303&ip=111.60.49.200
+無線衛星亞洲台,https://cdn.iptv8k.top/dl/jrys.php?id=64&time=20240924132303&ip=111.60.49.200
+ViuTV,https://cdn.iptv8k.top/dl/jrys.php?id=65&time=20240924132303&ip=111.60.49.200
+ViuTV6,https://cdn.iptv8k.top/dl/jrys.php?id=66&time=20240924132303&ip=111.60.49.200
+RTHK 31,https://cdn.iptv8k.top/dl/jrys.php?id=67&time=20240924132303&ip=111.60.49.200
+RTHK 31,https://cdn.iptv8k.top/dl/jrys.php?id=68&time=20240924132303&ip=111.60.49.200
+RTHK 32,https://cdn.iptv8k.top/dl/jrys.php?id=69&time=20240924132303&ip=111.60.49.200
+RTHK 32,https://cdn.iptv8k.top/dl/jrys.php?id=70&time=20240924132303&ip=111.60.49.200
+RTHK 34,https://cdn.iptv8k.top/dl/jrys.php?id=71&time=20240924132303&ip=111.60.49.200
+RTHK 36,https://cdn.iptv8k.top/dl/jrys.php?id=72&time=20240924132303&ip=111.60.49.200
+新时代2,https://cdn.iptv8k.top/dl/jrys.php?id=73&time=20240924132303&ip=111.60.49.200
+中旺电视,https://cdn.iptv8k.top/dl/jrys.php?id=74&time=20240924132303&ip=111.60.49.200
+FashionBox,https://cdn.iptv8k.top/dl/jrys.php?id=75&time=20240924132303&ip=111.60.49.200
+tvN,https://cdn.iptv8k.top/dl/jrys.php?id=76&time=20240924132303&ip=111.60.49.200
+ROCK超级娱乐,https://cdn.iptv8k.top/dl/jrys.php?id=77&time=20240924132303&ip=111.60.49.200
+ROCK综艺娱乐,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240924132303&ip=111.60.49.200
+神州新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=79&time=20240924132303&ip=111.60.49.200
+HKC18台,https://cdn.iptv8k.top/dl/jrys.php?id=80&time=20240924132303&ip=111.60.49.200
+黄金翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=81&time=20240924132303&ip=111.60.49.200
+黄金翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=82&time=20240924132303&ip=111.60.49.200
+千禧经典台,https://cdn.iptv8k.top/dl/jrys.php?id=83&time=20240924132303&ip=111.60.49.200
+MyTV千禧经典台,https://cdn.iptv8k.top/dl/jrys.php?id=84&time=20240924132303&ip=111.60.49.200
+亚洲剧台,https://cdn.iptv8k.top/dl/jrys.php?id=85&time=20240924132303&ip=111.60.49.200
+亚洲剧台,https://cdn.iptv8k.top/dl/jrys.php?id=86&time=20240924132303&ip=111.60.49.200
+华语剧台,https://cdn.iptv8k.top/dl/jrys.php?id=87&time=20240924132303&ip=111.60.49.200
+华语剧台,https://cdn.iptv8k.top/dl/jrys.php?id=88&time=20240924132303&ip=111.60.49.200
+华语剧台,https://cdn.iptv8k.top/dl/jrys.php?id=89&time=20240924132303&ip=111.60.49.200
+Kix,https://cdn.iptv8k.top/dl/jrys.php?id=90&time=20240924132303&ip=111.60.49.200
+TVB娱乐新闻,https://cdn.iptv8k.top/dl/jrys.php?id=91&time=20240924132303&ip=111.60.49.200
+TVB娱乐新闻,https://cdn.iptv8k.top/dl/jrys.php?id=92&time=20240924132303&ip=111.60.49.200
+TVB娱乐新闻,https://cdn.iptv8k.top/dl/jrys.php?id=93&time=20240924132303&ip=111.60.49.200
+亚洲综合娱乐台,https://cdn.iptv8k.top/dl/jrys.php?id=94&time=20240924132303&ip=111.60.49.200
+黃金華劇台,https://cdn.iptv8k.top/dl/jrys.php?id=95&time=20240924132303&ip=111.60.49.200
+黃金華劇台,https://cdn.iptv8k.top/dl/jrys.php?id=96&time=20240924132303&ip=111.60.49.200
+TVBSuperFree,https://cdn.iptv8k.top/dl/jrys.php?id=97&time=20240924132303&ip=111.60.49.200
+戏曲台,https://cdn.iptv8k.top/dl/jrys.php?id=98&time=20240924132303&ip=111.60.49.200
+Hands UP,https://cdn.iptv8k.top/dl/jrys.php?id=99&time=20240924132303&ip=111.60.49.200
+Hands UP,https://cdn.iptv8k.top/dl/jrys.php?id=100&time=20240924132303&ip=111.60.49.200
+Hands UP,https://cdn.iptv8k.top/dl/jrys.php?id=101&time=20240924132303&ip=111.60.49.200
+粤语片台,https://cdn.iptv8k.top/dl/jrys.php?id=102&time=20240924132303&ip=111.60.49.200
+美亚电影,https://cdn.iptv8k.top/dl/jrys.php?id=103&time=20240924132303&ip=111.60.49.200
+美亚电影,https://cdn.iptv8k.top/dl/jrys.php?id=104&time=20240924132303&ip=111.60.49.200
+美亚电影,https://cdn.iptv8k.top/dl/jrys.php?id=105&time=20240924132303&ip=111.60.49.200
+HBO,https://cdn.iptv8k.top/dl/jrys.php?id=106&time=20240924132303&ip=111.60.49.200
+HBO,https://cdn.iptv8k.top/dl/jrys.php?id=107&time=20240924132303&ip=111.60.49.200
+AXN,https://cdn.iptv8k.top/dl/jrys.php?id=108&time=20240924132303&ip=111.60.49.200
+Animax,https://cdn.iptv8k.top/dl/jrys.php?id=109&time=20240924132303&ip=111.60.49.200
+Animax,https://cdn.iptv8k.top/dl/jrys.php?id=110&time=20240924132303&ip=111.60.49.200
+Animax,https://cdn.iptv8k.top/dl/jrys.php?id=111&time=20240924132303&ip=111.60.49.200
+Love Nature,https://cdn.iptv8k.top/dl/jrys.php?id=112&time=20240924132303&ip=111.60.49.200
+Global Trekker,https://cdn.iptv8k.top/dl/jrys.php?id=113&time=20240924132303&ip=111.60.49.200
+Mezzo Live,https://cdn.iptv8k.top/dl/jrys.php?id=114&time=20240924132303&ip=111.60.49.200
+mySUPER直播足球5台,https://cdn.iptv8k.top/dl/jrys.php?id=115&time=20240924132303&ip=111.60.49.200
+中视,https://cdn.iptv8k.top/dl/jrys.php?id=116&time=20240924132303&ip=111.60.49.200
+中视,https://cdn.iptv8k.top/dl/jrys.php?id=117&time=20240924132303&ip=111.60.49.200
+中视新闻,https://cdn.iptv8k.top/dl/jrys.php?id=118&time=20240924132303&ip=111.60.49.200
+中视新闻,https://cdn.iptv8k.top/dl/jrys.php?id=119&time=20240924132303&ip=111.60.49.200
+中视经典,https://cdn.iptv8k.top/dl/jrys.php?id=120&time=20240924132303&ip=111.60.49.200
+公视,https://cdn.iptv8k.top/dl/jrys.php?id=121&time=20240924132303&ip=111.60.49.200
+公视,https://cdn.iptv8k.top/dl/jrys.php?id=122&time=20240924132303&ip=111.60.49.200
+公视,https://cdn.iptv8k.top/dl/jrys.php?id=123&time=20240924132303&ip=111.60.49.200
+小公视,https://cdn.iptv8k.top/dl/jrys.php?id=124&time=20240924132303&ip=111.60.49.200
+公视台语台,https://cdn.iptv8k.top/dl/jrys.php?id=125&time=20240924132303&ip=111.60.49.200
+民视,https://cdn.iptv8k.top/dl/jrys.php?id=126&time=20240924132303&ip=111.60.49.200
+民视,https://cdn.iptv8k.top/dl/jrys.php?id=127&time=20240924132303&ip=111.60.49.200
+民视第一台,https://cdn.iptv8k.top/dl/jrys.php?id=128&time=20240924132303&ip=111.60.49.200
+民视台湾台,https://cdn.iptv8k.top/dl/jrys.php?id=129&time=20240924132303&ip=111.60.49.200
+民视新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=130&time=20240924132303&ip=111.60.49.200
+民视新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=131&time=20240924132303&ip=111.60.49.200
+民视旅游台,https://cdn.iptv8k.top/dl/jrys.php?id=132&time=20240924132303&ip=111.60.49.200
+台视,https://cdn.iptv8k.top/dl/jrys.php?id=133&time=20240924132303&ip=111.60.49.200
+台视,https://cdn.iptv8k.top/dl/jrys.php?id=134&time=20240924132303&ip=111.60.49.200
+台视,https://cdn.iptv8k.top/dl/jrys.php?id=135&time=20240924132303&ip=111.60.49.200
+台视新闻HD,https://cdn.iptv8k.top/dl/jrys.php?id=136&time=20240924132303&ip=111.60.49.200
+台视新闻HD,https://cdn.iptv8k.top/dl/jrys.php?id=137&time=20240924132303&ip=111.60.49.200
+台视新闻HD,https://cdn.iptv8k.top/dl/jrys.php?id=138&time=20240924132303&ip=111.60.49.200
+台视综合,https://cdn.iptv8k.top/dl/jrys.php?id=139&time=20240924132303&ip=111.60.49.200
+台视财经,https://cdn.iptv8k.top/dl/jrys.php?id=140&time=20240924132303&ip=111.60.49.200
+台湾戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=141&time=20240924132303&ip=111.60.49.200
+华视,https://cdn.iptv8k.top/dl/jrys.php?id=142&time=20240924132303&ip=111.60.49.200
+华视,https://cdn.iptv8k.top/dl/jrys.php?id=143&time=20240924132303&ip=111.60.49.200
+CTS华视新闻资讯,https://cdn.iptv8k.top/dl/jrys.php?id=144&time=20240924132303&ip=111.60.49.200
+霹雳台湾台,https://cdn.iptv8k.top/dl/jrys.php?id=145&time=20240924132303&ip=111.60.49.200
+壹新闻,https://cdn.iptv8k.top/dl/jrys.php?id=146&time=20240924132303&ip=111.60.49.200
+壹新闻,https://cdn.iptv8k.top/dl/jrys.php?id=147&time=20240924132303&ip=111.60.49.200
+壹电影,https://cdn.iptv8k.top/dl/jrys.php?id=148&time=20240924132303&ip=111.60.49.200
+JET综合台,https://cdn.iptv8k.top/dl/jrys.php?id=149&time=20240924132303&ip=111.60.49.200
+年代新闻,https://cdn.iptv8k.top/dl/jrys.php?id=150&time=20240924132303&ip=111.60.49.200
+年代新闻,https://cdn.iptv8k.top/dl/jrys.php?id=151&time=20240924132303&ip=111.60.49.200
+年代Much,https://cdn.iptv8k.top/dl/jrys.php?id=152&time=20240924132303&ip=111.60.49.200
+非凡新闻,https://cdn.iptv8k.top/dl/jrys.php?id=153&time=20240924132303&ip=111.60.49.200
+非凡新闻,https://cdn.iptv8k.top/dl/jrys.php?id=154&time=20240924132303&ip=111.60.49.200
+非凡商业,https://cdn.iptv8k.top/dl/jrys.php?id=155&time=20240924132303&ip=111.60.49.200
+寰宇新闻,https://cdn.iptv8k.top/dl/jrys.php?id=156&time=20240924132303&ip=111.60.49.200
+寰宇新闻台湾,https://cdn.iptv8k.top/dl/jrys.php?id=157&time=20240924132303&ip=111.60.49.200
+寰宇财经,https://cdn.iptv8k.top/dl/jrys.php?id=158&time=20240924132303&ip=111.60.49.200
+鏡新闻,https://cdn.iptv8k.top/dl/jrys.php?id=159&time=20240924132303&ip=111.60.49.200
+东森超视美洲,https://cdn.iptv8k.top/dl/jrys.php?id=160&time=20240924132303&ip=111.60.49.200
+东森美洲,https://cdn.iptv8k.top/dl/jrys.php?id=161&time=20240924132303&ip=111.60.49.200
+东森美洲,https://cdn.iptv8k.top/dl/jrys.php?id=162&time=20240924132303&ip=111.60.49.200
+东森中国台,https://cdn.iptv8k.top/dl/jrys.php?id=163&time=20240924132303&ip=111.60.49.200
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=164&time=20240924132303&ip=111.60.49.200
+东森超视,https://cdn.iptv8k.top/dl/jrys.php?id=165&time=20240924132303&ip=111.60.49.200
+东森亚洲,https://cdn.iptv8k.top/dl/jrys.php?id=166&time=20240924132303&ip=111.60.49.200
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=167&time=20240924132303&ip=111.60.49.200
+东森新闻,https://cdn.iptv8k.top/dl/jrys.php?id=168&time=20240924132303&ip=111.60.49.200
+东森新闻,https://cdn.iptv8k.top/dl/jrys.php?id=169&time=20240924132303&ip=111.60.49.200
+东森财经,https://cdn.iptv8k.top/dl/jrys.php?id=170&time=20240924132303&ip=111.60.49.200
+东森财经,https://cdn.iptv8k.top/dl/jrys.php?id=171&time=20240924132303&ip=111.60.49.200
+东森LIVE,https://cdn.iptv8k.top/dl/jrys.php?id=172&time=20240924132303&ip=111.60.49.200
+东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=173&time=20240924132303&ip=111.60.49.200
+东森电影,https://cdn.iptv8k.top/dl/jrys.php?id=174&time=20240924132303&ip=111.60.49.200
+东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=175&time=20240924132303&ip=111.60.49.200
+东森洋片,https://cdn.iptv8k.top/dl/jrys.php?id=176&time=20240924132303&ip=111.60.49.200
+东森戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=177&time=20240924132303&ip=111.60.49.200
+东森戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=178&time=20240924132303&ip=111.60.49.200
+东森幼幼,https://cdn.iptv8k.top/dl/jrys.php?id=179&time=20240924132303&ip=111.60.49.200
+东森幼幼,https://cdn.iptv8k.top/dl/jrys.php?id=180&time=20240924132303&ip=111.60.49.200
+东森亚洲幼幼,https://cdn.iptv8k.top/dl/jrys.php?id=181&time=20240924132303&ip=111.60.49.200
+MOMO綜合台,https://cdn.iptv8k.top/dl/jrys.php?id=182&time=20240924132303&ip=111.60.49.200
+MOMO亲子台,https://cdn.iptv8k.top/dl/jrys.php?id=183&time=20240924132303&ip=111.60.49.200
+MOMO台,https://cdn.iptv8k.top/dl/jrys.php?id=184&time=20240924132303&ip=111.60.49.200
+龙祥时代,https://cdn.iptv8k.top/dl/jrys.php?id=185&time=20240924132303&ip=111.60.49.200
+龙祥时代,https://cdn.iptv8k.top/dl/jrys.php?id=186&time=20240924132303&ip=111.60.49.200
+龙华偶像,https://cdn.iptv8k.top/dl/jrys.php?id=187&time=20240924132303&ip=111.60.49.200
+龙华偶像,https://cdn.iptv8k.top/dl/jrys.php?id=188&time=20240924132303&ip=111.60.49.200
+龙华戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=189&time=20240924132303&ip=111.60.49.200
+龙华戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=190&time=20240924132303&ip=111.60.49.200
+龙华电影,https://cdn.iptv8k.top/dl/jrys.php?id=191&time=20240924132303&ip=111.60.49.200
+龙华影剧,https://cdn.iptv8k.top/dl/jrys.php?id=192&time=20240924132303&ip=111.60.49.200
+龙华洋片,https://cdn.iptv8k.top/dl/jrys.php?id=193&time=20240924132303&ip=111.60.49.200
+龙华洋片,https://cdn.iptv8k.top/dl/jrys.php?id=194&time=20240924132303&ip=111.60.49.200
+三立都会台,https://cdn.iptv8k.top/dl/jrys.php?id=195&time=20240924132303&ip=111.60.49.200
+三立综合台,https://cdn.iptv8k.top/dl/jrys.php?id=196&time=20240924132303&ip=111.60.49.200
+三立综合台,https://cdn.iptv8k.top/dl/jrys.php?id=197&time=20240924132303&ip=111.60.49.200
+三立台湾台,https://cdn.iptv8k.top/dl/jrys.php?id=198&time=20240924132303&ip=111.60.49.200
+三立台湾台,https://cdn.iptv8k.top/dl/jrys.php?id=199&time=20240924132303&ip=111.60.49.200
+三立台湾台,https://cdn.iptv8k.top/dl/jrys.php?id=200&time=20240924132303&ip=111.60.49.200
+三立戏剧台,https://cdn.iptv8k.top/dl/jrys.php?id=201&time=20240924132303&ip=111.60.49.200
+三立戏剧台,https://cdn.iptv8k.top/dl/jrys.php?id=202&time=20240924132303&ip=111.60.49.200
+三立新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=203&time=20240924132303&ip=111.60.49.200
+三立iNEWS,https://cdn.iptv8k.top/dl/jrys.php?id=204&time=20240924132303&ip=111.60.49.200
+三立国际台,https://cdn.iptv8k.top/dl/jrys.php?id=205&time=20240924132303&ip=111.60.49.200
+LIVE三立,https://cdn.iptv8k.top/dl/jrys.php?id=206&time=20240924132303&ip=111.60.49.200
+中天新闻,https://cdn.iptv8k.top/dl/jrys.php?id=207&time=20240924132303&ip=111.60.49.200
+CTI+中天2台,https://cdn.iptv8k.top/dl/jrys.php?id=208&time=20240924132303&ip=111.60.49.200
+中天综合,https://cdn.iptv8k.top/dl/jrys.php?id=209&time=20240924132303&ip=111.60.49.200
+中天娱乐,https://cdn.iptv8k.top/dl/jrys.php?id=210&time=20240924132303&ip=111.60.49.200
+纬来综合,https://cdn.iptv8k.top/dl/jrys.php?id=211&time=20240924132303&ip=111.60.49.200
+纬来精彩,https://cdn.iptv8k.top/dl/jrys.php?id=212&time=20240924132303&ip=111.60.49.200
+纬来日本,https://cdn.iptv8k.top/dl/jrys.php?id=213&time=20240924132303&ip=111.60.49.200
+纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=214&time=20240924132303&ip=111.60.49.200
+纬来育乐,https://cdn.iptv8k.top/dl/jrys.php?id=215&time=20240924132303&ip=111.60.49.200
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=216&time=20240924132303&ip=111.60.49.200
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=217&time=20240924132303&ip=111.60.49.200
+八大第一台,https://cdn.iptv8k.top/dl/jrys.php?id=218&time=20240924132303&ip=111.60.49.200
+八大第一台,https://cdn.iptv8k.top/dl/jrys.php?id=219&time=20240924132303&ip=111.60.49.200
+八大戏剧台,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240924132303&ip=111.60.49.200
+八大戏剧台,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240924132303&ip=111.60.49.200
+八大综合台,https://cdn.iptv8k.top/dl/jrys.php?id=222&time=20240924132303&ip=111.60.49.200
+八大综合台,https://cdn.iptv8k.top/dl/jrys.php?id=223&time=20240924132303&ip=111.60.49.200
+八大综合台,https://cdn.iptv8k.top/dl/jrys.php?id=224&time=20240924132303&ip=111.60.49.200
+八大精彩台,https://cdn.iptv8k.top/dl/jrys.php?id=225&time=20240924132303&ip=111.60.49.200
+八大娱乐台,https://cdn.iptv8k.top/dl/jrys.php?id=226&time=20240924132303&ip=111.60.49.200
+TVBS新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=227&time=20240924132303&ip=111.60.49.200
+TVBS新闻台,https://cdn.iptv8k.top/dl/jrys.php?id=228&time=20240924132303&ip=111.60.49.200
+TVBS精采台,https://cdn.iptv8k.top/dl/jrys.php?id=229&time=20240924132303&ip=111.60.49.200
+TVBS欢乐台,https://cdn.iptv8k.top/dl/jrys.php?id=230&time=20240924132303&ip=111.60.49.200
+TVBSHD,https://cdn.iptv8k.top/dl/jrys.php?id=231&time=20240924132303&ip=111.60.49.200
+TVBS NEWS,https://cdn.iptv8k.top/dl/jrys.php?id=232&time=20240924132303&ip=111.60.49.200
+靖天日本台,https://cdn.iptv8k.top/dl/jrys.php?id=233&time=20240924132303&ip=111.60.49.200
+靖洋卡通台,https://cdn.iptv8k.top/dl/jrys.php?id=234&time=20240924132303&ip=111.60.49.200
+靖天电影台,https://cdn.iptv8k.top/dl/jrys.php?id=235&time=20240924132303&ip=111.60.49.200
+靖天国际台,https://cdn.iptv8k.top/dl/jrys.php?id=236&time=20240924132303&ip=111.60.49.200
+靖天戏剧台,https://cdn.iptv8k.top/dl/jrys.php?id=237&time=20240924132303&ip=111.60.49.200
+靖洋戏剧台,https://cdn.iptv8k.top/dl/jrys.php?id=238&time=20240924132303&ip=111.60.49.200
+華藝MBC綜合台,https://cdn.iptv8k.top/dl/jrys.php?id=239&time=20240924132303&ip=111.60.49.200
+LUXE TV,https://cdn.iptv8k.top/dl/jrys.php?id=240&time=20240924132303&ip=111.60.49.200
+Trvl旅游台,https://cdn.iptv8k.top/dl/jrys.php?id=241&time=20240924132303&ip=111.60.49.200
+美食星球,https://cdn.iptv8k.top/dl/jrys.php?id=242&time=20240924132303&ip=111.60.49.200
+亚洲旅游台,https://cdn.iptv8k.top/dl/jrys.php?id=243&time=20240924132303&ip=111.60.49.200
+亚洲旅游台,https://cdn.iptv8k.top/dl/jrys.php?id=244&time=20240924132303&ip=111.60.49.200
+EYETV旅游,https://cdn.iptv8k.top/dl/jrys.php?id=245&time=20240924132303&ip=111.60.49.200
+EYETV戏剧,https://cdn.iptv8k.top/dl/jrys.php?id=246&time=20240924132303&ip=111.60.49.200
+NBA TV,https://cdn.iptv8k.top/dl/jrys.php?id=247&time=20240924132303&ip=111.60.49.200
+ELEVEN1,https://cdn.iptv8k.top/dl/jrys.php?id=248&time=20240924132303&ip=111.60.49.200
+ELEVEN1,https://cdn.iptv8k.top/dl/jrys.php?id=249&time=20240924132303&ip=111.60.49.200
+ELEVEN2,https://cdn.iptv8k.top/dl/jrys.php?id=250&time=20240924132303&ip=111.60.49.200
+ELEVEN2,https://cdn.iptv8k.top/dl/jrys.php?id=251&time=20240924132303&ip=111.60.49.200
+ELTA日韩,https://cdn.iptv8k.top/dl/jrys.php?id=252&time=20240924132303&ip=111.60.49.200
+ELTA影剧,https://cdn.iptv8k.top/dl/jrys.php?id=253&time=20240924132303&ip=111.60.49.200
+ELTA综合,https://cdn.iptv8k.top/dl/jrys.php?id=254&time=20240924132303&ip=111.60.49.200
+ELTA娱乐,https://cdn.iptv8k.top/dl/jrys.php?id=255&time=20240924132303&ip=111.60.49.200
+ELTA体育1,https://cdn.iptv8k.top/dl/jrys.php?id=256&time=20240924132303&ip=111.60.49.200
+ELTA体育1,https://cdn.iptv8k.top/dl/jrys.php?id=257&time=20240924132303&ip=111.60.49.200
+ELTA体育2,https://cdn.iptv8k.top/dl/jrys.php?id=258&time=20240924132303&ip=111.60.49.200
+ELTA体育3,https://cdn.iptv8k.top/dl/jrys.php?id=259&time=20240924132303&ip=111.60.49.200
+ELTA体育3,https://cdn.iptv8k.top/dl/jrys.php?id=260&time=20240924132303&ip=111.60.49.200
+ELTA体育4,https://cdn.iptv8k.top/dl/jrys.php?id=261&time=20240924132303&ip=111.60.49.200
+ELTA体育MAX1,https://cdn.iptv8k.top/dl/jrys.php?id=262&time=20240924132303&ip=111.60.49.200
+ELTA体育MAX4,https://cdn.iptv8k.top/dl/jrys.php?id=263&time=20240924132303&ip=111.60.49.200
+博斯运动1,https://cdn.iptv8k.top/dl/jrys.php?id=264&time=20240924132303&ip=111.60.49.200
+博斯高球1,https://cdn.iptv8k.top/dl/jrys.php?id=265&time=20240924132303&ip=111.60.49.200
+博斯高球1,https://cdn.iptv8k.top/dl/jrys.php?id=266&time=20240924132303&ip=111.60.49.200
+博斯高球2,https://cdn.iptv8k.top/dl/jrys.php?id=267&time=20240924132303&ip=111.60.49.200
+博斯网球,https://cdn.iptv8k.top/dl/jrys.php?id=268&time=20240924132303&ip=111.60.49.200
+博斯无限,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240924132303&ip=111.60.49.200
+博斯魅力,https://cdn.iptv8k.top/dl/jrys.php?id=270&time=20240924132303&ip=111.60.49.200
+智林体育台,https://cdn.iptv8k.top/dl/jrys.php?id=271&time=20240924132303&ip=111.60.49.200
+Z频道,https://cdn.iptv8k.top/dl/jrys.php?id=272&time=20240924132303&ip=111.60.49.200
+CN卡通频道,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240924132303&ip=111.60.49.200
+CN卡通频道,https://cdn.iptv8k.top/dl/jrys.php?id=274&time=20240924132303&ip=111.60.49.200
+尼克儿童频道,https://cdn.iptv8k.top/dl/jrys.php?id=275&time=20240924132303&ip=111.60.49.200
+Boomerang,https://cdn.iptv8k.top/dl/jrys.php?id=276&time=20240924132303&ip=111.60.49.200
+BBC Cbeebies,https://cdn.iptv8k.top/dl/jrys.php?id=277&time=20240924132303&ip=111.60.49.200
+梦工厂动画,https://cdn.iptv8k.top/dl/jrys.php?id=278&time=20240924132303&ip=111.60.49.200
+PetClubTV,https://cdn.iptv8k.top/dl/jrys.php?id=279&time=20240924132303&ip=111.60.49.200
+美亚电影台,https://cdn.iptv8k.top/dl/jrys.php?id=280&time=20240924132303&ip=111.60.49.200
+美亚电影台,https://cdn.iptv8k.top/dl/jrys.php?id=281&time=20240924132303&ip=111.60.49.200
+Thrill惊悚,https://cdn.iptv8k.top/dl/jrys.php?id=282&time=20240924132303&ip=111.60.49.200
+AXN頻道,https://cdn.iptv8k.top/dl/jrys.php?id=283&time=20240924132303&ip=111.60.49.200
+华纳电影,https://cdn.iptv8k.top/dl/jrys.php?id=284&time=20240924132303&ip=111.60.49.200
+华纳电影,https://cdn.iptv8k.top/dl/jrys.php?id=285&time=20240924132303&ip=111.60.49.200
+tVN,https://cdn.iptv8k.top/dl/jrys.php?id=286&time=20240924132303&ip=111.60.49.200
+tVN,https://cdn.iptv8k.top/dl/jrys.php?id=287&time=20240924132303&ip=111.60.49.200
+CinemaWorld,https://cdn.iptv8k.top/dl/jrys.php?id=288&time=20240924132303&ip=111.60.49.200
+CINEMAX,https://cdn.iptv8k.top/dl/jrys.php?id=289&time=20240924132303&ip=111.60.49.200
+HBO,https://cdn.iptv8k.top/dl/jrys.php?id=290&time=20240924132303&ip=111.60.49.200
+HBOHD,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240924132303&ip=111.60.49.200
+HBOHD,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240924132303&ip=111.60.49.200
+HBO强档,https://cdn.iptv8k.top/dl/jrys.php?id=293&time=20240924132303&ip=111.60.49.200
+HBO强档,https://cdn.iptv8k.top/dl/jrys.php?id=294&time=20240924132303&ip=111.60.49.200
+HBO家庭,https://cdn.iptv8k.top/dl/jrys.php?id=295&time=20240924132303&ip=111.60.49.200
+好莱坞电影,https://cdn.iptv8k.top/dl/jrys.php?id=296&time=20240924132303&ip=111.60.49.200
+好莱坞电影,https://cdn.iptv8k.top/dl/jrys.php?id=297&time=20240924132303&ip=111.60.49.200
+amc最爱电影,https://cdn.iptv8k.top/dl/jrys.php?id=298&time=20240924132303&ip=111.60.49.200
+RockEntertainment,https://cdn.iptv8k.top/dl/jrys.php?id=299&time=20240924132303&ip=111.60.49.200
+RockAction,https://cdn.iptv8k.top/dl/jrys.php?id=300&time=20240924132303&ip=111.60.49.200
+MyCinemaEurope,https://cdn.iptv8k.top/dl/jrys.php?id=301&time=20240924132303&ip=111.60.49.200
+采昌影剧台,https://cdn.iptv8k.top/dl/jrys.php?id=302&time=20240924132303&ip=111.60.49.200
+电影原聲台,https://cdn.iptv8k.top/dl/jrys.php?id=303&time=20240924132303&ip=111.60.49.200
+信大,https://cdn.iptv8k.top/dl/jrys.php?id=304&time=20240924132303&ip=111.60.49.200
+VOA美国之音,https://cdn.iptv8k.top/dl/jrys.php?id=305&time=20240924132303&ip=111.60.49.200
+韩国娱乐台,https://cdn.iptv8k.top/dl/jrys.php?id=306&time=20240924132303&ip=111.60.49.200
+幸福空间居家台,https://cdn.iptv8k.top/dl/jrys.php?id=307&time=20240924132303&ip=111.60.49.200
+ELTV生活英语台,https://cdn.iptv8k.top/dl/jrys.php?id=308&time=20240924132303&ip=111.60.49.200
+BBC Earth,https://cdn.iptv8k.top/dl/jrys.php?id=309&time=20240924132303&ip=111.60.49.200
+BBC Earth,https://cdn.iptv8k.top/dl/jrys.php?id=310&time=20240924132303&ip=111.60.49.200
+BBC Lifestyle,https://cdn.iptv8k.top/dl/jrys.php?id=311&time=20240924132303&ip=111.60.49.200
+BBC News,https://cdn.iptv8k.top/dl/jrys.php?id=312&time=20240924132303&ip=111.60.49.200
+HISTORY2,https://cdn.iptv8k.top/dl/jrys.php?id=313&time=20240924132303&ip=111.60.49.200
+国家地理,https://cdn.iptv8k.top/dl/jrys.php?id=314&time=20240924132303&ip=111.60.49.200
+国家地理野生海外版,https://cdn.iptv8k.top/dl/jrys.php?id=315&time=20240924132303&ip=111.60.49.200
+动物星球,https://cdn.iptv8k.top/dl/jrys.php?id=316&time=20240924132303&ip=111.60.49.200
+探索频道,https://cdn.iptv8k.top/dl/jrys.php?id=317&time=20240924132303&ip=111.60.49.200
+探索动力,https://cdn.iptv8k.top/dl/jrys.php?id=318&time=20240924132303&ip=111.60.49.200
+探索动力,https://cdn.iptv8k.top/dl/jrys.php?id=319&time=20240924132303&ip=111.60.49.200
+探索动力,https://cdn.iptv8k.top/dl/jrys.php?id=320&time=20240924132303&ip=111.60.49.200
+探索科学,https://cdn.iptv8k.top/dl/jrys.php?id=321&time=20240924132303&ip=111.60.49.200
+探索科学,https://cdn.iptv8k.top/dl/jrys.php?id=322&time=20240924132303&ip=111.60.49.200
+探索亚洲,https://cdn.iptv8k.top/dl/jrys.php?id=323&time=20240924132303&ip=111.60.49.200
+探索EVE,https://cdn.iptv8k.top/dl/jrys.php?id=324&time=20240924132303&ip=111.60.49.200
+探索EVE,https://cdn.iptv8k.top/dl/jrys.php?id=325&time=20240924132303&ip=111.60.49.200
+居家乐活频道,https://cdn.iptv8k.top/dl/jrys.php?id=326&time=20240924132303&ip=111.60.49.200
+亚洲美食频道,https://cdn.iptv8k.top/dl/jrys.php?id=327&time=20240924132303&ip=111.60.49.200
+大爱一台,https://cdn.iptv8k.top/dl/jrys.php?id=328&time=20240924132303&ip=111.60.49.200
+生命电视台,https://cdn.iptv8k.top/dl/jrys.php?id=329&time=20240924132303&ip=111.60.49.200
+创世电视,https://cdn.iptv8k.top/dl/jrys.php?id=330&time=20240924132303&ip=111.60.49.200
+好消息2,https://cdn.iptv8k.top/dl/jrys.php?id=331&time=20240924132303&ip=111.60.49.200
+国会频道1,https://cdn.iptv8k.top/dl/jrys.php?id=332&time=20240924132303&ip=111.60.49.200
+国会频道1,https://cdn.iptv8k.top/dl/jrys.php?id=333&time=20240924132303&ip=111.60.49.200
+国会频道2,https://cdn.iptv8k.top/dl/jrys.php?id=334&time=20240924132303&ip=111.60.49.200
+SukanRTM,https://cdn.iptv8k.top/dl/jrys.php?id=335&time=20240924132303&ip=111.60.49.200
+台湾频道,#genre#
+中天新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=1
+中天電視2台,http://cdn.iptv8k.top/dl/jspd.php?id=23
+中天亞洲台,http://cdn.iptv8k.top/dl/jspd.php?id=12
+環宇新聞台,http://cdn.iptv8k.top/dl/jspd.php?id=7
+民視,rtmp://f13h.mine.nu/sat/tv051
+台視,rtmp://f13h.mine.nu/sat/tv071
+中視,rtmp://f13h.mine.nu/sat/tv091
+華視,rtmp://f13h.mine.nu/sat/tv111
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+非凡新聞,rtmp://f13h.mine.nu/sat/tv581
+緯來育樂,rtmp://f13h.mine.nu/sat/tv701
+緯來體育,rtmp://f13h.mine.nu/sat/tv721
+DAZN1,rtmp://f13h.mine.nu/sat/tv731
+DAZN2,rtmp://f13h.mine.nu/sat/tv741
+MoMo綜合,rtmp://f13h.mine.nu/sat/tv761
+緯來日本,rtmp://f13h.mine.nu/sat/tv771
+東森超視,rtmp://f13h.mine.nu/sat/tv331
+ELEVEN1,rtmp://f13h.mine.nu/sat/tv731
+ELEVEN2,rtmp://f13h.mine.nu/sat/tv741
+緯來體育,rtmp://220.130.201.73/sat/tv721
+緯來日本,rtmp://220.130.201.73/sat/tv771
+東森超視,rtmp://220.130.201.73/sat/tv331
+三立戲劇,http://61.221.215.25:8800/hls/41/index.m3u8
+中華小當家,http://61.221.215.25:8800/hls/40/index.m3u8
+AMC電影,http://61.221.215.25:8800/hls/43/index.m3u8
+中天娛樂,http://61.221.215.25:8800/hls/47/index.m3u8
+緯來精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
+NHK世界,http://61.221.215.25:8800/hls/51/index.m3u8
+八大第壹,http://61.221.215.25:8800/hls/55/index.m3u8
+八大綜合,http://61.221.215.25:8800/hls/56/index.m3u8
+動物星球,http://61.221.215.25:8800/hls/57/index.m3u8
+民視台灣台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv001&time=20240924132303&ip=111.60.49.200
+民視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv002&time=20240924132303&ip=111.60.49.200
+民視第壹台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv003&time=20240924132303&ip=111.60.49.200
+民視綜藝,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv004&time=20240924132303&ip=111.60.49.200
+豬哥亮歌廳秀,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv006&time=20240924132303&ip=111.60.49.200
+中天新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv009&time=20240924132303&ip=111.60.49.200
+非凡新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv010&time=20240924132303&ip=111.60.49.200
+影迷數位電影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv011&time=20240924132303&ip=111.60.49.200
+視納華仁紀實頻道,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv013&time=20240924132303&ip=111.60.49.200
+時尚運動X,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv014&time=20240924132303&ip=111.60.49.200
+GLOBETROTTER,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv016&time=20240924132303&ip=111.60.49.200
+amc電影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv017&time=20240924132303&ip=111.60.49.200
+達文西頻道,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv018&time=20240924132303&ip=111.60.49.200
+八大精彩台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv034&time=20240924132303&ip=111.60.49.200
+八大綜藝台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv039&time=20240924132303&ip=111.60.49.200
+中視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv040&time=20240924132303&ip=111.60.49.200
+華視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv041&time=20240924132303&ip=111.60.49.200
+公視戲居,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv042&time=20240924132303&ip=111.60.49.200
+客家電視台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv043&time=20240924132303&ip=111.60.49.200
+靖天卡通台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv044&time=20240924132303&ip=111.60.49.200
+靖洋戲居台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv045&time=20240924132303&ip=111.60.49.200
+靖天綜合台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv046&time=20240924132303&ip=111.60.49.200
+靖天日本台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv047&time=20240924132303&ip=111.60.49.200
+非凡商業,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv048&time=20240924132303&ip=111.60.49.200
+采昌影居,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv049&time=20240924132303&ip=111.60.49.200
+台視新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv051&time=20240924132303&ip=111.60.49.200
+華視新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv052&time=20240924132303&ip=111.60.49.200
+GinxTV,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv053&time=20240924132303&ip=111.60.49.200
+靖天歡樂台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv054&time=20240924132303&ip=111.60.49.200
+靖天映畫,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv055&time=20240924132303&ip=111.60.49.200
+台視材經,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv056&time=20240924132303&ip=111.60.49.200
+靖洋卡通台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv057&time=20240924132303&ip=111.60.49.200
+靖天戲居台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv058&time=20240924132303&ip=111.60.49.200
+古典音樂台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv059&time=20240924132303&ip=111.60.49.200
+靖天電影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv061&time=20240924132303&ip=111.60.49.200
+靖天育樂台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv062&time=20240924132303&ip=111.60.49.200
+靖天國際台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv063&time=20240924132303&ip=111.60.49.200
+中視菁采,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv064&time=20240924132303&ip=111.60.49.200
+靖天資訊台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv065&time=20240924132303&ip=111.60.49.200
+台視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv066&time=20240924132303&ip=111.60.49.200
+tvbs精采台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv067&time=20240924132303&ip=111.60.49.200
+tvbs歡樂台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv068&time=20240924132303&ip=111.60.49.200
+愛爾達娛樂,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv070&time=20240924132303&ip=111.60.49.200
+tvbs新聞台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv072&time=20240924132303&ip=111.60.49.200
+tvbs,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv073&time=20240924132303&ip=111.60.49.200
+中視新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv074&time=20240924132303&ip=111.60.49.200
+鏡新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv075&time=20240924132303&ip=111.60.49.200
+CATCHPLAY電影台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv076&time=20240924132303&ip=111.60.49.200
+TRACE SPORTS STARS,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv077&time=20240924132303&ip=111.60.49.200
+阿裏郎,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv079&time=20240924132303&ip=111.60.49.200
+中視經典,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv080&time=20240924132303&ip=111.60.49.200
+TRACE URBAN,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv082&time=20240924132303&ip=111.60.49.200
+MEZZO LIVE,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv083&time=20240924132303&ip=111.60.49.200
+國會頻道1,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv084&time=20240924132303&ip=111.60.49.200
+國會頻道2,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv085&time=20240924132303&ip=111.60.49.200
+智林體育台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv101&time=20240924132303&ip=111.60.49.200
+國際材經,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv104&time=20240924132303&ip=111.60.49.200
+第1商業台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv109&time=20240924132303&ip=111.60.49.200
+東森新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv152&time=20240924132303&ip=111.60.49.200
+東森材經新聞,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv153&time=20240924132303&ip=111.60.49.200
+民視,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv155&time=20240924132303&ip=111.60.49.200
+民視台灣台,http://222.186.57.43:22222/php/litv.php?id=4gtv-4gtv156&time=20240924132303&ip=111.60.49.200
+美國之音,http://222.186.57.43:22222/php/litv.php?id=litv-ftv03&time=20240924132303&ip=111.60.49.200
+民視旅遊,http://222.186.57.43:22222/php/litv.php?id=litv-ftv07&time=20240924132303&ip=111.60.49.200
+民視影居,http://222.186.57.43:22222/php/litv.php?id=litv-ftv09&time=20240924132303&ip=111.60.49.200
+半島新聞,http://222.186.57.43:22222/php/litv.php?id=litv-ftv10&time=20240924132303&ip=111.60.49.200
+民視新聞台,http://222.186.57.43:22222/php/litv.php?id=litv-ftv13&time=20240924132303&ip=111.60.49.200
+愛放動漫,http://222.186.57.43:22222/php/litv.php?id=litv-ftv15&time=20240924132303&ip=111.60.49.200
+好消息,http://222.186.57.43:22222/php/litv.php?id=litv-ftv16&time=20240924132303&ip=111.60.49.200
+好消息2台,http://222.186.57.43:22222/php/litv.php?id=litv-ftv17&time=20240924132303&ip=111.60.49.200
+龍華卡通,http://222.186.57.43:22222/php/litv.php?id=litv-longturn01&time=20240924132303&ip=111.60.49.200
+龍華電影,http://222.186.57.43:22222/php/litv.php?id=litv-longturn03&time=20240924132303&ip=111.60.49.200
+博斯魅力,http://222.186.57.43:22222/php/litv.php?id=litv-longturn04&time=20240924132303&ip=111.60.49.200
+博斯高球1,http://222.186.57.43:22222/php/litv.php?id=litv-longturn05&time=20240924132303&ip=111.60.49.200
+博斯高球2,http://222.186.57.43:22222/php/litv.php?id=litv-longturn06&time=20240924132303&ip=111.60.49.200
+博斯運動1,http://222.186.57.43:22222/php/litv.php?id=litv-longturn07&time=20240924132303&ip=111.60.49.200
+博斯運動2,http://222.186.57.43:22222/php/litv.php?id=litv-longturn08&time=20240924132303&ip=111.60.49.200
+博斯網球,http://222.186.57.43:22222/php/litv.php?id=litv-longturn09&time=20240924132303&ip=111.60.49.200
+博斯無限,http://222.186.57.43:22222/php/litv.php?id=litv-longturn10&time=20240924132303&ip=111.60.49.200
+龍華日韓,http://222.186.57.43:22222/php/litv.php?id=litv-longturn11&time=20240924132303&ip=111.60.49.200
+龍華偶像,http://222.186.57.43:22222/php/litv.php?id=litv-longturn12&time=20240924132303&ip=111.60.49.200
+博斯無限2,http://222.186.57.43:22222/php/litv.php?id=litv-longturn13&time=20240924132303&ip=111.60.49.200
+環宇新聞台,http://222.186.57.43:22222/php/litv.php?id=litv-longturn14&time=20240924132303&ip=111.60.49.200
+環宇新聞台灣台,http://222.186.57.43:22222/php/litv.php?id=litv-longturn15&time=20240924132303&ip=111.60.49.200
+亞洲旅遊台,http://222.186.57.43:22222/php/litv.php?id=litv-longturn17&time=20240924132303&ip=111.60.49.200
+龍華戲居,http://222.186.57.43:22222/php/litv.php?id=litv-longturn18&time=20240924132303&ip=111.60.49.200
+Smart知識台,http://222.186.57.43:22222/php/litv.php?id=litv-longturn19&time=20240924132303&ip=111.60.49.200
+生活英語台,http://222.186.57.43:22222/php/litv.php?id=litv-longturn20&time=20240924132303&ip=111.60.49.200
+龍華經典,http://222.186.57.43:22222/php/litv.php?id=litv-longturn21&time=20240924132303&ip=111.60.49.200
+台灣戲居台,http://222.186.57.43:22222/php/litv.php?id=litv-longturn22&time=20240924132303&ip=111.60.49.200
+民視第壹,http://37.27.111.214:8080/live/4/hls.m3u8
+民視台灣,http://37.27.111.214:8080/live/5/hls.m3u8
+龍華電影,http://37.27.111.214:8080/live/19/hls.m3u8
+CMUSIC音樂,http://37.27.111.214:8080/live/72/hls.m3u8
+博斯運動1,http://37.27.111.214:8080/live/14/hls.m3u8
+TVBS歡樂,http://37.27.111.214:8080/live/24/hls.m3u8
+博斯高球1,http://37.27.111.214:8080/live/13/hls.m3u8
+TG群@S2024TW,http://37.27.111.214:8080/live/16/hls.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+亞洲旅遊,http://37.27.111.214:8080/live/10/hls.m3u8
+東森新聞,http://37.27.111.214:8080/live/20/hls.m3u8
+三立,http://37.27.111.214:8080/live/31/hls.m3u8
+民視灣,http://37.27.111.214:8080/live/5/hls.m3u8
+龍華日韓,http://37.27.111.214:8080/live/42/hls.m3u8
+龍華戲劇,http://37.27.111.214:8080/live/41/hls.m3u8
+龍華電影,http://37.27.111.214:8080/live/19/hls.m3u8
+中視經典,http://37.27.111.214:8080/live/47/hls.m3u8
+中視青采,http://37.27.111.214:8080/live/48/hls.m3u8
+環宇灣,http://37.27.111.214:8080/live/63/hls.m3u8
+公視戲劇,http://37.27.111.214:8080/live/87/hls.m3u8
+CINEMA WORLD,http://37.27.111.214:8080/live/30/hls.m3u8
+全球財經,http://37.27.111.214:8080/live/64/hls.m3u8
+華視新聞,http://37.27.111.214:8080/live/8/hls.m3u8
+互動英語,http://37.27.111.214:8080/live/54/hls.m3u8
+Nickelodeon,http://37.27.111.214:8080/live/12/hls.m3u8
+CinemaWorld,http://37.27.111.214:8080/live/30/hls.m3u8
+LOVE NATURE,http://37.27.111.214:8080/live/84/hls.m3u8
+ROCK ACTION,http://37.27.111.214:8080/live/94/hls.m3u8
+TECH STORM,http://37.27.111.214:8080/live/80/hls.m3u8
+劇3,http://37.27.111.214:8080/live/111/hls.m3u8
+哆啦A夢,http://37.27.111.214:8080/live/107/hls.m3u8
+劇2,http://37.27.111.214:8080/live/109/hls.m3u8
+鏡新聞,http://37.27.111.214:8080/live/62/hls.m3u8
+BLOOMBERG,http://37.27.111.214:8080/live/34/hls.m3u8
+豬哥亮,http://37.27.111.214:8080/live/35/hls.m3u8
+劇,http://37.27.111.214:8080/live/108/hls.m3u8
+探案,http://37.27.111.214:8080/live/11/hls.m3u8
+DW NEWS,http://37.27.111.214:8080/live/46/hls.m3u8
+HISTORY,http://37.27.111.214:8080/live/27/hls.m3u8
+hokkotv,http://37.27.111.214:8080/live/1/hls.m3u8
+電影,http://37.27.111.214:8080/live/11/hls.m3u8
+民視,http://37.27.111.214:8080/live/6/hls.m3u8
+中視,http://37.27.111.214:8080/live/7/hls.m3u8
+華視,http://37.27.111.214:8080/live/8/hls.m3u8
+影迷,http://37.27.111.214:8080/live/92/hls.m3u8
+中視,http://37.27.111.214:8080/live/7/hls.m3u8
+超人,http://37.27.111.214:8080/live/110/hls.m3u8
+綜藝,http://37.27.111.214:8080/live/67/hls.m3u8
+影劇,http://37.27.111.214:8080/live/88/hls.m3u8
+旅遊,http://37.27.111.214:8080/live/82/hls.m3u8
+民視,http://37.27.111.214:8080/live/6/hls.m3u8
+KOREA,http://37.27.111.214:8080/live/52/hls.m3u8
+TVBS,http://37.27.111.214:8080/live/23/hls.m3u8
+ROCK,http://37.27.111.214:8080/live/70/hls.m3u8
+HITS,http://37.27.111.214:8080/live/28/hls.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
+momo,http://37.27.111.214:8080/live/3/hls.m3u8
+LUXE,http://37.27.111.214:8080/live/86/hls.m3u8
+MTV,http://37.27.111.214:8080/live/25/hls.m3u8
+MCE,http://37.27.111.214:8080/live/98/hls.m3u8
+VOA,http://37.27.111.214:8080/live/45/hls.m3u8
+elta生活旅遊,http://37.27.111.214:8080/live/85/hls.m3u8
+亞洲旅遊,http://37.27.111.214:8080/live/10/hls.m3u8
+靖洋戲居,http://37.27.111.214:8080/live/17/hls.m3u8
+靖天電影,http://37.27.111.214:8080/live/18/hls.m3u8
+環宇財經,http://37.27.111.214:8080/live/65/hls.m3u8
+智林體育,http://37.27.111.214:8080/live/77/hls.m3u8
+東森購物,http://37.27.111.214:8080/live/66/hls.m3u8
+人間衛視,http://37.27.111.214:8080/live/101/hls.m3u8
+八大綜合,http://37.27.111.214:8080/live/21/hls.m3u8
+幸福空間,http://37.27.111.214:8080/live/26/hls.m3u8
+東森購物,http://37.27.111.214:8080/live/61/hls.m3u8
+博斯無限,http://37.27.111.214:8080/live/15/hls.m3u8
+LIFE TIME,http://37.27.111.214:8080/live/71/hls.m3u8
+動畫,http://37.27.111.214:8080/live/57/hls.m3u8
+新唐人,http://37.27.111.214:8080/live/51/hls.m3u8
+TV5 MONDE,http://37.27.111.214:8080/live/9/hls.m3u8
+PET CLUB,http://37.27.111.214:8080/live/81/hls.m3u8
+FESTIVAL,http://37.27.111.214:8080/live/83/hls.m3u8
+動漫2,http://37.27.111.214:8080/live/106/hls.m3u8
+HakkaTV,http://37.27.111.214:8080/live/1/hls.m3u8
+動漫,http://37.27.111.214:8080/live/105/hls.m3u8
+nickjr,http://37.27.111.214:8080/live/22/hls.m3u8
+CNBC,http://37.27.111.214:8080/live/102/hls.m3u8
+居家,http://37.27.111.214:8080/live/26/hls.m3u8
+GOOD2,http://37.27.111.214:8080/live/99/hls.m3u8
+TiTV,http://37.27.111.214:8080/live/2/hls.m3u8
+中天新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv009
+東森新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv152
+tvbs新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv072
+環宇新聞台,http://tw.ts138.top/4g/?id=litv-longturn14
+非凡新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv010
+閩鏡新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv075
+民視新聞台,http://tw.ts138.top/4g/?id=litv-ftv13
+中視新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv074
+華視新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv052
+台視新聞台,http://tw.ts138.top/4g/?id=4gtv-4gtv051
+民視閩南台,http://tw.ts138.top/4g/?id=4gtv-4gtv002
+民視閩南台,http://tw.ts138.top/4g/?id=4gtv-4gtv155
+中視閩南台,http://tw.ts138.top/4g/?id=4gtv-4gtv040
+華視閩南台,http://tw.ts138.top/4g/?id=4gtv-4gtv041
+台視閩南台,http://tw.ts138.top/4g/?id=4gtv-4gtv066
+環宇閩南台,http://tw.ts138.top/4g/?id=litv-longturn15
+tvbs閩南台,http://tw.ts138.top/4g/?id=4gtv-4gtv073
+民視台灣台,http://tw.ts138.top/4g/?id=4gtv-4gtv001
+民視台灣台,http://tw.ts138.top/4g/?id=4gtv-4gtv156
+民視第壹台,http://tw.ts138.top/4g/?id=4gtv-4gtv003
+民視旅遊台,http://tw.ts138.top/4g/?id=litv-ftv07
+民視影劇台,http://tw.ts138.top/4g/?id=litv-ftv09
+民視綜藝台,http://tw.ts138.top/4g/?id=4gtv-4gtv004
+中視菁采台,http://tw.ts138.top/4g/?id=4gtv-4gtv064
+中視經典台,http://tw.ts138.top/4g/?id=4gtv-4gtv080
+台視財經台,http://tw.ts138.top/4g/?id=4gtv-4gtv056
+公視戲劇台,http://tw.ts138.top/4g/?id=4gtv-4gtv042
+閩南戲劇台,http://tw.ts138.top/4g/?id=litv-longturn22
+國際財經台,http://tw.ts138.top/4g/?id=4gtv-4gtv104
+東森財經台,http://tw.ts138.top/4g/?id=4gtv-4gtv153
+tvbs精采台,http://tw.ts138.top/4g/?id=4gtv-4gtv067
+tvbs歡樂台,http://tw.ts138.top/4g/?id=4gtv-4gtv068
+八大精彩台,http://tw.ts138.top/4g/?id=4gtv-4gtv034
+八大綜藝台,http://tw.ts138.top/4g/?id=4gtv-4gtv039
+愛爾達娛樂,http://tw.ts138.top/4g/?id=4gtv-4gtv070
+靖洋戲劇台,http://tw.ts138.top/4g/?id=4gtv-4gtv045
+靖洋卡通台,http://tw.ts138.top/4g/?id=4gtv-4gtv057
+靖天卡通台,http://tw.ts138.top/4g/?id=4gtv-4gtv044
+靖天綜合台,http://tw.ts138.top/4g/?id=4gtv-4gtv046
+靖天日本台,http://tw.ts138.top/4g/?id=4gtv-4gtv047
+靖天歡樂台,http://tw.ts138.top/4g/?id=4gtv-4gtv054
+靖天映畫台,http://tw.ts138.top/4g/?id=4gtv-4gtv055
+靖天戲劇台,http://tw.ts138.top/4g/?id=4gtv-4gtv058
+靖天電影台,http://tw.ts138.top/4g/?id=4gtv-4gtv061
+靖天育樂台,http://tw.ts138.top/4g/?id=4gtv-4gtv062
+靖天國際台,http://tw.ts138.top/4g/?id=4gtv-4gtv063
+靖天資訊台,http://tw.ts138.top/4g/?id=4gtv-4gtv065
+龍華卡通台,http://tw.ts138.top/4g/?id=litv-longturn01
+龍華日韓台,http://tw.ts138.top/4g/?id=litv-longturn11
+龍華偶像台,http://tw.ts138.top/4g/?id=litv-longturn12
+龍華電影台,http://tw.ts138.top/4g/?id=litv-longturn03
+龍華戲劇台,http://tw.ts138.top/4g/?id=litv-longturn18
+龍華經典台,http://tw.ts138.top/4g/?id=litv-longturn21
+國會頻道壹,http://tw.ts138.top/4g/?id=4gtv-4gtv084
+國會頻道貳,http://tw.ts138.top/4g/?id=4gtv-4gtv085
+好消息壹台,http://tw.ts138.top/4g/?id=litv-ftv16
+好消息貳台,http://tw.ts138.top/4g/?id=litv-ftv17
+智林體育台,http://tw.ts138.top/4g/?id=4gtv-4gtv101
+博斯魅力台,http://tw.ts138.top/4g/?id=litv-longturn04
+博斯網球台,http://tw.ts138.top/4g/?id=litv-longturn09
+博斯高球壹,http://tw.ts138.top/4g/?id=litv-longturn05
+博斯高球貳,http://tw.ts138.top/4g/?id=litv-longturn06
+博斯運動壹,http://tw.ts138.top/4g/?id=litv-longturn07
+博斯運動貳,http://tw.ts138.top/4g/?id=litv-longturn08
+博斯無限壹,http://tw.ts138.top/4g/?id=litv-longturn10
+博斯無限貳,http://tw.ts138.top/4g/?id=litv-longturn13
+阿裏郎頻道,http://tw.ts138.top/4g/?id=4gtv-4gtv079
+達文西頻道,http://tw.ts138.top/4g/?id=4gtv-4gtv018
+豬哥亮歌廳,http://tw.ts138.top/4g/?id=4gtv-4gtv006
+亞洲旅遊台,http://tw.ts138.top/4g/?id=litv-longturn17
+美國之音台,http://tw.ts138.top/4g/?id=litv-ftv03
+半島新聞台,http://tw.ts138.top/4g/?id=litv-ftv10
+非凡商業台,http://tw.ts138.top/4g/?id=4gtv-4gtv048
+第壹商業台,http://tw.ts138.top/4g/?id=4gtv-4gtv109
+愛放動漫台,http://tw.ts138.top/4g/?id=litv-ftv15
+古典音樂台,http://tw.ts138.top/4g/?id=4gtv-4gtv059
+客家電視台,http://tw.ts138.top/4g/?id=4gtv-4gtv043
+華仁紀實台,http://tw.ts138.top/4g/?id=4gtv-4gtv013
+時尚運動台,http://tw.ts138.top/4g/?id=4gtv-4gtv014
+生活英語台,http://tw.ts138.top/4g/?id=litv-longturn20
+采昌影劇台,http://tw.ts138.top/4g/?id=4gtv-4gtv049
+數位電影台,http://tw.ts138.top/4g/?id=4gtv-4gtv011
+amc電影台,http://tw.ts138.top/4g/?id=4gtv-4gtv017
+CAT電影台,http://tw.ts138.top/4g/?id=4gtv-4gtv076
+TRA體育台,http://tw.ts138.top/4g/?id=4gtv-4gtv077
+Smart知識,http://tw.ts138.top/4g/?id=litv-longturn19
+GLo-Bet台,http://tw.ts138.top/4g/?id=4gtv-4gtv016
+TRACEU台,http://tw.ts138.top/4g/?id=4gtv-4gtv082
+MEZZOl台,http://tw.ts138.top/4g/?id=4gtv-4gtv083
+Ginx_TV台,http://tw.ts138.top/4g/?id=4gtv-4gtv053
+中天新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv009
+tvbs新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv072
+非凡新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv010
+閩鏡新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv075
+華視新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv052
+中視新聞台,https://litv.zapi.us.kg/?id=4gtv-4gtv074
+環宇閩南台,https://litv.zapi.us.kg/?id=litv-longturn15
+中視閩南台,https://litv.zapi.us.kg/?id=4gtv-4gtv040
+華視閩南台,https://litv.zapi.us.kg/?id=4gtv-4gtv041
+台視閩南台,https://litv.zapi.us.kg/?id=4gtv-4gtv066
+民視閩南台,https://litv.zapi.us.kg/?id=4gtv-4gtv002
+民視第壹台,https://litv.zapi.us.kg/?id=4gtv-4gtv003
+民視綜藝台,https://litv.zapi.us.kg/?id=4gtv-4gtv004
+民視台灣台,https://litv.zapi.us.kg/?id=4gtv-4gtv001
+民視台灣台,https://litv.zapi.us.kg/?id=4gtv-4gtv156
+中視菁采台,https://litv.zapi.us.kg/?id=4gtv-4gtv064
+tvbs精采台,https://litv.zapi.us.kg/?id=4gtv-4gtv067
+tvbs歡樂台,https://litv.zapi.us.kg/?id=4gtv-4gtv068
+tvbs閩南台,https://litv.zapi.us.kg/?id=4gtv-4gtv073
+八大精彩台,https://litv.zapi.us.kg/?id=4gtv-4gtv034
+龍華卡通台,https://litv.zapi.us.kg/?id=litv-longturn01
+龍華電影台,https://litv.zapi.us.kg/?id=litv-longturn03
+龍華日韓台,https://litv.zapi.us.kg/?id=litv-longturn11
+龍華偶像台,https://litv.zapi.us.kg/?id=litv-longturn12
+龍華經典台,https://litv.zapi.us.kg/?id=litv-longturn21
+龍華戲劇台,https://litv.zapi.us.kg/?id=litv-longturn18
+愛爾達娛樂,https://litv.zapi.us.kg/?id=4gtv-4gtv070
+台灣戲劇台,https://litv.zapi.us.kg/?id=litv-longturn22
+靖洋戲劇台,https://litv.zapi.us.kg/?id=4gtv-4gtv045
+靖洋卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv057
+靖天戲劇台,https://litv.zapi.us.kg/?id=4gtv-4gtv058
+靖天卡通台,https://litv.zapi.us.kg/?id=4gtv-4gtv044
+靖天資訊台,https://litv.zapi.us.kg/?id=4gtv-4gtv065
+靖天映畫台,https://litv.zapi.us.kg/?id=4gtv-4gtv055
+靖天綜合台,https://litv.zapi.us.kg/?id=4gtv-4gtv046
+靖天日本台,https://litv.zapi.us.kg/?id=4gtv-4gtv047
+靖天電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv061
+靖天育樂台,https://litv.zapi.us.kg/?id=4gtv-4gtv062
+靖天國際台,https://litv.zapi.us.kg/?id=4gtv-4gtv063
+采昌影劇台,https://litv.zapi.us.kg/?id=4gtv-4gtv049
+公視戲劇台,https://litv.zapi.us.kg/?id=4gtv-4gtv042
+台視財經台,https://litv.zapi.us.kg/?id=4gtv-4gtv056
+客家電視台,https://litv.zapi.us.kg/?id=4gtv-4gtv043
+非凡商業台,https://litv.zapi.us.kg/?id=4gtv-4gtv048
+古典音樂台,https://litv.zapi.us.kg/?id=4gtv-4gtv059
+好消息壹台,https://litv.zapi.us.kg/?id=litv-ftv16
+好消息貳台,https://litv.zapi.us.kg/?id=litv-ftv17
+博斯魅力台,https://litv.zapi.us.kg/?id=litv-longturn04
+博斯高球壹,https://litv.zapi.us.kg/?id=litv-longturn05
+博斯高球貳,https://litv.zapi.us.kg/?id=litv-longturn06
+博斯運動壹,https://litv.zapi.us.kg/?id=litv-longturn07
+博斯運動貳,https://litv.zapi.us.kg/?id=litv-longturn08
+博斯網球台,https://litv.zapi.us.kg/?id=litv-longturn09
+博斯無限壹,https://litv.zapi.us.kg/?id=litv-longturn10
+博斯無限貳,https://litv.zapi.us.kg/?id=litv-longturn13
+亞洲旅遊台,https://litv.zapi.us.kg/?id=litv-longturn17
+生活英語台,https://litv.zapi.us.kg/?id=litv-longturn20
+影迷數位台,https://litv.zapi.us.kg/?id=4gtv-4gtv011
+華仁紀實台,https://litv.zapi.us.kg/?id=4gtv-4gtv013
+達文西頻道,https://litv.zapi.us.kg/?id=4gtv-4gtv018
+amc電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv017
+CAT電影台,https://litv.zapi.us.kg/?id=4gtv-4gtv076
+TRA體育台,https://litv.zapi.us.kg/?id=4gtv-4gtv077
+Smart頻道,https://litv.zapi.us.kg/?id=litv-longturn19
+GLo-Bet台,https://litv.zapi.us.kg/?id=4gtv-4gtv016
+Ginx-TV台,https://litv.zapi.us.kg/?id=4gtv-4gtv053
+華視,http://211.72.65.236:8503/.m3u8
+TVBS歡樂,http://211.72.65.236:8532/.m3u8
+博斯運動1,http://211.72.65.236:8587/.m3u8
+三立都會,http://211.72.65.236:8522/.m3u8
+人間衛視,http://211.72.65.236:8506/.m3u8
+中天娛樂,http://211.72.65.236:8527/.m3u8
+地理野生,http://211.72.65.236:8509/.m3u8
+龍華卡通,http://211.72.65.236:8517/.m3u8
+龍華偶像,http://211.72.65.236:8536/.m3u8
+龍華日韓,http://211.72.65.236:8535/.m3u8
+龍華戲劇,http://211.72.65.236:8534/.m3u8
+龍華電影,http://211.72.65.236:8581/.m3u8
+緯來育樂,http://211.72.65.236:8584/.m3u8
+GOODTV好消息,http://211.72.65.236:8508/.m3u8
+TCL,http://211.72.65.236:8511/.m3u8
+衛視西片,http://211.72.65.236:8583/.m3u8
+東森超視,http://211.72.65.236:8525/.m3u8
+東森幼幼,http://211.72.65.236:8515/.m3u8
+東森,http://211.72.65.236:8524/.m3u8
+緯來戲劇,http://211.72.65.236:8533/.m3u8
+非凡商業,http://211.72.65.236:8545/.m3u8
+八大戲劇,http://211.72.65.236:8531/.m3u8
+湖南衛視,http://211.72.65.236:8573/.m3u8
+八大,http://211.72.65.236:8520/.m3u8
+八大第壹,http://211.72.65.236:8519/.m3u8
+亞洲旅遊,http://211.72.65.236:8513/.m3u8
+STARWORD,http://211.72.65.236:8561/.m3u8
+民視,http://211.72.65.236:8504/.m3u8
+YAIWAN,http://211.72.65.236:8538/.m3u8
+公視,http://211.72.65.236:8505/.m3u8
+大愛,http://211.72.65.236:8507/.m3u8
+HBO,http://211.72.65.236:8580/.m3u8
+AXN,http://211.72.65.236:8582/.m3u
+p3p香港,#genre#
+TVB翡翠台,p3p://108.181.32.169:24075/641009ee000871369800bf4762e35621
+TVB翡翠台(b),p3p://108.181.32.169:24075/6410094a000234c597fe3d0e63905877
+TVB翡翠台MY,p3p://108.181.32.169:24075/64100a0b000cbbda980131a946a90bc0
+TVB明珠台Pearl,p3p://108.181.32.169:24075/64100a2a0003a57f9801a86d6b050a59
+TVB星河粤语,p3p://108.181.32.169:24075/641021c50003c5af985dddf037af353c
+TVB星河国语,p3p://108.181.32.169:24075/641021e900026b0f985e6a374d7d56bb
+TVB功夫台,p3p://108.181.32.169:24075/6411291b0004b01b9c62861646d00929
+TVB娱乐新闻台,p3p://108.181.32.169:24075/64102219000c6f74985f28485a5a5799
+TVB J2,p3p://108.181.32.169:24075/641021800006a527985cd1244315142d
+TVB经典台,p3p://108.181.32.169:24075/6410219e0000704b985d44bd2a501d47
+TVB爆谷台(不稳定),p3p://108.181.32.169:24075/641af90c000328bac2b691f11db2274a
+TVB星影台(不稳定),p3p://108.181.32.169:24075/641af926000cc2b9c2b6f9f75c8d2b97
+電影一台,p3p://108.181.32.169:24075/6410224e00097a01985ff68e53d22e70
+VIU TV,p3p://108.181.32.169:24075/641021400008eb86985bd7b90b510a5b
+VIU six,p3p://108.181.32.169:24075/6410215d000ad4ca985c497e192b3552
+RHK 31,p3p://108.181.32.169:24075/64101f330006ab429853d45f7940453b
+RHK 32,p3p://108.181.32.169:24075/641020b00001b8599859a360613572d7
+HOY咨询台有线新闻台,p3p://108.181.32.169:24075/64100a4d0003fbac9802313b0c8b4f3f
+HOY咨询台有线新闻台(b),p3p://108.181.32.169:24075/6427e50e0008e093f53042b347a45e2f
+有線體育台,p3p://108.181.32.169:24075/64100a6b000527e19802a6b80be147fa
+有線耀才财经,p3p://108.181.32.169:24075/64102268000ecb1f98605d7b0a602bf4
+有線603跑马,p3p://108.181.32.169:24075/64100253000d483097e30b0629d25344
+有線18台跑马,p3p://108.181.32.169:24075/641002ab000aa8ea97e4621a4f8c0b83
+CH288跑马,p3p://108.181.32.169:24075/641002df0003eab597e52b80616d018d
+CH289跑马,p3p://108.181.32.169:24075/641002f7000a790097e58aee1e6e4196
+無線新聞台,p3p://108.181.32.169:24075/64100a940006c6399803474b6281105f
+無線新聞台(b),p3p://108.181.32.169:24075/641010d400018818981bafed68b74c1b
+無線財經台,p3p://108.181.32.169:24075/64100aec000c7bc59804a081537730cb
+NOW财经台,p3p://108.181.32.169:24075/641020d00004bf91985a212731011c3c
+NOW直播台,p3p://108.181.32.169:24075/6417e77b0007feb1b6b9f4ca25bc6e04
+NOW新闻台,p3p://108.181.32.169:24075/6410254c0006df63986ba60f292a7500
+Now体育英超,p3p://108.181.32.169:24075/64b8f92b000089e02be334b114c32320
+Now plus,p3p://108.181.32.169:24075/64b8f962000df4a32be40ef90d9f4afd
+NOW体育台,p3p://108.181.32.169:24075/6410211d00048968985b4de16d6e5b6a
+EPL Now Sports 英超4keng,p3p://108.181.32.169:24075/64d74cf7000556f0223ed6366e5f689a
+EPL Now Sports 英超1eng,p3p://108.181.32.169:24075/64d74cb1000cc276223dc6ac654a2299
+EPL Now Sports 英超4k1粤语,p3p://108.181.32.169:24075/64d74ca40007202e223d927267473868
+EPL Now Sports 英超 粤语,p3p://108.181.32.169:24075/64d74c1600083555223b68096e79387e
+Now体育1 Sports 1,p3p://108.181.32.169:24075/643361f20007b9a9220fabfc3001244e
+Now体育2 Sports 2,p3p://108.181.32.169:24075/643362090006b031221005903b883d07
+Now体育3 Sports 3,p3p://108.181.32.169:24075/6433621d000d9c3522105573223958e1
+Now体育4 Sports 4,p3p://108.181.32.169:24075/6437999f00025f983289265f38ef3722
+Now体育5 Sports 5,p3p://108.181.32.169:24075/643799aa000e7bac3289547135e05a80
+Now体育6 Sports 6,p3p://108.181.32.169:24075/643799bb00044f193289943e2e5f6ac1
+Now体育7 Sports 7,p3p://108.181.32.169:24075/643799ca000a29a43289d0542d57262c
+星空卫视,p3p://108.181.32.169:24075/64102283000b474e9860c60d1e264899
+凤凰中文,p3p://108.181.32.169:24075/6410229e000655dd98612e41401e3e7d
+凤凰资讯,p3p://108.181.32.169:24075/641022be000e5cc69861ad4f5a025336
+凤凰香港台,p3p://108.181.32.169:24075/641022da0005d3069862188000a64525
+HBO,p3p://108.181.32.169:24075/64137f0b0006a17fa58238155813216c
+HBO家庭,p3p://108.181.32.169:24075/64137f3c000d4a86a582f93235111bc5
+HBO强档,p3p://108.181.32.169:24075/64137f700008f329a583c3344ddf5dfc
+HBO原创,p3p://108.181.32.169:24075/64137f970005246ea5845a9326ce6233
+凤凰资讯test,p3p://108.181.32.169:24075/641fd7b400080236d5bc536f5d82159c
+Kix HD,p3p://108.181.32.169:24075/6413854d000785b1a59aaa2924fa1aa7
+Discovery Channel,p3p://108.181.32.169:24075/641383f300048101a59561c464b07293
+TVB黃金翡翠台维修中,p3p://108.181.32.169:24075/64206c63000c3a90d801201c5fe2483a
+TVB 粤语片台 HYTV维修中,p3p://108.181.32.169:24075/641022340009a273985f91092cb6113d
+TVB粵語片台维修中,p3p://108.181.32.169:24075/643361c7000d4bee220f05703b541d41
+TVB華語劇台维修中,p3p://108.181.32.169:24075/643361e10003610a220f68773c0b4c78
+TVB戲曲台维修中,p3p://108.181.32.169:24075/64336236000b18a12210b67722665e99
+iQIYI,p3p://108.181.32.169:24075/649672870005e0a5a5062d0e1384610b
+p3p台湾,#genre#
+民视,p3p://108.181.32.169:24075/64251dd200003544ea55fe1c5eb00e42
+民视(b),p3p://108.181.32.169:24075/6442f24f00097e845edb5e492842265c
+民视新闻台,p3p://108.181.32.169:24075/64c859e10007934267f487ac0fa618e0
+公视,p3p://108.181.32.169:24075/64251df1000b5a9cea567a0e255d4664
+台视,p3p://108.181.32.169:24075/64251e0800060844ea56d28a6fad038f
+台视综合,p3p://108.181.32.169:24075/64295f5300027bb1faf5dea26ef81333
+台視财经台,p3p://108.181.32.169:24075/6448a761000bec1a75267316701e7a90
+中視新聞,p3p://108.181.32.169:24075/642d016e000643ab0926e0907da252ca
+中天新闻,p3p://108.181.32.169:24075/64252571000be01dea73c63b5616781e
+壹電視新聞台,p3p://108.181.32.169:24075/642521bd0005dfe9ea654d921969472d
+东森新闻,p3p://108.181.32.169:24075/64251f9700046520ea5ce8b85b6c11da
+东森财经,p3p://108.181.32.169:24075/64251ff20001f010ea5e4b9002e57212
+非凡新聞台,p3p://108.181.32.169:24075/64258e8600060f7eec0e3ebd6c49020e
+寰宇新聞台,p3p://108.181.32.169:24075/64295eb60008744efaf37ae07d17520b
+TVBS 新聞台,p3p://108.181.32.169:24075/64252188000673fcea647eb0397d464d
+三立新闻,p3p://108.181.32.169:24075/64251e23000bcd04ea573d7c0f0a002e
+年代新聞,p3p://108.181.32.169:24075/645b2569000acf2fbd624de55e212fb2
+三立戏剧三立戲劇,p3p://108.181.32.169:24075/64251e39000ed5bbea579433569b6381
+三立綜合台,p3p://108.181.32.169:24075/64251e49000e34e7ea57d28a25014df2
+三立台湾,p3p://108.181.32.169:24075/64251e5e0003388bea5821c268061bfb
+三立都会,p3p://108.181.32.169:24075/64251e7300064780ea587492773a63cc
+纬来电影,p3p://108.181.32.169:24075/64251eae0001bef7ea5959e100ae671e
+纬来体育,p3p://108.181.32.169:24075/64251ee9000a4e00ea5a428b26ea4156
+纬来日本,p3p://108.181.32.169:24075/64251ef6000315a6ea5a737a6efc404a
+纬来精彩,p3p://108.181.32.169:24075/64251f020003818bea5aa2750fef31c6
+纬来综合,p3p://108.181.32.169:24075/64251f0d000c0b8fea5acf9d13b83665
+東森幼幼,p3p://108.181.32.169:24075/6430b41c0001f3831798d72948126428
+東森电影台,p3p://108.181.32.169:24075/64253899000a078deabe99ff587050b0
+東森綜合台,p3p://108.181.32.169:24075/64253f6e0002d287ead9482831323a6d
+東森戲劇台,p3p://108.181.32.169:24075/64251f7a000bc46eea5c79536d5e2a0e
+東森洋片,p3p://108.181.32.169:24075/64251f8a0008854aea5cb6fe64e47b4e
+八大娛樂台,p3p://108.181.32.169:24075/642520730002bc15ea6043b344e032a5
+八大第一,p3p://108.181.32.169:24075/6425207f00050f7aea60732c51b94fad
+八大综合,p3p://108.181.32.169:24075/642520b0000c3261ea61346800d61673
+八大戏剧,p3p://108.181.32.169:24075/642520c1000929efea61760938521b57
+華視綜合,p3p://108.181.32.169:24075/642520cd000995d4ea61a5050eb67a8d
+民視第一台,p3p://108.181.32.169:24075/642520e900023cc4ea621083588c7092
+民视影劇台,p3p://108.181.32.169:24075/6425257c000bd861ea73f1315c0e6e14
+民視綜藝台,p3p://108.181.32.169:24075/642d012300040bf70925bb06321b0b87
+TVBS 精采台,p3p://108.181.32.169:24075/642521570001b275ea63be1073931dd1
+TVBS,p3p://108.181.32.169:24075/64252174000b39b9ea6431c97b481680
+TVBS-G欢乐台,p3p://108.181.32.169:24075/642521950001d9f2ea64b04b059b66dd
+TVBS-精彩台,p3p://108.181.32.169:24075/642521a2000c7beaea64e5cc482f669a
+靖洋戲劇台,p3p://108.181.32.169:24075/642521b000094942ea651baa457674cb
+新唐人亞太台,p3p://108.181.32.169:24075/642521d2000cfacfea65a16c26f11d60
+人间卫视,p3p://108.181.32.169:24075/6425224d00048156ea677fb9420534b4
+大爱电视,p3p://108.181.32.169:24075/6425225a0002859cea67b1ff6aaf6db6
+大爱二台,p3p://108.181.32.169:24075/64252264000022beea67d87308e9122e
+MOMO親子臺,p3p://108.181.32.169:24075/6425226f000463e1ea68048207b3285f
+ELEVEN 体育1,p3p://108.181.32.169:24075/6425227b000100c6ea6832842d41783a
+ELEVEN 体育2,p3p://108.181.32.169:24075/64252292000127feea688c6630d312e7
+ELTA体育1台,p3p://108.181.32.169:24075/6425229e00024ab4ea68bb9154ab1928
+ELTA体育2台,p3p://108.181.32.169:24075/642522b0000a6c14ea6903f615622aab
+ELTA体育3台,p3p://108.181.32.169:24075/642522bd000ad1bbea6936d803e32fc0
+ELTA体育3台国语,p3p://108.181.32.169:24075/6433e3220006392724084f1711880c01
+博斯魅力,p3p://108.181.32.169:24075/642d395d0004e9950a015dce389f4c91
+博斯運動一台,p3p://108.181.32.169:24075/642d000d000525a509217d5a62e868e8
+博斯網球台,p3p://108.181.32.169:24075/642d0029000bd7e70921ec71212f5735
+博斯運動二台,p3p://108.181.32.169:24075/642d0087000484c5092359c47ee4201a
+博斯高球台,p3p://108.181.32.169:24075/642d009f000f1f000923ba3b26b667e4
+博斯高球二台,p3p://108.181.32.169:24075/642d00ae000e846a0923f4ac45c06f09
+博斯無限台,p3p://108.181.32.169:24075/642d00bf00041ae7092434690ae526c7
+ELTA綜合,p3p://108.181.32.169:24075/642522cd000292e6ea69733b04032ded
+國家地理高畫質野生,p3p://108.181.32.169:24075/642523f2000e0f35ea6deeb16ff816c9
+历史频道2,p3p://108.181.32.169:24075/642521e0000042a6ea65d4db3e9d23f9
+EYE TV旅遊台,p3p://108.181.32.169:24075/642524030003a5b2ea6e2e6f6efc45a1
+探索科学,p3p://108.181.32.169:24075/6425241100084dfbea6e6650539d779f
+亚洲旅游台,p3p://108.181.32.169:24075/642520f70001a86dea62470d303d34d3
+美食星球,p3p://108.181.32.169:24075/6425252400079076ea72985811e07306
+CI 罪案偵查頻道crime,p3p://108.181.32.169:24075/642520d9000d93c9ea61d4ea78792b01
+动物星球animal planet,p3p://108.181.32.169:24075/6425241f00027d03ea6e9b836b853b0b
+星衛娱乐台,p3p://108.181.32.169:24075/6425242d000d55adea6ed4fa37195f98
+愛爾達影劇台,p3p://108.181.32.169:24075/6425243c00046a2eea6f0d4964f8022d
+Smithsonian Channel,p3p://108.181.32.169:24075/64252459000cfdb2ea6f80c37a14067d
+金光布袋戲,p3p://108.181.32.169:24075/6425246600099458ea6fb2ab4398320b
+CatchPlay電影台,p3p://108.181.32.169:24075/64252479000b7f1aea6ffd6177e3015c
+衛視中文 HD Star Chinese,p3p://108.181.32.169:24075/64252507000eefc4ea7228f32f390502
+好莱坞电影台,p3p://108.181.32.169:24075/6425244f0001184fea6f56a70aca63d2
+卫视电影台scm,p3p://108.181.32.169:24075/642525150008a4ecea725e071929091e
+星卫HD电影,p3p://108.181.32.169:24075/642521030009ef43ea62780c438e2a38
+美亚电影台,p3p://108.181.32.169:24075/642525310003ad3cea72ca2155c734c3
+卫视HD电影,p3p://108.181.32.169:24075/6425253c0007ee60ea72f6307ae25fdd
+JET TV,p3p://108.181.32.169:24075/6425254d000d3abeea7339f47b5d4bf5
+BRAVO中视青采,p3p://108.181.32.169:24075/642525590004d7f3ea7366ae4aeb3d9d
+中天娱乐,p3p://108.181.32.169:24075/642525670005ee2bea739da573c134b4
+中天亚洲,p3p://108.181.32.169:24075/64254f7e000dfed1eb1809855c5735ce
+中天綜合,p3p://108.181.32.169:24075/642d0188000d7c49092747f97ffc7c72
+HBO tw,p3p://108.181.32.169:24075/64137f0b0006a17fa58238155813216c
+HBO家庭,p3p://108.181.32.169:24075/64137f3c000d4a86a582f93235111bc5
+HBO强档,p3p://108.181.32.169:24075/64137f700008f329a583c3344ddf5dfc
+HBO原创,p3p://108.181.32.169:24075/64137f970005246ea5845a9326ce6233
+Thrill,p3p://108.181.32.169:24075/644a0879000272f67a89b6687af342ae
+豬哥亮歌廳秀,p3p://108.181.32.169:24075/642d012f00030a3c0925e9a4065b1986
+靖天育樂台,p3p://108.181.32.169:24075/642d013d0001084409261fd04c0c3c04
+龙翔时代电影,p3p://108.181.32.169:24075/642d014b0009f96e092658cb4e1b23ff
+Baby First,p3p://108.181.32.169:24075/642d015f000070f00926a47a6a2e7d52
+ET综合台,p3p://108.181.32.169:24075/642d017d0000a964092719b87e2e3acd
+好消息,p3p://108.181.32.169:24075/642d01960008dc0109277d7a4fc40fce
+好消息2台,p3p://108.181.32.169:24075/642d07140006a38a093cf11414d83398
+CNN my,p3p://108.181.32.169:24075/641380c6000d7e73a588fc4e012b3240
+CNBC my,p3p://108.181.32.169:24075/64138101000e328aa589e2f46ee85f3d
+ABC Australia my,p3p://108.181.32.169:24075/6413811b0006e5f7a58a46a6057a4674
+Sky News HD my,p3p://108.181.32.169:24075/641381340003e883a58aa78a57c53479
+Bloomberg TV my,p3p://108.181.32.169:24075/6413814f000a6413a58b12ab52934c96
+France 24 my,p3p://108.181.32.169:24075/6413816700069158a58b6f7a03cd341c
+Euro news my,p3p://108.181.32.169:24075/6413817b0003393aa58bbcbf158b6409
+FOX NEWS my,p3p://108.181.32.169:24075/6413818e000154fca58c067b60210765
+BBC News HD,p3p://108.181.32.169:24075/641384e7000133cda5991a1b33cb3ea0
+DW HD,p3p://108.181.32.169:24075/641384f6000cbd09a59957a77daa41a1
+p3p新闻,#genre#
+CNN my,p3p://108.181.32.169:24075/641380c6000d7e73a588fc4e012b3240
+CNN Indonesia Indonesia,p3p://108.181.32.169:24075/641380ea000891c1a58987ab53f905fa
+CNBC my,p3p://108.181.32.169:24075/64138101000e328aa589e2f46ee85f3d
+ABC Australia my,p3p://108.181.32.169:24075/6413811b0006e5f7a58a46a6057a4674
+Sky News HD my,p3p://108.181.32.169:24075/641381340003e883a58aa78a57c53479
+Bloomberg TV my,p3p://108.181.32.169:24075/6413814f000a6413a58b12ab52934c96
+France 24 my,p3p://108.181.32.169:24075/6413816700069158a58b6f7a03cd341c
+Euro news my,p3p://108.181.32.169:24075/6413817b0003393aa58bbcbf158b6409
+FOX NEWS my,p3p://108.181.32.169:24075/6413818e000154fca58c067b60210765
+BBC News HD,p3p://108.181.32.169:24075/641384e7000133cda5991a1b33cb3ea0
+DW HD,p3p://108.181.32.169:24075/641384f6000cbd09a59957a77daa41a1
+TVB_E-NEWS,p3p://108.181.32.169:24075/64102219000c6f74985f28485a5a5799
+無線新聞台,p3p://108.181.32.169:24075/64100a940006c6399803474b6281105f
+無線新聞台(b),p3p://108.181.32.169:24075/641010d400018818981bafed68b74c1b
+無線財經台,p3p://108.181.32.169:24075/64100aec000c7bc59804a081537730cb
+NOW财经台,p3p://108.181.32.169:24075/641020d00004bf91985a212731011c3c
+NOW 新闻台,p3p://108.181.32.169:24075/6410254c0006df63986ba60f292a7500
+凤凰中文,p3p://108.181.32.169:24075/6410229e000655dd98612e41401e3e7d
+凤凰资讯,p3p://108.181.32.169:24075/641022be000e5cc69861ad4f5a025336
+凤凰香港台,p3p://108.181.32.169:24075/641022da0005d3069862188000a64525
+中天新闻,p3p://108.181.32.169:24075/64252571000be01dea73c63b5616781e
+中天新闻(b),p3p://108.181.32.169:24075/642590050003b317ec1416371a246f3d
+民视新闻台,p3p://108.181.32.169:24075/64c859e10007934267f487ac0fa618e0
+壹電視新聞台,p3p://108.181.32.169:24075/642521bd0005dfe9ea654d921969472d
+东森新闻,p3p://108.181.32.169:24075/64251f9700046520ea5ce8b85b6c11da
+TVBS 新聞台,p3p://108.181.32.169:24075/64252188000673fcea647eb0397d464d
+三立新闻,p3p://108.181.32.169:24075/64251e23000bcd04ea573d7c0f0a002e
+非凡新聞台,p3p://108.181.32.169:24075/64258e8600060f7eec0e3ebd6c49020e
+寰宇新聞台,p3p://108.181.32.169:24075/64295eb60008744efaf37ae07d17520b
+台視财经台,p3p://108.181.32.169:24075/6448a761000bec1a75267316701e7a90
+年代新聞,p3p://108.181.32.169:24075/645b2569000acf2fbd624de55e212fb2
+CCTV-4,p3p://108.181.32.169:24075/64260ca5000de050edfae9d444575946
+FOX NEWS HD,p3p://108.181.32.169:24075/645fa4a20009e813cef3445113f32f37
+NBC News,p3p://108.181.32.169:24075/645fb231000224f2cf2838ec5da021e1
+NewsmaxTV,p3p://108.181.32.169:24075/6463b008000a617cdebf90be602c4318
+BBC World News,p3p://108.181.32.169:24075/6465a784000201aee66e4af152371a81
+Cheddar News,p3p://108.181.32.169:24075/6465a78f00077382e66e774d7a1176a6
+NEWS 12 CONNECTICUT,p3p://108.181.32.169:24075/6465abce000b2c48e67f0e5e77df4110
+NEWS 12 LONG ISLAND,p3p://108.181.32.169:24075/6465abe3000a2f4de67f6026547a726c
+NEWS 12 THE BRONX,p3p://108.181.32.169:24075/6465abfa00086f05e67fb98b35733f88
+NEWS 12 WESTCHESTER,p3p://108.181.32.169:24075/6465ac0a00093bd1e67ff8404bce63ed
+NEWSY,p3p://108.181.32.169:24075/6465ac1c0003cbc0e6803d2b05391318
+ESPN News USA1 HD,p3p://108.181.32.169:24075/645fab270000a005cf0cb97041394996
+p3p体育,#genre#
+CCTV-5,p3p://108.181.32.169:24075/64260cb0000afd53edfb140f10811127
+CCTV-5+,p3p://108.181.32.169:24075/64260cbc00081417edfb42307c984dd4
+EPL Now Sports 英超4keng,p3p://108.181.32.169:24075/64d74cf7000556f0223ed6366e5f689a
+EPL Now Sports 英超1eng,p3p://108.181.32.169:24075/64d74cb1000cc276223dc6ac654a2299
+EPL Now Sports 英超4k1粤语,p3p://108.181.32.169:24075/64d74ca40007202e223d927267473868
+EPL Now Sports 英超 粤语,p3p://108.181.32.169:24075/64d74c1600083555223b68096e79387e
+Now体育630,p3p://108.181.32.169:24075/64b8f92b000089e02be334b114c32320
+Now plus,p3p://108.181.32.169:24075/64b8f962000df4a32be40ef90d9f4afd
+NOW 体育台,p3p://108.181.32.169:24075/6410211d00048968985b4de16d6e5b6a
+Now体育1 Sports 1,p3p://108.181.32.169:24075/643361f20007b9a9220fabfc3001244e
+Now体育2 Sports 2,p3p://108.181.32.169:24075/643362090006b031221005903b883d07
+Now体育3 Sports 3,p3p://108.181.32.169:24075/6433621d000d9c3522105573223958e1
+Now体育4 Sports 4,p3p://108.181.32.169:24075/6437999f00025f983289265f38ef3722
+Now体育5 Sports 5,p3p://108.181.32.169:24075/643799aa000e7bac3289547135e05a80
+Now体育6 Sports 6,p3p://108.181.32.169:24075/643799bb00044f193289943e2e5f6ac1
+Now体育7 Sports 7,p3p://108.181.32.169:24075/643799ca000a29a43289d0542d57262c
+ELEVEN 体育1,p3p://108.181.32.169:24075/6425227b000100c6ea6832842d41783a
+ELEVEN 体育2,p3p://108.181.32.169:24075/64252292000127feea688c6630d312e7
+ELTA体育1台,p3p://108.181.32.169:24075/6425229e00024ab4ea68bb9154ab1928
+ELTA体育2台,p3p://108.181.32.169:24075/642522b0000a6c14ea6903f615622aab
+ELTA体育3台,p3p://108.181.32.169:24075/642522bd000ad1bbea6936d803e32fc0
+ELTA体育3台国语,p3p://108.181.32.169:24075/6433e3220006392724084f1711880c01
+博斯運動一台,p3p://108.181.32.169:24075/642d000d000525a509217d5a62e868e8
+博斯魅力,p3p://108.181.32.169:24075/642d395d0004e9950a015dce389f4c91
+博斯網球台,p3p://108.181.32.169:24075/642d0029000bd7e70921ec71212f5735
+博斯運動二台,p3p://108.181.32.169:24075/642d0087000484c5092359c47ee4201a
+博斯高球台,p3p://108.181.32.169:24075/642d009f000f1f000923ba3b26b667e4
+博斯高球二台,p3p://108.181.32.169:24075/642d00ae000e846a0923f4ac45c06f09
+博斯無限台,p3p://108.181.32.169:24075/642d00bf00041ae7092434690ae526c7
+ASSP1(a),p3p://108.181.32.169:24075/6412459f000acfeba0b9eb4448574dee
+ASSP1(b),p3p://108.181.32.169:24075/641245bc0008335da0ba5be15de04db6
+ASSP2(a),p3p://108.181.32.169:24075/641245e30005d242a0baf39e4a3f4a03
+ASSP2(b),p3p://108.181.32.169:24075/641245fd000a6c90a0bb5a5b3f082922
+ASSP3(a),p3p://108.181.32.169:24075/6412462100081e2fa0bbe66467ee6505
+ASSP3(b),p3p://108.181.32.169:24075/6412463b00023f3ca0bc4a7430ab0660
+ASSP4(a),p3p://108.181.32.169:24075/64124658000ad2c0a0bcbdee020d5132
+ASSP4(b),p3p://108.181.32.169:24075/641246e00009e30fa0bed0f161d56da7
+ASSP5(a),p3p://108.181.32.169:24075/641246fc0003baafa0bf3cbe4c8736d8
+ASSP5(b),p3p://108.181.32.169:24075/6412471a00065484a0bfb29809e370b5
+Spotv,p3p://108.181.32.169:24075/6481dc3c00077243549b8cd35b4f0f7f
+Bola Arena1,p3p://108.181.32.169:24075/641245040004d52aa0b78c446be55863
+Bola Arena2,p3p://108.181.32.169:24075/64124524000e86a3a0b80bbf421014d4
+Astro Arena,p3p://108.181.32.169:24075/6412454a0000fbb4a0b89cb81723411e
+Astro Arena 1,p3p://108.181.32.169:24075/64124580000df2d5a0b972fa5e5d3940
+Astro Arena 2,p3p://108.181.32.169:24075/64124568000c643aa0b914d41041515b
+BeIN Sports,p3p://108.181.32.169:24075/641381d2000619c4a58d115426907b6d
+BeIN Max Sports,p3p://108.181.32.169:24075/641381e300044201a58d534366ce199d
+WWE Network,p3p://108.181.32.169:24075/641381f6000cd704a58d9fae064d2ede
+Golf Channel SKY SPORT,p3p://108.181.32.169:24075/6413821c000b77b6a58e33c27f83093b
+TSN 1,p3p://108.181.32.169:24075/643119270003db6719238a985be41867
+TSN 2,p3p://108.181.32.169:24075/64311978000dc8961924c98b13117b70
+TSN 3,p3p://108.181.32.169:24075/64311ac1000558571929cc872ad35eec
+TSN 4,p3p://108.181.32.169:24075/64311b14000f390a192b13475a166e90
+TSN 5,p3p://108.181.32.169:24075/64311b67000c0613192c56ad05b518b5
+ESPN 1,p3p://108.181.32.169:24075/64311ba20007409b192d3bec4f60079a
+ESPN 2,p3p://108.181.32.169:24075/64311d29000d2a3b193334cb71ba3db4
+ESPN 3,p3p://108.181.32.169:24075/64311e68000a2a1d1938121f51b1501b
+NBA TV,p3p://108.181.32.169:24075/64311e75000090631938427279742fef
+NBA TV(b),p3p://108.181.32.169:24075/64311e81000176281938718d4b003c1b
+beIN Sports 1,p3p://108.181.32.169:24075/64311e93000ba7aa1938ba7e1e4b3642
+beIN Sports 2,p3p://108.181.32.169:24075/64311ea0000526211938eb9c63bc100c
+beIN Sports 3,p3p://108.181.32.169:24075/64311eac00023ce5193919bd41e13e59
+NBCgolf,p3p://108.181.32.169:24075/64311ec30002641e1939739f2a9f6e82
+Golf Channel USA,p3p://108.181.32.169:24075/64311ed10003b7461939aaa6737c19fe
+SuperSports Golf,p3p://108.181.32.169:24075/64311edf000047af1939e0754ac733f5
+WWE Network,p3p://108.181.32.169:24075/64311eec0001de06193a13a553747072
+WWE HD backup,p3p://108.181.32.169:24075/642fa8b7000065051384543f2842233e
+Fight Sports T,p3p://108.181.32.169:24075/64311efc000d6103193a55176c7f5df0
+UFC Fight Pass U.K,p3p://108.181.32.169:24075/64311f0a0003c10b193a89517a060079
+MUTV,p3p://108.181.32.169:24075/64311f27000ef2df193afd76183366ae
+MUTV Backup,p3p://108.181.32.169:24075/643125570009d890195327a22a5d7ee1
+Tennis Channel,p3p://108.181.32.169:24075/6431257d000c445b1953bcb05b6e7e1a
+SONY SIX HD,p3p://108.181.32.169:24075/6431258f00078b1a195401ca779371a1
+SONY TEN 1,p3p://108.181.32.169:24075/643125a30006d14d19544fbb7da27f2a
+SONY TEN 2 HD,p3p://108.181.32.169:24075/643125b30006aa5919548e3114052626
+SONY TEN 3 HD,p3p://108.181.32.169:24075/643125c20009916d1954c98c31471159
+Sony TEN 4,p3p://108.181.32.169:24075/643125d2000a5e391955084066b953b5
+SuperSport Cricket TL,p3p://108.181.32.169:24075/643125e8000da3e019555f0767a373ec
+SKY SPORTS CRICKET HD,p3p://108.181.32.169:24075/643125f6000c1bc9195595521266639c
+ASTRO Cricket,p3p://108.181.32.169:24075/6431265d0001c1b519572503322821da
+WILLOW CRICKET,p3p://108.181.32.169:24075/6431266a00044bcc1957587229c344de
+SKY SPORT F1,p3p://108.181.32.169:24075/64312677000c166b19578d3854af5dbc
+Fox Sports News AU,p3p://108.181.32.169:24075/64312683000d39211957bc627ed1087d
+Fox Sports 501 AU,p3p://108.181.32.169:24075/643127000001d7eb1959a1c15b2e5498
+Fox Sports 502 AU,p3p://108.181.32.169:24075/6431270b000a24ff1959ced93173500e
+Fox Sports 503 AU,p3p://108.181.32.169:24075/6431271a00081cc9195a08ec32034279
+Fox Sports 504 AU,p3p://108.181.32.169:24075/6431272a0000d1b5195a458e5f7560f2
+Fox Sports 505 AU,p3p://108.181.32.169:24075/6431273a000479c1195a84fe134c0433
+Fox Sports 506 AU,p3p://108.181.32.169:24075/6431274800023ad9195abb1b74513383
+Fox Sports 507 AU,p3p://108.181.32.169:24075/643127fc0003ca86195d7aa277b31909
+Fox Sport 1,p3p://108.181.32.169:24075/6431280d00013bf3195dbc6232857455
+FIFA Fox sport 1,p3p://108.181.32.169:24075/6431281c000302be195df76f404b53d2
+Fox Sports 2,p3p://108.181.32.169:24075/643128290007b145195e2b6a6384316a
+SKY Racing 1,p3p://108.181.32.169:24075/64312837000aebee195e62ed55557fd9
+SKY Racing 2,p3p://108.181.32.169:24075/64312844000ad7b5195e95b069db4ef2
+Racing.com HD,p3p://108.181.32.169:24075/64312852000912ad195ecbec6de2555f
+FOX Sports Racing HD,p3p://108.181.32.169:24075/64312865000d9bbf195f174e5ec83175
+Ziggo Sport Racing,p3p://108.181.32.169:24075/64312871000b6954195f459e7c10663c
+Dubai Sports 2,p3p://108.181.32.169:24075/6431287f0003edcc195f7a6369cf47b8
+Dubai Sports 2b,p3p://108.181.32.169:24075/64312936000a354e196246d611a14be4
+Dubai Racing 3,p3p://108.181.32.169:24075/64312942000933931962757447382f61
+Racing UK SPORT(UK),p3p://108.181.32.169:24075/6431294f000b80ba1962a8d376855937
+KY SPORTS RACING,p3p://108.181.32.169:24075/6431295b0006afff1962d67737a347d9
+STAR SPORTS 1 HD,p3p://108.181.32.169:24075/643129690000652719630b8b0f766ba7
+Star Sports 2 HD,p3p://108.181.32.169:24075/64312975000bc42d19633d543ad20d2e
+Star Sports Select 1,p3p://108.181.32.169:24075/643129c6000c2bdb196479d77b6f7e96
+Star Sports Select 1b,p3p://108.181.32.169:24075/643129d50004aa151964b2834730348c
+Star Sports Select 2,p3p://108.181.32.169:24075/643129e6000a70531964f6661182226c
+Star Sports Select 2b HD,p3p://108.181.32.169:24075/643129f40005210b19652bb847830d99
+SKY SPORTS FOOTBALL,p3p://108.181.32.169:24075/64312a3d000a7d6c19664a3f15773237
+SKY SPORTS MAIN EVENT,p3p://108.181.32.169:24075/64312a4d0002b877196686c254e3270d
+SKY SPORTS PREMIER LEAGUE,p3p://108.181.32.169:24075/64312a5c000d11031966c4005f4e2e4d
+SKY SPORTS NFL U.K,p3p://108.181.32.169:24075/64312a6b000a8eed1966fdf44a0647cc
+SKY Sports News (b),p3p://108.181.32.169:24075/64312a790008c9e5196734307fc34a77
+Sky Sport Arena HD,p3p://108.181.32.169:24075/64312a880002b5bf19676d3a18fb1676
+BT SPORT 1 U.K,p3p://108.181.32.169:24075/64312a95000d94a71967a2ca00065aeb
+BT SPORT 2 U.K,p3p://108.181.32.169:24075/64312aaa0009428c1967f3b71a5952ed
+BT SPORT 2(b) SPORT(UK,p3p://108.181.32.169:24075/64312aba00036517196830b750ea44d5
+BT Sport 3 FHD U.K,p3p://108.181.32.169:24075/64312ace000b3d0b196880d9185f2371
+MLB NETWORK,p3p://108.181.32.169:24075/644fd4d2000d8202912fba3672c5421a
+Sony Ten 1 Sport 1 USA,p3p://108.181.32.169:24075/645fa6e400023cd9cefc142d4d100fb2
+Sony Ten 3 HD USA,p3p://108.181.32.169:24075/645fa6d700056943cefbe23534d84052
+ESPN U HD USA,p3p://108.181.32.169:24075/645fab36000d59f1cf0cf74b44076241
+ESPN 3 USA,p3p://108.181.32.169:24075/645fab49000ca662cf0d415574523331
+TSN 1 USA,p3p://108.181.32.169:24075/645fb74800051f03cf3c1b7e48bd434c
+TSN 4 USA,p3p://108.181.32.169:24075/645fb758000165ffcf3c590a38de4f76
+TSN 5 USA,p3p://108.181.32.169:24075/645fb76a0007dccfcf3ca10218644e9c
+WWE USA,p3p://108.181.32.169:24075/6462701400067a04d9ddbe9873b90463
+BEIN SPORTS 11 USA,p3p://108.181.32.169:24075/6463a5b400077f08de9737e474b0055b
+USA: BeIN Sports 4 USA,p3p://108.181.32.169:24075/6463a5cb00045120de9790ec0ec340aa
+USA: BeIN Sports 6 USA,p3p://108.181.32.169:24075/6463a5de00091722de97dc4d0e413139
+beIN Sports USA1,p3p://108.181.32.169:24075/6463a5eb000a7089de980f6e0e9c48d5
+Supersport Premier League USA,p3p://108.181.32.169:24075/6463a5f80008b1c0de9841c45e2d124f
+Supersport Football USA,p3p://108.181.32.169:24075/6463a606000229f7de9876c846553fcc
+Supersport LaLiga USA,p3p://108.181.32.169:24075/6463a6260000ab5fde98f3660a053de2
+SuperSport MaXimo USA,p3p://108.181.32.169:24075/6463a638000409ffde993a937bef2d62
+Supersport Motorsport USA,p3p://108.181.32.169:24075/6463a64500015776de996caa4be276c3
+Supersport PSL USA,p3p://108.181.32.169:24075/6463a8ff000b74a1dea415d470ea7983
+Supersport Variety 3 USA,p3p://108.181.32.169:24075/6463a90d000d7e9adea44d0a511a6930
+Supersport Variety 4USA,p3p://108.181.32.169:24075/6463a926000e1336dea4aed876667f60
+Tennis Channel USA,p3p://108.181.32.169:24075/6463a94a000dac55dea53b5e725857f0
+p3p电影,#genre#
+HBO HD my,p3p://108.181.32.169:24075/64137ee50006d7eca581a3b3297e60a3
+HBO tw,p3p://108.181.32.169:24075/64137f0b0006a17fa58238155813216c
+HBO Family my,p3p://108.181.32.169:24075/64137f29000ae5e4a582ae5d42d65d7a
+HBO家庭,p3p://108.181.32.169:24075/64137f3c000d4a86a582f93235111bc5
+HBO Signature my,p3p://108.181.32.169:24075/64137f530000971da5834fca2631479a
+HBO强档,p3p://108.181.32.169:24075/64137f700008f329a583c3344ddf5dfc
+HBO Hits my,p3p://108.181.32.169:24075/64137f85000a578fa58415985b5b1f5d
+HBO原创,p3p://108.181.32.169:24075/64137f970005246ea5845a9326ce6233
+AXN tw,p3p://108.181.32.169:24075/64137fb6000e2555a584d5f94945113b
+Thrill,p3p://108.181.32.169:24075/644a0879000272f67a89b6687af342ae
+AXN tw2,p3p://108.181.32.169:24075/64137fed000660a5a585aad4055228a8
+AXN my,p3p://108.181.32.169:24075/6413800100002d47a585f75e0b4d15d4
+CINEMAX tw,p3p://108.181.32.169:24075/641380160003b61ca5864a4e3d49763a
+Cinemax my,p3p://108.181.32.169:24075/6413802a000969a0a58699e441aa3320
+Animax my,p3p://108.181.32.169:24075/6413803e00077f23a586e786585056af
+Animax tw,p3p://108.181.32.169:24075/6413807500012fe3a587bcbf2e6b7388
+Hits Movies my,p3p://108.181.32.169:24075/6413808800072695a588087e3cc239d1
+TVB 粤语片台 HYTV,p3p://108.181.32.169:24075/641022340009a273985f91092cb6113d
+電影一台,p3p://108.181.32.169:24075/6410224e00097a01985ff68e53d22e70
+CCM 天映经典,p3p://108.181.32.169:24075/64124d990007b0aaa0d9131033d9354a
+CCM 天映经典 CN中英字幕,p3p://108.181.32.169:24075/64124dd500082194a0d9fd8d736a3dff
+Celestial MY 天映,p3p://108.181.32.169:24075/64124e2b000b454ba0db4e4b137c6137
+Celestial MY 天映2,p3p://108.181.32.169:24075/64124e0f00045619a0dadf2552b73bf8
+CatchPlay電影台,p3p://108.181.32.169:24075/64252479000b7f1aea6ffd6177e3015c
+衛視中文 HD Star Chinese,p3p://108.181.32.169:24075/64252507000eefc4ea7228f32f390502
+好莱坞电影台,p3p://108.181.32.169:24075/6425244f0001184fea6f56a70aca63d2
+卫视电影台scm,p3p://108.181.32.169:24075/642525150008a4ecea725e071929091e
+星卫HD电影,p3p://108.181.32.169:24075/642521030009ef43ea62780c438e2a38
+美亚电影台,p3p://108.181.32.169:24075/642525310003ad3cea72ca2155c734c3
+卫视HD电影,p3p://108.181.32.169:24075/6425253c0007ee60ea72f6307ae25fdd
+東森电影台,p3p://108.181.32.169:24075/64253899000a078deabe99ff587050b0
+東森洋片,p3p://108.181.32.169:24075/64251f8a0008854aea5cb6fe64e47b4e
+纬来电影,p3p://108.181.32.169:24075/64251eae0001bef7ea5959e100ae671e
+龍祥電影台,p3p://108.181.32.169:24075/642d014b0009f96e092658cb4e1b23ff
+CCTV-6,p3p://108.181.32.169:24075/64260cc800087ffdedfb712c61a06569
+HBO Signature USA,p3p://108.181.32.169:24075/645fab94000cb9a6cf0e66527fc930bc
+HBO USA,p3p://108.181.32.169:24075/645faf2100095cb2cf1c4442765c172b
+HBO 2 USA,p3p://108.181.32.169:24075/645faf2e00057979cf1c760b55dd62b3
+HBO Comedy USA,p3p://108.181.32.169:24075/645faf390002967ccf1ca046036d356a
+HBO HD SIN USA,p3p://108.181.32.169:24075/645faf4700077bb5cf1cd83772282520
+HBO_West USA,p3p://108.181.32.169:24075/645faf5300023119cf1d05bc76d93f08
+Lifetime USA,p3p://108.181.32.169:24075/6462704200005b24d9de70b7255a7658
+LIFETIME MOVIES USA,p3p://108.181.32.169:24075/6463a5a5000a7afede96fe1018a905c5
+p3p儿童,#genre#
+東森幼幼,p3p://108.181.32.169:24075/6430b41c0001f3831798d72948126428
+MOMO親子臺,p3p://108.181.32.169:24075/6425226f000463e1ea68048207b3285f
+Animax tw,p3p://108.181.32.169:24075/6413807500012fe3a587bcbf2e6b7388
+Animax my,p3p://108.181.32.169:24075/6413803e00077f23a586e786585056af
+Disney Channel,p3p://108.181.32.169:24075/642d446e0000b7480a2c972727bb7b01
+Disney Junior,p3p://108.181.32.169:24075/642d447f000958c70a2cdbc45c491a3c
+Disney XD HD,p3p://108.181.32.169:24075/642d449000005ce40a2d1be045a92dbb
+Nick Jr,p3p://108.181.32.169:24075/642d449d000ac1ec0a2d5151582b3dea
+Cartoon Network,p3p://108.181.32.169:24075/642d44aa0000eb420a2d81945bea5d17
+Nickelodeon,p3p://108.181.32.169:24075/642d44b90006faed0a2dbdba7c9816e4
+Cbeebies,p3p://108.181.32.169:24075/642d44c8000478d70a2df7ad172b5de0
+Boomerang,p3p://108.181.32.169:24075/642d44d600008f5f0a2e2d5d69c27e63
+FXX HD,p3p://108.181.32.169:24075/645fb78600098f61cf3d0ed1150f614a
+Starz Kids,p3p://108.181.32.169:24075/645fb26f00087cd0cf292cbc765a234c
+Freeform HD,p3p://108.181.32.169:24075/645fa4da00021d24cef41d12518274a7
+Baby TV USA,p3p://108.181.32.169:24075/645fa0cf000dc95ccee45512712a51fd
+Cartoon Network USA,p3p://108.181.32.169:24075/645fbdca000b25b2cf5588e126f826a4
+Bloomberg TV FHD USA,p3p://108.181.32.169:24075/645fa7390000e0fecefd5fdc5a4226a4
+Astro 小太阳 Xiaotaiyang,p3p://108.181.32.169:24075/64124cfa00001c82a0d6a40858217ea4
+酒店秒开,#genre#
+CGTN,http://183.236.161.100:8834/live1035.m3u8$晚高峰卡
+CGTN,http://183.236.161.116:8834/live1035.m3u8$晚高峰卡
+CCTV1,http://183.236.161.116:8818/live1019.m3u8$晚高峰卡
+CCTV1,http://120.238.148.3:8833/live1034.m3u8$晚高峰卡
+CCTV1,http://183.236.161.100:8818/live1019.m3u8$晚高峰卡
+CCTV2,http://120.238.148.3:8834/live1035.m3u8$晚高峰卡
+CCTV2,http://183.236.161.100:8819/live1020.m3u8$晚高峰卡
+CCTV2,http://183.236.161.116:8819/live1020.m3u8$晚高峰卡
+CCTV3,http://120.238.148.3:8835/live1036.m3u8$晚高峰卡
+CCTV3,http://183.236.161.116:8869/live1075.m3u8$晚高峰卡
+CCTV3,http://183.236.161.100:8869/live1075.m3u8$晚高峰卡
+CCTV4,http://183.236.161.116:8802/live1184.m3u8$晚高峰卡
+CCTV4,http://120.238.148.3:8836/live1037.m3u8$晚高峰卡
+CCTV4,http://183.236.161.100:8802/live1184.m3u8$晚高峰卡
+CCTV5,http://183.236.161.116:8821/live1022.m3u8$晚高峰卡
+CCTV5,http://183.236.161.100:8821/live1022.m3u8$晚高峰卡
+CCTV5,http://120.238.148.3:8837/live1038.m3u8$晚高峰卡
+CCTV6,http://183.236.161.116:8822/live1023.m3u8$晚高峰卡
+CCTV6,http://120.238.148.3:8838/live1039.m3u8$晚高峰卡
+CCTV6,http://183.236.161.100:8822/live1023.m3u8$晚高峰卡
+CCTV7,http://120.238.148.3:8839/live1040.m3u8$晚高峰卡
+CCTV7,http://183.236.161.100:8823/live1024.m3u8$晚高峰卡
+CCTV7,http://183.236.161.116:8823/live1024.m3u8$晚高峰卡
+CCTV8,http://183.236.161.100:8826/live1027.m3u8$晚高峰卡
+CCTV8,http://120.238.148.3:8840/live1041.m3u8$晚高峰卡
+CCTV8,http://183.236.161.116:8826/live1027.m3u8$晚高峰卡
+CCTV9,http://183.236.161.100:8827/live1028.m3u8$晚高峰卡
+CCTV9,http://120.238.148.3:8841/live1042.m3u8$晚高峰卡
+CCTV9,http://183.236.161.116:8827/live1028.m3u8$晚高峰卡
+CCTV10,http://120.238.148.3:8842/live1043.m3u8$晚高峰卡
+CCTV10,http://183.236.161.100:8828/live1029.m3u8$晚高峰卡
+CCTV10,http://183.236.161.116:8828/live1029.m3u8$晚高峰卡
+CCTV11,http://120.238.148.3:8843/live1044.m3u8$晚高峰卡
+CCTV11,http://183.236.161.116:8829/live1030.m3u8$晚高峰卡
+CCTV11,http://183.236.161.100:8829/live1030.m3u8$晚高峰卡
+CCTV12,http://183.236.161.116:8830/live1031.m3u8$晚高峰卡
+CCTV12,http://120.238.148.3:8844/live1045.m3u8$晚高峰卡
+CCTV12,http://183.236.161.100:8830/live1031.m3u8$晚高峰卡
+CCTV13,http://120.238.148.3:8845/live1046.m3u8$晚高峰卡
+CCTV13,http://183.236.161.100:8870/live1076.m3u8$晚高峰卡
+CCTV13,http://183.236.161.116:8870/live1076.m3u8$晚高峰卡
+CCTV14,http://120.238.148.3:8846/live1047.m3u8$晚高峰卡
+CCTV14,http://183.236.161.100:8832/live1033.m3u8$晚高峰卡
+CCTV14,http://183.236.161.116:8832/live1033.m3u8$晚高峰卡
+CCTV15,http://183.236.161.116:8833/live1034.m3u8$晚高峰卡
+CCTV15,http://120.238.148.3:8847/live1048.m3u8$晚高峰卡
+CCTV15,http://183.236.161.100:8833/live1034.m3u8$晚高峰卡
+CCTV17,http://183.236.161.116:8835/live1036.m3u8$晚高峰卡
+CCTV17,http://120.238.148.3:8852/live1106.m3u8$晚高峰卡
+CCTV17,http://183.236.161.100:8835/live1036.m3u8$晚高峰卡
+PTV热播剧场,http://183.236.161.100:8807/live1182.m3u8$晚高峰卡
+浙江卫视,http://183.236.161.100:8837/live1038.m3u8$晚高峰卡
+PTV法治,http://183.236.161.100:8806/live1181.m3u8$晚高峰卡
+黑龙江卫视,http://183.236.161.100:8825/live1051.m3u8$晚高峰卡
+湖南卫视,http://183.236.161.100:8836/live1037.m3u8$晚高峰卡
+PTV少儿动画,http://183.236.161.100:8808/live1183.m3u8$晚高峰卡
+嘉佳卡通,http://183.236.161.100:8810/live1011.m3u8$晚高峰卡
+现代教育,http://183.236.161.100:8816/live1017.m3u8$晚高峰卡
+辽宁卫视,http://183.236.161.100:8824/live1050.m3u8$晚高峰卡
+贵州卫视,http://183.236.161.100:8831/live1052.m3u8$晚高峰卡
+珠海-1,http://120.238.148.3:8887/live1088.m3u8$晚高峰卡
+沙卫视,http://183.236.161.100:8805/live1180.m3u8$晚高峰卡
+吉林卫视,http://120.238.148.3:8886/live1119.m3u8$晚高峰卡
+宁夏,http://120.238.148.3:8874/live1075.m3u8$晚高峰卡
+陕西卫视,http://120.238.148.3:8875/live1076.m3u8$晚高峰卡
+天津卫视,http://120.238.148.3:8876/live1118.m3u8$晚高峰卡
+山东卫视,http://120.238.148.3:8877/live1102.m3u8$晚高峰卡
+深圳卫视,http://120.238.148.3:8878/live1079.m3u8$晚高峰卡
+新疆卫视,http://120.238.148.3:8879/live1080.m3u8$晚高峰卡
+青海卫视,http://120.238.148.3:8880/live1081.m3u8$晚高峰卡
+内蒙古,http://120.238.148.3:8881/live1082.m3u8$晚高峰卡
+广西卫视,http://120.238.148.3:8882/live1083.m3u8$晚高峰卡
+安徽卫视,http://120.238.148.3:8883/live1084.m3u8$晚高峰卡
+东方卫视,http://183.236.161.100:8839/live1040.m3u8$晚高峰卡
+CTV怀旧剧场,http://183.236.161.100:8804/live1179.m3u8$晚高峰卡
+辽宁卫视,http://120.238.148.3:8888/live1122.m3u8$晚高峰卡
+北京卫视,http://120.238.148.3:8889/live1121.m3u8$晚高峰卡
+国学频道,http://120.238.148.3:8890/live1091.m3u8$晚高峰卡
+贵州卫视,http://120.238.148.3:8891/live1123.m3u8$晚高峰卡
+黑龙江,http://120.238.148.3:8892/live1093.m3u8$晚高峰卡
+湛江综合,http://120.238.148.3:8897/live1098.m3u8$晚高峰卡
+湛江公共,http://120.238.148.3:8898/live1099.m3u8$晚高峰卡
+西藏卫视,http://120.238.148.3:8899/live1100.m3u8$晚高峰卡
+摩,http://183.236.161.100:8800/live1176.m3u8$晚高峰卡
+珠江台,http://183.236.161.100:8801/live1002.m3u8$晚高峰卡
+HC电影,http://183.236.161.100:8803/live1178.m3u8$晚高峰卡
+江苏卫视,http://183.236.161.100:8838/live1039.m3u8$晚高峰卡
+云南卫视,http://183.236.161.100:8849/live1055.m3u8$晚高峰卡
+安徽卫视,http://183.236.161.100:8840/live1041.m3u8$晚高峰卡
+IPTV经典电影,http://183.236.161.100:8928/live1166.m3u8$晚高峰卡
+金鹰卡通,http://183.236.161.100:8898/live1105.m3u8$晚高峰卡
+CTV中学生,http://183.236.161.100:8901/live1108.m3u8$晚高峰卡
+CTV老故事,http://183.236.161.100:8903/live1110.m3u8$晚高峰卡
+边卫视1,http://183.236.161.100:8905/live1112.m3u8$晚高峰卡
+CTV新科动漫,http://183.236.161.100:8913/live1120.m3u8$晚高峰卡
+PTV3+,http://183.236.161.100:8916/live1123.m3u8$晚高峰卡
+PTV5+体育,http://183.236.161.100:8917/live1124.m3u8$晚高峰卡
+PTV6+,http://183.236.161.100:8918/live1125.m3u8$晚高峰卡
+PTV8+,http://183.236.161.100:8919/live1126.m3u8$晚高峰卡
+PTV相声小品,http://183.236.161.100:8920/live1127.m3u8$晚高峰卡
+PTV谍战剧场,http://183.236.161.100:8921/live1128.m3u8$晚高峰卡
+PTV野外,http://183.236.161.100:8922/live1129.m3u8$晚高峰卡
+PTV魅力时尚,http://183.236.161.100:8924/live1131.m3u8$晚高峰卡
+PTV经典电影,http://183.236.161.100:8925/live1132.m3u8$晚高峰卡
+圳都市,http://183.236.161.100:8938/live1145.m3u8$晚高峰卡
+TVS-5广东少儿,http://183.236.161.100:8894/live1101.m3u8$晚高峰卡
+圳电视剧,http://183.236.161.100:8939/live1146.m3u8$晚高峰卡
+圳财经生活,http://183.236.161.100:8940/live1147.m3u8$晚高峰卡
+重庆卫视,http://183.236.161.100:8941/live1148.m3u8$晚高峰卡
+圳娱乐,http://183.236.161.100:8942/live1149.m3u8$晚高峰卡
+圳体育健康,http://183.236.161.100:8943/live1150.m3u8$晚高峰卡
+圳公共,http://183.236.161.100:8945/live1152.m3u8$晚高峰卡
+学频道,http://183.236.161.100:8950/live1157.m3u8$晚高峰卡
+画,http://183.236.161.100:8955/live1162.m3u8$晚高峰卡
+实人文,http://183.236.161.100:8956/live1163.m3u8$晚高峰卡
+索纪录,http://183.236.161.100:8958/live1165.m3u8$晚高峰卡
+房组播翡翠台,http://183.236.161.100:8959/live1170.m3u8$晚高峰卡
+场凤凰资讯,http://183.236.161.100:8960/live1171.m3u8$晚高峰卡
+场凤凰卫视,http://183.236.161.100:8961/live1172.m3u8$晚高峰卡
+房组播阳江1,http://183.236.161.100:8962/live1173.m3u8$晚高峰卡
+岭南戏曲,http://183.236.161.100:8896/live1103.m3u8$晚高峰卡
+广东影视,http://183.236.161.100:8893/live1100.m3u8$晚高峰卡
+北京卫视,http://183.236.161.100:8841/live1042.m3u8$晚高峰卡
+海南卫视,http://183.236.161.100:8856/live1062.m3u8$晚高峰卡
+天津卫视,http://183.236.161.100:8842/live1043.m3u8$晚高峰卡
+山东卫视,http://183.236.161.100:8843/live1044.m3u8$晚高峰卡
+江西卫视,http://183.236.161.100:8844/live1045.m3u8$晚高峰卡
+深圳卫视,http://183.236.161.100:8845/live1049.m3u8$晚高峰卡
+四川卫视,http://183.236.161.100:8846/live1053.m3u8$晚高峰卡
+湖北卫视,http://183.236.161.100:8847/live1048.m3u8$晚高峰卡
+河南卫视,http://183.236.161.100:8848/live1054.m3u8$晚高峰卡
+珠海-2,http://120.238.148.3:8869/live1070.m3u8$晚高峰卡
+河北卫视,http://183.236.161.100:8850/live1056.m3u8$晚高峰卡
+东南卫视,http://183.236.161.100:8851/live1057.m3u8$晚高峰卡
+陕西卫视,http://183.236.161.100:8852/live1058.m3u8$晚高峰卡
+山西卫视,http://183.236.161.100:8853/live1059.m3u8$晚高峰卡
+内蒙古,http://183.236.161.100:8854/live1060.m3u8$晚高峰卡
+青海卫视,http://183.236.161.100:8855/live1061.m3u8$晚高峰卡
+宁夏卫视,http://183.236.161.100:8857/live1063.m3u8$晚高峰卡
+大湾区卫视,http://183.236.161.100:8892/live1099.m3u8$晚高峰卡
+厦门卫视,http://183.236.161.100:8868/live1074.m3u8$晚高峰卡
+广东经济科教,http://183.236.161.100:8891/live1098.m3u8$晚高峰卡
+广东体育,http://183.236.161.100:8889/live1096.m3u8$晚高峰卡
+广东公共,http://183.236.161.100:8888/live1095.m3u8$晚高峰卡
+广东新闻,http://183.236.161.100:8887/live1094.m3u8$晚高峰卡
+广东卫视,http://183.236.161.100:8886/live1093.m3u8$晚高峰卡
+房组播阳江2,http://183.236.161.100:8885/live1175.m3u8$晚高峰卡
+山东教育卫视,http://183.236.161.100:8866/live1072.m3u8$晚高峰卡
+西藏卫视,http://183.236.161.100:8858/live1064.m3u8$晚高峰卡
+CETV-1,http://183.236.161.100:8865/live1071.m3u8$晚高峰卡
+哈哈炫动,http://183.236.161.100:8864/live1070.m3u8$晚高峰卡
+北京少儿,http://183.236.161.100:8862/live1068.m3u8$晚高峰卡
+兵团卫视,http://183.236.161.100:8861/live1067.m3u8$晚高峰卡
+甘肃卫视,http://183.236.161.100:8860/live1066.m3u8$晚高峰卡
+新疆卫视,http://183.236.161.100:8859/live1065.m3u8$晚高峰卡
+法治,http://120.238.148.3:8871/live1072.m3u8$晚高峰卡
+摩,http://183.236.161.116:8800/live1176.m3u8$晚高峰卡
+电影一,http://120.238.148.3:8867/live1068.m3u8$晚高峰卡
+广东卫视,http://183.236.161.116:8886/live1093.m3u8$晚高峰卡
+海南卫视,http://183.236.161.116:8856/live1062.m3u8$晚高峰卡
+宁夏卫视,http://183.236.161.116:8857/live1063.m3u8$晚高峰卡
+西藏卫视,http://183.236.161.116:8858/live1064.m3u8$晚高峰卡
+新疆卫视,http://183.236.161.116:8859/live1065.m3u8$晚高峰卡
+甘肃卫视,http://183.236.161.116:8860/live1066.m3u8$晚高峰卡
+兵团卫视,http://183.236.161.116:8861/live1067.m3u8$晚高峰卡
+北京少儿,http://183.236.161.116:8862/live1068.m3u8$晚高峰卡
+哈哈炫动,http://183.236.161.116:8864/live1070.m3u8$晚高峰卡
+CETV-1,http://183.236.161.116:8865/live1071.m3u8$晚高峰卡
+山东教育卫视,http://183.236.161.116:8866/live1072.m3u8$晚高峰卡
+厦门卫视,http://183.236.161.116:8868/live1074.m3u8$晚高峰卡
+房组播阳江2,http://183.236.161.116:8885/live1175.m3u8$晚高峰卡
+广东新闻,http://183.236.161.116:8887/live1094.m3u8$晚高峰卡
+内蒙古,http://183.236.161.116:8854/live1060.m3u8$晚高峰卡
+广东公共,http://183.236.161.116:8888/live1095.m3u8$晚高峰卡
+广东体育,http://183.236.161.116:8889/live1096.m3u8$晚高峰卡
+广东经济科教,http://183.236.161.116:8891/live1098.m3u8$晚高峰卡
+大湾区卫视,http://183.236.161.116:8892/live1099.m3u8$晚高峰卡
+广东影视,http://183.236.161.116:8893/live1100.m3u8$晚高峰卡
+TVS-5广东少儿,http://183.236.161.116:8894/live1101.m3u8$晚高峰卡
+岭南戏曲,http://183.236.161.116:8896/live1103.m3u8$晚高峰卡
+金鹰卡通,http://183.236.161.116:8898/live1105.m3u8$晚高峰卡
+CTV中学生,http://183.236.161.116:8901/live1108.m3u8$晚高峰卡
+CTV老故事,http://183.236.161.116:8903/live1110.m3u8$晚高峰卡
+边卫视1,http://183.236.161.116:8905/live1112.m3u8$晚高峰卡
+CTV新科动漫,http://183.236.161.116:8913/live1120.m3u8$晚高峰卡
+PTV3+,http://183.236.161.116:8916/live1123.m3u8$晚高峰卡
+青海卫视,http://183.236.161.116:8855/live1061.m3u8$晚高峰卡
+山西卫视,http://183.236.161.116:8853/live1059.m3u8$晚高峰卡
+电影,http://120.238.148.3:8866/live1067.m3u8$晚高峰卡
+浙江卫视,http://183.236.161.116:8837/live1038.m3u8$晚高峰卡
+HC电影,http://183.236.161.116:8803/live1178.m3u8$晚高峰卡
+CTV怀旧剧场,http://183.236.161.116:8804/live1179.m3u8$晚高峰卡
+沙卫视,http://183.236.161.116:8805/live1180.m3u8$晚高峰卡
+PTV法治,http://183.236.161.116:8806/live1181.m3u8$晚高峰卡
+PTV热播剧场,http://183.236.161.116:8807/live1182.m3u8$晚高峰卡
+PTV少儿动画,http://183.236.161.116:8808/live1183.m3u8$晚高峰卡
+嘉佳卡通,http://183.236.161.116:8810/live1011.m3u8$晚高峰卡
+现代教育,http://183.236.161.116:8816/live1017.m3u8$晚高峰卡
+辽宁卫视,http://183.236.161.116:8824/live1050.m3u8$晚高峰卡
+黑龙江卫视,http://183.236.161.116:8825/live1051.m3u8$晚高峰卡
+贵州卫视,http://183.236.161.116:8831/live1052.m3u8$晚高峰卡
+湖南卫视,http://183.236.161.116:8836/live1037.m3u8$晚高峰卡
+江苏卫视,http://183.236.161.116:8838/live1039.m3u8$晚高峰卡
+陕西卫视,http://183.236.161.116:8852/live1058.m3u8$晚高峰卡
+东方卫视,http://183.236.161.116:8839/live1040.m3u8$晚高峰卡
+安徽卫视,http://183.236.161.116:8840/live1041.m3u8$晚高峰卡
+北京卫视,http://183.236.161.116:8841/live1042.m3u8$晚高峰卡
+天津卫视,http://183.236.161.116:8842/live1043.m3u8$晚高峰卡
+山东卫视,http://183.236.161.116:8843/live1044.m3u8$晚高峰卡
+江西卫视,http://183.236.161.116:8844/live1045.m3u8$晚高峰卡
+深圳卫视,http://183.236.161.116:8845/live1049.m3u8$晚高峰卡
+四川卫视,http://183.236.161.116:8846/live1053.m3u8$晚高峰卡
+湖北卫视,http://183.236.161.116:8847/live1048.m3u8$晚高峰卡
+河南卫视,http://183.236.161.116:8848/live1054.m3u8$晚高峰卡
+云南卫视,http://183.236.161.116:8849/live1055.m3u8$晚高峰卡
+河北卫视,http://183.236.161.116:8850/live1056.m3u8$晚高峰卡
+东南卫视,http://183.236.161.116:8851/live1057.m3u8$晚高峰卡
+PTV5+体育,http://183.236.161.116:8917/live1124.m3u8$晚高峰卡
+PTV6+,http://183.236.161.116:8918/live1125.m3u8$晚高峰卡
+PTV8+,http://183.236.161.116:8919/live1126.m3u8$晚高峰卡
+河南卫视,http://120.238.148.3:8823/live1024.m3u8$晚高峰卡
+嘉佳卡通,http://120.238.148.3:8810/live1011.m3u8$晚高峰卡
+尾倒阳江1,http://120.238.148.3:8812/live1104.m3u8$晚高峰卡
+岭南戏曲,http://120.238.148.3:8813/live1014.m3u8$晚高峰卡
+现代教育,http://120.238.148.3:8814/live1015.m3u8$晚高峰卡
+移动频道,http://120.238.148.3:8815/live1016.m3u8$晚高峰卡
+湖南卫视,http://120.238.148.3:8816/live1017.m3u8$晚高峰卡
+浙江卫视,http://120.238.148.3:8817/live1018.m3u8$晚高峰卡
+江苏卫视,http://120.238.148.3:8818/live1019.m3u8$晚高峰卡
+东方卫视,http://120.238.148.3:8819/live1020.m3u8$晚高峰卡
+厦门卫视,http://120.238.148.3:8820/live1021.m3u8$晚高峰卡
+江西卫视,http://120.238.148.3:8821/live1022.m3u8$晚高峰卡
+四川卫视,http://120.238.148.3:8822/live1023.m3u8$晚高峰卡
+云南卫视,http://120.238.148.3:8824/live1025.m3u8$晚高峰卡
+广东影视,http://120.238.148.3:8808/live1009.m3u8$晚高峰卡
+东南卫视,http://120.238.148.3:8825/live1026.m3u8$晚高峰卡
+山西卫视,http://120.238.148.3:8827/live1028.m3u8$晚高峰卡
+海南卫视,http://120.238.148.3:8828/live1029.m3u8$晚高峰卡
+北京少儿,http://120.238.148.3:8829/live1030.m3u8$晚高峰卡
+金鹰卡通,http://120.238.148.3:8830/live1031.m3u8$晚高峰卡
+哈哈炫动,http://120.238.148.3:8831/live1032.m3u8$晚高峰卡
+珠江台,http://183.236.161.116:8801/live1002.m3u8$晚高峰卡
+延边卫视,http://120.238.148.3:8853/live1054.m3u8$晚高峰卡
+湖北卫视,http://120.238.148.3:8857/live1115.m3u8$晚高峰卡
+甘肃卫视,http://120.238.148.3:8859/live1116.m3u8$晚高峰卡
+三沙卫视,http://120.238.148.3:8860/live1061.m3u8$晚高峰卡
+河北卫视,http://120.238.148.3:8862/live1117.m3u8$晚高峰卡
+尾倒阳西综合,http://120.238.148.3:8865/live1126.m3u8$晚高峰卡
+TVS-5广东少儿,http://120.238.148.3:8809/live1010.m3u8$晚高峰卡
+大弯区卫视,http://120.238.148.3:8807/live1008.m3u8$晚高峰卡
+PTV相声小品,http://183.236.161.116:8920/live1127.m3u8$晚高峰卡
+广东经济科教,http://120.238.148.3:8806/live1007.m3u8$晚高峰卡
+PTV谍战剧场,http://183.236.161.116:8921/live1128.m3u8$晚高峰卡
+PTV野外,http://183.236.161.116:8922/live1129.m3u8$晚高峰卡
+PTV魅力时尚,http://183.236.161.116:8924/live1131.m3u8$晚高峰卡
+PTV经典电影,http://183.236.161.116:8925/live1132.m3u8$晚高峰卡
+IPTV经典电影,http://183.236.161.116:8928/live1166.m3u8$晚高峰卡
+圳都市,http://183.236.161.116:8938/live1145.m3u8$晚高峰卡
+圳电视剧,http://183.236.161.116:8939/live1146.m3u8$晚高峰卡
+圳财经生活,http://183.236.161.116:8940/live1147.m3u8$晚高峰卡
+重庆卫视,http://183.236.161.116:8941/live1148.m3u8$晚高峰卡
+圳娱乐,http://183.236.161.116:8942/live1149.m3u8$晚高峰卡
+圳体育健康,http://183.236.161.116:8943/live1150.m3u8$晚高峰卡
+圳公共,http://183.236.161.116:8945/live1152.m3u8$晚高峰卡
+学频道,http://183.236.161.116:8950/live1157.m3u8$晚高峰卡
+画,http://183.236.161.116:8955/live1162.m3u8$晚高峰卡
+实人文,http://183.236.161.116:8956/live1163.m3u8$晚高峰卡
+索纪录,http://183.236.161.116:8958/live1165.m3u8$晚高峰卡
+房组播翡翠台,http://183.236.161.116:8959/live1170.m3u8$晚高峰卡
+场凤凰资讯,http://183.236.161.116:8960/live1171.m3u8$晚高峰卡
+场凤凰卫视,http://183.236.161.116:8961/live1172.m3u8$晚高峰卡
+房组播阳江1,http://183.236.161.116:8962/live1173.m3u8$晚高峰卡
+房组播广东体育,http://183.236.161.116:8963/live1174.m3u8$晚高峰卡
+珠江台,http://120.238.148.3:8800/live1001.m3u8$晚高峰卡
+广东民生,http://120.238.148.3:8801/live1002.m3u8$晚高峰卡
+广东卫视,http://120.238.148.3:8802/live1003.m3u8$晚高峰卡
+广东新闻,http://120.238.148.3:8803/live1004.m3u8$晚高峰卡
+广东体育,http://120.238.148.3:8804/live1005.m3u8$晚高峰卡
+重庆卫视,http://120.238.148.3:8805/live1112.m3u8$晚高峰卡
+房组播广东体育,http://183.236.161.100:8963/live1174.m3u8$晚高峰卡
+CCTV5+体育赛事,http://183.236.161.100:8915/live1122.m3u8$晚高峰卡
+CCTV5+体育赛事,http://183.236.161.116:8915/live1122.m3u8$晚高峰卡
+CCTV1,http://113.218.230.180:8081/tsfile/live/0001_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV1,http://223.159.9.41:8099/tsfile/live/0001_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV2,http://223.159.9.41:8099/tsfile/live/0002_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV2,http://113.218.230.180:8081/tsfile/live/0002_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV3,http://113.218.230.180:8081/tsfile/live/0003_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV3,http://223.159.9.41:8099/tsfile/live/0003_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV4,http://113.218.230.180:8081/tsfile/live/0004_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV4,http://223.159.9.41:8099/tsfile/live/0004_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV5,http://113.218.230.180:8081/tsfile/live/0005_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV5,http://223.159.9.41:8099/tsfile/live/0005_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV6,http://113.218.230.180:8081/tsfile/live/0006_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV6,http://223.159.9.41:8099/tsfile/live/0006_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV7,http://113.218.230.180:8081/tsfile/live/0007_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV7,http://223.159.9.41:8099/tsfile/live/0007_1.m3u8?key=Aikantv&t=1727154015$中国IPTV
+CCTV8,http://113.218.230.180:8081/tsfile/live/0008_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV8,http://223.159.9.41:8099/tsfile/live/0008_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV9,http://113.218.230.180:8081/tsfile/live/0009_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV9,http://223.159.9.41:8099/tsfile/live/0009_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV10,http://223.159.9.41:8099/tsfile/live/0010_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV10,http://113.218.230.180:8081/tsfile/live/0010_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV11,http://113.218.230.180:8081/tsfile/live/0011_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV11,http://223.159.9.41:8099/tsfile/live/0011_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV12,http://223.159.9.41:8099/tsfile/live/0012_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV12,http://113.218.230.180:8081/tsfile/live/0012_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV13,http://113.218.230.180:8081/tsfile/live/0013_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV13,http://223.159.9.41:8099/tsfile/live/0013_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV14,http://113.218.230.180:8081/tsfile/live/0014_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV14,http://223.159.9.41:8099/tsfile/live/0014_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV15,http://223.159.9.41:8099/tsfile/live/0015_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+CCTV15,http://113.218.230.180:8081/tsfile/live/0015_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+河北卫视,http://223.159.9.41:8099/tsfile/live/0117_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+吉林卫视,http://223.159.9.41:8099/tsfile/live/0116_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+广西卫视,http://223.159.9.41:8099/tsfile/live/0113_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+东南卫视,http://223.159.9.41:8099/tsfile/live/0137_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+东方卫视,http://223.159.9.41:8099/tsfile/live/0107_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南电视剧,http://223.159.9.41:8099/tsfile/live/1004_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+金鹰卡通,http://223.159.9.41:8099/tsfile/live/1005_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+云南卫视,http://223.159.9.41:8099/tsfile/live/0119_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南经视,http://223.159.9.41:8099/tsfile/live/1006_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南国际,http://223.159.9.41:8099/tsfile/live/1007_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南教育,http://223.159.9.41:8099/tsfile/live/1008_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+山西卫视,http://223.159.9.41:8099/tsfile/live/0118_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+贵州卫视,http://223.159.9.41:8099/tsfile/live/0120_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南公共,http://223.159.9.41:8099/tsfile/live/1003_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+陕西卫视,http://223.159.9.41:8099/tsfile/live/0136_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南娱乐,http://223.159.9.41:8099/tsfile/live/1000_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南都市,http://223.159.9.41:8099/tsfile/live/1002_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南电影,http://223.159.9.41:8099/tsfile/live/1001_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+黑龙江卫视,http://223.159.9.41:8099/tsfile/live/0143_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+重庆卫视,http://223.159.9.41:8099/tsfile/live/0142_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+青海卫视,http://223.159.9.41:8099/tsfile/live/0140_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+河南卫视,http://223.159.9.41:8099/tsfile/live/0139_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+江西卫视,http://223.159.9.41:8099/tsfile/live/0138_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+天津卫视,http://223.159.9.41:8099/tsfile/live/0135_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+辽宁卫视,http://223.159.9.41:8099/tsfile/live/0121_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖北卫视,http://223.159.9.41:8099/tsfile/live/0132_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+安徽卫视,http://223.159.9.41:8099/tsfile/live/0130_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+湖南卫视,http://223.159.9.41:8099/tsfile/live/0128_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+江苏卫视,http://223.159.9.41:8099/tsfile/live/0127_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+深圳卫视,http://223.159.9.41:8099/tsfile/live/0126_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+广东卫视,http://223.159.9.41:8099/tsfile/live/0125_1.m3u8?key=Aikantv&t=1727154016$中国IPTV
+浙江卫视,http://223.159.9.41:8099/tsfile/live/0124_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+四川卫视,http://223.159.9.41:8099/tsfile/live/0123_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+北京卫视,http://223.159.9.41:8099/tsfile/live/0122_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+山东卫视,http://223.159.9.41:8099/tsfile/live/0131_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+优漫卡通,http://113.218.230.180:8081/tsfile/live/1006_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+哈哈炫动,http://113.218.230.180:8081/tsfile/live/1007_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+浙江卫视,http://113.218.230.180:8081/tsfile/live/0124_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+辽宁卫视,http://113.218.230.180:8081/tsfile/live/0121_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+深圳卫视,http://113.218.230.180:8081/tsfile/live/0126_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+江西卫视,http://113.218.230.180:8081/tsfile/live/0138_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+东方卫视,http://113.218.230.180:8081/tsfile/live/0107_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+天津卫视,http://113.218.230.180:8081/tsfile/live/0135_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+北京卫视,http://113.218.230.180:8081/tsfile/live/0122_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+安徽卫视,http://113.218.230.180:8081/tsfile/live/0130_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+江苏卫视,http://113.218.230.180:8081/tsfile/live/0127_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+海南卫视,http://113.218.230.180:8081/tsfile/live/1003_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+湖南金鹰卡通,http://113.218.230.180:8081/tsfile/live/1002_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+湖南国际,http://113.218.230.180:8081/tsfile/live/1001_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+湖南娱乐,http://113.218.230.180:8081/tsfile/live/1000_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+湖南电影,http://113.218.230.180:8081/tsfile/live/0019_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+湖南都市,http://113.218.230.180:8081/tsfile/live/0018_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+湖南卫视,http://113.218.230.180:8081/tsfile/live/0017_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+CGTN纪录,http://113.218.230.180:8081/tsfile/live/0016_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+东南卫视,http://113.218.230.180:8081/tsfile/live/0137_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+广东卫视,http://113.218.230.180:8081/tsfile/live/0125_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+卡酷动画,http://113.218.230.180:8081/tsfile/live/1005_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+吉林卫视,http://113.218.230.180:8081/tsfile/live/0116_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+南方卫视,http://113.218.230.180:8081/tsfile/live/1004_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+新疆卫视,http://113.218.230.180:8081/tsfile/live/0110_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+西藏卫视,http://113.218.230.180:8081/tsfile/live/0111_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+宁夏卫视,http://113.218.230.180:8081/tsfile/live/0112_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+内蒙古卫视,http://113.218.230.180:8081/tsfile/live/0109_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+山西卫视,http://113.218.230.180:8081/tsfile/live/0118_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+陕西卫视,http://113.218.230.180:8081/tsfile/live/0136_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+河北卫视,http://113.218.230.180:8081/tsfile/live/0117_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+湖北卫视,http://113.218.230.180:8081/tsfile/live/0132_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+贵州卫视,http://113.218.230.180:8081/tsfile/live/0120_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+黑龙江卫视,http://113.218.230.180:8081/tsfile/live/0143_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+河南卫视,http://113.218.230.180:8081/tsfile/live/0139_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+云南卫视,http://113.218.230.180:8081/tsfile/live/0119_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+重庆卫视,http://113.218.230.180:8081/tsfile/live/0142_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+四川卫视,http://113.218.230.180:8081/tsfile/live/0123_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+山东卫视,http://113.218.230.180:8081/tsfile/live/0131_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+广西卫视,http://113.218.230.180:8081/tsfile/live/0113_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
+金鹰纪实,http://223.159.9.41:8099/tsfile/live/1009_1.m3u8?key=Aikantv&t=1727154017$中国IPTV
 台湾,#genre#
 
 
@@ -413,305 +1960,6 @@ CGTN Espanol 西语,p3p://108.181.20.159:40159/63ec51ab000772cce458cafd43a96c5d
 CGTN Espanol 西语,http://livees.cgtn.com/1000e/prog_index.m3u8
 CGTN俄语,p3p://108.181.20.159:40159/60e648570006544872703d417386353f
 CGTN阿拉伯,p3p://108.181.20.159:40159/60e647e200033b4a726e736d14e93334
-北美,#genre#
-CCTV4国际,p3p://108.181.20.159:40159/61244d9c0006885d64b1b7591f6c12a0
-CCTV4美洲,p3p://108.181.20.159:40159/602f0bd2000b47fda6b4b7f96224105e
-CCTV4欧洲,p3p://108.181.20.159:40159/602f097e000dad16a6aba08351fb40a9
-凤凰美洲,p3p://108.181.20.159:40159/5fe00fca0004e627722fbe5a480a642f
-TVB 1 US,p3p://108.181.20.159:40159/63efe07e000c1db2f23eb46a4e00518a
-TVB J1 US,p3p://108.181.20.159:40159/63efe0de000858baf2402a646c573e1b
-TVB J2 US,p3p://108.181.20.159:40159/63efe1bd00026ea1f2438ffa60320a60
-TVB Drama US,p3p://108.181.20.159:40159/63efe252000a7658f245d81113e44b34
-TVB NEWS,p3p://108.181.20.159:40159/63efe2a100034c82f2470ad419e43975
-TVB E US,p3p://108.181.20.159:40159/63efe2e2000d23b5f2480b4125294b9a
-新时代加东(加拿大),p3p://108.181.20.159:40159/5ff0ab2500049493b30e28c4774857ac
-新时代加西(加拿大),p3p://108.181.20.159:40159/5ff0ab49000782d3b30eb62566e359dd
-新时代 2(加拿大),p3p://108.181.20.159:40159/5ff0ab860001433db30fa2d353983702
-长城精品,p3p://108.181.20.159:40159/5fe00f0c000eed3a722cdabf3a6e652a
-宫廷剧场,p3p://108.181.20.159:40159/5fe00f4200020c82722daa5d4aed2011
-城市电视(加拿大),p3p://108.181.20.159:40159/5ff8839d00092d89d1b34d940b086f20
-美国中文,p3p://108.181.20.159:40159/5fe010d0000835cd7233bea8248f65e2
-天下卫视,p3p://108.181.20.159:40159/61244f78000aa28264b8fbc841b66ce4
-华夏电视,p3p://108.181.20.159:40159/612457cd000d5d8464d9887d16512a58
-华语电视,p3p://108.181.20.159:40159/5fe011f2000a33f072382bfb13280be1
-CCTV娱乐,p3p://108.181.20.159:40159/5fe00e8d00097d7d722ae94043205e9a
-CCTV戏曲,p3p://108.181.20.159:40159/63ec4f4e0008eb5de44f9010114b61da
-北京国际,p3p://108.181.20.159:40159/63ed165900087bdfe75912f50faf1572
-浙江国际,p3p://108.181.20.159:40159/612450b30005cf2a64bdc90559c1144c
-江苏国际,p3p://108.181.20.159:40159/612452d9000988f164c62e6c0c3c67bd
-东方国际,p3p://108.181.20.159:40159/61245368000e60fd64c85e423a9e3cb2
-湖南国际,p3p://108.181.20.159:40159/6124512a0001f47b64bf98e1514603c4
-旧金山KTSF,p3p://108.181.20.159:40159/644ed78c000977f06531f4d257ab3636
-WOW TV(加拿大),p3p://108.181.20.159:40159/6348ef9a00069e01b7d5c1d475b34466
-东森美洲新闻,p3p://108.181.20.159:40159/5fe072eb000424b673b2f70e404c56b5
-东森财经北美,p3p://108.181.20.159:40159/5fe0711f0002103873abf1b109521428
-东森超视,p3p://108.181.20.159:40159/5fe07262000aa19a73b0e19a4fa86172
-华视美洲,p3p://108.181.20.159:40159/5fe07337000c34af73b4220430ed2fe9
-加拿大600新闻,p3p://108.181.20.159:40159/63f2ee15000673e5fe2b9ef606712937
-ICITV加拿大,p3p://108.181.20.159:40159/63f2ee6600090003fe2cdc056e866429
-NTD,p3p://108.181.20.159:40159/61245a9c0009293364e480057c452a09
-新马,#genre#
-Astro supersport1,p3p://108.181.20.159:40159/5ff7e55400052a7dcf48ff687a820e5c
-Astro supersport2,p3p://108.181.20.159:40159/5fded34c0008475b6d5be45731d55d06
-Astro supersport3,p3p://108.181.20.159:40159/5fded3620008eeb26d5c3a725b5a1adb
-Astro supersport4,p3p://108.181.20.159:40159/5fded3740003f8816d5c7f7d3e15547d
-W-Sport,p3p://108.181.20.159:40159/620c702d0008c6faef6d8abc762a3edd
-Astro aod351,p3p://108.181.20.159:40159/5fdeca140004e52a6d37e0be49f64a69
-Astro aod352,p3p://108.181.20.159:40159/63efe58900033edcf25265146c7b5b6e
-Astro aod354,p3p://108.181.20.159:40159/5fdeca5300094f496d38d7f8255f4c4f
-LoveNature,p3p://108.181.20.159:40159/5fe96780000bf31b96adee2068cf1132
-Hits Movies,p3p://108.181.20.159:40159/5fe7e6cb000d17db90cf9c5a45ff17b9
-Astro Aec,p3p://108.181.20.159:40159/6557a4a6000efa206f8e50c360a97728
-Astro Aec,p3p://108.181.20.159:40159/6533b8de000efc1be33df56933cc5afe
-Vasantham,p3p://108.181.20.159:40159/64df59e500087b7c99ac7efe179a1073
-天映高清(国),p3p://108.181.20.159:40159/64d733f10006463379d868e844611939
-天映经典(国),p3p://108.181.20.159:40159/64df54c20006094699986daf45690a01
-HUB premier1,p3p://108.181.20.159:40159/64bbb3db0000179e0e6caac365cb5ea7
-HUB premier2,p3p://108.181.20.159:40159/64bbb44c0002cfb40e6e64de0f652363
-HUB premier3,p3p://108.181.20.159:40159/64bbb4a20003920c0e6fb5005f03654a
-HUB premier4,p3p://108.181.20.159:40159/64bbb4e7000d13560e70c4f7058227b2
-HUB premier5,p3p://108.181.20.159:40159/64bbb54100028ca30e7221d64fd04cbb
-HUB premier6,p3p://108.181.20.159:40159/64bbb5910007bd500e735baa4dc0380f
-欧洲体育,p3p://108.181.20.159:40159/5fe6fc92000bb0078d3cad5824d31e8a
-TVB jade,p3p://108.181.20.159:40159/63eff4fa0004ad0cf28eb6dc6da26e00
-GEM,p3p://108.181.20.159:40159/6444006f000393eb3ad9fe745f943a0e
-ONE,p3p://108.181.20.159:40159/64bbb68f00027f4d0e773a843a9837ee
-Hakka TV,p3p://108.181.20.159:40159/63efed930000a9fbf271cb843cf532f0
-TVB 翡翠台 SG,p3p://108.181.20.159:40159/64bbb74a0005cac60e7a15d412a06b71
-BOO,p3p://108.181.20.159:40159/5fded40700033e036d5ebd8604bf417b
-8度空间,p3p://108.181.20.159:40159/64bce778000d4c1f131e20196db7116d
-HUB都会,p3p://108.181.20.159:40159/64bbb7fc0000f99e0e7ccbda6e527811
-HUB娱家,p3p://108.181.20.159:40159/64bbb85e0009c5db0e7e4ceb66ad5c17
-Okey,p3p://108.181.20.159:40159/63af15ab000e7656f5279258305b4b50
-Suria,p3p://108.181.20.159:40159/63af14b7000808e8f523d7917f367ce9
-NBA,p3p://108.181.20.159:40159/655bb7bb0005ae307f78ae416ea07506
-NBA,p3p://108.181.20.159:40159/640cfe24000bcb1663f9dd631ab54798
-SpoTV,p3p://108.181.20.159:40159/656f74ac00097859cc92688069041bb5
-SpoTV 2,p3p://108.181.20.159:40159/656f7589000dd70dcc95c8e80c56468e
-TVN,p3p://108.181.20.159:40159/64bbb90e000725a00e80fbc00f13242f
-Cinema One ph,p3p://108.181.20.159:40159/63f591fb000e7fca087bdb6f1fcc66fe	
-新加坡U,p3p://108.181.20.159:40159/63af12910006ed72f51b72d64a0d2f0b
-新加坡5,p3p://108.181.20.159:40159/63af121200067443f519829f19620651
-新加坡8,p3p://108.181.20.159:40159/63af12570009c52df51a910061fd7131
-Travelxp,p3p://108.181.20.159:40159/64bea2b70003f2c419e18bca30900d9d
-RTM TV 2,p3p://108.181.20.159:40159/5fdee0f90005f9506d914f8977f666af
-Astro 欢喜台,p3p://108.181.20.159:40159/620f05bb0000b01ff985bb62369741c0
-爱奇艺IQIYI,p3p://108.181.20.159:40159/5fe07bb800090e1173d5591b2d87144a
-Astro Oasis,p3p://108.181.20.159:40159/64bbb99f0005fdbf0e8331dd6a6f10a1
-Astro Awani,p3p://108.181.20.159:40159/5fded3bb0009615e6d5d96385067581c
-Astro Ceria,p3p://108.181.20.159:40159/63f58b0200080b9d08609d2727717ac3
-Astro双星,p3p://108.181.20.159:40159/64e79ef2000d4341b9fa0f83252962d5
-Astro全佳,p3p://108.181.20.159:40159/6557a0e7000ca80b6f7fae0f1a2442b8
-Astro全佳,p3p://108.181.20.159:40159/5fdedd4a00028c876d82eb0c22832e55
-Astro Aura,p3p://108.181.20.159:40159/61375df1000aeb31af289f004f670c2c
-Astro Arena,p3p://108.181.20.159:40159/5fe7e8d70000ca5290d79816405b4a78
-Astro小太阳,p3p://108.181.20.159:40159/5fe73a6e0002c79c8e2e4e6b5f402a1d
-Astro Warna,p3p://108.181.20.159:40159/6491c86300014b4e6aad8a5b5aa15eef
-Astro Vaanavil,p3p://108.181.20.159:40159/63f58870000f0bfa0856949f79897dd5
-CARTOON,p3p://108.181.20.159:40159/5fe7e52500054b3590c929e9016b3ecb
-Astro Cricket,p3p://108.181.20.159:40159/5fe7e312000e326190c1120560b323e1
-HBO,p3p://108.181.20.159:40159/5fe6c3b3000ae0538c5e86154ed52a5b
-9TV,p3p://108.181.20.159:40159/60298ed100097c1691446b9e7cc10b2c
-中天亚洲,p3p://108.181.20.159:40159/5fe6fce400011e568d3deaf35a511da9
-CNA,p3p://108.181.20.159:40159/64be9bb50006c1b519c62cba356951a9
-NTV7,p3p://108.181.20.159:40159/5fee9e750004e303ab0c996729da73f2
-天映高清(ID),p3p://108.181.20.159:40159/6471b17d00006ecded54c93b1ea4486b
-TVB JADE 华丽台,p3p://108.181.20.159:40159/64ee3cb2000a26c8d3d2192c252a0aba
-国家地理 SG,p3p://108.181.20.159:40159/63af1892000d7b2ff532e87303e607d9
-Cinema World SG,p3p://108.181.20.159:40159/63f5991400095495089793c611d61ab7
-卫视中文 SG,p3p://108.181.20.159:40159/64bbbacb000962fe0e87c69d7bc579ad
-KPLUS,p3p://108.181.20.159:40159/5fe7435f00048ff18e513c5359331915
-HGTV,p3p://108.181.20.159:40159/5fe7426a000a0fa38e4d80b2764a4e66
-DISCSCI,p3p://108.181.20.159:40159/5fe6fa5f000aa8ca8d3415da35f17e1d
-FOOD,p3p://108.181.20.159:40159/5fe6f9ff0002c3d18d329cd432c373fe
-CrimeInvestigation,p3p://108.181.20.159:40159/5fe6c72e0008aa908c6c1df07a9b6651
-Bein Sports,p3p://108.181.20.159:40159/5fe6fd5000061a148d3f921a327e3828
-Bein Sp Max,p3p://108.181.20.159:40159/5fe6c7e800036a868c6ef32902134116
-GOLF,p3p://108.181.20.159:40159/5fe7ed4d000b808990e907c90672381a
-CNBC,p3p://108.181.20.159:40159/5fe7ed9d000bee7690ea4066318039ec
-Animal Planet,p3p://108.181.20.159:40159/5fe7e4a6000d26d790c73bd36f7f42f5
-Disney XD,p3p://108.181.20.159:40159/5fe6fc1b000ac7f68d3adc447a2f6dff
-Disney,p3p://108.181.20.159:40159/5fe6fbc100001f378d3979f96c3c56d3
-Nickelodeon,p3p://108.181.20.159:40159/5fe6f99b000795818d31176f38c42fc9
-Bloomberg,p3p://108.181.20.159:40159/5fe7ee3900072cc790eca08f51983f0f
-History马来,p3p://108.181.20.159:40159/5fe7e68e000270df90ceab575c346366
-东森亚洲,p3p://108.181.20.159:40159/644519cf000cb5973f24f5b402296409
-卫视电影台,p3p://108.181.20.159:40159/64be2859000f3af818038f884a693ba7
-HUBsport1,p3p://108.181.20.159:40159/64bbbba7000905300e8b21e65c785e75
-HUBsport2,p3p://108.181.20.159:40159/64bbbbf60005e74b0e8c55b22fb43142
-HUBsport3,p3p://108.181.20.159:40159/64bbbc3f000774ab0e8d73402eb41ee6
-HUBsport4,p3p://108.181.20.159:40159/64bbbc97000012a50e8ec91c522d59af
-HUBsport5,p3p://108.181.20.159:40159/64bbbcde000394020e8fdf5a387a2bac
-天映频道(ID),p3p://108.181.20.159:40159/64e863a40000ec0abcfa63ab62e510cb
-PBO,p3p://108.181.20.159:40159/6456abf5000a07a583c7853f491079a1
-Celestial Movis,p3p://108.181.20.159:40159/6456adca0007295c83ceac8d42767576
-TVB Magic,p3p://108.181.20.159:40159/64bcf85500083b2d135ffe1a3ef73b5c
-Astro Arenabola 1,p3p://108.181.20.159:40159/64bd05ac0000680a139417f110dd4659
-Astro Arenabola 2,p3p://108.181.20.159:40159/64bd0692000e510013979df27f954b02
-韩国,#genre#
-KBS 1,p3p://108.181.20.159:40159/63b02943000b43d483b5663707ff057c
-KBS 2,p3p://108.181.20.159:40159/63b029bf000ccb4e83b74af96cda035c
-MBC,p3p://108.181.20.159:40159/63b02a3e00097d4d83b93a3769895f02
-SBS,p3p://108.181.20.159:40159/63b02a8a0008248283ba62be06ab76f2
-EBS 1,p3p://108.181.20.159:40159/63b02ac7000cdbf683bb523a338e55f0
-SBS BIZ,p3p://108.181.20.159:40159/63b02db5000a765c83c6c3547fc86687
-JTBC,p3p://108.181.20.159:40159/63b03869000b783b83f092b417b61431
-TBS,p3p://108.181.20.159:40159/63b038ab0007bba783f1938e78bd6290
-YTN,p3p://108.181.20.159:40159/63b038ea0003d4dd83f288a6348c49dc
-YTN HD,p3p://108.181.20.159:40159/63b03940000514fc83f3d8e7786237e7
-MBN,p3p://108.181.20.159:40159/63b03ab3000c130983f983e512b649b2
-TV Chosun,p3p://108.181.20.159:40159/63b03b60000afee183fc27647c4f4a58
-Yonhap NewsTV,p3p://108.181.20.159:40159/63b03bd600054ac083fdf2dd36407afe
-Yonhap News TV HD,p3p://108.181.20.159:40159/63b05099000e6115844f0ee71c9c0ecd
-Channel A,p3p://108.181.20.159:40159/63b050df00058bd784501e13689a64a8
-Sony One,p3p://108.181.20.159:40159/5fdee0c4000837f36d9081146b3a4406
-OCN Movies(채널CGV),p3p://108.181.20.159:40159/63b051a1000025938453128f67032ed8
-JEI재능TV,p3p://108.181.20.159:40159/63b051eb0005f97e8454351c0d8c47ab
-NOW[미드],p3p://108.181.20.159:40159/63b0522a0009f18d84552c373bf0125b
-AXN[미드],p3p://108.181.20.159:40159/63b05267000878a084561a1d4f314746
-SCREEN,p3p://108.181.20.159:40159/63b052e10003dc368457f57e11d9112c
-Catch ON 1,p3p://108.181.20.159:40159/63b0532400049f348458fb674e855d70
-Catch ON 2,p3p://108.181.20.159:40159/63b05376000f03ed845a3e5f490b2ab5
-BBC Earth,p3p://108.181.20.159:40159/63b053b500028b62845b31455734563a
-Mnet,p3p://108.181.20.159:40159/63b053ef000b9e71845c162738050e7d
-tvN,p3p://108.181.20.159:40159/63b054bf000d45bf845f43111887134b
-tvN Show,p3p://108.181.20.159:40159/63b054fd0006c6e3846033960b62383e
-tvN Story,p3p://108.181.20.159:40159/63b0553c0005bb5a84612969547248d8
-Inet TV,p3p://108.181.20.159:40159/63b05582000dccae84623ce9171a607c
-Tooniverse,p3p://108.181.20.159:40159/63b055d2000b2652846374bb2d4b33ec
-Daekyo Kids 대교 어린이,p3p://108.181.20.159:40159/63b058bd000d203b846edb3b7ccc359e
-Kids Talk Talk,p3p://108.181.20.159:40159/63b05901000bb88a846fe47e51231480
-EBS Kids,p3p://108.181.20.159:40159/63b059470007691d8470f4d300561055
-EBS English,p3p://108.181.20.159:40159/63b059cc000adcd78472fd3b468c65c1
-CNTV,p3p://108.181.20.159:40159/63b05a2a000dd66d84746d2d05fc4bfe
-SPOTV ON 1,p3p://108.181.20.159:40159/63b05b03000e8ad28477bd0130b32b64
-SPOTV ON 2,p3p://108.181.20.159:40159/63b05bf600010f5b847b6ed225f3103b
-SPOTV GOLF & HEALTH,p3p://108.181.20.159:40159/63b05cbb000ea547847e73d172e9391c
-SBS Golf,p3p://108.181.20.159:40159/63b05d27000a994c848018a829ed7f40
-JTBC Golf,p3p://108.181.20.159:40159/63b05d6a0003446984811c7f6ba46560
-JTBC GOLF & SPORTS,p3p://108.181.20.159:40159/63b05db70005b461848249e50aa30e8e
-MBC Sports,p3p://108.181.20.159:40159/63b05dff0004ea87848362f00ca26131
-SBS Sports,p3p://108.181.20.159:40159/63b05e510005c9c08484a379504d15d5
-SPOTV 1,p3p://108.181.20.159:40159/63b05eba000e721984863fd71edf18e7
-SPOTV 2,p3p://108.181.20.159:40159/63b05f0200010a8e848755a810392525
-SPOTV Prime,p3p://108.181.20.159:40159/63b05f45000d777d84885e8d3a367c25
-KBSN Sports,p3p://108.181.20.159:40159/63b05fa000036c3c8489bf7128576362
-SKY Sports,p3p://108.181.20.159:40159/63b05feb00019be8848ae3f216d84083
-CHING,p3p://108.181.20.159:40159/63b0602c000c2dd3848be48e259d7570
-FTV,p3p://108.181.20.159:40159/63b0608a000195f7848d51161fc92b74
-TVBaduk,p3p://108.181.20.159:40159/63b060c7000b4d1b848e41da346549e8
-Channel China,p3p://108.181.20.159:40159/63b06103000460dc848f2a7310cc5c80
-tvN Sports,p3p://108.181.20.159:40159/63b06143000a3645849025f1005b2ab5
-Nat Geo,p3p://108.181.20.159:40159/63b0619e00083efd849188e8770332bc
-BTN,p3p://108.181.20.159:40159/63b061e100084f1384928ea243145d07
-CPBC,p3p://108.181.20.159:40159/63b0621e0002136584937b5135272160
-Discovery World,p3p://108.181.20.159:40159/63b0626300047477849489744d00570b
-CTS,p3p://108.181.20.159:40159/63b062a2000a132e849580fc7304286e
-CGNTV GW,p3p://108.181.20.159:40159/63b06320000c81ec84976dca596165e3
-KBS Drama,p3p://108.181.20.159:40159/63b0635b000bcc4b8498541201134e79
-KBS Joy,p3p://108.181.20.159:40159/63b0639b0004104384994c1729ea2dc2
-KBS Kids,p3p://108.181.20.159:40159/63b063d5000454a1849a2eb860421a3f
-KBS World,p3p://108.181.20.159:40159/63b06414000dc259849b2739712c1017
-All TV(Canada),p3p://108.181.20.159:40159/63b0644c0001b272849bfee20c3b3f57
-Arirang KR,p3p://108.181.20.159:40159/64ce04960009571055f7b0a4106e32b9
-日本,#genre#
-東京NHK総合,p3p://108.181.20.159:40159/6417572e000d95e38c65829c13ce2f37
-東京NHK教育,p3p://108.181.20.159:40159/64168d0200096671894fc5a31b4604df
-東京日本テレビ,p3p://108.181.20.159:40159/6417585e000932568c6a2502167354af
-東京TBSテレビ,p3p://108.181.20.159:40159/64168c6700067cd5894d676e483855cc
-東京フジテレビ,p3p://108.181.20.159:40159/64168e37000baf2389547d4e6ff91d37
-東京テレビ朝日,p3p://108.181.20.159:40159/6416e77d000be29a8ab136c476bb20a1
-テレビ東京,p3p://108.181.20.159:40159/6416e7db000494df8ab2a4174b8e0360
-Tokyo MX,p3p://108.181.20.159:40159/6416e84d00040a468ab4613e2005555b
-MBS毎日放送,p3p://108.181.20.159:40159/6416e88e000d487e8ab5618c74a9370e
-KBS京都,p3p://108.181.20.159:40159/6416e9e50009b0fb8aba9c794e355f15
-京都NHK総合,p3p://108.181.20.159:40159/6416ea35000899f78abbd4a834130b0e
-大阪NHK Eテレ,p3p://108.181.20.159:40159/6416e61b00003cff8aabccfa265e7440
-ABCテレビ,p3p://108.181.20.159:40159/6416ea8c000b9b728abd294d326f268d
-テレビ大阪,p3p://108.181.20.159:40159/6416ead7000658d88abe4ce343ef5eb6
-関西テレビ,p3p://108.181.20.159:40159/6416ec33000333bd8ac39b803de264bb
-読売テレビ,p3p://108.181.20.159:40159/6416ec7a000c30e48ac4b3257c741bc8
-Tokyo MX 2,p3p://108.181.20.159:40159/6416ecbf0008e4e28ac5bfd1312b2713
-NHK BS1,p3p://108.181.20.159:40159/6416ed7f000e53848ac8af2f213c5f69
-NHK BSプレミアム,p3p://108.181.20.159:40159/6416edc7000274be8ac9c56d09f4297d
-BS日テレ,p3p://108.181.20.159:40159/6416ee12000bb91a8acaecbb36e0002c
-BS朝日,p3p://108.181.20.159:40159/6416ee7200026c128acc615d4cb138e3
-BS-TBS,p3p://108.181.20.159:40159/6416eebb000b6d938acd80cf0d305819
-BSテレ東京,p3p://108.181.20.159:40159/6416ef0e000473548acec34b24f732d4
-BSフジ,p3p://108.181.20.159:40159/6416ef57000756578acfe127297f2898
-WOWOWプライム,p3p://108.181.20.159:40159/6416ef9c000c20c38ad0efe660801f6f
-WOWOWライブ,p3p://108.181.20.159:40159/6416f9950006aa568af7e32a61f43085
-WOWOWシネマ,p3p://108.181.20.159:40159/6416f9f900013a898af968702b5b4ae8
-スターチャンネル1,p3p://108.181.20.159:40159/6416fb2e000530f28afe207823d2738f
-スターチャンネル2,p3p://108.181.20.159:40159/6416fb7100056ae38aff2642122115cf
-スターチャンネル3,p3p://108.181.20.159:40159/6416fbd80006b6838b00b8f03781239a
-BS11,p3p://108.181.20.159:40159/64170dda000959128b47116c6fb9798e
-BS12,p3p://108.181.20.159:40159/64170e210003ee828b48255a655e4529
-グリーンチャンネル,p3p://108.181.20.159:40159/63a9b135000cf2036a706ff27c96538a
-アニマックス,p3p://108.181.20.159:40159/63a9b2a2000e9bf56a760223617d6e7c
-スカパー!,p3p://108.181.20.159:40159/63a9b2f2000a87f96a7739974a954e2a
-J SPORTS 1,p3p://108.181.20.159:40159/63a9b33d00046ec46a785cfe26592290
-J SPORTS 2,p3p://108.181.20.159:40159/63a9b38400018aa16a79719729577668
-J SPORTS 3,p3p://108.181.20.159:40159/63a9b486000367666a7d61ee25047e5f
-J SPORTS 4,p3p://108.181.20.159:40159/63a9b4d3000559966a7e8f35771237a8
-釣りビジョン,p3p://108.181.20.159:40159/63a9b520000302e56a7fbb63229d594b
-シネフィルWOWOW,p3p://108.181.20.159:40159/63a9b6da000c965f6a867c61037755f4
-日本映画専門,p3p://108.181.20.159:40159/63a9b72100037df26a878f6451982100
-ディズニーチャンネル,p3p://108.181.20.159:40159/63a9b76600024cf36a889c9d37be746a
-東映チャンネル,p3p://108.181.20.159:40159/63a9b7c50002deea6a8a0fd90aae6312
-衛星劇場,p3p://108.181.20.159:40159/63a9b8150006e2cf6a8b49600f3f4ce5
-映画NECO,p3p://108.181.20.159:40159/63a9b86700096c986a8c8a557cd37007
-ザ・シネマ,p3p://108.181.20.159:40159/63a9b8b80006c3e66a8dc60d509842d2
-ムービープラス,p3p://108.181.20.159:40159/63a9b901000baa4f6a8ee4760d495ccb
-Gaora Sports,p3p://108.181.20.159:40159/63a9b996000665546a9129231b0a37f4
-ゴルフネット,p3p://108.181.20.159:40159/63a9ba4800030d846a93dfa632b41784
-宝塚歌劇専門チャンネル,p3p://108.181.20.159:40159/63a9ba9a00018f446a951f9208cf3252
-時代劇専門,p3p://108.181.20.159:40159/63a9bae30000454c6a963c656fb107cd
-ファミリー劇場,p3p://108.181.20.159:40159/63a9bb2c000344356a975a51355738ed
-MONDO TV トップ,p3p://108.181.20.159:40159/63a9bbc50008636b6a99b14607501571
-TBSチャンネル1,p3p://108.181.20.159:40159/63a9bc06000e6f856a9ab0ba58cd69cb
-TBSチャンネル2,p3p://108.181.20.159:40159/63a9c10e0002a0546aae54f46b793822
-テレ朝チャンネル1,p3p://108.181.20.159:40159/63a9c1570002c7e46aaf72251ed92dfa
-テレ朝チャンネル2,p3p://108.181.20.159:40159/63a9c19d00092ea86ab0853814de7691
-日テレプラス,p3p://108.181.20.159:40159/63a9c1ed000cb8ad6ab1be9f071340f3
-チャンネル銀河,p3p://108.181.20.159:40159/63a9c236000132646ab2d8d312471333
-フジテレビOne,p3p://108.181.20.159:40159/63a9c2790000c4b16ab3de6e5ee41282
-フジテレビTwo,p3p://108.181.20.159:40159/63a9c2ba0009322c6ab4de7e098a6114
-フジテレビNext,p3p://108.181.20.159:40159/63a9c2fe000bda546ab5e8ca79b54584
-スーパー！ドラマ,p3p://108.181.20.159:40159/63a9c3460008ec0a6ab7014a2ae25f6c
-FOX  JP,p3p://108.181.20.159:40159/63a9c394000ad7fc6ab832775f4b35c7
-女性チャンネル,p3p://108.181.20.159:40159/63a9c9df00067bb26ad0c65d13392398
-100％ヒッツ！スペースシャワーTV プラス,p3p://108.181.20.159:40159/63a9ca2d0004d5936ad1f6a028c115e3
-スペースシャワーTV,p3p://108.181.20.159:40159/63a9ca7f000c62f46ad338dd68000d7a
-MTV  JP,p3p://108.181.20.159:40159/63a9cb1f00006bfc6ad5a6cc1145695f
-ミュージック・エア,p3p://108.181.20.159:40159/63a9cb78000d473a6ad705bd07344c0c
-MUSIC ON! TV,p3p://108.181.20.159:40159/63a9cbc0000edec16ad81f6575cb253f
-歌謡ポップスチャンネル,p3p://108.181.20.159:40159/63a9cc05000a58a16ad92bc44249269e
-キッズステーション,p3p://108.181.20.159:40159/63a9cc4b000776d46ada3c765bf5516f
-AT−X,p3p://108.181.20.159:40159/63a9cc9f000296f76adb83552e7c41be
-ディズニージュニア,p3p://108.181.20.159:40159/63a9cce2000b71d66adc8b5130b42718
-ディスカバリーチャンネル,p3p://108.181.20.159:40159/63a9cd280009c0b96add9c5141580160
-アニマルプラネット,p3p://108.181.20.159:40159/63a9cd6a0000c7846ade9bd45d155473
-ヒストリーチャンネル,p3p://108.181.20.159:40159/63a9cdae00060a146adfa6cc1e116c16
-ナショナル ジオグラフィック,p3p://108.181.20.159:40159/63a9cdec000005186ae097810f670f0a
-日テレNEWS24,p3p://108.181.20.159:40159/63a9ce33000d4cce6ae1b03e4dce5436
-TBSニュースバード,p3p://108.181.20.159:40159/63a9ce7c000374fd6ae2cae06cc0033f
-BBCワールドニュース,p3p://108.181.20.159:40159/63a9cedc000345fe6ae441d300442735
-囲碁 将棋チャンネル,p3p://108.181.20.159:40159/63a9cf7b000433ce6ae6af262e402b08
-旅チャンネル,p3p://108.181.20.159:40159/63a9cfdc0001da206ae82973579549ff
-鉄道チャンネル,p3p://108.181.20.159:40159/63a9d026000b07136ae94cdb66ee3bdc
-FIGHTING TV サムライ,p3p://108.181.20.159:40159/63a9d074000b85646aea7daa15b2085b
-ミュージック・ジャパンTV,p3p://108.181.20.159:40159/63a9d0bb000b3ba96aeb92ef7cc57647
-ホームドラマチャンネル,p3p://108.181.20.159:40159/63a9d10b00072b956aecca6357d160b4
-AXN海外ドラマ,p3p://108.181.20.159:40159/63a9d157000018626aedf1730ebb4203
-AXNミステリー,p3p://108.181.20.159:40159/63a9d19f000e8a8a6aef0e65057f71e5
-CNNj,p3p://108.181.20.159:40159/63a9d1e30006b5886af0160323f16af9
-スポーツライブ＋,p3p://108.181.20.159:40159/63a9d2390003ed9f6af1653b4ab56965
-TV Japan(Canada),p3p://108.181.20.159:40159/63a9d27f000b48236af2788c42ac1a93
-日本J音乐,p3p://108.181.20.159:40159/632c202d00069cf2474cd8616abf08ba
-关西电视,p3p://108.181.20.159:40159/632406730008b8e327a8ce1e69e75a6d
-GEM,p3p://108.181.20.159:40159/63f24d04000dec4ffbb67673277f0917
-东日映画,p3p://108.181.20.159:40159/63252324000e7bcb2c00e2fc475e5ee3
 
 卫视,#genre#
 北京卫视,http://115.171.216.191:4000/udp/225.1.8.21:8002
@@ -14091,3 +15339,61 @@ NHK World,http://199.7.140.19:9999/si8.php?id=nhkworld_japan
 华语经典,http://159.75.85.63:35455/douyu/434971
 贝爷影厅,http://159.75.85.63:35455/douyu/252802
 译制国语,http://159.75.85.63:35455/douyu/2436390
+澳台,#genre#
+凤凰中文,http://s.cdhongyuan.cn:4022/udp/239.93.1.9:2192
+凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
+凤凰中文,https://stream1.freetv.fun/fe3d3346f748e4ec230691be958aff27e91c225b43b5855685cd1fbe79c56f60.m3u8
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.1.4:2191
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+凤凰资讯,http://tv.sd.cn/sichuan?id=239.93.1.4:2191
+凤凰资讯,http://s.cdhongyuan.cn:4022/udp/239.93.0.118:2191
+凤凰资讯,https://stream1.freetv.fun/a5857ad51b58a0f7a8c9cbdf291571692b0eed9f5ab2cfce97a211260533c0d8.m3u8
+凤凰资讯,https://stream1.freetv.fun/bfd140266f0bc1d9689c8cca261521038b45d662a160a3785d45d074b26899c2.m3u8
+凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+翡翠台,http://zsntlqj.xicp.net:8895/bysid/1.m3u8
+翡翠台,http://beishan008.asuscomm.com:8889/bysid/1.m3u8
+明珠台,http://bziyunshao.synology.me:8890/bysid/2
+香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
+RTHK35,https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream04/streamPlaylist.m3u8
+澳视资讯,http://61.244.22.5/ch5/info_ch5.live/index.m3u8
+澳视澳门,http://nz171l122.bb60246.ctm.net:8891/bysid/91.m3u8
+中视HD,rtmp://f13h.mine.nu/sat/tv091
+中天娱乐HD,http://61.221.215.25:8800/hls/47/index.m3u8
+华视HD,rtmp://f13h.mine.nu/sat/tv111
+台视HD,rtmp://f13h.mine.nu/sat/tv071
+民视HD,rtmp://f13h.mine.nu/sat/tv051
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS欢乐,http://37.27.111.214:8080/live/24/hls.m3u8
+寰宇新闻台,http://v.189910.xyz:8900/live.m3u8?c=1
+三立综合台,http://37.27.111.214:8080/live/31/hls.m3u8
+番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/39/index.m3u8
+八大戏剧,http://61.221.215.25:8800/hls/41/index.m3u8
+八大第一,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合,http://61.221.215.25:8800/hls/56/index.m3u8
+星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+中华小当家,http://61.221.215.25:8800/hls/40/index.m3u8
+人間衛視,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
+人間衛視,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
+香港佛陀,https://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
+香港佛陀,http://js1.amtb.cn/liveedge/_definst_/livetv/chunklist.m3u8
+CGTN,http://pi.0472.org/tv/cbn.php?id=xfjcHD
+AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
+半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+49号,http://61.221.215.25:8800/hls/49/index.m3u8
+探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
+动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
