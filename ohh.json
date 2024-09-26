@@ -538,6 +538,7 @@
             "name": "玩偶哥哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",        
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -554,6 +555,7 @@
             "name": "玩偶备用｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",  
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -570,6 +572,7 @@
             "name": "玩偶表哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",        
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -586,6 +589,7 @@
 	            "name": "玩偶表哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",            
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -673,7 +677,22 @@
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
       }
     },
-    
+    {
+            "key": "夸克土豆弹幕",
+            "name": "土豆｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",  
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "site": "https://yunpan.yunpay.cc",
+                "danmu": true
+            }
+        },
     {
       "key": "TgYunPanLocal1",
       "name": "TgYunPanLocal1",
@@ -1070,7 +1089,8 @@
 {"key":"UpYun","name":"FF😻Up搜┃搜索","type":3,"api":"csp_UpYun",  "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726526452957/fan.txt;md5;498aae475d2719b161b97e18dfeafa28","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"FG🙀盘Se┃搜索","type":3,"api":"csp_PanSearch", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726526452957/fan.txt;md5;498aae475d2719b161b97e18dfeafa28","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}}, 
   {"key":"alllive","name":"📽️一直播┃LIVE","type":3,"api":"csp_Alllive", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1726526452957/fan.txt;md5;498aae475d2719b161b97e18dfeafa28","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},      
-        
+ {"key":"TGYunPanLocal","name":"🉑1TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
+	{"key":"TGYunPan","name":"🉑2TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},       
       
        {"key":"csp_xp_yoozhibo","name":"🍁赛事(HD)","type":3,"api":"csp_XPathFilter",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
 {"key":"csp_xp_ddkanqiu","name":"🍁低调(HD)","type":3,"api":"csp_XPathMacFilter",  "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Ffty.jar?ref=master","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
