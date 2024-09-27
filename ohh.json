@@ -773,7 +773,7 @@
             "ext": {
                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
                 "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
-                "uc_cookie": https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/uc.txt",
+                "uc_cookie":" https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/uc.txt",
                 "site": "https://4k.4u4.cn",
                 "danmu": true
             }
