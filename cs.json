@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;677a128c268db2099543e6d4ccf4061d",
+	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;bf359eaa0c83a8c097ffffd9b4a72ad3",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"https://gitlab.com/kerkier/yhb/-/blob/main/lib/cs.jpeg",
 	"sites": [{
@@ -1907,7 +1907,7 @@
       "name": "💋玩偶gg",
       "type": 3,
       "api": "csp_Wogg",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -1921,7 +1921,7 @@
       "name": "💓哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "changeable": 0,
       "style": {
@@ -1962,7 +1962,7 @@
       "name": "玩偶 | 蜡笔",
       "type": 3,
       "api": "csp_kongbai",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -2001,7 +2001,7 @@
       "name": "💓星剧社",
       "type": 3,
       "api": "csp_Star2",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2014,7 +2014,7 @@
       "name": "💓易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar", 
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2039,7 +2039,7 @@
       "name": "💓紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -2051,7 +2051,7 @@
       "name": "💋Youtube",
       "type": 3,
       "api": "csp_Youtube",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "changeable": 1,
       "style": {
@@ -2068,7 +2068,7 @@
       "name": "💓賤賤",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "changeable": 1,
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
@@ -2078,7 +2078,7 @@
       "name": "💓TgYunPanLocal1",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",    
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",    
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2092,7 +2092,7 @@
       "name": "💓TgYunPanLocal2",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2106,7 +2106,7 @@
       "name": "💓TgYunPanLocal3",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2120,7 +2120,7 @@
       "name": "💓TgYunPanLocal4",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",   
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2134,7 +2134,7 @@
       "name": "💓TgYunPanLocal5",
       "type": 3,
       "api": "csp_TgYunPanLocal",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2148,7 +2148,7 @@
       "name": "💓网盘集合|4K",
       "type": 3,
       "api": "csp_网盘集合",
-      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar",
+      "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -2157,6 +2157,34 @@
         "share": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2F%E7%BD%91%E7%9B%98%E9%9B%86%E5%90%88.json?ref=master"
       }
     },
+{
+    "key": "玩偶六趣",
+    "name": "六趣Ⅱ玩偶",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
+    "searchable": 1,
+    "changeable": 0,
+    "ext": {
+        "commonConfig": "./json/peizhi.json",
+        "siteUrl": "http://43.136.41.222:2333",
+        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+    }
+},
+{
+    "key": "星云玩偶",
+    "name": "星云Ⅱ玩偶",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/oh/raw/branch/master/zhenxin/custom_spider.jar;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
+    "searchable": 1,
+    "changeable": 0,
+    "ext": {
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "siteUrl": "https://4k.4u4.cn"
+    }
+},
+
 		{
 			"key": "csp_PushShare",
 			"name": "💋聚合┃网盘",
@@ -2259,7 +2287,7 @@
             "name": "💓玩偶哥哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2276,7 +2304,7 @@
             "name": "💓玩偶备用｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -2293,7 +2321,7 @@
             "name": "💓玩偶表哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2310,7 +2338,7 @@
             "name": "💓土豆｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar", 
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -2326,7 +2354,7 @@
             "name": "💓多多｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -2342,7 +2370,7 @@
             "name": "💓蜡笔｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar", 
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -2359,7 +2387,7 @@
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -2375,7 +2403,7 @@
             "name": "💓奥秘｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -2392,7 +2420,7 @@
             "name": "💓云星｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -2409,7 +2437,7 @@
             "name": "💓木偶｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -2426,7 +2454,7 @@
             "name": "💓团长｜4K弹幕",
             "type": 3,
             "api": "csp_Tzfile",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
@@ -2441,7 +2469,7 @@
             "name": "💓影搜｜弹幕",
             "type": 3,
             "api": "csp_Yingso",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
@@ -2456,7 +2484,7 @@
             "name": "💓搜索｜弹幕",
             "type": 3,
             "api": "csp_PanSearch",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
@@ -2470,7 +2498,7 @@
             "name": "💓云云｜弹幕",
             "type": 3,
             "api": "csp_Upys",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
@@ -2484,7 +2512,7 @@
             "name": "💓云搜｜弹幕",
             "type": 3,
             "api": "csp_UpYun",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
@@ -2498,7 +2526,7 @@
             "name": "💓盘搜｜弹幕",
             "type": 3,
             "api": "csp_PanSou",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
@@ -2512,7 +2540,7 @@
             "name": "💓易搜｜弹幕",
             "type": 3,
             "api": "csp_YiSo",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
@@ -2527,7 +2555,7 @@
             "name": "💓云盘｜弹幕",
             "type": 3,
             "api": "csp_Yunpan4k",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
@@ -2542,7 +2570,7 @@
             "name": "💓米搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -2557,7 +2585,7 @@
             "name": "💓夸搜｜弹幕",
             "type": 3,
             "api": "csp_Qkso",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -2571,7 +2599,7 @@
             "name": "💓小纸条｜弹幕",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -2585,7 +2613,7 @@
             "name": "💓趣盘搜｜弹幕",
             "type": 3,
             "api": "csp_QuPanSou",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2600,7 +2628,7 @@
             "name": "💓爱盘搜｜弹幕",
             "type": 3,
             "api": "csp_AiPanSou",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2615,7 +2643,7 @@
             "name": "💓夸克盘搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",
+            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;34c7c3e4a322bcb666145dd87fa68e9f",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
@@ -2634,7 +2662,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"
 		},
 		{
 			"key": "Wobg",
@@ -4654,7 +4682,80 @@
 			"url": "https://v.ljxnet.cn/?url="
 		},
 	{"name": "📦天招4k会员1","type": 1,"url": "http://122.228.85.203:6789/api/?key=b0eb275e1d779b0b2c0f9644f6d6bf83&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷dhr4K解析
-
+{
+    "name": "云梦解析",
+    "type": 1,
+    "url": "http://122.228.85.203:6789/api/?key=6a644e8c75972e092f9973cca41885ff&url=",
+    "ext": {
+        "flag": [
+            "qq"
+        ]
+    }
+},
+{
+    "name": "茫果解析",
+    "type": 1,
+    "url": "http://122.228.85.203:7979/api/?key=7cb64e30a4ba635990e54b59adf172aa&url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "mgtv",
+            "芒果",
+            "NBY",
+            "ST4K"
+        ],
+        "header": {
+            "User-Agent": "okhttp/4.1.0"
+        }
+    }
+},
+{
+    "name": "曼丽解析",
+    "type": 1,
+    "url": "https://jk.tvd.us.kg/home/api?type=ys&uid=1305086&key=aehkorswyFGHOQS015&url=",
+    "ext": {
+        "flag": [
+            "qq",
+            "腾讯",
+            "qiyi",
+            "爱奇艺",
+            "奇艺",
+            "youku",
+            "优酷",
+            "sohu",
+            "搜狐",
+            "letv",
+            "乐视",
+            "mgtv",
+            "芒果",
+            "tnmb",
+            "seven",
+            "bilibili",
+            "1905",
+            "NetFilx"
+        ],
+        "header": {
+            "User-Agent": "okhttp/4.9.1"
+        }
+    }
+},
+{
+    "name": "漫漂解析",
+    "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+    "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+    ],
+    "header": {
+        "User-Agent": "Dalvik/2.1.0"
+    },
+    "type": "1"
+},
 {
       "name": "4K解析",
       "type": 1,
@@ -4684,7 +4785,16 @@
         }
       }
     },
-    
+    {
+    "name": "银河解析",
+    "type": 0,
+    "url": "https://dmjx.m3u8.tv/?url="
+},
+{
+    "name": "盘古解析",
+    "type": 0,
+    "url": "https://www.pangujiexi.com/pangu/?url="
+},
     
     {
       "name": "反弹",
