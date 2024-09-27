@@ -1,7 +1,7 @@
 
 {
 	"wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  "spider":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Fpg.jar?ref=master;md5;https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Fpg.jar.md5?ref=master",
+  "spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;bf359eaa0c83a8c097ffffd9b4a72ad3",
 	"lives": [
       {
             "name": "央卫v6_1",
@@ -46,28 +46,18 @@
 			"ext": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fdouban.json?ref=master"
 		},
 		{
-			"key": "网盘配置",
-			"name": "🍁网盘配置|pg",
+			"key": "配置中心",
+			"name": "🔧配置中心",
 			"type": 3,
 			"api": "csp_Config",
+			"style": {
+				"type": "rect",
+				"ratio": 1
+			},
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json"
 		},
-        {
-            "key": "配置中心",
-            "name": "🤓‍配置中心|ok",
-            "type": 3,
-            "api": "csp_Config",
-            "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Fok.jar?ref=master",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.43
-            }
-        },
 
   {"key":"农民影视","name":"农民┃🤓影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar"   },
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar","searchable":1,"quickSearch":1,"filterable":1},
@@ -111,6 +101,18 @@
 			"filterable":1,
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
 		},
+{
+  "key": "欢视",
+  "name": "👓欢视多线",
+  "type": 3,
+  "api": "csp_AppTT",
+  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727184114979/fan.txt;md5;3754afe8b20b0a18c982ee8dd026bc55",		
+  "playerType": 2,
+  "searchable": 1,
+  "quickSearch": 1,
+  "changeable": 1,
+  "ext": "AO7TcBkd8IPB+BwH4Qma+opv"
+},
 {
       "key": "csp_xy77",
       "name": "🍁酷云77js",
@@ -441,7 +443,7 @@
     },
         {
             "key": "biliych",
-            "name": "🤓哔歌|o k",
+            "name": "😎哔歌|o k",
             "type": 3,
             "api": "csp_Bili",
             "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Fok.jar?ref=master",
@@ -460,7 +462,7 @@
         },
          {
             "key": "天天",
-            "name": "🤓天天|o k",
+            "name": "😎天天|o k",
             "type": 3,
             "api": "csp_TianTian",
             "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Fjar%2Fok.jar?ref=master",
@@ -693,6 +695,136 @@
                 "danmu": true
             }
         },
+{
+            "key": "夸克多多弹幕",
+            "name": "多多｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",  
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "site": "https://tv.yydsys.top",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克蜡笔弹幕",
+            "name": "蜡笔｜4K弹幕",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar", 
+            "type": 3,
+            "api": "csp_Wobg",
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "site": "https://duopan.fun",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克至臻弹幕",
+            "name": "至臻｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar", 
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "uc_cookie": https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/uc.txt",
+                "site": "https://mihdr.top",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克奥秘弹幕",
+            "name": "奥秘｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",   
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/uc.txt",
+                "site": "https://vip.omii.top",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克云星弹幕",
+            "name": "云星｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar", 
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "uc_cookie": https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/uc.txt",
+                "site": "https://4k.4u4.cn",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克木偶弹幕",
+            "name": "木偶｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar", 
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/uc.txt",
+                "site": "http://mogg.top",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克团长弹幕",
+            "name": "团长｜4K弹幕",
+            "type": 3,
+            "api": "csp_Tzfile",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar", 
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "danmu": true
+            }
+        },
+        {
+            "key": "夸克影搜弹幕",
+            "name": "影搜｜弹幕",
+            "type": 3,
+            "api": "csp_Yingso",
+            "jar":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar", 
+            "searchable": 1,
+            "filterable": 0,
+            "changeable": 1,
+            "ext": {
+                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/token.txt",
+                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/quark.txt",
+                "danmu": true
+            }
+        },
     {
       "key": "TgYunPanLocal1",
       "name": "TgYunPanLocal1",
@@ -787,7 +919,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$./lib/wogg.json$$$WOGG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.wogg.net/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"
 		},
 		{
 			"key": "Wobg",
@@ -799,7 +931,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOBG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOBG"
 		},
 		{
 			"key": "Wnlg",
@@ -811,7 +943,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WNLG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WNLG"
 		},
  
 
@@ -850,125 +982,85 @@
             }
         },
     
-		{"key":"AliShare",
-		"name":"🌾阿里云盘影视分享","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, 
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Falishare.txt?ref=master$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{"key":"QuarkShare","name":"🌾夸克云盘分享",
-		"type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, 
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fquarkshare.txt?ref=master",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{"key":"115Share",
-		"name":"🌾115云盘分享",
-		"type":3,"api":"csp_P115Share","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":120, 
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2F115share.txt?ref=master$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-        {"key":"UCShare",
-		"name":"🌾UC云盘分享",
-		"type":3,
-		"api":"csp_UCShare","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, 
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fucshare.txt?ref=master$$$db$$$1",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-        {
-			"key":"bili",
-			"name":"🌾B 站|p g",
-			"type":3,
-			"api": "csp_Bili",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext":{
-               "json":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2FB%E7%AB%99.json?ref=master",
-				"type":"演唱会#电影#电视剧#帕梅拉#广场舞#纪录片#综艺#鬼畜#音乐#舞蹈#影视#知识#美食#风光#田园#户外#8K#徐云",
-				"cookie":""
-			}
-		},
-		{"key":"Wogg","name":"🌾玩偶|p g","type":3,"api":"csp_Wogg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fwogg.json?ref=master$$$WOGG"},
-        {"key":"Wobg","name":"🌾表哥|p g","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://wobge.run.goorm.io$$$proxy$$$1$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fwogg.json?ref=master$$$WOBG"},
-		{"key":"yydsys","name":"🌾玩你|p g","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://tv.yydsys.top/$$$proxy$$$1$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fwogg.json?ref=master$$$WNLG"},
-        {"key":"YingSo","name":"🌾影搜|p g","type":3,"api":"csp_YingSo","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master"},
-		{"key":"Funletu","name":"🌾趣盘|p g","type":3,"api":"csp_Funletu","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master",
-			"style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{
-		"key":"秒搜",
-		"name":"🌾秒搜|p g", 
-        "type":3,
-		"api":"csp_MiaoSou",
-        "timeout":60,
-          "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master",
-		 "style": {
-				"type": "list",
-				"ratio": 1.1
-			}
-		},
-		{
-		"key":"DaPanSo",
-		"name":"🌾大盘|p g","type":3,"api":"csp_DaPanSo","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, 
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://dapanso.com$$$proxy$$$1"
-		},
-          {"key":"Hdhive",
-		"name":"🌾影巢|p g",
-		"type":3,
-		"api":"csp_Hdhive","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, 
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.hdhive.online/$$$noproxy$$$1"},
-        {"key":"YunPanOne",
-         "name":"🌾云one|p g",
-		"type":3,"api":"csp_YunPanOne","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$null$$$proxy$$$1"},
-        {"key":"美剧迷",
-		"name":"🌾美迷p g",
-		"type":3,"api":"csp_Meijumi", "quickSearch":1, "changeable":1, "filterable":1, "timeout":120,
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.meijumi.net/$$$proxy$$$1"},
-        {"key":"蜡笔网盘",
-		"name":"🌾蜡笔|p g",
-		"type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://duopan.fun/$$$noproxy$$$1$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fwogg.json?ref=master$$$LABI"},
-        {"key":"Moli",
-		"name":"🌾moli|p g",
-		"type":3,
-		"api":"csp_Moli","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.hdmoli.pro/$$$proxy$$$1$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fmoli.json?ref=master"},
-        {"key":"PanSearch",
-         "name":"🌾PanSearch|p g",
-		"type":3,
-		"api":"csp_PanSearch","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$null$$$proxy"},
-        {"key":"Libvio",
-		"name":"🌾LIBVIO|p g",
-		"type":3,
-		"api":"csp_Libvio","quickSearch":1, "changeable":1, "filterable":1, "timeout":60,
-		"ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://www.libvio.fun/$$$null"},
-        {"key":"Mogg","name":"🌾木偶|p g","type":3,"api":"csp_Wobg","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$http://mogg.top/$$$noproxy$$$1$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fwogg.json?ref=master$$$MOGG"},
-		{
-			"key": "小米网盘",
-			"name": "🌾小米|p g",
+	{
+			"key": "csp_AliShare",
+			"name": "✨阿里┃网盘",
 			"type": 3,
-			"api": "csp_Wobg",
+			"api": "csp_AliShare",
+			"searchable": 1,
 			"quickSearch": 1,
-			"changeable": 1,
 			"filterable": 1,
-			"timeout": 60,
-			"ext": "https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://mihdr.top/$$$noproxy$$$1$$$https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Fwogg.json?ref=master$$$XIAOMI"
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
+		},
+		{
+			"key": "csp_QuarkShare",
+			"name": "💠夸克┃网盘",
+			"type": 3,
+			"api": "csp_QuarkShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
+		},
+		{
+			"key": "csp_UCShare",
+			"name": "🦊UC┃网盘",
+			"type": 3,
+			"api": "csp_UCShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/ucshare.txt"
+		},
+		{
+			"key": "csp_P115Share",
+			"name": "🔂115┃网盘",
+			"type": 3,
+			"api": "csp_P115Share",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/115share.txt"
+		},
+		{
+			"key": "csp_ThunderShare",
+			"name": "⚡迅雷┃网盘",
+			"type": 3,
+			"api": "csp_ThunderShare",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,	
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			},
+			"ext":" https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/thundershare.txt"
 		},
     {"key":"TGYunPanLocal","name":"🉑1TG搜索Local|pg","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://t.me/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$proxy$$$1"},
 		{"key":"TGYunPan","name":"🉑2TG搜索|pg","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$http://540734621.xyz:25099/$$$hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe$$$noproxy$$$1"},
@@ -1018,7 +1110,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.91panta.cn/$$$null$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
 		{"key":"AI2","name":"🤱AI2搜索","type":3,"api":"csp_AI","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ==","jar":"http://cdn.qiaoji8.com/fix24914.jar"},
     {
@@ -1031,7 +1123,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json"
 		},
 {
 			"key": "csp_Wo4k",
@@ -1043,7 +1135,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.wo4k.com/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.wo4k.com/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"
 		},
 		{
 			"key": "Bt0",
