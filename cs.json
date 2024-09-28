@@ -45,23 +45,21 @@
       "changeable": 0,
 	  "indexs": 0
     },
-{"key":"csp_xp_yoozhibo","name":"🛳赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
-{"key":"csp_xp_ddkanqiu","name":"🛳低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
+{"key":"csp_xp_yoozhibo","name":"💓赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_ddkanqiu","name":"💓低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {"key":"TGYunPanLocal","name":"🉑1TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
 	{"key":"TGYunPan","name":"🉑2TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},
 {
-      "key": "115",
-      "name": "💓‍115┃4K💓‍",
-      "type": 3,
-      "api": "csp_Wex115share",
-      "jar": "https://framagit.org/lzy0735/jk/-/raw/main/jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1,
-	  "timeout":50,
-	  	  "style": {
-        "type": "list"
-        }
-    },
+    "key": "csp_Live2Vod_1",
+    "name": "┃网络💎电视┃",
+    "type": 3,
+    "api": "csp_Live2Vod",
+    "jar": "https://jihulab.com/ali-tv/my/-/raw/main/libs/candymuj.jar",
+    "searchable": 1,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "肥猫移动$https://jihulab.com/fcbox/tv/-/raw/main/cyzb.txt?ref_type=heads#饭硬V6$https://live.fanmingming.com/tv/m3u/ipv6.m3u#永恒$https://git.acwing.com/yongheng/yl/-/raw/main/DQ/live2.json#闪电V6$https://pastebin.com/raw/tuXBQs7U#安卓哥$https://安卓哥.com/ZB"
+},
 	{
       "key": "玩偶",
       "name": "💓‍玩偶┃4K💓‍",
@@ -312,7 +310,7 @@
 },
 {
   "key": " fxzds ",
-  "name": "🦘袋鼠影视",
+  "name": "💓袋鼠影视",
   "type": 3,
   "api": "csp_XBPQ",
   "searchable": 1,
@@ -2166,9 +2164,9 @@
     "searchable": 1,
     "changeable": 0,
     "ext": {
-        "commonConfig": "./json/peizhi.json",
+        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
         "siteUrl": "http://43.136.41.222:2333",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
+        "filter": "https://cdn05042023.gitlink.org.cn/ss1234ss/yule/raw/branch/master/YL/json/wogg.json"
     }
 },
 {
@@ -4551,7 +4549,32 @@
 			"changeable": 2,
 			"jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/ll.jar;md5;9969b582557aad52c394b5160e236dd8"
 		},
-		
+		{
+      "key": "c",
+      "name": "🍁c",
+      "type": 3,
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄仓库.json"
+    },
+{
+      "key": "仓仓库",
+      "name":"仓仓库",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "style": {
+        "ratio": 1.7
+      },
+      "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄仓库.json"
+    },
 		{
 			"key": "配置中心",
 			"name": "🔧配置中心",
