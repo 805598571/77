@@ -633,7 +633,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 1801,
-			"ext":"https://netflav5.com$$$127.0.0.1:10072" 
+			"ext":"https://netflav5.com$$proxy"
 		   
 		},  
 		{"key": "push_agent","name": "推送","type": 3,"api": "csp_Push","changeable":0, "timeout":30, "ext":"https://gitlab.com/lamkan0210/lambox/-/raw/main/pg/lib/tokenm.json"},
