@@ -51,7 +51,7 @@
 	{"key":"TGYunPan","name":"🉑2TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},
 {
     "key": "csp_Live2Vod_1",
-    "name": "┃网络💎电视┃",
+    "name": "💓┃网络💎电视┃",
     "type": 3,
     "api": "csp_Live2Vod",
     "jar": "https://jihulab.com/ali-tv/my/-/raw/main/libs/candymuj.jar",
@@ -61,22 +61,28 @@
     "ext": "肥猫移动$https://jihulab.com/fcbox/tv/-/raw/main/cyzb.txt?ref_type=heads#饭硬V6$https://live.fanmingming.com/tv/m3u/ipv6.m3u#永恒$https://git.acwing.com/yongheng/yl/-/raw/main/DQ/live2.json#闪电V6$https://pastebin.com/raw/tuXBQs7U#安卓哥$https://安卓哥.com/ZB"
 },
 	{
-      "key": "玩偶",
-      "name": "💓‍玩偶┃4K💓‍",
+      "key": "影视",
+      "name": "💓猫TV直播",
       "type": 3,
-      "api": "csp_Wogg",
-      "jar": "https://framagit.org/lzy0735/jk/-/raw/main/jar/wex.txt",  
-      "searchable": 1,
-      "changeable": 1
+      "api": "https://7612.kstore.space/lib/sdtv.js",
+      "ext": "https://d.kstore.space/download/2883/sdtv.txt",
+      "jar": "https://7612.kstore.space/jar/sdtv.jar"
     },
 	{
-      "key": "土豆",
-      "name": "💓土豆┃4K💓‍",
+      "key": "csp_qiumi",
+      "name": "影赛④",
+      "playerType": 2,
       "type": 3,
-      "api": "csp_Wextudou",
-      "jar": "https://framagit.org/lzy0735/jk/-/raw/main/jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "api": "https://7612.kstore.space/lib/JRKAN2.js",
+      "ext": "https://7612.kstore.space/lib/JRKAN.js",
+      "jar": "https://7612.kstore.space/jar/JRKAN.jar;md5;31e6192040d63714d063d5a5aba287a9"
     },
 	{
       "key": "Wexyingchao",
@@ -817,6 +823,16 @@
         "分类url": "http://www.tvyb03.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
       }
+    },
+{
+      "key": "影视仓",
+      "name": "💋影视仓",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "hhttps://7612.kstore.space/jar/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
     },
       {
             "key": "三米ys",
