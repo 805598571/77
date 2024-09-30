@@ -68,8 +68,8 @@
       "ext": "https://d.kstore.space/download/2883/sdtv.txt",
       "jar": "https://7612.kstore.space/jar/sdtv.jar"
     },
-	{"key":"抠搜","name":"FC🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
-	{"key":"玩偶","name":"FA👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"关"}},
+	{"key":"抠搜","name":"FC🍄抠抠┃搜搜","type":3,"api":"csp_KkSs", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
+	{"key":"玩偶","name":"FA👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"关"}},
 	{"key": "moyu影探21",
       "name": "摸鱼┃4K",
       "type": 3,
@@ -127,7 +127,7 @@
    {"key":"欧歌幕1",
 "name":"欧歌┃网盘🐲",
 "type":3,
-"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":""token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+"api":"csp_Wobg","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"token":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
 "site":"https://woog.nxog.asia1","danmu": true},
@@ -4440,7 +4440,7 @@
             "filterable": 1,
             "changeable": 1,
             "timeout": 60,
-            "ext": "http://javdb.com"
+            "ext": "https://javdb368.com"
         },
 {
             "key": "Netflav",
