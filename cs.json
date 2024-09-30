@@ -85,24 +85,25 @@
       "jar": "https://7612.kstore.space/jar/JRKAN.jar;md5;31e6192040d63714d063d5a5aba287a9"
     },
 	{
-      "key": "Wexyingchao",
-      "name": "💓鸟巢┃4K💓",
+      "key": "py_cctvty",
+      "name": "🇨🇳央视体育",
       "type": 3,
-      "api": "csp_Wexyingchao",
-      "jar": "https://framagit.org/lzy0735/jk/-/raw/main/jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main//my/py_cctvty_星河.py"
     },
 	{
-      "key": "Wexnullname",
-      "name": "💓无名┃4K💓",
+      "key": "py_cctvdy",
+      "name": "🇨🇳央视电影",
       "type": 3,
-      "api": "csp_Wexnullname",
-      "jar": "https://framagit.org/lzy0735/jk/-/raw/main/jar/wex.txt",
-      "searchable": 1,
-      "changeable": 1
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main//my/py_cctvdy_星河.py"
     },
-
 	{
       "key": "Wexwanni",
       "name": "💓玩你┃4K💓",
@@ -759,7 +760,112 @@
         "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
         "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
       }
-    }, {
+    }, 
+{
+      "key": "爱上影视",
+      "name": "爱上影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
+      "ext": {
+      "数组":"public-list-div public-list-bj&&</a>",
+      "图片":"data-original=\"&&\"",
+      "链接":"href=\"&&\"",
+      "标题":"alt=\"&&\"",
+      "副标题":"public-list-prb hide ft2\"&&</span>",
+      "线路数组":"class=\"radius1&&</a>[排序:爱]",
+      "播放数组":"anthology-list-play size&&</ul>",
+      "导演":"导演:&&</a>",
+      "演员":"演员:&&</div>",
+      "简介":"描述:&&</div>",
+      "搜索url": "https://23dyw.cn/search/index.html?keyword={wd}&page={catePg}",
+      "分类url": "https://23dyw.cn/vod/list.html?page={catePg}&type_id={cateId}",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$39",
+        "筛选": 1,"类型": "喜剧片$10#动作片$9#科幻片$14#爱情片$11#悬疑片$18#奇幻片$16#剧情片$13#恐怖片$12#记录片$20#动画片$17#惊悚片$15#战争片$21#冒险片$19||国产剧$22#欧美剧$25#港剧$23#台剧$24#日剧$26#韩剧$27#泰剧$28#其他剧$29||国产综艺$30#港台综艺$31#日韩综艺$32#欧美综艺$33#其他综艺$34||国产动漫$35#日韩动漫$36#欧美动漫$37#其它动漫$38||空"
+      }
+    },
+      {"key":"一个G影视","name":"一个G影视","type":3,"api":"csp_XBPQ","jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar","ext":
+     {
+ 
+"作者": "小可乐",
+  
+"站名": "一个G影视",
+    
+"主页url": "https://yigeg.pro/",
+
+"编码": "UTF-8",
+
+"首页": "120",
+
+"请求头": "手机",
+
+"播放请求头": "手机",
+
+"嗅探词": ".m3u8#.mp4#.flv",
+
+"起始页": "1",
+
+
+
+"影片类型":"module-info-tag\">&&</div></div>",
+
+"导演": "导演：</span>&&</span>",
+
+"主演": "主演：</span>&&</div>",
+
+"简介":"👶小可乐为您剧情介绍：+<p>&&</p>",
+
+
+
+"分类url":"/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html;;mak",
+
+"分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5",
+
+
+"数组":"<a&&</div></a>",
+
+"图片":"data-original=\"&&\"",
+
+"标题": "alt=\"&&\"",
+
+"副标题": "module-item-note\">&&</div>",
+
+"链接": "href=\"&&\"",
+
+    
+"线路数组":"module-tab-item tab-item&&</small>",
+
+"线路标题":"<span>&&</a>[替换:<small>>>共]+集",
+
+
+
+"播放数组":"module-play-list-content&&</div></div>",
+                                 
+"播放列表":"<a&&</a>",
+
+"播放标题":"<span>&&</span>",
+
+"播放链接":"href=\"&&\"",
+
+
+
+"搜索url":"/vodsearch/{wd}----------{pg}---.html",
+
+"搜索模式":"1",
+
+"搜索数组":"module-card-item-class\">&&</a>",
+
+"搜索图片":"data-original=\"&&\"",
+
+"搜索标题": "alt=\"&&\"",
+
+"搜索副标题": "module-item-note\">&&</div>",
+
+"搜索链接": "href=\"&&\""
+
+
+}},
+{
       "key": "米爱💋蓝光",
       "name": "💋米爱|蓝光",
       "type": 3,
@@ -4152,7 +4258,27 @@
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.busfan.help$$$noproxy"
 		},   
 		
-
+{
+            "key": "csp_XBPQ_中文｜0",
+            "name": "中文0",
+            "type": 3,
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1新香蕉中文字幕.json","jar":"http://www.uuneed.cn/nmnm123/MHQTV/raw/master/jar/Yoursmile1.jar"},
+ 
+{
+            "key": "csp_xBPQ_超清",
+            "name":"电信",
+            "type": 3,
+			"jar":"http://www.uuneed.cn/nmnm123/MHQTV/raw/master/jar/Yoursmile1.jar",
+            "api": "csp_xBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/新香蕉超清资源.json"
+        },
 {
 			"key": "csp_Netflav",
 			"name": "🇳Netflav┃直连",
@@ -4578,7 +4704,7 @@
       "style": {
         "ratio": 1.7
       },
-      "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄仓库.json"
+      "ext": "https://notabug.org/ww520/TVSpider/raw/master/TV/1.php"
     },
 {
       "key": "仓仓库",
@@ -4589,8 +4715,9 @@
       "style": {
         "ratio": 1.7
       },
-      "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1黄仓库.json"
+      "ext": "https://notabug.org/ww520/TVSpider/raw/master/TV/1.php"
     },
+{ "key": "csp_库库", "name": "💖库库", "type": 3,"api":"csp_X_HSCK",      "jar": "https://notabug.org/ww520/TVSpider/raw/master/TV/sp.jar", "ext": "https://notabug.org/ww520/TVSpider/raw/master/TV/1.php", "searchable": 1},
 		{
 			"key": "配置中心",
 			"name": "🔧配置中心",
