@@ -92,7 +92,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitlab.com/jeossi/t/-/raw/main//my/py_cctvty_星河.py"
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvty_星河.py"
     },
 	{
       "key": "py_cctvdy",
@@ -102,7 +102,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitlab.com/jeossi/t/-/raw/main//my/py_cctvdy_星河.py"
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvdy_星河.py"
     },
 	{
       "key": "Wexwanni",
@@ -4292,6 +4292,12 @@
 			"ext":"null$$$127.0.0.1:10072" 
 		   
 		},  
+{"key":"Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://netflav5.com$$$proxy",
+			"style": {
+				"type": "rect",
+				"ratio": 1.5
+			}
+		},
 {
             "key": "Netflav",
             "name":"Netflav",
