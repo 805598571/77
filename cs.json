@@ -79,8 +79,8 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "siteUrl": "https://tg.uu8.club/",
-        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "siteUrl": "http://tgsou.seczh.com/",
+      "channelUsername": "alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
       }
     },
@@ -94,11 +94,26 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+       "channelUsername": "hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
       }
     },
-	{"key":"玩偶","name":"FA👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727690640792/fan.txt;md5;fae44887703772d67cbf11432d50d113","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"关"}},
+	{
+      "key": "玩偶",
+      "name": "👽玩偶哥哥┃4K弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
+      "jar":" https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727690640792/fan.txt;md5;fae44887703772d67cbf11432d50d113",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "http://www.uuneed.cn/zyj/zz/raw/main/token.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.net/",
+        "danMu": "弹"
+      }
+    },
 {"key": "酷影","name": "💓酷影┃影视","type": 3,"api": "csp_AppYsV2",  "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},	
 {"key":"追剧影视","name":"💓追剧┃影视","type":3,"api":"csp_AppZJ",jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
 	{
@@ -593,13 +608,13 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
       "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/酷云77.js"
     },
-{"key":"dr_百忙无果","name":"💋┃果果TV┃官源","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/百忙无果.js"},
-{"key":"dr_360影视","name":"♑┃三三影视┃官源","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"🐨┃艺艺┃官源","type":3,"api":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","ext":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/奇珍异兽.js"},
-{"key": "dr_腾云驾雾","name": "🐧┃腾腾┃官源","type": 3,"api": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/腾云驾雾.js"},
-{"key": "dr_优酷","name": "⛽┃酷酷TV┃官源","type": 3,"api": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/优酷.js"},
-{"key": "dr_菜狗","name": "🐶┃狗狗TV┃官源","type": 3,"api": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/菜狗.js"},
-{"key":"csp_xBPQ_奇优","name":"🏥┃奇优TV┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/X/main/json/奇优影视.json","jar":"https://gh.con.sh/https://raw.githubusercontent.com/alantang1977/X/main/jar/HeChengChaXiu.jar"},
+{"key":"dr_百忙无果","name":"🥭┃果果TV┃官源","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/百忙无果.js"},
+{"key":"dr_360影视","name":"♑┃三三影视┃官源","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":0,"ext":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/360影视.js"},
+{"key":"drpy_js_奇珍异兽","name":"🐨┃艺艺┃官源","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/奇珍异兽.js"},
+{"key": "dr_腾云驾雾","name": "🐧┃腾腾┃官源","type": 3,"api": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/腾云驾雾.js"},
+{"key": "dr_优酷","name": "⛽┃酷酷TV┃官源","type": 3,"api": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/优酷.js"},
+{"key": "dr_菜狗","name": "🐶┃狗狗TV┃官源","type": 3,"api": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/菜狗.js"},
+{"key":"csp_xBPQ_奇优","name":"🏥┃奇优TV┃官源","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/X/main/json/奇优影视.json","jar":"https://ghp.ci/https://raw.githubusercontent.com/alantang1977/X/main/jar/HeChengChaXiu.jar"},
  {"key":"csp_SP360","name":"雷蒙影视 | 3️⃣360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
 {"key":"csp_IQIYI_ZAL","name":"雷蒙影视 | 🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
 {"key":"csp_MGTV_ZAL","name":"💋雷蒙影视 |💋芒果TV(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/lem0713.jar;md5;00BCD5C62B8E51EB3AA8F855CA816DD1"},
@@ -4482,12 +4497,30 @@
 			"ext":"null$$$127.0.0.1:10072" 
 		   
 		},  
-{"key":"Netflav","name":"Netflav","type":3,"api":"csp_Netflav","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"https://netflav5.com$$$proxy",
-			"style": {
-				"type": "rect",
-				"ratio": 1.5
-			}
-		},
+{
+      "key": "一",
+      "name": "一",
+       "type": 1,
+      "api": "https://api.apilyzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "十七",
+      "name":"十七",
+       "type": 1,
+      "api": "https://jkunzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+    {
+      "key": "十九",
+      "name":"十九",
+       "type": 1,
+      "api": "https://155api.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
  {"key":"csp_XBPQ_蛋殼視頻","name":"蛋殼視頻[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://lanad.dankesp.fun/type/{cateId}-{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","分类":"视频一区$1#视频二区$29#视频三区$47#视频四区$68#视频五区$96#视频六区$115#视频七区$129#视频八区$190#视频九区$146"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {"key":"Netflav","name":"🔞Netflav","type":3,"api":"csp_Netflav"},
  {"key":"努可影院","name":"努可影院","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},
