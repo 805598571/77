@@ -98,6 +98,9 @@
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
       }
     },
+{"key":"南瓜","name":"🔥┃南瓜影视┃秒播","type":3,"api":"https://mzjk.top/vip/lib/drpy2.min.js","ext":"https://mzjk.top/vip/lib/nangua.js"},
+{"key":"多多阿里","name":"🔥┃玩偶多多┃4K","type":3,"api":"csp_XYQHikerAL", "jar":"http://mzjk.top/bhvip.jar","ua":"okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mzjk.top/vip/lib/多多阿里.json"},
+{"key":"神仙影视","name":"🔥┃神仙影视┃秒播","type":3,"api":"csp_XBPQ", "jar":"http://mzjk.top/bhvip.jar","ua":"okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mzjk.top/vip/lib/神仙影视.json"},
 	{"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;435DEB939629CE4B15EF4FF785BF18D2","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;435DEB939629CE4B15EF4FF785BF18D2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke", "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;435DEB939629CE4B15EF4FF785BF18D2","searchable":1,"quickSearch":1,"filterable":1},
@@ -119,8 +122,9 @@
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1725092039061/fan.txt;md5;cdee73045927fcb02b709ae63292cfd7","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG", "jar":" https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727690640792/fan.txt","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key": "酷影","name": "💓酷影┃影视","type": 3,"api": "csp_AppYsV2",  "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},	
-{"key":"追剧影视","name":"💓追剧┃影视","type":3,"api":"csp_AppZJ",jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
-
+{"key":"追剧影视","name":"💓追剧┃影视","type":3,"api":"csp_AppZJ","jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://z.kzjtv.com/"},
+{"key":"csp_vs","name":"🔥┃维斯秒播┃自制","type":3,"api":"csp_XBPQ", "jar":"http://mzjk.top/bhvip.jar","ua":"okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mzjk.top/vip/lib/vsys.json"},
+{"key":"csp_Yhys","name":"🚢┃宇航┃影视","type":3,"api":"csp_Yhys","jar": "https://gitee.com/bhapp/zs/raw/kl/PandaQ240908.jar;md5;bef2ec33400b610bb5f18ee90b427947","playerType":2},
 	{
             "key": "yt",
             "name": "💓宝盒┃4K",
@@ -635,6 +639,11 @@
    "线路标题":"在线播放",
    "播放数组":"main-list-sections&&</div></div>",
    "分类url":"https://www.gs4x7nq4.com/vod/show/id/{cateId}/type/{class}/area/{area}/year/{year}/page/{catePg};;d0","分类":"电视剧$2#电影$1#动漫$4#综艺$3"}},
+{"key":"XYQH_聚合","name":"🈴聚合┃搜索","type":3,"api":"csp_XYQHikerAL","jar":"https://gitee.com/blssss/jk/raw/api/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf","playerType":1,"ext":"https://gitee.com/blssss/jk/raw/api/lib/聚合网盘.json"},
+{"key":"XYQH_云盘","name":"🗃️云盘┃搜索","type":3,"api":"csp_XYQHikerAL","jar":"https://gitee.com/blssss/jk/raw/api/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf","playerType":1,"ext":"https://gitee.com/blssss/jk/raw/api/lib/yunpan.json"},
+{"key":"XYQH_土豆","name":"😈土豆┃玩偶","type":3,"vip_thread_limit":10,"api":"csp_XYQHikerAL","jar":"https://gitee.com/blssss/jk/raw/api/XBQH.jar;md5;3ec42e286452fc6c253ffe064eba6eaf","ext":"https://gitee.com/blssss/jk/raw/api/lib/土豆.json"},
+{"key":"csp_Tudou","name":"😈土狗┃玩偶","type":3,"api":"csp_Tudou","ext":"77c9aa84a92e4963a47f5e2bdb7d48b9","jar":"https://gitee.com/blssss/jk/raw/api/lib/tudou.jar;md5;2c46018d3be585009ec6680d420c88b2"},
+
 {"key": "T4-黑木耳","name": "🍑黑木耳[T4]","type": 4,"api": "https://tang.hz.cz/power/hme?token=30b05f5f","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 {"key": "T4-安博","name": "🍑安博[T4]","type": 4,"api": "https://tang.hz.cz/power/ub18?token=30b05f5f","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
 {"key": "T4-歐樂","name": "🍑歐樂[T4]","type": 4,"api": "https://tang.hz.cz/power/olelive?token=30b05f5f","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
