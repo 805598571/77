@@ -246,7 +246,7 @@
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🛴手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"csp_xp_yoozhibo","name":"💓赛事(HD)","type":3,"api":"csp_XPathFilter",   ,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_yoozhibo","name":"💓赛事(HD)","type":3,"api":"csp_XPathFilter",   "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
 {"key":"csp_xp_ddkanqiu","name":"💓低调(HD)","type":3,"api":"csp_XPathMacFilter",  "searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 ],
