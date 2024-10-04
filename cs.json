@@ -4787,8 +4787,8 @@
                 }
     },
 {"key":"dr_UAA","name":"UAA[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/UAA[密].js"},
-{"key":"laoyazy.com","name":"1(直连)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"dr_采集之王","name":"采集之王[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/采集之王[合].js?type=url&params=https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/json/采集[密]静态.json$1"},
+
+
 {"key":"csp_XBPQ_BE視頻","name":"BE視頻[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://l6bvp3.bbbeee.fun/type/{cateId}-{catePg}.html","直接播放": "1","图片": "data-src=\"&&\"","分类":"视频一区$1#视频二区$29#视频三区$47"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
  {
             "key": "csp_hs",
