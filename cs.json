@@ -4504,8 +4504,7 @@
 		  "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
 		},
 
-{"key":"csp_XBPQ_Y","name": "Y[XBPQ]","type": 3,"api": "csp_XBPQ","ext": {"主页url": "https://javday.tv/","直接播放": "1","数组": "lazy loaded\"&&</a>","图片": "style=\"background-image: url(&&);\"","标题": "class=\"title\"&&</span>","副标题": "class=\"number\">&&</span>","简介": "title\"&&</span>","链接": "href=\"&&\"","分类url": "https://javday.tv/category/{cateId}/page/{catePg}/","分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
-{"key":"csp_XBPQ_视频","name":"视频[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://sjj.sjjsp5.icu/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "0","播放数组": "class=\"detail-content&&</div>","图片": "data-original=\"&&\"","分类":"视频一区$1#视频二区$2#视频三区$3"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+
 		{
 			"key": "csp_JavBus",
 			"name": "️JavBus┃磁力",
@@ -4637,7 +4636,7 @@
       "quickSearch": 1
     },
  
-{"key":"csp_XBPQ_人","name":"人[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://n10keb.mtlover2024.cyou/index.php/vodtype/{cateId}-{catePg}.html","直接播放": "1","分类":"國產視頻$32#國產傳媒$160#日本視頻$10#歐美視頻$34#動畫視頻$42#韩国视频$33"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+
  {"key":"努可影院","name":"努可影院","type":3,"api":"csp_XBPQ","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"stui-vodlist__thumb lazyload&&</a","图片":"data-original=\"&&\"","图片代理":"1","副标题":"pic-text text-right\">&&</span>","简介":"description\" content=\"&&\"","链接":"href=\"/voddetail/&&.html\"","链接前缀":"https://2n2.abcoob.one/vodplay/","链接后缀":"-1-1.html","跳转播放链接":"urlDecode(var player*url\":\"&&\")","搜索url":"https://2n2.abcoob.one/vodsearch/{wd}-----/page/{pg}.html","分类url":"https://2n2.abcoob.one/vodtype/{cateId}-{catePg}.html;;z","分类":"新品日韩$20#中文字幕$21#短片本土$22#大胸美女$23#剧情暴力$24#制服扮演$25#人妻御姐$26#无码专区$27#动漫卡通$28#明星幻想$29"}},
 {"key":"csp_xBPQ_清","name":"清","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉超清.json","jar":"https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"},
 {"key":"csp_xBPQ_热","name":"热","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://git.acwing.com/lw0704/66/-/raw/master/h/香蕉久久热.json","jar":"https://git.acwing.com/lw0704/66/-/raw/master/jar/Yoursmile2.jar"},
@@ -4787,7 +4786,7 @@
                 }
     },
 {"key":"dr_UAA","name":"UAA[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/UAA[密].js"},
-
+{"key":"laoyazy.com","name":"老","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 
 {"key":"csp_XBPQ_BE視頻","name":"BE視頻[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://l6bvp3.bbbeee.fun/type/{cateId}-{catePg}.html","直接播放": "1","图片": "data-src=\"&&\"","分类":"视频一区$1#视频二区$29#视频三区$47"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
  {
@@ -4884,7 +4883,7 @@
       "filterable": 1,
       "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/json/品茶传媒.json"
     },
-{"key":"csp_XBPQ_蜜","name":"蜜[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.okav15.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","分类":"國產$1#日韓$2#歐美$3#動漫$4#中字$5"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+
 		{
 			"key": "drpy_js_MP4电影",
 			"name": "📀MP4电影┃磁力",
