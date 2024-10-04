@@ -524,13 +524,6 @@
 			"jar":"https://gitee.com/RTXRui/tvfile/raw/master/xm.jar"
 		},
 		
-{
-            "key": "哔嘀",
-            "name": "🚨哔嘀┃影视┃直连",
-            "type": 3,
-            "api": "csp_WexBDys",
-            "searchable": 1,
-            "changeable": 1,"jar": "https://8049.kstore.space/tv/JAR/fnw.txt"},
 
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
 {"key":"机器人弹幕","name":"✨机器┃弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
@@ -4489,16 +4482,7 @@
 			"timeout": 1801,	
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://javdb368.com$$$noproxy"
 		},
-		  {
-		"key": "tv",
-		"name": "资",
-		"type": 1,
-		"api": "https://www.siwazyw.tv/api.php/provide/vod/",
-		"searchable": 1,
-		"quickSearch": 1,
-		"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
-		"recordable": 0,
-		"style": {"type": "rect", "ratio": 1.33},
+		 
 		
 
 		{
