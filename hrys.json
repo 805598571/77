@@ -105,22 +105,7 @@
                 "danmu": true
             }
         },
-{
-            "key": "夸克蜡笔弹幕",
-            "name": "蜡笔｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wobg",
-            "quickSearch": 1,
-            "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",   
-            "changeable":  1,     
-            "filterable": 1,
-            "ext": {
-               "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "site": "http://labipan.com",
-                "danmu": true
-            }
-        },
+
         
 {
 			"key": "csp_AliShare",
