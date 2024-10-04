@@ -26,7 +26,15 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
-
+{
+      "key": "柠檬",
+      "name": "💋柠檬┃秒播",
+      "type": 3,
+      "api": "csp_Nmvod",
+      "playerType": 1,
+      "jar": "http://cdn.qiaoji8.com/fix24726.jar;md5;e8c89ed0862c98170bbaff794a645432",
+      "ext": "eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="
+    },
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"农民影视","name":"💋农民┃影视","type":3,"api":"csp_WexNmys","searchable":1,"changeable":1,"jar":"https://gitee.com/juanxiao/bh/raw/master/o2.jar"   },
@@ -99,14 +107,12 @@
         },
 {
             "key": "夸克蜡笔弹幕",
-            "name": "💋蜡笔｜4K弹幕",
+            "name": "蜡笔｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "quickSearch": 1,
             "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;c52fb9e051491089b007fea2b3109ee8",   
-            "quickSearch": 1,  
-            "quickSearch": 1,
-            "changeable": 1,
+            "changeable":  1,     
             "filterable": 1,
             "ext": {
                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
@@ -115,6 +121,7 @@
                 "danmu": true
             }
         },
+        
 {
 			"key": "csp_AliShare",
 			"name": "✨阿里┃网盘",
