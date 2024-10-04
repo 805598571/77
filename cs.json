@@ -4566,7 +4566,33 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://www.uuneed.cn/nmnm123/MHQTV/raw/master/xBPQ/1新香蕉中文字幕.json","jar":"http://www.uuneed.cn/nmnm123/MHQTV/raw/master/jar/Yoursmile1.jar"},
- 
+ {
+		"key": "tv",
+		"name":"资",
+		"type": 1,
+		"api": "https://www.siwazyw.tv/api.php/provide/vod/",
+		"searchable": 1,
+		"quickSearch": 1,
+		"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
+		"recordable": 0,
+		"style": {"type": "rect", "ratio": 1.33},
+		"header": {
+		  "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+		  "User-Agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/117.0.0.0Safari/537.36"
+		}
+	  },
+{
+		"key": "老",
+		"name":"老",
+		"type": 1,
+		"api": "http://laobaozy.com/api.php/provide/vod/",
+		"searchable": 1,
+		"quickSearch": 1
+	  },
+{"key":"csp_XBPQ_桃子","name":"桃子[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://le.taozi4.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "0","图片": "data-original=\"&&\"","播放数组": "class=\"play-btn&&</div>","分类":"偷拍自拍$20#国产大制作$21#乱伦毁三观$22#嫖妓全过程$23#淫乱妹$24#黑料不打烊$25#监控摄像头$26#主播网红$27"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_蜜","name":"蜜[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://www.okav15.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","分类":"國產$1#日韓$2#歐美$3#動漫$4#中字$5"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_频","name":"频[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://sjj.sjjsp5.icu/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "0","播放数组": "class=\"detail-content&&</div>","图片": "data-original=\"&&\"","分类":"视频一区$1#视频二区$2#视频三区$3"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"laoyazy.com","name":"老连","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
 {
             "key": "csp_xBPQ_超清",
             "name":"电信",
