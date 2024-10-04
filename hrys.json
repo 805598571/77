@@ -11,21 +11,6 @@
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
-{
-            "key": "影视工厂",
-            "name": "🙀工厂┃蓝光",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "搜索图片": "https://vf.keke02.cn/vod_h5_static_kkdy/v20463/img/brand/splash_image.jpg",
-                "分类url": "https://www.ysgc8.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
-                "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-            }
-        },
 
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -50,7 +35,20 @@
         "danmu": true
       }
     },
-
+{
+      "key": "玩偶gg",
+      "name": "💋玩偶gg",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar":"https://cdn05042023.gitlink.org.cn/raae/oh/raw/branch/master/zhenxin/custom_spider.jar ",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json",
+        "siteUrl": "https://www.wogg.bf/",
+        "filter": "https://cdn05042023.gitlink.org.cn/raae/oh/raw/branch/master/zhenxin/wogg.json"
+      }
+    },
 {
             "key": "玩偶弹幕",
             "name": "💋玩偶哥哥｜4K弹幕",
