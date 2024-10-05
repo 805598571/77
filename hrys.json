@@ -222,7 +222,7 @@
         "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master"
       }
     },
-{"key":"纸条搜","name":"📜小纸条","type":3,"api":"csp_XiaoZhiTiao","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;435DEB939629CE4B15EF4FF785BF18D2","searchable":1,"changeable":0,"ext":{"commonConfig":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"}},
+{"key":"纸条搜","name":"📜小纸条","type":3,"api":"csp_XiaoZhiTiao","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"changeable":0,"ext":{"commonConfig":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"}},
 
 {"key":"夸搜","name":"🐟夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
