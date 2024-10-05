@@ -28,6 +28,7 @@
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"FreeOK","name":"️🆗FreeOK","type":3,"api":"csp_FreeOK","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_AppRZ","name":"🕵忍者","type":3,"playerType":"2","api":"csp_AppRZ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 { 
   "key": "酷云$七七",
   "name": "🌤️酷云七七",
@@ -64,7 +65,7 @@
                 "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
             }
         },
-
+{"key":"csp_TianTian","name":"🦉天天","type":3,"api":"csp_TianTian","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "柠檬",
       "name": "💋柠檬┃秒播",
@@ -90,7 +91,15 @@
         "danmu": true
       }
     },
-{"key":"玩偶gg","name":"👽玩偶gg","type":3,"api":"csp_Wogg","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"changeable":0,"ext":{"commonConfig":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json","siteUrl":"https://www.wogg.net/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
+{
+      "key": "csp_xy77",
+      "name": "🍁酷云77js",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/drpy_libs/drpy2.min.js",
+      "ext":"https://ghproxy.net/https://raw.githubusercontent.com/ziyongdaima/YWJ/main/js/酷云77.js"
+    },
+{"key":"drjs_农民影视","name":"雷蒙优选 | 😎农民Ⅰ","type":3,"api":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/js/农民影视.js"},
+{"key":"drjs_农民影视2","name":"雷蒙优选 | 😎农民Ⅱ","type":3,"api":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/js/农民影视2.js"},
 {
             "key": "玩偶弹幕",
             "name": "💋玩偶哥哥｜4K弹幕",
@@ -200,7 +209,7 @@
 			"name": "⚡迅雷┃网盘",
 			"type": 3,
 			"api": "csp_ThunderShare",
-                        "jar" :"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar", 
+                        "jar" :"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;9079a4e56f85c46f42564b9fe8a1139e",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -217,13 +226,26 @@
 			"name": "👽玩偶哥哥┃云盘",
 			"type": 3,
 			"api": "csp_Wogg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;9079a4e56f85c46f42564b9fe8a1139e",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.wogg.net/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"
+		},
+{
+			"key": "csp_Panta",
+			"name": "☣️盘ta┃云搜",
+			"type": 3,
+			"api": "csp_Panta",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;9079a4e56f85c46f42564b9fe8a1139e", 
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 60,
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
 {
       "key": "TgYunPan|服务器",
@@ -377,6 +399,39 @@
 {"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
 {"key":"alllive","name":"📽️一直播┃LIVE","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
+{
+      "key": "戏曲杂苑",
+      "name": "🧿戏曲┃杂苑",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/guot55/yg/main/a/哔哩戏曲.json"
+    },
+{"key":"酷奇","name":"🎤酷奇┃MV","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/酷奇MV.js","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/MTV.json"},
+{"key":"虎牙直播js","name":"🐯虎牙┃直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/huya2.js","style":{"type":"rect","ratio":1.755},
+"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"斗鱼js","name":"🐟斗鱼┃直播","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/斗鱼直播.js","style":{"type":"rect","ratio":1.755},
+"playerType":"2","searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Bili","name":"🅱哔哔┃合集","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/bilibili.json"},
+{"key":"Biliych","name":"🅱明星┃演唱会","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":1,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/biliych.json"},
+{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"少儿教育","name":"📚少儿┃教育","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/少儿教育.json"},
+{"key":"小学课堂","name":"📚小学┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/小学课堂.json"},
+{"key":"初中课堂","name":"📚初中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
+{"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🙀手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
