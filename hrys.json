@@ -30,7 +30,17 @@
 {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRZ","name":"🕵忍者","type":3,"playerType":"2","api":"csp_AppRZ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"key":"肥猫4K","name":"🖍┃肥猫┃4K","type":3,"api":"http://xn--ihqu10cn4c.xn--v4q818bf34b.top/json/js/drpy.min.js","ext":"http://js.xn--z7x900a.com/肥猫4K.js","searchable":0},
-{"key":"csp_Ikan","name":"💕┃爱看┃影视","type":3,"api":"csp_Ikanbot","playerType":2},
+{
+            "key": "LIBVIO",
+            "name": "🇱LIBVIO┃影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://cdn05042023.gitlink.org.cn/Q13174771/fan/raw/branch/master/lib/XBPQ.jar",
+            "ext": {
+                "分类url": "https://libvio.link/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16"
+            }
+        },
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"Auete","name":"🏝奥特┃无广","type":3,"api":"csp_Auete","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://auete.pro/"},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_Nmyswv","searchable":1,"quickSearch":1,"changeable":1},
@@ -351,7 +361,7 @@
       "name": "💋星剧社",
       "type": 3,
       "api": "csp_Star2",
-      "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e",  
+      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F",  
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -364,7 +374,7 @@
       "name": "💋易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e", 
+      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F", 
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -378,7 +388,7 @@
       "name": "💋盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e",    
+      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F",    
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -390,8 +400,7 @@
       "name": "💋网盘集合|4K",
       "type": 3,
       "api": "csp_网盘集合",
-      "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e",                
-      "searchable": 1,
+      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F",                 "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
@@ -399,7 +408,8 @@
         "share": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2F%E7%BD%91%E7%9B%98%E9%9B%86%E5%90%88.json?ref=master"
       }
     },
-{"key":"搜索弹幕","name":"🙀盘Se┃弹幕┃搜索","type":3,"api":"csp_PanSearch","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt","danmu":true}},
+     
+{"key":"搜索弹幕","name":"🙀盘Se┃弹幕┃搜索","type":3,"api":"csp_PanSearch","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","danmu":true}},
 
 {"key":"88js","name":"⚽88┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0},
