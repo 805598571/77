@@ -356,61 +356,15 @@
                 "danmu": true
             }
         },
-{
-      "key": "星剧社",
-      "name": "💋星剧社",
-      "type": 3,
-      "api": "csp_Star2",
-      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F",  
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
-      }
-    },
-   {
-      "key": "易搜",
-      "name": "💋易搜|4K",
-      "type": 3,
-      "api": "csp_YiSo",
-      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F", 
-      "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "cookie": "",
-        "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
-      }
-    },
-    {
-      "key": "盤搜索",
-      "name": "💋盤搜索",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F",    
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
-      }
-    },
-{
-      "key": "网盘集合",
-      "name": "💋网盘集合|4K",
-      "type": 3,
-      "api": "csp_网盘集合",
-      "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F",                 "searchable": 1,
-      "filterable": 0,
-      "switchable": 0,
-      "ext": {
-        "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json",
-        "share": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2F%E7%BD%91%E7%9B%98%E9%9B%86%E5%90%88.json?ref=master"
-      }
-    },
+{"key":"蜡笔","name":"🖍︎蜡笔","type":3,"api":"csp_kongbai","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"changeable":0,"ext":{"commonConfig":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json","siteUrl":"http://labipan.com/","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},
+{"key":"星剧社","name":"⭐️星剧社","type":3,"api":"csp_Star","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"}},
+{"key":"易搜","name":"🆎易搜","type":3,"api":"csp_YiSo","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"filterable":0,"switchable":0,"ext":{"cookie":"satoken=0eedba28-be8a-4f01-81af-2d8d44808ecf","commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+{"key":"csp_PanSearch","name":"📀盘搜索","type":3,"api":"csp_PanSearch","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"changeable":0,"ext":{"commonConfig":"http://127.0.0.1:9978/file/TVBox/peizhi.json"}},
+
+{"key":"网盘集合","name":"🅿网盘集合|4K","type":3,"api":"csp_网盘集合","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json","share":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/网盘集合.json"}},
      
 {"key":"搜索弹幕","name":"🙀盘Se┃弹幕┃搜索","type":3,"api":"csp_PanSearch","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"filterable":0,"changeable":1,"ext":{"token":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","danmu":true}},
-
+{"key":"926看球","name":"🌐926┃体育🌐","type":3,"api":"csp_Wex926kanqiu","searchable":1,"changeable":0,"style":{"type":"list"}},
 {"key":"88js","name":"⚽88┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0},
 {"key":"310js","name":"⚽310┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},
