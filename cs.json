@@ -4548,20 +4548,7 @@
 		},
 		 
 		{"key":"HuaDu","name":"HuaDu","type":3,"api":"csp_HuaDu","searchable":1,"changeable":1},
-{"key":"真黄涩仓库",
-       "name":"🏆黄涩仓库",
-       "type":3,
-       "api":"csp_XBPQ",
-       "filterable": 0,
-       "style":{"type":"rect","ratio":1.333},
-       "ext":{
-       "分类url":"http://hsck676.cc/vodtype/{cateId}-{catePg}.html",
-       "直接播放":"1",
-       "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
-       "分类值":"1&2&3&4&8&9&10&7&15&21&22"},
-       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
-       "style":{"type":"rect","ratio":1.33
-         }},
+
 
 {
         "key": "xvideos4中文",
@@ -4786,7 +4773,7 @@
             "jar": "https://cdn05042023.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/jar/xyqxbpq.jar"
         },
 {"key":"欢迎光临//https://www.aimi18.xyz",
-       "name":"🏆欢淫光临",
+       "name":"🏆光临",
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 0,
@@ -4808,8 +4795,8 @@
         "quickSearch": 1, 
         "filterable": 0
        },
-{"key":"真黄涩仓库",
-       "name":"🏆黄涩仓库",
+{"key":"真",
+       "name":"🏆涩",
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 0,
@@ -4844,7 +4831,7 @@
       },
 {
         "key": "csp_XBPQ_天天综合",
-        "name": "🏆香蕉综合",
+        "name": "🏆综合",
         "type": 3,
         "api": "csp_XBPQ",
         "searchable": 1,
@@ -4854,8 +4841,8 @@
        "ext": "https://d.kstore.space/download/4344/XBPQ/天天综合.json"
       },
 {
-      "key":"*黄色仓库资源",
-      "name":"🏆黄色仓库",
+      "key":"仓库资源",
+      "name":"🏆仓仓库",
       "type":0,
       "api":"https://www.kxgav.com/api/xml.php",
       "searchable": 1,
@@ -4888,8 +4875,8 @@
      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
       "style":{"type":"rect","ratio":1.33
        }},
-{"key":"csp_XBPQ_X先生",
-      "name":"🏆X先生",
+{"key":"csp_XBPQ_先生",
+      "name":"🏆先生",
       "type":3,
       "api":"csp_XBPQ",
       "searchable":1,
@@ -4898,8 +4885,8 @@
       "ext":"https://gitee.com/xiongdada3695/xbpq/raw/master/X先生.json",
       "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar"
      },
-{"key":"H色车房",
-       "name":"🏆H色车房",
+{"key":"车房",
+       "name":"🏆车房",
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 0,
@@ -5061,8 +5048,8 @@
     },
 {"key":"dr_UAA","name":"UAA[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_libs/drpy2.min.js","searchable":2,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/liust666/testbookt3/t3/drpy_js/UAA[密].js"},
 {"key":"laoyazy.com","name":"老","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/?ac=list","searchable":1,"filterable":1},
-{"key":"香蕉午夜",
-       "name":"🏆香蕉午夜",
+{"key":"香",
+       "name":"🏆香",
        "type":3,
        "api":"csp_XBPQ",
        "filterable": 0,
