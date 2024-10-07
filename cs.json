@@ -4867,7 +4867,7 @@
        "ext":{
        "分类url":"https://hsck123.26img.com/?type={cateId}&p={catePg}",
        "直接播放":"1",
-       "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
+       "分类":"国产$gc#无码$wz#有码$yz#欧美$om#动画$dm",
        "分类值":"1&2&3&4&8&9&10&7&15&21&22"},
       "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
        "style":{"type":"rect","ratio":1.33
@@ -4938,7 +4938,7 @@
        "style":{"type":"rect","ratio":1.333},
        "ext":{"分类url":"https://hsck123.26img.com/?type={cateId}&p={catePg}",
        "直接播放":"1",
-      "分类":"日韩专区&国产专区&欧美专区&动漫专区",
+      "分类":"国产$gc#无码$wz#有码$yz#欧美$om#动画$dm",
        "分类值":"7&10&11&12" },
        "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",
        "style":{"type":"rect","ratio":1.33
