@@ -18,8 +18,11 @@
 {"key":"csp_xp_yoozhibo","name":"💓赛事(HD)","type":3,"api":"csp_XPathFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
 {"key":"csp_xp_ddkanqiu","name":"💓低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1722987884531/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {"key":"JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
-{"key":"TGYunPanLocal","name":"🉑1TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
-	{"key":"TGYunPan","name":"🉑2TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"https://www.gitlink.org.cn/api/raae/oh/raw/oh%2Flib%2Ftokenm.json?ref=master$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},
+{"key":"TGYunPanLocal","name":"🉑1TG搜索Local|网盘搜索","type":3,"api":"csp_TGYunPanLocal","timeout":60, "ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://t.me/$$$oneonefivewpfx,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe$$$proxy$$$1"},
+	{"key":"TGYunPan","name":"🉑2TG搜索|网盘搜索","type":3,"api":"csp_TGYunPan","timeout":60, "ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://127.0.0.1:10199/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000$$$noproxy$$$1"},
+{"key":"csp_TGYunPan","name":"雷蒙影视 | 💿电报搜索(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$cfg$$$1"},
+{"key":"csp_TGYunPan18","name":"雷蒙影视 | 💿电报搜索18+(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://tg.seczh.com/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$cfg$$$1"},
+{"key":"csp_TGYunPan2","name":"雷蒙影视 | 💿电报云搜(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://tg.uu8.club/$$$alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4$$$cfg$$$1"},
 {
     "key": "csp_Live2Vod_1",
     "name": "💓┃网络💎电视┃",
@@ -4802,7 +4805,7 @@
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
        "ext":{
-       "分类url":"http://hsck676.cc/vodtype/{cateId}-{catePg}.html",
+       "分类url":"https://hsck123.26img.com/?type={cateId}&p={catePg}",
        "直接播放":"1",
        "分类":"日韩&国产&欧美&动漫&无码字幕&有码字幕&日本无码&日本有码&国产视频&欧美高清&动漫剧情",
        "分类值":"1&2&3&4&8&9&10&7&15&21&22"},
@@ -4891,7 +4894,7 @@
        "api":"csp_XBPQ",
        "filterable": 0,
        "style":{"type":"rect","ratio":1.333},
-       "ext":{"分类url":"https://hskf19.shop/vodtype/{cateId}-{catePg}.html",
+       "ext":{"分类url":"https://hsck123.26img.com/?type={cateId}&p={catePg}",
        "直接播放":"1",
       "分类":"日韩专区&国产专区&欧美专区&动漫专区",
        "分类值":"7&10&11&12" },
@@ -5061,6 +5064,17 @@
      "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
       "style":{"type":"rect","ratio":1.33
        }},
+{
+      "key": "csp_香蕉资源",
+      "name": "🏆香蕉中文",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"http://www.uuneed.cn/nmnm123/1jar/raw/master/Yoursmile.jar" ,   
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/4344/XBPQ/香蕉资源.json"
+      },
 {"key":"csp_XBPQ_BE視頻","name":"BE視頻[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://l6bvp3.bbbeee.fun/type/{cateId}-{catePg}.html","直接播放": "1","图片": "data-src=\"&&\"","分类":"视频一区$1#视频二区$29#视频三区$47"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
  {
             "key": "csp_hs",
