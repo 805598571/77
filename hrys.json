@@ -61,7 +61,7 @@
         },
 {
             "key": "追剧影视",
-	    "name": "追剧｜APP",       
+	    "name": "💯追剧｜APP",       
             "type": 3,
             "api": "csp_AppZJ",
             "jar":"https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar", 
@@ -72,7 +72,7 @@
         },
 {
             "key": "爱看影视",
-            "name": "爱看｜影视",
+            "name": "💯爱看｜影视",
             "type": 3,
             "api": "csp_Ikan",
             "jar":"https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",      
@@ -98,13 +98,7 @@
             "searchable": 1,
             "changeable": 1
         },
-{
-      "key": "Nkdy",
-      "name": "😎耐看┃外剧",
-      "jar": "https://cdn05042023.gitlink.org.cn/TVRule/TVBox/raw/branch/master/custom_spider.jar;md5;386c26d857fcbd8e369eac0abf7a904c",
-      "type": 3,
-      "api": "csp_Nkdy"
-    },
+
 {"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
 {"key":"两个磁力","name":"两个┃影视","type":3,"api":"csp_Wexbttwo" "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
 {
@@ -433,7 +427,7 @@
         },
 {
             "key": "夸克蜡笔弹幕",
-	            "name": "💋蜡笔｜4K弹幕",
+	    "name": "💋蜡笔｜4K弹幕",       
             "type": 3,
             "api": "csp_Wobg",
             "jar": "https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d", 
@@ -459,7 +453,7 @@
             "ext": {
                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             }
@@ -476,7 +470,7 @@
             "ext": {
                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/masterfile/TVBox/uc.txt",
                 "site": "https://vip.omii.top",
                 "danmu": true
             }
@@ -510,7 +504,7 @@
             "ext": {
                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "http://mogg.top",
                 "danmu": true
             }
@@ -547,7 +541,7 @@
         },
 {
             "key": "夸克盘搜弹幕",
-            "name": "夸克盘搜｜弹幕",
+            "name": "😎夸克盘搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
             "jar":" https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;eb7676582d076a5505be5f23530e4f4d",  
