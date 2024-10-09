@@ -100,7 +100,7 @@
         },
 
 {"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
-{"key":"两个磁力","name":"两个┃影视","type":3,"api":"csp_Wexbttwo" "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
+{"key":"两个磁力","name":"两个┃影视","type":3,"api":"csp_Wexbttwo", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
 {
             "key": "1905影视",
             "name": "💖分享1905",
