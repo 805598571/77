@@ -4,7 +4,7 @@
 "sites":[
 {
       "key": "ConfigCenter",
-      "name": "😎配置中心",
+      "name": "配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
       "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
@@ -470,7 +470,7 @@
             "ext": {
                 "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/masterfile/TVBox/uc.txt",
+                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://vip.omii.top",
                 "danmu": true
             }
