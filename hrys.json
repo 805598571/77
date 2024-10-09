@@ -4,7 +4,7 @@
 "sites":[
 {
       "key": "ConfigCenter",
-      "name": "配置中心",
+      "name": "😎配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
       "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
@@ -46,19 +46,7 @@
 {"key":"兄弟影视","name":"🍍兄弟┃蓝光┃在线","type":3,"api":"csp_Xdys","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Net_emby", "name": "🍏 Net┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;a80166fe6a55ffc2e426f0c17802196d", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://net.creativeinfo.org:8096","username":"ntest","password":"ntest123","thread": 0,"proxy":""},"changeable": 1},
 
-{
-            "key": "一起看弹幕",
-            "name": "💯芸汐┃一起看弹幕",
-            "type": 3,
-            "api": "csp_Yqk",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            },
-            "jar": "https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/lib/danmu.jar;md5;6adf209dfd947794d0243f0ba6c28dd6"
-        },
+
 {
             "key": "追剧影视",
 	    "name": "💯追剧｜APP",       
@@ -70,16 +58,7 @@
             "filterable": 1,
             "ext": "http://z.kzjtv.com/"
         },
-{
-            "key": "爱看影视",
-            "name": "💯爱看｜影视",
-            "type": 3,
-            "api": "csp_Ikan",
-            "jar":"https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar",      
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+
 {"key": "HKA_emby", "name": "🍏 HKA┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;a80166fe6a55ffc2e426f0c17802196d", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://hka-emby.aliz.work:8097","username":"heqiao","password":"601417","thread": 0,"proxy":""},"changeable": 1},
 
 {
@@ -92,15 +71,15 @@
   {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},    
  {
             "key": "采集集合",
-            "name": "采集集合",
+            "name": "💯采集集合",
             "type": 1,
             "api": "http://api.paoyun.eu.org/cjjh.php",
             "searchable": 1,
             "changeable": 1
         },
 
-{"key":"腐剧视频","name":"腐剧┃影视","type":3,"api":"csp_WexFujutv", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
-{"key":"两个磁力","name":"两个┃影视","type":3,"api":"csp_Wexbttwo", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
+{"key":"腐剧视频","name":"💯腐剧┃影视","type":3,"api":"csp_WexFujutv", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
+{"key":"两个磁力","name":"💯两个┃影视","type":3,"api":"csp_Wexbttwo", "jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
 {
             "key": "1905影视",
             "name": "💖分享1905",
