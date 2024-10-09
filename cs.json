@@ -1,5 +1,5 @@
 {
-	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b0aad572a20bb7c0025fad675791b31d",
+	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;a80166fe6a55ffc2e426f0c17802196d",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"https://gitlab.com/kerkier/yhb/-/blob/main/lib/cs.jpeg",
 	"sites": [{
@@ -753,11 +753,37 @@
   "changeable": 1
 },
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","searchable":1,"quickSearch":1,"filterable":1,  "jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"},
-{"key":"机器人弹幕","name":"✨机器┃弹幕","type":3,"api":"csp_Ikanbot","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
 
-{"key":"一起看弹幕","name":"✨起起┃弹幕","type":3,"api":"csp_Yqk","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
-{"key":"JOJO弹幕","name":"✨里里┃弹幕","type":3,"api":"csp_Jiohub","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true},"jar":"https://gitee.com/juanxiao/bh/raw/master/dm.jar"},
- 
+ { "key": "桃子影院", 
+"name": "桃子┃一般", 
+ "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+"type":3,"api":"csp_XBPQ", 
+"ext": {"简介":"分享者剧情介绍:+show-desc\" style=*>&&</div>",
+"分类url":"https://ios.taozi007.com/show/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+"分类":"短剧$5#电视剧$2#电影$1#动漫$3#综艺$4"}},
+ {
+            "key": "绿茶剧影",
+            "name": "绿茶┃一般",
+             "jar": "https://gitee.com/fragrance-in-chu/mys/raw/master/jar/XbyQ.jar",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": {
+"分类url": "https://lvcha.asia/index.php/vod/show/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html;;m",
+"编码": "UTF-8",
+"请求头": "手机",
+                "分类": "电视剧$2#电影$1#动漫$4#综艺$3"
+            }
+        },
+        {
+    "key":"影探51",
+"name":"影探4K1",
+"type":3,
+"api":"http://www.sourcepower.top/api/v1/subscribe/3ui67b/drpy_libs/drpy2.min.js",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"ext":"http://www.sourcepower.top/api/v1/subscribe/3ui67b//1727068073789-%E5%BD%B1%E6%8E%A2[V2].js"
+},
  {
       "key": "立播弹幕",
       "name": "🌟立播┃蓝光┃弹幕",
@@ -4709,9 +4735,21 @@
 			"timeout": 1801,	
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://javdb368.com$$$noproxy"
 		},
-		 
+		   {
+            "key": "drjs_采集之王[合zy]",
+            "name": "👺采集之王[合zy](DRPY)",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/采集之王[合].js?type=url&params=https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/采集[zy]静态.json"
+        },
 		{"key":"HuaDu","name":"HuaDu","type":3,"api":"csp_HuaDu","searchable":1,"changeable":1},
-
+{"key":"csp_XBPQ_HoHoJ","name":"HoHoJ[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://hohoj.tv/search?type={cateId}&p={catePg}","直接播放": "1","图片": "data-original=\"&&\"","分类":""},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_大愛","name":"大愛[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://hzd.daai1.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","分类":"国产自拍&主播诱惑&探花约炮&偷拍偷窥&网曝吃瓜&抖阴短片&传媒剧情&日韩主播&日韩无码&中文字幕&AV解说&换脸明星&强奸乱伦&女优明星&欧美激情&重口激情&三级伦理&剧情动漫&SM调教&女同性恋&VR视角","分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&21&"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_流水","name":"流水[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://1fls.lll3001.lol/高山流水/index.php/vod/type/id/{cateId}/page/{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","分类":"日韩无码$9#中文字幕$10#强奸乱伦$13#三级伦理$17#传媒剧情$7"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_骏马","name":"骏马[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://junmatv.com/vodtype/{cateId}-{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","图片代理": "1","分类":"字幕好片$20#本土对白$21#有码薄码$24#动漫次元$23#分级电影$25#外国美女$22"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_久草","name":"久草[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://jcss33.com/video/index/cid/{cateId}/p/{catePg}","直接播放": "1","图片": "data-original=\"&&\"","分类":""},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_比卡","name": "比卡[XBPQ]","type": 3,"api": "csp_XBPQ","ext":"https://gitlab.com/lemon52030/BOX/-/raw/main/ext/比卡比卡.json","jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_JAVDAY","name": "JAVDAY[XBPQ]","type": 3,"api": "csp_XBPQ","ext": {"主页url": "https://javday.tv/","直接播放": "1","数组": "lazy loaded\"&&</a>","图片": "style=\"background-image: url(&&);\"","图片代理": "1","标题": "class=\"title\"&&</span>","副标题": "class=\"number\">&&</span>","简介": "title\"&&</span>","链接": "href=\"&&\"","分类url": "https://javday.tv/category/{cateId}/page/{catePg}/","分类": "新作上市$new-release#有碼$censored#國產AV$chinese-av#無碼流出$uncensored-leaked#糖心VLOG$txvlog#蘿莉社$luolisheus#HongKongDoll$hongkongdoll"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
 {
     "key": "NiceAv",
     "name": "🔥NiceAv",
@@ -5368,6 +5406,11 @@
       "filterable": 1,
       "ext": "https://cdn05042023.gitlink.org.cn/Q13174771/9999/raw/branch/master/json/品茶传媒.json"
     },
+{"key": "Net_emby", "name": "🍏 Net┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://net.creativeinfo.org:8096","username":"ntest","password":"ntest123","thread": 0,"proxy":""},"changeable": 1},
+{"key": "San_emby", "name": "🍏 San┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://san.creativeinfo.org:8096","username":"san","password":"san123","thread": 0,"proxy":""},"changeable": 1},
+{"key": "Jav_emby", "name": "🍏 Jav┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://jav.creativeinfo.org:8096","username":"atest","password":"atest123","thread": 0,"proxy":""},"changeable": 1},
+{"key": "ISO_emby", "name": "🍏 ISO┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://iso.creativeinfo.org:8096","username":"itest","password":"itest123","thread": 0,"proxy":""},"changeable": 1},
+{"key": "HKA_emby", "name": "🍏 HKA┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://hka-emby.aliz.work:8097","username":"heqiao","password":"601417","thread": 0,"proxy":""},"changeable": 1},
 
 		{
 			"key": "drpy_js_MP4电影",
