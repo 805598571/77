@@ -83,14 +83,26 @@
   "quickSearch": 1,
   "changeable": 1
 },
-{"key":"南瓜2",
-	"name":"💖分享南瓜",
-	"type":3,
-	"api":"csp_NanGua",
-	"timeout":15,"playerType":2,
-	"searchable":1,"quickSearch":1,
-	"changeable":1 ,
-	"jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/分享者1.zip"},
+{
+            "key": "csp_NanGua",
+            "name": "🎃芸汐┃南瓜APP",
+            "type": 3,
+            "changeable": 1,
+            "api": "csp_NanGua",
+            "playerType": 2,
+            "filterable": 1
+    },
+    {
+      "key": "南瓜",
+      "name": "🎃芸汐┃南瓜多线",
+      "type": 3,
+      "api": "csp_NanGua",
+      "timeout": 15,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
 {
             "key": "1905影视",
             "name": "💖分享1905",
@@ -4859,6 +4871,26 @@
                 "分类": "麻豆视频$1#中文字幕$2#日本无码$3#日本有码$4#童颜巨乳$5#校园萝莉$6#女优明星$7#角色扮演$8#制服诱惑$9#强奸乱伦$31#AI换脸$32#黑料泄密$33#主播直播$34#国产精品$35#探花视频$36#女同性恋$37#SM调教$38#人妻熟女$40"
             }
         },
+{"key":"csp_XBPQ_手鸡助手","name":"手鸡助手[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://mcpg.sjzs199p.buzz/?mod=videos&cateid={cateId}&page={catePg}","直接播放": "1","图片": "","播放标题": "<h1&&</h1>","搜索url":"https://mcpg.sjzs199p.buzz/?mod=videos&wd={wd}","分类":"日韩有码$480#日韩无码$481#中文字幕$483#AV解说$485#欧美情色$482#国产情色$479#网红主播$484#卡通动漫$1505"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key": "csp_XBPQ_ThisAV","name": "ThisAV[XBPQ]","type": 3,"api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},"ext": {"主页url": "https://thisav.com/dm7/cn","数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>","图片": "class=\"lozad w-full\" data-src=\"&&\"","简介": "<title>&&</title>","标题": "alt=\"&&\"","副标题": "absolute bottom-1 right-1 rounded-lg px-2 py-1 text-xs text-nord5 bg-gray-800 bg-opacity-75\">&&</span>","链接": "href=\"&&\"","分类url": "https://thisav.com/{cateId}?page={catePg};;z","分类": "最近更新$dm509/cn/new#新作上市$dm504/cn/release#今日热门$dm242/cn/today-hot#本周热门$dm167/cn/weekly-hot#本月热门$dm206/cn/monthly-hot#中文字幕$dm265/cn/chinese-subtitle#无码流出$dm558/cn/uncensored-leak#SIRO$dm23/cn/siro#LUXU$dm23/cn/siro#GANA$dm23/cn/siro#PRESTIGE PREMIUM$dm14/cn/maan#S-CUTE$dm23/cn/scute#ARA$dm19/cn/ara#FC2$dm94/cn/fc2#HEYZO$dm621/cn/heyzo#东京热$dm29/cn/tokyohot#一本道$dm39925/cn/1pondo#Caribbeancom$dm75695/cn/caribbeancom#Caribbeancompr$dm1200/cn/caribbeancompr#10musume$dm39286/cn/10musume#pacopacomama$dm663/cn/pacopacomama#Gachinco$dm135/cn/gachinco#XXX-AV$dm25/cn/xxxav#人妻斩$dm24/cn/marriedslash#顽皮 4610$dm19/cn/naughty4610#顽皮 0930$dm22/cn/naughty0930#麻豆传媒$dm31/cn/madou#TWAV$dm17/cn/twav#Furuke$dm14/cn/furuke"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_伊人","name":"伊人[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://yiren96.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z","直接播放": "1","图片": "data-original=\"&&\"","分类":"中文字幕$11#国产视频$4#91精选$33#无码视频$8#欧美视频$5#动漫视频$30#伦理视频$9#精品AV$34#黑料吃瓜$35#AV解说$26#素人搭讪$7#JAV字幕$29#JAV丝袜$28#国产色情$39#高清日本$53#高清国产$54#高清传媒$55#情趣综艺$57#在线短剧$58#精选福利$87"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_癢癢","name":"癢癢[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://guochan.yangyangtv13.top/index.php/vod/show/id/{cateId}/page/{catePg}.html","直接播放": "1","图片": "data-original=\"&&\"","分类":"自拍偷拍$58#绿帽淫妻$59#国产视频$51#主播大秀$52#抖阴视频$41#网红头条$37#网曝黑料$36#AI换脸$32#女优明星$53#日本无码$39#中文字幕$40#日本有码$38#葫芦影业$48#蜜桃传媒$49#杏吧传媒$50#天美传媒$44"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{"key":"csp_XBPQ_SNBY","name":"SNBY[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://xn--ld3a.snbli14.buzz/index.php?m=vod-type-id-{cateId}-pg-{catePg}.htm","直接播放": "1","图片": "original=\"&&\"","图片代理": "1","分类":""},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+{
+    "key": "kanav",
+    "name": "看",
+    "type": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "api": "csp_XBPQ",
+      "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar",  
+    "ext": 
+       {
+        "分类url":"https://kanav.info/index.php/vod/type/id/{cateId}.html",
+        "分类":"中文字幕$1#日韩有码$2#日韩无码$3#国产AV$4#流出自拍$22#动漫番剧$20" 
+       }
+    },
 {"key":"https://www.qqdsp.cc",
        "name":"🏆qqdsp",
        "type":3,
@@ -5003,7 +5035,236 @@
 			"timeout": 1801,
 			"ext":"null$$$127.0.0.1:10072" 
 		   
-		},  
+		}, 
+{
+      "key": "🐮牛牛资源",
+      "name": "🐮牛牛资源",
+      "type": 0,
+      "api": "https://api.niuniuzy.me/api.php/provide/vod/from/nnm3u8/at/xml",
+      "playUrl": "https://jiexi.niuniuzy.org/m3u8/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },   
+ {
+      "key": "AIvin",
+      "name": "🟣AIvin",
+      "type": 1,
+      "api": "http://lbapiby.com/api.php/provide/vod/?ac=listat/json",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+ 	  {
+      "key": "虎资源",
+      "name": "虎资源",
+      "type": 1,
+      "api": "https://apisesehuzy.com/api.php/provide/vod/?ac=list",
+      "playUrl": "https://jx.jxsesehuzy.com/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      }, 
+{
+      "key": "优优资源网",
+      "name": "优优资源网",
+      "type": 1,
+      "api": "https://jk1.yycmszywapi.cc/api.php/provide/vod/at/json",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  {
+      "key": "仓库资源",
+      "name": "仓库资源",
+      "type": 1,
+      "api": "https://bbckzy8.cc/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+	  {
+      "key": "桃花资源采集网",
+      "name": "桃花资源网",
+      "type": 1,
+      "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+      "playUrl": "https://www.360jiexi.com/player/?url=",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+{
+            "key": "SeHuaTang",
+            "name": "磁力",
+            "type": 3,
+            "api": "csp_SeHuaTang",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "https://4723.kstore.space/lib/tokenm.json$$$null$$$proxy",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+{
+      "key": "php_webbaiwanziyuan",
+      "name": "百万传媒(T4)",
+      "type": 4,
+      "api": "https://json.doube.eu.org/app/index.php?site=webbaiwanziyuan",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.5
+      }
+    },
+{
+	"key": "php_liushoushaofu",
+	"name": "留守(T4)",
+	"type": 4,
+	"api": "https://json.doube.eu.org/app/index.php?site=liushoushaofu",
+	"searchable":1,
+	"quickSearch": 0,
+	"filterable": 0,
+	"style": {
+		"type": "rect",
+		"ratio": 1.33
+	}
+},
+{
+	"key": "py_liushoushaofu",
+	"name": "留守(T4_Py)",
+	"type": 4,
+	"api": "https://py.doube.eu.org/api?site=liushoushaofu",
+	"searchable": 1,
+	"quickSearch": 0,
+	"filterable": 0,
+	"style": {
+		"type": "rect",
+		"ratio": 1.33
+	}
+},
+{
+	"key": "AVTOP10",
+	"name": "AVTOP10",
+	"type": 3,
+	"api": "csp_XBPQ",
+                "jar": "https://cdn05042023.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/jar/xyqxbpq.jar",
+	"ext": {
+		"页面代理": "127.0.0.1:10172",
+		"主页url": "https://avtop10.com/",
+		"头部集合": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#authority$avtop10.com#referer$https://avtop10.com/",
+		"分类": "最新影片&热门影片&高清影片&日本AV&欧美AV&动漫AV&中文字幕AV&无码AV&偷拍自拍&制服诱惑&人妻熟女&巨乳美乳&制服诱惑&学生校园&SM调教&网络红人&3P群交&乱伦家庭&强奸迷奸&性爱技巧&自慰诱惑",
+		"分类值": "1&2&3&4&5&6&7&8&9&10&11&12&13&14&15&16&17&18&19&20&21",
+		"分类url": "https://avtop10.com/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+		"数组二次截取": "list\":[&&]",
+		"数组": "{&&}",
+		"图片": "vod_pic\"*\"&&\"",
+		"标题": "vod_name\"*\"&&\"",
+		"副标题": "vod_remarks\"*\"&&\"",
+		"链接": "https://avtop10.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+		"搜索url": "https://avtop10.com/api.php/provide/vod/?ac=detail&wd={wd}",
+		"搜索模式": "1",
+		"搜索二次截取": "list\":[&&]",
+		"搜索数组": "{&&}",
+		"搜索图片": "vod_pic\"*\"&&\"",
+		"搜索标题": "vod_name\"*\"&&\"",
+		"搜索副标题": "vod_remarks\"*\"&&\"",
+		"搜索链接": "https://avtop10.com/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+		"影片类型": "vod_class\"*\"&&\"",
+		"导演": "vod_director\"*\"&&\"",
+		"主演": "vod_actor\"*\"&&\"",
+		"简介": "vod_content\"*\"&&\"",
+		"线路二次截取": "\"list\":[&&]",
+		"线路数组": "\"vod_play_from\":&&,",
+		"线路标题": "\"&&\"",
+		"播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+		"播放二次截取": "",
+		"播放列表": "表&&表",
+		"播放标题": "题&&题",
+		"播放链接": "链&&链+?sku=OWY3ZDA4ZjVjYzY3YmRhYjM5NTUwYzEyZWRjNjUyZWM1NjQ2ZGRjYTVhMGVkM2Nh&p=1&sign=9a69d1563936ead3677623722660c4d9",
+		"播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://avtop10.com/#Cookie$PHPSESSID=t9a0fl2ngh4t175j3995v2669d",
+		"嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"
+	}
+},
+{
+            "key": "csp_XBPQ_疯猫",
+            "name": "疯猫〓BPQ",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://cdn05042023.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "ext": "分类url:https://o7b.fmav57.icu/fly/{cateId}B4_p{catePg}.html,数组:col-md-3 resent-grid recommended-grid&&</div></div></div>,标题:title\"&&</a >,播放数组:myList&&</ul>"
+            
+        },
+{
+	"key": "csp_XBPQ_404",
+	"name": "404〓BPQ",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"jar": "http://101.35.48.56/yydd/jar/Yoursmile.jar",
+	"ext": "直接播放:1,分类url:https://www.11404jp.icu/index.php/vod/type/id/{cateId}/page/{catePg}.html,数组:item&&</div></div></div>"
+
+},
+{
+	"key": "暑假快练",
+	"name": "暑假快练",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"jar": "https://cdn05042023.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/jar/xyqxbpq.jar",
+	"ext": {
+		"主页url": "http://aakhsck.cc",
+		"分类": "日韩AV$http://aakhsck.cc/vodtype/1.html#国产系列$http://aakhsck.cc/vodtype/2.html欧美$http://aakhsck.cc/vodtype/3.html#成人动漫$http://aakhsck.cc/vodtype/4.html#",
+		"分类url": "http://aakhsck.cc/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+	}
+},
+{
+	"key": "csp_xBPQ_404精品",
+	"name": "404精品T",
+	"type": 3,
+	"api": "csp_XBPQ",
+	"searchable": 1,
+	"quickSearch": 1,
+	"filterable": 1,
+	"jar": "https://cdn05042023.gitlink.org.cn/ninemui/newrechaBOX/raw/branch/main/jar/xyqxbpq.jar",
+	"ext": {
+		"站名": "404精品",
+		"主页url": "https://404jpz.xyz/",
+		"分类": "精品推荐$27#剧情原创$28#探花约啪$51#主播大秀$52#传媒影像$53#情色节目$59#P站精品$61#抖阴短视频$63#网曝门$70#AV解说$76#国产视频$29#网红主播$30#偷拍自拍$31#国产伦理$77#国产精品$75#日韩视频$1#中文字幕$33#名优写真$35#日本伦理$39#名优综艺$40#韩美眉主播$41#骑兵有码$43#无码专区$6#卡通动漫$8#欧美$34",
+		"数组": "<div class=\"content\">&&</div>",
+		"图片": "src=\"&&\"",
+		"标题": "title=\"&&\"",
+		"链接": "href=\"&&\"",
+		"副标题": "title=\"&&\"",
+		"分类url": "https://404jpz.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+		"直接播放": "1",
+		"免嗅": "1"
+	}
+},
+{
+    "key": "仓库",
+    "name": "仓库影院️ | 业余♻️",
+    "type": 3,
+    "style": {"type": "rect","ratio":1.33},
+    "api": "csp_XBPQ",
+    "ext": {
+    "站名": "仓库影视",
+    "主页url": "http://691hsck.cc",
+    "数组": "<div class=\"stui-vodlist__box\">&&</a",
+    "链接": "href=\"&&\"",
+    "图片": "data-original=\"&&\"",
+    "标题": "title=\"&&\"",
+    "副标题": "<span class=\"pic-text text-right\">&&</span>",
+    "分类url": "http://691hsck.cc/vodtype/{cateId}-{catePg}.html",
+    "分类": "国产系列$2#欧美系列$3#日韩系列$1#成人动漫$4"},
+    "jar": "https://gitee.com/juanxiao/bh/raw/master/o.jar"
+    },
+
 {
       "key": "一",
       "name": "一",
