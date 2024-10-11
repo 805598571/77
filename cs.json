@@ -4,7 +4,7 @@
 	"logo":"https://gitlab.com/kerkier/yhb/-/blob/main/lib/cs.jpeg",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🖌豆瓣┃索引",
+			"name": "🍓豆瓣┃索引",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
@@ -23,6 +23,57 @@
 {"key":"csp_TGYunPan","name":"雷蒙影视 | 💿电报搜索(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://tg.seczh.com/$$$alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000,Aliyun_4K_Movies|1000,quanziyuanshe|1000,tubeget|1000,hd1dnd|1000,XiangxiuNB|1000,hao115|1000,alyp_4K_Movies|1000,yunpanshare|1000$$$cfg$$$1"},
 {"key":"csp_TGYunPan18","name":"雷蒙影视 | 💿电报搜索18+(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://tg.seczh.com/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$cfg$$$1"},
 {"key":"csp_TGYunPan2","name":"雷蒙影视 | 💿电报云搜(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://tg.uu8.club/$$$alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4$$$cfg$$$1"},
+{
+	"key": "TGYunPan涩涩",
+	"name": "PGTG|群组涩涩",
+	"type": 3,
+	"api": "csp_TGYunPan",
+	"timeout": 60,
+	"ext": {
+		"token": "https://4723.kstore.space/lib/tokenm.json",
+		"json": "https://4723.kstore.space/lib/tgsearch.json",
+                                "keywords":"名称,片名,推荐",
+		"tgsearch_url": "http://tg.devopser.org",
+                                "tgsearch_media_url":"http://tg.devopser.org",
+		"channellist": "IPX_AV|1000,avab01,zyfx_0315,avgc5200|1000,cctav|1000,pikpakziyuan|1000,CosMM18,zyfx_0315,vn666hh,avpush,pikpakZYZ",
+		"proxy": "noproxy",
+		"danmu": true
+	}
+},
+{
+	"key": "TGYunPan磁力",
+	"name": "PGTG|磁力",
+	"type": 3,
+	"api": "csp_TGYunPan",
+	"timeout": 60,
+	"ext": {
+		"token": "https://4723.kstore.space/lib/tokenm.json",
+		"json": "https://4723.kstore.space/lib/tgsearch.json",
+                                "keywords":"名称,片名,推荐",
+		"tgsearch_url": "http://45.207.209.177:10199",
+                                "tgsearch_media_url":"http://45.207.209.177:10199",
+		"channellist": "IPX_AV|1000,avab01,zyfx_0315,avgc5200|1000,cctav|1000,pikpakziyuan|1000,CosMM18,zyfx_0315,vn666hh,avpush,pikpakZYZ",
+		"proxy": "noproxy",
+		"danmu": true
+	}
+},
+{
+	"key": "TGYunPanLocal涩涩",
+                "name": "PGTG|频道涩涩",
+	"type": 3,
+	"api": "csp_TGYunPanLocal",
+	"timeout": 60,
+	"ext": {
+		"token": "https://4723.kstore.space/lib/tokenm.json",
+		"json": "https://4723.kstore.space/lib/tgsearch.json",
+                                "keywords":"名称,片名,推荐",
+		"tgsearch_url": "http://tg.devopser.org",
+                                "tgsearch_media_url":"http://tg.devopser.org",
+		"channellist": "avab01,zyfx_0315,avgc5200,cctav,cilitu,pikpakziyuan,CosMM18,zyfx_0315,vn666hh,avpush,ppg1314,javdb91,ribenseyuge1,vn666hh,nemo2333,pikpakZYZ",
+		"proxy": "proxy",
+		"danmu": true
+	}
+},
 {
     "key": "csp_Live2Vod_1",
     "name": "💓┃网络💎电视┃",
