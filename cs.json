@@ -4,7 +4,7 @@
 	"logo":"https://gitlab.com/kerkier/yhb/-/blob/main/lib/cs.jpeg",
 	"sites": [{
 			"key": "豆豆",
-			"name": "🍓豆瓣┃索引",
+			"name": "💓豆瓣┃索引",
 			"type": 3,
 			"api": "csp_Douban",
 			"searchable": 0,
@@ -4785,6 +4785,54 @@
                 "分类标题": ".html\">&&</a[不包含:视频二#综艺娱乐]",
                 "分类ID": "href=\"/L/&&.html\"",
                 "分类url": "https://m.xian372.top/L/{cateId}_{catePg}.html[https://m.xian372.top/L/{cateId}.html]"
+            }
+        },
+{
+      "key": "爱丽丝",
+      "name": "🏆爱丽丝",
+      "type": 3,
+      "playerType": 2,
+      "changeable": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "api": "csp_XBPQ",
+     "jar":"https://ipv4wp.axzzz.top:9503/f/Bk2Sa/Xymz.jar",
+      "ext": {
+        "请求头": "手机",
+        "发布地址": "www.ailisi.xyz",
+        "主页url": "https://www.ailisi.buzz/",
+        "数组": "hl-list-item hl-col-xs-4 hl-col-sm-3 hl-col-md-20w hl-col-lg-2\"&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+        "副标题": "hl-lc-1 remarks\">&&</span>",
+        "线路数组": "hl-from-btn&&</a>",
+        "播放数组": "hl-plays-list&&</ul>",
+        "跳转播放链接": "urlDecode(var player*url\":\"&&\")",
+        "免嗅": "1",
+        "搜索url": "https://www.ailisi.buzz/index.php/vod/search/page/{pg}/wd/{wd}.html",
+        "分类url": "https://www.ailisi.buzz/index.php/vod/show/id/{cateId}/page/{catePg}.html",
+        "分类数组": "<li class=\"hl-menus-item\"&&</li>",
+        "分类标题": "<span>&&</span>",
+        "分类ID": "/index.php/vod/type/id/&&.html"
+      }
+    },
+{
+            "key": "千",
+            "name": "🏆最新课程",
+            "type": 3,
+            "api": "csp_XBPQ",
+           "jar":"https://gitee.com/xiongdada3695/jar/raw/main/zy.jar",
+            "ext": {
+                "站名": "222av.me",
+                "主页url": "http://041920.222av.me",
+                "首页": "最新课程",
+                "数组": "col-sm-6 col-md-4 col-lg-4&&<div class=\"video-added\">[不包含:88A8#东亚娱乐城]",
+                "链接": "href=\"&&\"",
+                "嗅探词": "http://m3u8.361lu.com/us.php?",
+                "分类url": "/videos/{cateId}?page={catePg};;z",
+                "分类": "全部&3D&素人&日本女优&自拍&金发洋物",
+                "分类值": "/&3d&amateur&japanese&selfie&western"
             }
         },
 {
