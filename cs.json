@@ -24,6 +24,27 @@
 {"key":"csp_TGYunPan18","name":"雷蒙影视 | 💿电报搜索18+(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://tg.seczh.com/$$$IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314$$$cfg$$$1"},
 {"key":"csp_TGYunPan2","name":"雷蒙影视 | 💿电报云搜(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://tg.uu8.club/$$$alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4$$$cfg$$$1"},
 {
+	"key": "TGYunPanQZSP",
+	"name": "PGTG|群组视频",
+	"type": 3,
+	"api": "csp_TGYunPan",
+	"timeout": 120,
+	"ext": {
+		"token": "https://4723.kstore.space/lib/tokenm.json",
+		"json": "./lib/tgsearch.a.json",
+		"keywords": "名称,片名,推荐",
+		"tgsearch_url": "http://45.207.209.177:10199",
+		"tgsearch_media_url": "http://45.207.209.177:10199",
+		"channellist": "Seeyellow,avwmjav,gtkankan1,fbi2me,tumblrAce,tongxingaihaozhe,ssfjh",
+		"proxy": "noproxy",
+		"danmu": true
+	},
+	"style": {
+		"type": "rect",
+		"ratio": 1.77
+	}
+},
+{
 	"key": "TGYunPan涩涩",
 	"name": "PGTG|群组涩涩",
 	"type": 3,
@@ -31,10 +52,10 @@
 	"timeout": 60,
 	"ext": {
 		"token": "https://4723.kstore.space/lib/tokenm.json",
-		"json": "https://4723.kstore.space/lib/tgsearch.json",
+		"json": "./lib/tgsearch.a.json",
                                 "keywords":"名称,片名,推荐",
-		"tgsearch_url": "http://tg.devopser.org",
-                                "tgsearch_media_url":"http://tg.devopser.org",
+		"tgsearch_url": "http://74.48.121.184:10199/",
+                                "tgsearch_media_url":"http://74.48.121.184:10199/",
 		"channellist": "IPX_AV|1000,avab01,zyfx_0315,avgc5200|1000,cctav|1000,pikpakziyuan|1000,CosMM18,zyfx_0315,vn666hh,avpush,pikpakZYZ",
 		"proxy": "noproxy",
 		"danmu": true
@@ -48,7 +69,7 @@
 	"timeout": 60,
 	"ext": {
 		"token": "https://4723.kstore.space/lib/tokenm.json",
-		"json": "https://4723.kstore.space/lib/tgsearch.json",
+		"json": "./lib/tgsearch.a.json",
                                 "keywords":"名称,片名,推荐",
 		"tgsearch_url": "http://45.207.209.177:10199",
                                 "tgsearch_media_url":"http://45.207.209.177:10199",
