@@ -60,17 +60,37 @@
     },
 
 {
-			"key": "hipy_js_4K-AV",
-			"name": "💯4K┃视频",
-			"type": 3,
-			"api": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_libs/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"order_num": 0,
-			"ext": "https://codeberg.org/ygbh/bh/raw/branch/master/drpy_js/4K-AV.js"
-		},
-
+    "key": "永恒_wcmb③",
+    "name": "💎领先影视💎",
+    "type": 3,
+    "api": "csp_WexNmys",
+    "jar": "https://gitee.com/zizuzile/yule/raw/master/YL/jar/%E8%AE%B4%E6%AD%8C.jar",
+    "searchable": 1,
+    "changeable": 1
+},
+{
+    "key": "永恒_bpzlm",
+    "name": "似水┃影视",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "jar": "https://gitee.com/zizuzile/yule/raw/master/YL/jar/XYQ.jar",
+    "ext": {
+        "副标题": "class=\"pic-text text-right\"&&</span>",
+        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+    }
+},
+{
+      "key": "csp_飞快",
+      "name": "飞快/影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://gitea.moe/ygbh/bhmb/raw/branch/main/bhtv.jar", 
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/abc99571875/yoyo/refs/heads/main/lib/飞快TV.json"
+    },
 
           {  "key": "追剧影视",
 	    "name": "💯追剧｜APP",       
@@ -85,9 +105,29 @@
 
 {"key":"腐剧视频","name":"😎腐剧┃影视","type":3,"api":"csp_WexFujutv","jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
 {"key": "HKA_emby", "name": "🍏 HKA┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",  "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://hka-emby.aliz.work:8097","username":"heqiao","password":"601417","thread": 0,"proxy":""},"changeable": 1},
-  
-
-
+  {
+            "key": "csp_dyds",
+            "name": "💯电影 | 大师",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitlink.org.cn/api/wxwb/bb/raw/jar/Hallelujah.jar?ref=master",
+            "ext": {
+                "副标题": "电影大师+module-item-text\">&&</div>",
+                "分类url": "https://dyds36.cyou/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$3#动漫$4#综艺$23"
+            }
+   },
+{
+			"key": "kimi",
+			"name": "💯全球┃影视优",
+			"type": 3,
+			"api": "csp_XBPQ",
+                        "jar":"https://gitea.moe/ygbh/bhmb/raw/branch/main/bhtv.jar",
+			"style": {
+				"ratio": 1.33
+			},
+			"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
+{"key":"csp_Bdys","name":"💯哔嘀丨影视","type":3,"api":"csp_Bdys","jar": "https://gitlink.org.cn/api/wxwb/bb/raw/jar/kx2024","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com"},
 {
             "key": "drjs_采集之王[合]",
             "name": "👺采集之王[合](DRPY)",
