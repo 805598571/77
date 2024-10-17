@@ -60,38 +60,49 @@
     },
 
 {
-    "key": "永恒_wcmb③",
-    "name": "💎领先影视💎",
-    "type": 3,
-    "api": "csp_WexNmys",
-    "jar": "https://gitee.com/zizuzile/yule/raw/master/YL/jar/%E8%AE%B4%E6%AD%8C.jar",
-    "searchable": 1,
-    "changeable": 1
-},
+            "key": "神马影视",
+            "name": "#⃣️神马┃高清┃多线",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://www.18ys.cc/vodshow/1-------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$30#纪录片$40"
+            }
+        },
 {
-    "key": "永恒_bpzlm",
-    "name": "似水┃影视",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gitee.com/zizuzile/yule/raw/master/YL/jar/XYQ.jar",
-    "ext": {
-        "副标题": "class=\"pic-text text-right\"&&</span>",
-        "分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
-        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
-    }
-},
-{
-      "key": "csp_飞快",
-      "name": "飞快/影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar":"https://gitea.moe/ygbh/bhmb/raw/branch/main/bhtv.jar", 
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://ghp.ci/https://raw.githubusercontent.com/abc99571875/yoyo/refs/heads/main/lib/飞快TV.json"
-    },
-
+            "key": "宝片影视",
+            "name": "🧿宝片┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",  
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
+            }
+        },
+        {
+            "key": "雨见视频",
+            "name": "🧿雨见┃蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "影片类型": "类型：&&</li>",
+                "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+                "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+                "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+            }
+        },
           {  "key": "追剧影视",
 	    "name": "💯追剧｜APP",       
             "type": 3,
@@ -127,7 +138,7 @@
 				"ratio": 1.33
 			},
 			"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
-{"key":"csp_Bdys","name":"💯哔嘀丨影视","type":3,"api":"csp_Bdys","jar": "https://gitlink.org.cn/api/wxwb/bb/raw/jar/kx2024","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.yjys02.com"},
+
 {
             "key": "drjs_采集之王[合]",
             "name": "👺采集之王[合](DRPY)",
