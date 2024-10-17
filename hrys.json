@@ -85,16 +85,7 @@
 
 {"key":"腐剧视频","name":"😎腐剧┃影视","type":3,"api":"csp_WexFujutv","jar": "https://gitee.com/juanxiao/bh/raw/master/o2.jar","searchable":1,"changeable":1},
 {"key": "HKA_emby", "name": "🍏 HKA┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",  "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://hka-emby.aliz.work:8097","username":"heqiao","password":"601417","thread": 0,"proxy":""},"changeable": 1},
-  {
-		"key": "csp_TvDy",
-		"name": "🎥｜电影天堂",
-		"type": 3,
-		"api": "csp_TvDy",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"jar": "https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
-	  },
+  
 
 {
 			"key": "kimi",
