@@ -58,7 +58,7 @@
       "playerType": 2,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
-{"key": "csp_XYQHiker_哔嘀影视","name":"💯哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker",    "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8", "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn05042023.gitlink.org.cn/ss1234ss/xyq/raw/branch/main/XYQHiker/哔嘀影视.json"},
+{"key": "csp_XYQHiker_哔嘀影视","name":"💯哔嘀影视(XYQH)","type":3,"api":"csp_XYQHiker",     "jar":"https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar", "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cdn05042023.gitlink.org.cn/ss1234ss/xyq/raw/branch/main/XYQHiker/哔嘀影视.json"},
 {
 			"key": "hipy_js_4K-AV",
 			"name": "💯4K┃视频",
