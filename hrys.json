@@ -87,15 +87,7 @@
 {"key": "HKA_emby", "name": "🍏 HKA┃Emby","type": 3, "api":"https://ghp.ci/https://raw.githubusercontent.com/jmheqiao/pg/main/lib/py_emby.py",  "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://hka-emby.aliz.work:8097","username":"heqiao","password":"601417","thread": 0,"proxy":""},"changeable": 1},
   
 
-{
-			"key": "kimi",
-			"name": "😎Kimi┃影视",
-			"type": 3,
-			"api": "csp_XBPQ",
-                        "jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar", 
-			"style": {
-				"ratio": 1.33
-			},
+
 {
             "key": "drjs_采集之王[合]",
             "name": "👺采集之王[合](DRPY)",
