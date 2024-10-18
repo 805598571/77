@@ -14,7 +14,7 @@
         "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
-{"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_Wogg","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727490810578/okjpg.txt;md5;d28e27519d5eda3d781f68f69bccb8ad","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt","cookie":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt","uc_cookie":"https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt","wogg":true},
+{"key":"玩偶","name":"👽玩偶┃4K","type":3,"api":"csp_Wogg","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727490810578/okjpg.txt;md5;d28e27519d5eda3d781f68f69bccb8ad","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","uc_cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt","wogg":true},
 "timeout":30},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -231,7 +231,7 @@
             "name": "🇱LIBVIO┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://cdn05042023.gitlink.org.cn/TVRule/TVBox/raw/branch/master.jar",
+            "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
             "ext": {
                 "分类url": "https://libvio.link/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
                 "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16"
@@ -341,9 +341,9 @@
       "filterable": 1,
       "changeable": 1,
       "ext": {
-          "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
-                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/uc.txt",
+          "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
         "danmu": true
       }
     },
@@ -367,9 +367,9 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                 "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
-                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/uc.txt",
+                 "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie":" https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
                 "wogg": true,
                 "danmu": true
             }
@@ -384,8 +384,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                  "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                  "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "https://yunpan.yunpay.cc",
                 "danmu": true
             }
@@ -401,9 +401,9 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                 "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
-                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/uc.txt",
+                 "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
                 "site": "https://woog.nxog.eu.org",
                 "danmu": true
             }
@@ -548,7 +548,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -562,7 +562,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -576,7 +576,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "https://www.misou.fun",
                 "danmu": true
             }
@@ -591,7 +591,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -606,8 +606,8 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "http://labipan.com",
                 "danmu": true
             }
@@ -622,9 +622,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
-                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/uc.txt",
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             }
@@ -639,9 +639,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
-                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/uc.txt",
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+              "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
                 "site": "https://vip.omii.top",
                 "danmu": true
             }
@@ -656,9 +656,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "hhttps://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
-                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/uc.txt",
+                   "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+              "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
                 "site": "https://4k.4u4.cn",
                 "danmu": true
             }
@@ -673,9 +673,9 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+                     "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+              "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
                 "site": "http://mogg.top",
                 "danmu": true
             }
@@ -690,8 +690,8 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                    "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+              "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -705,8 +705,8 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie":" https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                   "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+              "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -720,7 +720,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                "cookie": ""https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
