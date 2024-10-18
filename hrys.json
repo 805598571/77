@@ -651,7 +651,7 @@
             "name": "😎云星｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":     "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d", 
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",     
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -668,7 +668,7 @@
             "name": "😎木偶｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":   "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d", 
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",  
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -868,7 +868,7 @@
 		},
 
 
-		},
+		
        
 {
             "key": "360吧",
