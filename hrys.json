@@ -61,7 +61,7 @@
 
 {
             "key": "神马影视",
-            "name": "#⃣️神马┃高清┃多线",
+            "name": "💯神马┃高清┃多线",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
@@ -75,7 +75,7 @@
         },
 {
             "key": "宝片影视",
-            "name": "🧿宝片┃蓝光",
+            "name": "💯宝片┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",  
@@ -89,7 +89,7 @@
         },
         {
             "key": "雨见视频",
-            "name": "🧿雨见┃蓝光",
+            "name": "💯雨见┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
@@ -107,7 +107,7 @@
 	    "name": "💯追剧｜APP",       
             "type": 3,
             "api": "csp_AppZJ",
-            "jar":"https://cdn05042023.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar", 
+            "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -583,10 +583,10 @@
         },
         {
             "key": "夸搜弹幕",
-            "name": "💋夸搜｜弹幕",
+            "name": "夸搜｜弹幕",
             "type": 3,
             "api": "csp_Qkso",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",      
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",   
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -595,6 +595,7 @@
                 "danmu": true
             }
         },
+
 {
             "key": "夸克蜡笔弹幕",
 	    "name": "💋蜡笔｜4K弹幕",       
@@ -705,7 +706,7 @@
             "changeable": 1,
             "ext": {
                 "token": "https://git.acwing.com/805598571/666/-/raw/main/lib/token.txt",
-                "cookie": https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
+                "cookie":" https://git.acwing.com/805598571/666/-/raw/main/lib/quark.txt",
                 "danmu": true
             }
         },
