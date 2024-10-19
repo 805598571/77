@@ -424,7 +424,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
 		},
 		{
 			"key": "csp_QuarkShare",
@@ -441,7 +441,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
 		},
 		{
 			"key": "csp_UCShare",
@@ -458,7 +458,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/ucshare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/ucshare.txt"
 		},
 		{
 			"key": "csp_P115Share",
@@ -475,7 +475,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/115share.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/115share.txt"
 		},
 			
 		{
@@ -493,7 +493,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/thundershare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/thundershare.txt"
 		},
 {
 			"key": "Wogg",
@@ -506,7 +506,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.wogg.net/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.wogg.net/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"
 		},
 {
 			"key": "csp_Panta",
@@ -519,7 +519,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.91panta.cn/$$$null$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
 {
       "key": "TgYunPan|服务器",
@@ -552,12 +552,12 @@
                 "danmu": true
             }
         },
-        {
+         {
             "key": "夸克盘搜弹幕",
-            "name": "💋夸克盘搜｜弹幕",
+            "name": "💓夸克盘搜｜弹幕",
             "type": 3,
-            "api": "csp_Qkpanso",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",      
+            "api": "csp_Qkpanso", 
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
@@ -583,7 +583,7 @@
         },
         {
             "key": "夸搜弹幕",
-            "name": "夸搜｜弹幕",
+            "name": "💋夸搜｜弹幕",
             "type": 3,
             "api": "csp_Qkso",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;5373bfbbb0b009366ffcc5cf6b4ead5d",   
@@ -775,7 +775,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,		
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/4khdr.json$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/4khdr.json$$$1"
 		},
     {
       "key": "Youtube",
@@ -851,7 +851,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$guub123$$$aa123456"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json$$$guub123$$$aa123456"
 		},
 {
 			"key": "csp_MiaoSou",
@@ -864,7 +864,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 
 
