@@ -533,7 +533,7 @@
       "ext": {
         "siteUrl": "http://tgsou.seczh.com/",
       "channelUsername": "alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
+        "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"
       }
     },
 {"key":"纸条搜","name":"📜小纸条","type":3,"api":"csp_XiaoZhiTiao","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
@@ -720,7 +720,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": ""https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
