@@ -16,8 +16,7 @@
     },
  {
             "key": "配置中心",
-            "name":"😎PizazzGY
-潇洒"配置｜中心",
+            "name":"😎潇洒"配置｜中心",😎
             "type": 3,
             "api": "csp_Config",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
@@ -29,6 +28,7 @@
                 "ratio": 1.597
             }
         },
+           
 {"key":"配置中心","name":"👨‍🍳ok‍配置┃中心","type":3,"api":"csp_Config", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"玩偶弹幕版","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_Wogg", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","uc_cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc_cookie.txt","wogg":true,"danmu":true},
 "timeout":30},
@@ -1394,13 +1394,12 @@
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🙀OK手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","danmu":true},
-"timeout":5}
+"timeout":5},
 {"key":"push_agent","name":"🙀手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
  {
             "key": "push_agent",
-            "name": "🙀PizazzGY
-潇洒手机｜推送",
-            "type": 3,
+            "name": "潇洒手机｜推送", 
+            "type": 3,  
             "api": "csp_Push",
             "searchable": 0,
             "filterable": 0,
@@ -1412,6 +1411,7 @@
                 "danmu": true
             }
         },
+        
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 ],
 "parses": [
