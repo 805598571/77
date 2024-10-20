@@ -16,7 +16,7 @@
     },
  {
             "key": "配置中心",
-            "name":"😎潇洒"配置｜中心",
+            "name":"😎潇洒配置｜中心",
             "type": 3,
             "api": "csp_Config",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
