@@ -4,7 +4,7 @@
 "sites":[
 {
       "key": "ConfigCenter",
-      "name": "😎配置中心",
+      "name": "😎真心配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
       "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
@@ -14,6 +14,22 @@
         "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
+ {
+            "key": "配置中心",
+            "name":😎PizazzGY
+潇洒"配置｜中心",
+            "type": 3,
+            "api": "csp_Config",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
+            "searchable": 0,
+            "changeable": 0,
+            "indexs": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.597
+            }
+        },
+{"key":"配置中心","name":"👨‍🍳ok‍配置┃中心","type":3,"api":"csp_Config", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"玩偶弹幕版","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_Wogg", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","uc_cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc_cookie.txt","wogg":true,"danmu":true},
 "timeout":30},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
@@ -356,7 +372,8 @@
     },
 {"key":"drjs_农民影视","name":"雷蒙优选 | 😎农民Ⅰ","type":3,"api":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/js/农民影视.js"},
 {"key":"drjs_农民影视2","name":"雷蒙优选 | 😎农民Ⅱ","type":3,"api":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://cdn05042023.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/js/农民影视2.js"},
- {
+{"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;A120B9AF416B85741323D6CC401F5358","searchable":1,"quickSearch":1,"filterable":1},
+  {
             "key": "nodejs_wogg",
             "name": "😎玩偶哥哥|T4",
             "type": 4,
@@ -405,9 +422,169 @@
             },
             "api": "http://211.149.154.162:8080/spider/share/3"
         },
- {
+        {
+            "key": "drpy_js_厂长资源",
+            "name": "😎厂长资源|JS",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/libs/drpy/drpy2.min.js🙀",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/js/drpy/影视/厂长资源.js"
+        },
+        {
+            "key": "drpy_js_哔嘀影视",
+            "name": "😎哔嘀影视|JS",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/libs/drpy/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/js/drpy/影视/哔嘀影视.js"
+        },
+        {
+            "key": "drpy_js_低端影视",
+            "name": "😎低端影视|JS",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/libs/drpy/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/js/drpy/影视/低端影视.js"
+        },
+        {
+            "key": "hipy_4K剧院",
+            "name": "😎高质剧院|JS",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/libs/drpy/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/js/drpy/影视/4K剧院.js"
+        },
+        {
+            "key": "nodejs_iqiyi",
+            "name": "😎奇艺视频|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/iqiyi/3"
+        },
+        {
+            "key": "nodejs_youku",
+            "name": "😎优酷视频|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/youku/3"
+        },
+        {
+            "key": "nodejs_qq",
+            "name": "😎腾讯视频|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/qq/3"
+        },
+        {
+            "key": "nodejs_mgtv",
+            "name": "😎芒果视频|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/mgtv/3"
+        },
+        {
+            "key": "nodejs_bilibili",
+            "name": "😎哔哩哔哩|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "ext": "mpd",
+            "api": "http://211.149.154.162:8080/spider/bilibili/3"
+        },
+        {
+            "key": "nodejs_kan360",
+            "name": "😎三路零源|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/kan360/3"
+        },
+        {
+            "key": "nodejs_libo",
+            "name": "😎立播资源|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/libo/3"
+        },
+        {
+            "key": "nodejs_nmys",
+            "name": "😎农民影视|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/nmys/3"
+        },
+        {
+            "key": "nodejs_zxzj",
+            "name": "😎在线之家|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/zxzj/3"
+        },
+        {
+            "key": "nodejs_funletu",
+            "name": "😎趣盘资源|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/funletu/3"
+        },
+        {
+            "key": "nodejs_star2",
+            "name": "😎星剧社源|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/star2/3"
+        },
+        {
+            "key": "nodejs_yingso",
+            "name": "😎影搜资源|T4",
+            "type": 4,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "api": "http://211.149.154.162:8080/spider/yingso/3"
+        },
+        {
+            "key": "nodejs_iptv",
+            "name": "😎电视直播|T4",
+            "type": 4,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "api": "http://211.149.154.162:8080/spider/iptv/3"
+        },
+        {
             "key": "nodejs_guaguale115",
-            "name": "😎TG|115刮刮乐源|T4",
+            "name": "TG😎|115刮刮乐源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -416,7 +593,7 @@
         },
         {
             "key": "nodejs_oneonefivewpfx",
-            "name": "😎TG|115网盘收藏|T4",
+            "name": "TG😎|115网盘收藏|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -425,7 +602,7 @@
         },
         {
             "key": "nodejs_hao115",
-            "name": "😎TG|115网盘好源|T4",
+            "name": "TG😎|115网盘好源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -434,7 +611,7 @@
         },
         {
             "key": "nodejs_shareAliyun",
-            "name": "😎TG|分享阿里资源|T4",
+            "name": "TG😎|分享阿里资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -443,7 +620,7 @@
         },
         {
             "key": "nodejs_dianyingshare",
-            "name": "😎TG|阿里电影分享|T4",
+            "name": "TG😎|阿里电影分享|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -452,7 +629,7 @@
         },
         {
             "key": "nodejs_qixingzhenren",
-            "name": "😎TG|阿里资源发布|T4",
+            "name": "TG😎|阿里资源发布|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -461,7 +638,7 @@
         },
         {
             "key": "nodejs_kuakeyun",
-            "name": "😎TG|夸克云盘资源|T4",
+            "name": "TG😎|夸克云盘资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -470,7 +647,7 @@
         },
         {
             "key": "nodejs_Quark_Share_Channel",
-            "name": "😎TG|夸克分享频道|T4",
+            "name": "TG😎|夸克分享频道|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -479,7 +656,7 @@
         },
         {
             "key": "nodejs_yunpanshare",
-            "name": "😎TG|夸克云盘分享|T4",
+            "name": "TG😎|夸克云盘分享|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -488,7 +665,7 @@
         },
         {
             "key": "nodejs_Alicloud_ali",
-            "name": "😎TG|阿里云盘资源|T4",
+            "name": "TG😎|阿里云盘资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -497,7 +674,7 @@
         },
         {
             "key": "nodejs_aliyun4kdy",
-            "name": "😎TG|阿里高清资源|T4",
+            "name": "TG😎|阿里高清资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -506,7 +683,7 @@
         },
         {
             "key": "nodejs_yunpanpan",
-            "name": "😎TG|云盘盘资源集|T4",
+            "name": "TG😎|云盘盘资源集|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -515,7 +692,7 @@
         },
         {
             "key": "nodejs_alyp_4K_Movies",
-            "name": "😎TG|网盘电影资源|T4",
+            "name": "TG😎|网盘电影资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -524,7 +701,7 @@
         },
         {
             "key": "nodejs_alyp_TV",
-            "name": "😎TG|网盘视剧资源|T4",
+            "name": "TG😎|网盘视剧资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -533,7 +710,7 @@
         },
         {
             "key": "nodejs_Lossless_Yinyue",
-            "name": "😎TG|网盘音乐资源|T4",
+            "name": "TG😎|网盘音乐资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -542,7 +719,7 @@
         },
         {
             "key": "nodejs_alyp_Animation",
-            "name": "😎TG|网盘动漫资源|T4",
+            "name": "TG😎|网盘动漫资源|T4",
             "type": 4,
             "searchable": 1,
             "quickSearch": 1,
@@ -576,12 +753,23 @@
             "changeable": 0,
             "api": "http://211.149.154.162:8080/spider/xunleibl/3"
         },
+        {
+            "key": "push_agent",
+            "name": "😎内容推送",
+            "type": 4,
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "api": "http://211.149.154.162:8080/spider/push/4"
+        } ,
+  
 {
             "key": "玩偶弹幕",
             "name": "💋玩偶哥哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -593,12 +781,46 @@
                 "danmu": true
             }
         },
+ {
+            "key": "玩偶备用弹幕",
+            "name": "😎玩偶备用｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wogg",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "uc_cookie":" https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
+                "site": "https://wogg.xxooo.cf",
+                "danmu": true
+            }
+        },
+
+ {
+            "key": "夸克多多弹幕",
+            "name": "😎多多｜4K弹幕",
+            "type": 3,
+            "api": "csp_Wobg",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",   
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                 "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "site": "https://tv.yydsys.top",
+                "danmu": true
+            }
+        },
 {
             "key": "夸克土豆弹幕",
             "name": "💋土豆｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",   
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",   
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -761,7 +983,7 @@
             "name": "💋爱盘搜｜弹幕",
             "type": 3,
             "api": "csp_AiPanSou",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -776,7 +998,7 @@
             "name": "💓夸克盘搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso", 
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
@@ -790,7 +1012,7 @@
             "name": "💋米搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -805,7 +1027,7 @@
             "name": "💋夸搜｜弹幕",
             "type": 3,
             "api": "csp_Qkso",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",   
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",   
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
@@ -820,7 +1042,7 @@
 	    "name": "💋蜡笔｜4K弹幕",       
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -853,7 +1075,7 @@
             "name": "😎奥秘｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",    
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",    
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -870,7 +1092,7 @@
             "name": "😎云星｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",     
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",     
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -887,7 +1109,7 @@
             "name": "😎木偶｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -904,7 +1126,7 @@
             "name": "😎团长｜4K弹幕",
             "type": 3,
             "api": "csp_Tzfile",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
@@ -1086,7 +1308,24 @@
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"
 		},
 
-
+{"key":"纸条","name":"🗞ok纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","danmu":true},
+"timeout":15},
+{"key":"盘Se","name":"🙀ok盘Se┃搜索","type":3,"api":"csp_PanSearch","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","danmu":true},
+"timeout":15},
+{"key":"易搜","name":"😹ok易搜┃搜索","type":3,"api":"csp_YiSo","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","danmu":true},
+"timeout":15},
+{"key":"csp_QuPanSou","name":"🤓ok趣盘搜┃搜索","type":3,"api":"csp_QuPanSou","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
+"timeout":15},
+{"key":"csp_Qkpanso","name":"🐚ok夸克盘搜┃搜索","type":3,"api":"csp_Qkpanso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
+"timeout":15},
+{"key":"米搜","name":"🌖ok米搜┃搜索","type":3,"api":"csp_Qkpanso","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true,"site":"https://www.misou.fun"},
+"timeout":15},
+{"key":"夸搜","name":"🚢ok夸搜┃搜索","type":3,"api":"csp_Qkso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
+"timeout":15},
+{"key":"云盘4K","name":"🤖ok云盘4K┃搜索","type":3,"api":"csp_Yunpan4k","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
+"timeout":15},
+{"key":"影搜","name":"🌸ok影搜┃搜索","type":3,"api":"csp_Yingso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
+"timeout":15},
 		
        
 {
@@ -1154,8 +1393,25 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
+{"key":"push_agent","name":"OK手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","danmu":true},
+"timeout":5}
 {"key":"push_agent","name":"🙀手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-
+ {
+            "key": "push_agent",
+            "name": "🙀PizazzGY
+潇洒手机｜推送",
+            "type": 3,
+            "api": "csp_Push",
+            "searchable": 0,
+            "filterable": 0,
+            "changeable": 0,
+            "ext": {
+                "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+                "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+                "uc_cookie": "http://127.0.0.1:9978/file/TVBox/uc.txt",
+                "danmu": true
+            }
+        },
 {"key":"cc","name":"请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 ],
 "parses": [
