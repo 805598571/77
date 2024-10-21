@@ -11,7 +11,7 @@
       "searchable": 0,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
+        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
  {
@@ -74,7 +74,7 @@
       "playerType": 2,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
-{"key":"csp_TGYunPanLocal","name":"💯TG搜索(SP)","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":{"token":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json","json":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPanLocal","name":"💯TG搜索(SP)","type":3,"api":"csp_TGYunPanLocal","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;a22807b8a5bb0c020c996889493ed4a2", "timeout":60,"ext":{"token":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json","json":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe","proxy":"cfg","danmu":true}},
 {"key":"木耳","name":"😎木耳┃影视","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },
 {"key":"drpy_js_348电影网","name":"😎影视|348电影网[js]","type":3,"api":"https://cdn09022024.gitlink.org.cn/aosta/yy/raw/branch/master/drpy.min.js","ext":"https://cdn09022024.gitlink.org.cn/aosta/yy/raw/branch/master/348dyw.js"},
 {"key":"drpy_js_人人影视","name":"😎影视|人人影视[js]","type":3,"api":"https://cdn09022024.gitlink.org.cn/aosta/yy/raw/branch/master/drpy.min.js","ext":"https://cdn09022024.gitlink.org.cn/aosta/yy/raw/branch/master/rrys.js"},
@@ -252,16 +252,6 @@
       "ext": "https://gitee.com/yimu-yiguan/liu-yunxiao/raw/master/js/%E6%90%9C%E7%8B%97%E8%A7%86%E9%A2%91.js"
     },
 {
-  "key": "csp_SP2345",
-  "name": "😎2345影视",
-  "type": 3, 
-  "api": "csp_SP2345",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
-},
-{
             "key": "1905影视",
             "name": "💖分享1905",
             "type": 3,
@@ -269,8 +259,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar"
+            "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/jar/分享者.zip"
         },
+{
+  "key": "csp_SP2345",
+  "name": "🔱2345影视",
+  "type": 3, 
+  "api": "csp_SP2345",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "jar":"https://gitee.com/fragrance-in-chu/mys/raw/master/Fx.txt"
+},
 {
             "key": "LIBVIO",
             "name": "🇱LIBVIO┃影视",
