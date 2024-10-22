@@ -19,7 +19,7 @@
             "name":"😎潇洒配置｜中心",
             "type": 3,
             "api": "csp_Config",
-            "jar": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
+            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3", 
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -218,7 +218,7 @@
             "ext": "https://cdn09022024.gitlink.org.cn/ninemui/PizazzGYBOX/raw/branch/main/JS/小虎斑弹幕.js"
         },
  {"key": "ygys","name": "一个┃影视","type": 3,"api": "csp_Pptv"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://yigeg.pro","jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
-  {"key": "Hhys","name": "黑狐┃影视","type": 3,"api": "csp_XBPQ"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
+  {"key": "Hhys","name": "黑狐┃影视","type": 3,"api": "csp_XBPQ"       ,"jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
 
 {
 			"key": "kimi",
@@ -1065,7 +1065,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
+                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -1151,7 +1151,7 @@
             "name": "😎奥秘｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",    
+            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",    
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1168,7 +1168,7 @@
             "name": "😎云星｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",     
+            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",     
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1185,7 +1185,7 @@
             "name": "😎木偶｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
+            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;a81afc9c6a39cbd3de57dd8fca9031e3",  
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -1396,7 +1396,7 @@
 "timeout":15},
 {"key":"米搜","name":"😎ok米搜┃搜索","type":3,"api":"csp_Qkpanso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt","danmu":true,"site":"https://www.misou.fun"},
 "timeout":15},
-{"key":"夸搜","name":"😎ok夸搜┃搜索","type":3,"api":"csp_Qkso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",","danmu":true},
+{"key":"夸搜","name":"😎ok夸搜┃搜索","type":3,"api":"csp_Qkso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt","danmu":true},
 "timeout":15},
 {"key":"云盘4K","name":"😎ok云盘4K┃搜索","type":3,"api":"csp_Yunpan4k","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1728884086876/okpng.txt;md5;e1e1574c192695b40d75beb59d235e24","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt","danmu":true},
 "timeout":15},
