@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729189985714/fan.txt;md5;ce37642e140a829d57496a32d8fcc648",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1729628389538/fan.txt;md5;dc29a25f7393c2c3aa9187a57f708309",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -217,8 +217,17 @@
             "api": "https://cdn09022024.gitlink.org.cn/ninemui/PizazzGYBOX/raw/branch/main/JS/drpy2.min.js",
             "ext": "https://cdn09022024.gitlink.org.cn/ninemui/PizazzGYBOX/raw/branch/main/JS/小虎斑弹幕.js"
         },
- {"key": "ygys","name": "一个┃影视","type": 3,"api": "csp_Pptv"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://yigeg.pro","jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
-  {"key": "Hhys","name": "黑狐┃影视","type": 3,"api": "csp_XBPQ"       ,"jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"},
+ {"key": "ygys","name": "🅱一个┃影视","type": 3,"api": "csp_Pptv"       ,"searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"ext": "https://yigeg.pro","jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"},
+ {
+      "key": "影视仓",
+      "name": "🅱影视家秒播",
+      "type": 3,
+      "api": "csp_AppMr",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
+    },
 
 {
 			"key": "kimi",
@@ -849,7 +858,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": {
+            "ext": { 
                   "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
@@ -1414,6 +1423,7 @@
             },
             "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/JS/360吧.js"
         },
+{"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
   {"key": "qmty","name": "🏆🏆🏀JRK ┃体育","type": 3,"api": "MJS_qmty"       ,"searchable": 0,"quickSearch": 0,"changeable": 0,"ext": "http://www.meowtv.cn/js/meow.php?file=jrkq","api": "http://www.meowtv.cn/js/drpy2.min.js"},
 {"key":"csp_xp_yoozhibo","name":"🏆🏆🏀赛事(HD)","type":3,"api":"csp_XPathFilter",   "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
 {"key":"csp_xp_ddkanqiu","name":"🏆🏆🏀低调(HD)","type":3,"api":"csp_XPathMacFilter",  "searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
