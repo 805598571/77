@@ -75,12 +75,75 @@
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
 {"key":"csp_Xdai_乐观_QJ","name":"雷蒙影视 | 🛰乐观(SP)","type":3,"api":"csp_Xdai",    "jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1023.jar;md5;71941201AC2C8C4C8277680B0BB88D56","playerType":1,"ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"},
-		{"key":"南瓜弹幕","name":"✨南瓜┃弹幕","type":3,"api":"csp_Nangua",    "jar":"https://cdn09022024.gitlink.org.cn/ss1234ss/pro/raw/branch/main/pg/bhtv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"厂长弹幕","name":"✨厂长┃弹幕","type":3,"api":"csp_Czzy",    "jar":"https://cdn09022024.gitlink.org.cn/ss1234ss/pro/raw/branch/main/pg/bhtv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"天天弹幕","name":"✨天天┃弹幕","type":3,"api": "csp_TianTian",    "jar":"https://cdn09022024.gitlink.org.cn/ss1234ss/pro/raw/branch/main/pg/bhtv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-
-{"key":"机器人弹幕","name":"✨机机┃弹幕","type":3,"api":"csp_Ikanbot",    "jar":"https://cdn09022024.gitlink.org.cn/ss1234ss/pro/raw/branch/main/pg/bhtv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"danmu":true}},
-{"key":"哔嘀弹幕","name":"✨哔嘀┃弹幕","type":3,"api":"csp_Bdys",    "jar":"https://cdn09022024.gitlink.org.cn/ss1234ss/pro/raw/branch/main/pg/bhtv.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.yjys05.com","danmu":true}},
+	{
+  "key":"南瓜弹幕",
+  "name":"💘南瓜弹幕",
+  "type":3,
+  "api":"csp_Nangua",
+  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{
+  "key":"厂长弹幕",
+  "name":"💡厂长弹幕",
+  "type":3,
+  "api":"csp_Czzy",
+  "jar":"https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{
+  "key":"天天弹幕",
+  "name":"💘天天弹幕",
+  "type":3,
+  "api": "csp_TianTian",
+  "jar": "https://xn--ps4-mf3g9f.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{
+  "key": "天天弹幕",
+  "name": "⛅️天天蓝光弹幕",
+  "type": 3,
+  "api": "csp_TianTian",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/danmu.php",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": {
+           "danmu": true
+         }
+},
+{
+            "key": "电影牛",
+            "name": "电影牛",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://8049.kstore.space/tv/JSON/电影牛.json",
+            "jar": "https://8049.kstore.space/tv/JAR/spider_4.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
+        },
+{
+  "key":"机器人弹幕",
+  "name":"💘机机弹幕",
+  "type":3,
+  "api":"csp_Ikanbot",
+  "jar": "https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610",
+  "searchable":1,
+  "quickSearch":1,
+  "filterable":1,
+  "ext":{"danmu":true}
+},
+{"key":"哔嘀弹幕","name":"✨哔嘀┃弹幕","type":3,"api":"csp_Bdys",    "jar": "https://xn--0ih-mf3g9f.v.nxog.top/m/jar.php?id=dm&ou=公众号欧歌app;md5;b85ef5b7adadb054eeee553c54662610","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.yjys05.com","danmu":true}},
 {
             "key": "Movies",
             "name": "🔥 Movies┃Web",
@@ -105,7 +168,37 @@
             "filterable": 1,
             "jar": "https://ghp.ci/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/Yoursmile.jar;md5;6A090957BA13E25AC84C8AB6A87F6F22"
         },
-
+{
+  "key": "js_毒蛇",
+  "name": "🐍毒蛇影视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/ttkx.jar",	
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "http://kxrj.site:55/lib/毒蛇电影[优].js"
+},			  
+{
+  "key": "蚂蚁资源",
+  "name": "🏅橙子蚂蚁",
+  "type": 1,
+  "api": "http://dsakf23665.com/api.php/provide/vod/from/NBY",
+  "searchable": 1,
+  "changeable": 1,
+  "playUrl": "json:http://121.62.61.51:6888//api//?key=qMdg1EDXPe9NH3bG0z&url="
+},
+{
+  "key": "hipy_js_即看影视",
+  "name": "🏅即看影视",
+  "type": 3,
+  "api": "http://47.99.102.252/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://47.99.102.252/drpy_js/即看影视.js"
+},
 {"key":"csp_TGYunPanLocal","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TGYunPanLocal", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar", "timeout":60,"ext":{"token":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/pg.json","json":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe","proxy":"cfg","danmu":true}},
 {"key":"dr_网飞猫[优]","name":"🎯网飞猫[优][JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/js/网飞猫[优].js"},
 {"key":"木耳","name":"😎木耳┃影视","type":1,"api":"https://json02.heimuer.xyz/api.php/provide/vod","searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36"} },
