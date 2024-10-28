@@ -155,6 +155,7 @@
             "ext": "https://8049.kstore.space/tv/JSON/电影牛.json",
             "jar": "https://8049.kstore.space/tv/JAR/spider_4.jar;md5;cdcfe91718e8ab472857bdf8d3febb95"
         },
+{"key": "超级","name": "🐌┃超级┃影视","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/XBPQ.jar","ext": {"分类url":"https://cjvip.free.hr/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类": "http://cjvip.free.hr/api.php/provide/vod/?ac=list" }},
 {
   "key":"机器人弹幕",
   "name":"💘机机弹幕",
@@ -699,7 +700,7 @@
         "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
         "timeout": 30,
         "changeable": 0,
-        "阿里token": ""
+        "阿里token": "https://jihulab.com/zjx3514824/kkk/-/raw/main/token/%E7%8E%A9%E5%81%B6.txt"
       }
     },
     {
@@ -716,7 +717,7 @@
         "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
         "timeout": 30,
         "changeable": 0,
-        "阿里token": ""
+        "阿里token": "https://jihulab.com/zjx3514824/kkk/-/raw/main/token/%E7%8E%A9%E5%81%B6.txt"
       }
     },
     {
@@ -737,9 +738,44 @@
         "登录": "https://zhaoziyuan.me/logiu.html;post;username=***&password=***",
         "timeout": 30,
         "changeable": 0,
-        "阿里token": ""
+        "阿里token": "https://jihulab.com/zjx3514824/kkk/-/raw/main/token/%E7%8E%A9%E5%81%B6.txt"
       }
     },
+{
+            "key": "腾讯弹幕",
+            "name": "腾讯｜弹幕",
+            "type": 3,
+            "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
+            "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/腾讯弹幕.js"
+        },
+        {
+            "key": "优酷弹幕",
+            "name": "优酷｜弹幕",
+            "type": 3,
+            "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
+            "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/优酷弹幕.js"
+        },
+{
+            "key": "剧圈圈",
+            "name": "剧圈圈｜影视",
+            "type": 3,
+            "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
+            "ext": https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/剧圈圈.js"
+        },
+        {
+            "key": "追剧迷",
+            "name": "追剧迷｜影视",
+            "type": 3,
+            "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
+            "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/追剧迷.js"
+        },
+        {
+            "key": "看了么",
+            "name": "看了么｜影视",
+            "type": 3,
+            "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
+            "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/看了么.js"
+        },
  {
       "key": "FREE1OK",
       "name": "️️👌┃Fre┃影视",
@@ -2118,7 +2154,93 @@
     },
 {"name":"📦天招4k会员2","type": 1,"url":"http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
 
-
+{
+            "name": "推荐",
+            "type": 1,
+            "url": "https://jxjson.icu/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+    {
+      "name": "小米无敌",
+      "type": 1,
+      "url": "https://cdn.suxun.site/api/?key=7QeqS18ZCrJgj0BSOn&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
+    {
+      "name": "小米无敌2",
+      "type": 1,
+      "url": "http://117.50.183.202:8036/?ip=111.55.12.236&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
 
 
 
