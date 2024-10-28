@@ -7,6 +7,7 @@
 		     "name":"✒️豆瓣┃TG",
 		     "type":3,
 		     "api":"csp_TGDouban",
+                     "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;2a4a338e435b5719eacd6eaa4caa286c",
 		     "timeout":120, 
 		     "changeable": 2,
 			 "ext":{
@@ -97,7 +98,7 @@
       "playerType": 2,
       "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
-{"key":"csp_Xdai_乐观_QJ","name":"雷蒙影视 | 🛰乐观(SP)","type":3,"api":"csp_Xdai",    "jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1023.jar;md5;71941201AC2C8C4C8277680B0BB88D56","playerType":1,"ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"},
+{"key":"csp_Xdai_乐观_QJ","name":"雷蒙影视 |🔱乐观(SP)","type":3,"api":"csp_Xdai",    "jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1023.jar;md5;71941201AC2C8C4C8277680B0BB88D56","playerType":1,"ext":"caHR0cDovLzExMS4xODAuMTk4LjQwOjExMTB8NTU5MmViZWNmY2U3ODFiMXw1NTkyZWJlY2ZjZTc4MWIx"},
 	{
   "key":"南瓜弹幕",
   "name":"💘南瓜弹幕",
@@ -722,7 +723,7 @@
     },
     {
       "key": "csp_search_Panda_找资源",
-      "name": "☠┃资源┃网盘",
+      "name": "🔱┃资源┃网盘",
       "type": 3,
       "api": "csp_Panda",
       "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
@@ -743,35 +744,35 @@
     },
 {
             "key": "腾讯弹幕",
-            "name": "腾讯｜弹幕",
+            "name": "🔱腾讯｜弹幕",
             "type": 3,
             "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
             "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/腾讯弹幕.js"
         },
         {
             "key": "优酷弹幕",
-            "name": "优酷｜弹幕",
+            "name": "🔱优酷｜弹幕",
             "type": 3,
             "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
             "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/优酷弹幕.js"
         },
 {
             "key": "剧圈圈",
-            "name": "剧圈圈｜影视",
+            "name": "🔱剧圈圈｜影视",
             "type": 3,
             "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
-            "ext":" https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/剧圈圈.js"
+            "ext":"https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/剧圈圈.js"
         },
         {
             "key": "追剧迷",
-            "name": "追剧迷｜影视",
+            "name": "🔱追剧迷｜影视",
             "type": 3,
             "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
             "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/追剧迷.js"
         },
         {
             "key": "看了么",
-            "name": "看了么｜影视",
+            "name": "🔱看了么｜影视",
             "type": 3,
             "api": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/drpy2.min.js",
             "ext": "https://cdn09022024.gitlink.org.cn/ss1234ss/TPizazzGY/raw/branch/main/影视/JS/看了么.js"
