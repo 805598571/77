@@ -17,7 +17,7 @@
 				   "tgsearch_media_url":"http://tg.fish2018.us.kg",
 				   "channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
 				   "proxy":"noproxy",
-				   "douban":"./lib/douban.json",
+				   "douban":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/douban.json",
 				   "danmu":true
 			      },
 			 "style": {
@@ -560,7 +560,7 @@
 {"key":"Libvio","name":"💋LIBVIO|网盘","type":3,"api":"csp_Libvio","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;a80166fe6a55ffc2e426f0c17802196d","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.libvio.pro$$$null"},
 {
             "key": "影视工厂",
-            "name": "💋工厂┃蓝光",
+            "name": "😎工厂┃蓝光",
             "type": 3,
             "api": "csp_XBPQ",
             "jar":"https://ghp.ci/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/XBPQ.jar",               
@@ -576,7 +576,7 @@
 {"key":"csp_TianTian","name":"💋天天","type":3,"api":"csp_TianTian","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;617611F9DAC66CA5F191779F0F249D0F","searchable":1,"quickSearch":1,"filterable":1},
 {
       "key": "柠檬",
-      "name": "💋柠檬┃秒播",
+      "name": "😎柠檬┃秒播",
       "type": 3,
       "api": "csp_Nmvod",
       "playerType": 1,
@@ -611,7 +611,7 @@
 {"key":"农民","name":"👩‍🌾农民","type":3,"api":"csp_Nongm","jar": "https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;A120B9AF416B85741323D6CC401F5358","searchable":1,"quickSearch":1,"filterable":1},
 {
             "key": "鬼片之家",
-            "name": "🧛鬼片┃影视",
+            "name": "😎鬼片┃影视",
             "type": 3,
             "api": "csp_XBPQ",
             "style": {
@@ -689,6 +689,7 @@
       "name": " 😎┃盘搜┃网盘",
       "type": 3,
       "api": "csp_Panda",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
       "ext": {
         "数组": "flex flex-col items-start&&</div></div><div",
         "标题": "名称：&&描述：",
@@ -706,6 +707,7 @@
       "name": " 😎┃盘搜┃网盘2",
       "type": 3,
       "api": "csp_Panda",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb", 
       "ext": {
         "标题": "<span*>&&</div>",
         "副标题": "时间:&&格式",
@@ -722,6 +724,7 @@
       "name": "☠┃资源┃网盘",
       "type": 3,
       "api": "csp_Panda",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
       "ext": {
         "数组": "news_text&&</li>",
         "标题": "<h3>&&</h3>",
@@ -736,6 +739,29 @@
         "changeable": 0,
         "阿里token": ""
       }
+    },
+ {
+      "key": "FREE1OK",
+      "name": "️️👌┃Fre┃影视",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/js/通用api数据.js",
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/js/freeok.js"
+    },
+ {
+      "key": "爱看影视",
+      "name": "❤┃爱看┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/js/通用api数据.js",
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/js/爱看配置.js"
+    },
+ {
+      "key": "影探",
+      "name": " 🕵┃影探┃影视",
+      "type": 3,
+      "api": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/js/通用api数据.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
    {"key":"csp_XYQHiker_农民影视","name":"🧑🏻‍农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liu4331126/liu4331126/raw/master/XYQHiker/农民影视.json","jar":"https://gitee.com/liu4331126/liu4331126/raw/master/jar/custom_spider.jar"},
   {
