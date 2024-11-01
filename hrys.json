@@ -2012,7 +2012,7 @@
 			"name": "😎秒搜┃云搜",
 			"type": 3,
 			"api": "csp_MiaoSou",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;e7b47b967cd09571e7121c1c80fe9918", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e7b47b967cd09571e7121c1c80fe9918", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
