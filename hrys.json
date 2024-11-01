@@ -126,18 +126,7 @@
     },
 {"key": "白嫖者","name": "💎白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 	"分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},
-{
-      "key": "凡人影视",
-      "name": "🦸‍♂️┃凡人┃APP💯",
-      "type": 3,
-      "api": "csp_AppFr",
-      "jar": "https://download.kstore.space/download/4645/jar/dan.txt",
-      "quickSearch":1,
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "timeout":25
-    },
+
 {"key": "xbpq_白嫖者联盟","name": "💎白嫖联盟","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B","filterable": 1,"changeable": 1,"ext": {"主页url": "https://www.qyzf88.com/",
 	"标题": "itle=\"&&\"","副标题": "class=\"pic-text text-right\">&&</span>","图片": "data-original=\"&&\"","简介": "剧情介绍：&&</div",
 	"搜索url": "https://www.qyzf88.com/qyvodsearch/-------------.html?wd={wd}&submit=","分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
@@ -414,7 +403,7 @@
 			"key": "hipy_js_橙汁影视",
 			"name": "🔱橙汁影视(drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "http://www.uuneed.cn/smy/dzhipy/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -513,7 +502,7 @@
 			"key": "hipy_js_蛋蛋赞",
 			"name": "🔱蛋蛋赞(drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "http://www.uuneed.cn/smy/dzhipy/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -535,7 +524,7 @@
 			"key": "hipy_js_电影天堂",
 			"name": "🔱电影天堂(drpy_t3)",
 			"type": 3,
-			"api": "./drpy_libs/drpy2.min.js",
+			"api": "http://www.uuneed.cn/smy/dzhipy/raw/main/drpy_libs/drpy2.min.js",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -1402,13 +1391,7 @@
   "api":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/libs/drpy.min.js",
   "ext":"https://cdn.jsdelivr.net/gh/yxcqr/DZDRPY@main/js/朴樱影视.js"
 },
-{
-  "key": "drpy_js_朴樱影视",
-  "name":"🌸朴樱影视",
-  "type": 3,
-  "api": "https://gitee.com/stanlyshi/roas/raw/master/lib/drpy2.min.js",
-  "ext": "https://gitee.com/stanlyshi/roas/raw/master/js/%E6%9C%B4%E6%A8%B1%E5%BD%B1%E8%A7%86.js"
-},
+
 
         {
             "key": "drpy_js_厂长资源",
