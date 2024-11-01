@@ -2611,16 +2611,7 @@
 				}
 			}
 		},
-		{
-			"name": "官解1",
-			"type": 0,
-			"url": "https://jx.xmflv.cc/?url=",
-			"ext": {
-				"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "sohu", "搜狐", "letv", "乐视", "mgtv", "芒果", "imgo", "rx", "ltnb", "bilibili", "1905", "xigua"]
-			}
-		}
-
-	},
+		
 
 {"name":"📦天招BN蓝光","type": 1,"url":"http://43.248.128.138:1111/home/api?type=ys&uid=3085188&key=egioqrtxzABORUW269&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//BNNB　　新感觉
 
