@@ -1011,7 +1011,7 @@
     },
 
 {
-            "key": "drjs_360影视[官]",
+            "key": "😎drjs_360影视[官]",
             "name": "👺360影视[官](DRPY)",
             "type": 3,
             "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
@@ -1880,7 +1880,7 @@
       "name": "😎星剧社",
       "type": 3,
       "api": "csp_Star2",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8", 
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -1893,7 +1893,7 @@
       "name": "😎易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8",      
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",  
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -1907,7 +1907,7 @@
       "name": "😎盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8",  
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -1932,7 +1932,7 @@
       "name": "😎Youtube",
       "type": 3,
       "api": "csp_Youtube",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8",     
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "changeable": 1,
       "style": {
@@ -1950,7 +1950,7 @@
       "name": "😎网盘集合|4K",
       "type": 3,
       "api": "csp_网盘集合",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8", 
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -1964,7 +1964,7 @@
       "name": "😎玩偶gg",
       "type": 3,
       "api": "csp_Wogg",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8",  
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -1973,13 +1973,27 @@
         "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
       }
     },
-    
+    {
+      "key": "玩偶 | 木偶",
+      "name": "😎玩偶 | 木偶",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json",
+        "siteUrl": "http://mogg.xn--yetu07f.top/",
+        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
+      }
+    },
+
    {
       "key": "玩偶 | 蜡笔",
       "name": "😎玩偶 | 蜡笔",
       "type": 3,
       "api": "csp_kongbai",
-      "jar":"https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;44a214d4f00c738bb4c5d2b8d45da7c8", 
+      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "changeable": 0,
       "ext": {
