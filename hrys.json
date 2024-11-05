@@ -157,8 +157,8 @@
 {"key":"追剧","name":"💯追剧","type":3,"api":"csp_AppZJ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"洽洽","name":"💯洽洽","type":3,"api":"csp_AppGZ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/pg.jar","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"csp_AlistShare","name":"雷蒙影视 | 💿网盘分享合集(SP)","type":3,"api":"csp_AlistShare","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/pg.jar","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$null$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;aa4d99163a068a15ed57be05cca88518","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"csp_AlistShare","name":"雷蒙影视 | 💿网盘分享合集(SP)","type":3,"api":"csp_AlistShare", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;aa4d99163a068a15ed57be05cca88518","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$null$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿电报搜索1(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://tgsou.seczh.com/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿电报搜索2(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://47.240.62.83:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan3","name":"雷蒙影视 | 💿电报搜索3(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://45.207.209.177:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
@@ -1986,24 +1986,7 @@
 			"timeout": 60,		
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/4khdr.json$$$1"
 		},
-    {
-      "key": "Youtube",
-      "name": "😎Youtube",
-      "type": 3,
-      "api": "csp_Youtube",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 1.433
-      },
-      "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
-        "json": "https://cdn05042023.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json",
-        "cookie": ""
-      }
-    },
+   
     {
       "key": "网盘集合",
       "name": "😎网盘集合|4K",
@@ -2014,7 +1997,7 @@
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fpeizhi.json?ref=master",
+        "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/网盘集合.json",
         "share": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"
       }
     },
@@ -2029,7 +2012,7 @@
       "ext": {
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
+        "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
     },
     {
@@ -2043,7 +2026,7 @@
       "ext": {
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json",
         "siteUrl": "http://mogg.xn--yetu07f.top/",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
+        "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
     },
 
@@ -2058,7 +2041,7 @@
       "ext": {
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json",
         "siteUrl": "http://labipan.com/",
-        "filter": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fwogg.json?ref=master"
+        "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
     },
 
