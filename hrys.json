@@ -64,6 +64,58 @@
           "api": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/js/zb.js",
           "ext": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/tv/zb.json"
 },
+{ "key": "好趣网",
+  "name": "🔱小橙子电视",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy_libs/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 87,
+  "ext": "http://kxrj.site:55/lib/好趣网.js"
+},	  
+{
+  "key": "lf_live10_min",
+  "name": "🔱可欣电视",
+  "type": 3,
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 1,
+  "changeable": 1,
+  "api": "http://kxrj.site:55/lib/lf_live10_min-output.js",	
+  "ext": "http://kxrj.site:55/lib/lf_live.json"
+},
+{
+  "key": "直播转点播",
+  "name": "🔱电视直播",
+  "type": 3,
+  "api": "https://xn--dkw0c.v.nxog.top/m//js/live.js",
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "https://xn--dkw0c.v.nxog.top/m//json/live.php?ou=公众号欧歌APP"
+},
+{
+  "key": "直播转点播",
+  "name": "🔱IPV6电视直播",
+  "type": 3,
+  "api": "http://我不是.摸鱼儿.com/api/moyulive.js",
+  "searchable": 0,
+  "quickSearch": 1,
+  "filterable": 0,
+  "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
+},	  	  
+{
+  "key": "hipy_js_KTV歌厅[听]",
+  "name": "🔱KTV歌厅",
+  "type": 3,
+  "api": "http://kxrj.site:55/lib/drpy2.min.js",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "order_num": 0,
+  "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
+},
 
 
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B","searchable":1,"quickSearch":1,"filterable":1},
@@ -105,6 +157,13 @@
 {"key":"追剧","name":"💯追剧","type":3,"api":"csp_AppZJ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"洽洽","name":"💯洽洽","type":3,"api":"csp_AppGZ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/pg.jar","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"csp_AlistShare","name":"雷蒙影视 | 💿网盘分享合集(SP)","type":3,"api":"csp_AlistShare","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/pg.jar","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$null$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿电报搜索1(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://tgsou.seczh.com/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿电报搜索2(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://47.240.62.83:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan3","name":"雷蒙影视 | 💿电报搜索3(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://45.207.209.177:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan4","name":"雷蒙影视 | 💿电报搜索4(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://107.172.201.182:9999/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan5","name":"雷蒙影视 | 💿电报搜索5(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://tgsou.uu8.pro","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
  {
       "key": "hipy_js_4K-AV",
       "name": "💎4K-AV(drpy_t3)",
@@ -1011,8 +1070,8 @@
     },
 
 {
-            "key": "😎drjs_360影视[官]",
-            "name": "👺360影视[官](DRPY)",
+            "key": "drjs_360影视[官]",
+            "name": "😎360影视[官](DRPY)",
             "type": 3,
             "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/360影视[官].js"
@@ -1053,7 +1112,7 @@
       "api": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/dr_py/main/js/菜狗.js"
     },
-{"key":"1905","name":"1905","type":3,"api":"csp_Web1905","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"1905","name":"😎1905","type":3,"api":"csp_Web1905","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":0},
 {
             "key": "1905影视",
             "name": "💖分享1905",
