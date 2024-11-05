@@ -215,56 +215,21 @@
 {"key":"csp_XBPQ_短剧窩","name":"👀短剧窩[XBPQ]","type": 3,"api":"csp_XBPQ","ext": {"请求头":"User-Agent$MOBILE_UA","分类url":"https://www.djwo.cc/type/{cateId}-{catePg}/","图片":"data-original=\"&&\"","图片代理": "1","数组":"<li class=\"col-4 col-md-3 col-lg-2\"&&</li>","线路标题":"<h3>&&</h3>","播放数组":"<li class=\"col-4 col-sm-3 col-md-2 px-2 mb-3&&</ul>","分类":"短劇$1"},"jar":"https://www.fish2018.us.kg/p/lib/XBPQ.jar"},
 {"key":"csp_XBPQ_吉吉","name":"👀吉吉[XBPQ]","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url":"https://www.jjduanju.com/sort/{cateId}/page/{catePg}.html","分类":"短劇$1#電視劇$2"},"jar":"https://www.fish2018.us.kg/p/lib/XBPQ.jar"},
 {"key":"csp_XBPQ_爽网","name":"👀爽网[XBPQ]","type": 3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"分类url":"https://www.duanju001.com/show/duanju-{area}-{by}------{catePg}---{year}.html","分类":"短剧首页$1#短剧列表$2#排行榜$3#","分类值":"duanju&","副标题":"<div class=\"v-item-bottom\">&&</div>","嗅探词":"m3u8#.m3u8#.mp4#mp4#/obj/","导演":"导演:&&</div>","主演":"主演:&&</div>","简介":"<p>&&</p>"},"jar":"https://www.fish2018.us.kg/p/lib/XBPQ.jar"}, 
-	  {
-  "key": "drpy_js_时光影视",
-  "name": "影视 | 时光影视[js]",
-  "type": 3,
-  "api": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
-  "ext": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/时光影视.js"
-},
+
 {
   "key": "drpy_js_思古影视",
-  "name": "影视 | 思古影视",
+  "name": "👨‍🍳影视 | 思古影视",
   "type": 3,
   "api": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
   "ext": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/思古影视.js"
 },
-{
-  "key": "drpy_js_私人影院",
-  "name": "影视 | 私人影院[js]",
-  "type": 3,
-  "api": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
-  "ext": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/私人影院.js"
-},
-{
-  "key": "drpy_js_素白白",
-  "name": "影视 | 素白白[js]",
-  "type": 3,
-  "api": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
-  "ext": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/素白白.js"
-},
-{
-  "key": "drpy_js_网飞.TV",
-  "name": "影视 | 网飞.TV[js]",
-  "type": 3,
-  "api": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
-  "ext": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/网飞.TV.js"
-},
-
-{
-  "key": "drpy_js_蜥蜴影视",
-  "name": "影视 | 蜥蜴影视[js]",
-  "type": 3,
-  "api": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
-  "ext": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/蜥蜴影视.js"
-},
-{
-  "key": "drpy_js_小狗影院",
-  "name": "影视 | 小狗影院[js]",
-  "type": 3,
-  "api": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/drpy2.min.js",
-  "ext": "https://ghp.ci/https://raw.githubusercontent.com/qilegeguai/ysc/main/lib/小狗影院.js"
-},
+{"key":"hipy_js_七新影视","name":"👨‍🍳七新影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/七新电影网.js"},
+{"key":"hipy_js_八号影视","name":"👨‍🍳八号影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/8号影院.js"},
+{"key":"hipy_js_天龙影视","name":"👨‍🍳天龙影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/天龙影院.js"},
+{"key":"hipy_js_夕云影视","name":"📽夕云影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/夕云影视.js"},
+{"key":"hipy_js_星辰影视","name":"📽星辰影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/星辰影视.js"},
+{"key":"hipy_js_西瓜影视","name":"📽西瓜影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/西瓜影院.js"},
+{"key":"hipy_js_子子影视","name":"📽子子影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/子子影视.js"},
 
 {
             "key": "drjs_功夫熊猫",
@@ -2546,7 +2511,9 @@
       }
     },
 {"name":"📦天招4k会员2","type": 1,"url":"http://122.228.85.203:7979/api/?key=056d526356cfa3ae271f432464e02cfe&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
-
+{"name":"🔯STK解析","type":1,"url":"http://112.74.124.75:8899/jiexi/api.php?url=","ext":{"flag":["ST4K"]}},
+{"name":"🍃解析₁","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
+{"name":"🍃解析₂","type":0,"url":"https://www.8090g.cn/jiexi/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"}}},
 {
             "name": "推荐",
             "type": 1,
