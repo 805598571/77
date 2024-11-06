@@ -158,25 +158,52 @@
 {"key":"洽洽","name":"💯洽洽","type":3,"api":"csp_AppGZ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
-            "key": "csp_PushShare_PG",
-            "name": "💿雷蒙网盘影集",
+            "key": "Tg阿里云盘",
+            "name": "😎Tg阿里云盘",
             "type": 3,
-            "api": "csp_PushShare",
+            "api": "csp_TgYunPan",
             "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
             "filterable": 0,
-            "timeout": 60,
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/lemshare.txt$$$db$$$1",
-            "style": {
-                "type": "list",
-                "ratio": 1.1
+            "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://144.126.217.226:8000",
+
+                "channelUsername": "https://t.me/Aliyundrive_Share_Channel",
+                "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"
             }
-        },
+        }, {
+            "key": "Tg夸克云盘",
+            "name": "😎Tg夸克云盘",
+            "type": 3,
+            "api": "csp_TgYunPan",
+            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+            "searchable": 1,
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://144.126.217.226:8000",
+                "channelUsername": "https://t.me/Quark_Share_Channel",
+                "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"
+            }
+        }, {
+            "key": "Tg115云盘",
+            "name": "😎Tg115云盘",
+            "type": 3,
+            "api": "csp_TgYunPan",
+            "searchable": 1,
+            "jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b31a7c05f0f8d92cc0e637148f81067f",
+            "filterable": 0,
+            "switchable": 0,
+            "ext": {
+                "siteUrl": "http://144.126.217.226 :8000",
+                "channelUsername": "https://t.me/https://t.me/guaguale115",
+                "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"
+            }
+        }, 
 {
             "key": "抖音小姐姐",
-            "name": "T4|抖音小姐姐",
+            "name": "😎T4|抖音小姐姐",
             "type": 4,
             "api": "http://120.53.102.254/xjj",
             "searchable": 0,
@@ -185,7 +212,7 @@
         },
 {
             "key": "双子(SP)",
-            "name": "双子(SP)",
+            "name": "😎双子(SP)",
             "type": 3,
             "api": "csp_AppSk",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/gggwang/gggdeng/master/双子.json",
