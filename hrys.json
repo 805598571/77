@@ -157,15 +157,64 @@
 {"key":"追剧","name":"💯追剧","type":3,"api":"csp_AppZJ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"洽洽","name":"💯洽洽","type":3,"api":"csp_AppGZ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
-
-
-{"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b31a7c05f0f8d92cc0e637148f81067f","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"csp_AlistShare","name":"雷蒙影视 | 💿网盘分享合集(SP)","type":3,"api":"csp_AlistShare", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b31a7c05f0f8d92cc0e637148f81067f","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$null$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
+{
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/pg.jar",
+            "key": "csp_PushShare_PG",
+            "name": "💿雷蒙网盘影集",
+            "type": 3,
+            "api": "csp_PushShare",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pg.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/lemshare.txt$$$db$$$1",
+            "style": {
+                "type": "list",
+                "ratio": 1.1
+            }
+        },
+{
+            "key": "抖音小姐姐",
+            "name": "T4|抖音小姐姐",
+            "type": 4,
+            "api": "http://120.53.102.254/xjj",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 1
+        },
+{
+            "key": "双子(SP)",
+            "name": "双子(SP)",
+            "type": 3,
+            "api": "csp_AppSk",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/gggwang/gggdeng/master/双子.json",
+            "playerType": 1,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/gggwang/gggdeng/master/JAR/fanhua.jar"
+        },
 {"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿电报搜索1(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://tgsou.seczh.com/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿电报搜索2(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://47.240.62.83:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan3","name":"雷蒙影视 | 💿电报搜索3(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://45.207.209.177:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan4","name":"雷蒙影视 | 💿电报搜索4(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://107.172.201.182:9999/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan5","name":"雷蒙影视 | 💿电报搜索5(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://tgsou.uu8.pro","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{
+            "key": "drjs_爱看2",
+            "name": "👹爱看2",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot2.js"
+        },
+        {
+            "key": "drjs_爱看3",
+            "name": "👹爱看3",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot3.js"
+        },
+
  {
       "key": "hipy_js_4K-AV",
       "name": "💎4K-AV(drpy_t3)",
@@ -230,7 +279,22 @@
 {"key":"hipy_js_星辰影视","name":"📽星辰影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/星辰影视.js"},
 {"key":"hipy_js_西瓜影视","name":"📽西瓜影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/西瓜影院.js"},
 {"key":"hipy_js_子子影视","name":"📽子子影视","type":3,"api":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_libs/drpy2.min.js","order_num":0,"ext":"https://cdn09022024.gitlink.org.cn/jpdc/ystv/raw/branch/master/drpy_js/子子影视.js"},
-
+{"key":"csp_Xdai_思源_QJ","name":"雷蒙影视 | 🌊思源(SP)","type":3,"api":"csp_Xdai", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="},
+{"key":"csp_Xdai_客星_QJ","name":"雷蒙影视 | ⭐客星(SP)","type":3,"api":"csp_Xdai", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="},
+{"key":"csp_qiao3_人人_QJ","name":"雷蒙影视 | 👨‍👩‍👧‍👦人人(SP)","type":3,"api":"csp_qiao3", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"caHR0cDovL3d3dy5jdXBmb3gxLmNjOjk5OTl8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0"},
+{"key":"csp_qiao3_雨滴_QJ","name":"雷蒙影视 | 💧雨滴(SP)","type":3,"api":"csp_qiao3", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"},
+{"key":"csp_qiao3_优质_QJ","name":"雷蒙影视 | 🌈优质(SP)","type":3,"api":"csp_qiao3", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"},
+{"key":"csp_Frong_木叶_QJ","name":"雷蒙影视 | 🍃木叶(SP)","type":3,"api":"csp_Frong", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
+{"key":"csp_Frong_繁荣_QJ","name":"雷蒙影视 | 🌳繁荣(SP)","type":3,"api":"csp_Frong", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="},
+{"key":"csp_Slys_QJ","name":"雷蒙影视 | ☄雷电(SP)","type":3,"api":"csp_Slys", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
+{"key":"csp_Nmvod_QJ","name":"雷蒙影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
+{"key":"csp_AI1_QJ","name":"雷蒙影视 | ️💻AI1(SP)","type":3,"api":"csp_AI", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="},
+{"key":"csp_AI2_QJ","name":"雷蒙影视 | ️💻AI2(SP)","type":3,"api":"csp_AI", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp"},
+{"key":"csp_AI3_QJ","name":"雷蒙影视 | ️💻AI3(SP)","type":3,"api":"csp_AppYsV2", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="},
+{"key":"csp_Mayiys_QJ","name":"雷蒙影视 | 🐜蚂蚁(SP)","type":3,"api":"csp_Mayiys", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"jaHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L21heWkudHh0"},
+{"key":"csp_Lib_QJ","name":"雷蒙影视 | 🌂Libvio(SP)","type":3,"api":"csp_Lib", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="},
+{"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀(SP)","type":3,"api":"csp_Bdys01", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_ShiLiuDY_QJ","name":"雷蒙影视 | 🍇石榴(SP)","api":"csp_ShiLiuDY", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
 {
             "key": "drjs_功夫熊猫",
             "name": "👺功夫熊猫(DRPY)",
