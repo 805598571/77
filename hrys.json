@@ -192,20 +192,16 @@
 {"key":"csp_TgYunPan4","name":"雷蒙影视 | 💿电报搜索4(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://107.172.201.182:9999/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan5","name":"雷蒙影视 | 💿电报搜索5(SP)","type":3,"api":"csp_TgYunPan","jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://tgsou.uu8.pro","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {
-            "key": "drjs_爱看2",
-            "name": "👹爱看2",
-            "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot2.js"
-        },
-        {
-            "key": "drjs_爱看3",
-            "name": "👹爱看3",
-            "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot3.js"
-        },
-
+      "key": "csp_xpath_yinfans", 
+      "name": "💥音范丝💥", 
+      "type": 3, 
+      "api": "csp_XPath", 
+      "searchable": 0, 
+      "quickSearch": 0, 
+      "filterable": 1, 
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/音范丝.json",
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/0606.jar"
+    },
  {
       "key": "hipy_js_4K-AV",
       "name": "💎4K-AV(drpy_t3)",
@@ -1629,218 +1625,264 @@
             "order_num": 0,
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/js/drpy/影视/4K剧院.js"
         },
-  {
-            "key": "荐片弹幕",
-            "name": "😎荐片｜弹幕",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7", 
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "danmu": true
-            }
-        },
-        {
-            "key": "哔嘀弹幕",
-            "name": "😎哔嘀｜弹幕",
-            "type": 3,
-            "api": "csp_Bdys",
-            "jar":  "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",  
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": {
-                "site": "https://www.yjys05.com",
-                "danmu": true
-            }
-        },
-        {
-            "key": "荐片",
-            "name": "😎荐片｜磁力",
-            "type": 3,
-            "api": "csp_Jianpian",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",  
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "New6v",
-            "name": "😎New6V｜磁力",
-            "type": 3,
-            "api": "csp_New6v",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7", 
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://www.xb6v.com"
-        },
-        {
-            "key": "SeedHub",
-            "name": "😎SeedHub｜磁力",
-            "type": 3,
-            "api": "csp_SeedHub",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7", 
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "音范丝",
-            "name": "😎音范丝｜磁力",
-            "type": 3,
-            "api": "csp_XPath",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7", 
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/XPath/音范丝.json"
-        },
-        {
-            "key": "磁力熊",
-            "name": "😎磁力熊｜磁力",
-            "type": 3,
-            "api": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/JS/drpy2.min.js",
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/JS/磁力熊.js"
-        },
-        {
-            "key": "美剧迷",
-            "name": "😎美剧迷｜磁力",
-            "type": 3,
-            "api": "csp_MeijuMi",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",           
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "迅雷吧",
-            "name": "😎迅雷吧｜磁力",
-            "type": 3,
-            "api": "csp_Xunlei8",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",       
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "电影港",
-            "name": "😎电影港｜磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar":  "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",               
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/XYQHiker/电影港.json"
-        },
-        {
-            "key": "小白网",
-            "name": "😎小白网｜磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",             
-            "playerType": 1,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/XBPQ/小白网.json"
-        },
-        {
-            "key": "布谷TV",
-            "name": "😎布谷TV｜磁力",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar":  "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",      
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/XBPQ/布谷TV.json"
-        },
-        {
-            "key": "BT天堂",
-            "name": "😎BT天堂｜磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar":   "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7", 
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/XYQHiker/BT天堂.json"
-        },
-        {
-            "key": "Mp4电影",
-            "name": "😎Mp4电影｜磁力",
-            "type": 3,
-            "api": "csp_Mp4Mov",
-            "jar": "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7", 
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "高清MP4",
-            "name": "😎高清MP4｜磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar":   "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",    
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/XYQHiker/高清MP4.json"
-        },
-        {
-            "key": "哔嘀影视",
-            "name": "😎哔嘀影视｜磁力",
-            "type": 3,
-            "api": "csp_XYQHiker",
-            "jar":  "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",      
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://github.ednovas.xyz/https://github.com/PizazzGY/TVBox_warehouse/blob/main/磁力/XYQHiker/哔嘀影视.json"
-        },
-        {
-            "key": "酷吧电影",
-            "name": "😎酷吧电影｜磁力",
-            "type": 3,
-            "jar":             "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",  
-            "api": "csp_KubaCL",
-            "searchable": 1,
-            "quickSearch": 1, 
-            "filterable": 1
-        },
-        {
-            "key": "美剧天堂",
-            "name": "😎美剧天堂｜磁力",
-            "type": 3,
-            "api": "csp_MeijuTT",
-            "jar":           "https://github.ednovas.xyz/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{
-            "key": "玩偶弹幕",
-            "name": "😎玩偶哥哥｜4K弹幕",
-            "type": 3,
-            "api": "csp_Wogg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": { 
-                  "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
-                "wogg": true,
-                "danmu": true
-            }
-        },
+ {
+      "key": "csp_SixV",
+      "name": "🧲磁力🧲",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://www.6vdy.org/",
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/candymuj.jar;md5;64690215b0987464819e01f94be0251c"
+    },
+    {
+      "key": "csp_Xunlei8",
+      "name": "💾迅雷吧♉",
+      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ncdjaj.jar;md5;694a5575722bb086b6fde7a23a68a1d8",
+      "type":3,
+      "api": "csp_Xunlei8",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"csp_XYQHikerdyx",
+      "name": "💾电影港♉",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://nctv.top/tv/sub/电影港.json",
+      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ncdjaj.jar;md5;694a5575722bb086b6fde7a23a68a1d8"
+    },
+    {
+    "key": "短剧",
+    "name": "🎨网络短剧🎨",
+    "type": 3,
+    "api": "csp_Duanju",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/fm1214.jar;md5;430c09fd9d279d1b5d1fdebbae7e1d67"
+    },
+    {
+      "key": "新闻时事",
+      "name": "📰新闻时事📰",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E6%97%B6%E4%BA%8B%E6%96%B0%E9%97%BB.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },     
+    {
+      "key": "美食",
+      "name": "🥗老潘美食🥗",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%90%BE%E7%88%B1%E7%BE%8E%E9%A3%9F.json",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0;md5;226db2fc833312b73b0bf57c7dd41484"    
+    },
+    {
+      "key": "解说",
+      "name": "🎬影视解说🎬",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%BD%B1%E8%A7%86%E8%A7%A3%E8%AF%B4.json?sign=ZgoiPxJXGAXlWnLNErDJweGcfKoXnVdlm0hIlJvCTac%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key":"教程",
+      "name":"👨‍🏫老潘教程👨‍🏫",
+      "type": 3,"api":"csp_Bili",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/软件教程.json",
+      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/yydf.jar"
+    },
+    {
+      "key":"游戏",
+      "name":"🎮老潘游戏🕹",
+      "type": 3,"api":"csp_Bili",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/游戏.json",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key":"旅游",
+      "name":"🏕老潘旅游🏖",
+      "type": 3,"api":"csp_Bili",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/旅游.json",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "体育",
+      "name": "🏂体育🏂",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B2.m3u?sign=-GBwQ-3ksdyk3lX7c7JOuLvMaBRX95zIL9PUjPPImsM%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "NBA",
+      "name": "🏀NBA资讯🏀",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/nba.json?sign=AkRYax82jb9Bb2zmsQtjBG1T6-kL5_K7k3zBWkfl-NI%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    }, 
+    {
+      "key": "足球",
+      "name": "⚽足球短讯⚽",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E7%90%83%E6%98%9F-%E5%93%94%E5%93%A90721.json?sign=VMaEC4RO2aBcskY1fgOuhEtfG88uQpiwN1DyjYZGPiE%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "球类",
+      "name": "⚽⚾🏀🏐🏈",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%90%BE%E7%88%B1%E4%BD%93%E8%82%B20811.m3u?sign=7_RiK9ou54Do_u6kRgkj3f2VN76-Cd2Zq9865eNXI2Q%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "棋牌",
+      "name": "🎲棋牌🎲",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "pwd": "50905d7b2216bfeccb5b41016357176b",
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%90%BE%E7%88%B1%E6%A3%8B%E7%89%8C0806.m3u?sign=O6sXUxVC6QET_CvmtKwy18VlNi9GTyHWVNo91buKMbc%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "舞蹈",
+      "name": "💃舞蹈💃",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%90%BE%E7%88%B1%E8%88%9E%E8%B9%88.json?sign=E9PR-_2s_wEokfhY9mh8NMGPnf7iwyItONSu421JwpM%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "歌舞",
+      "name": "👯印度歌舞👯",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%8D%B0%E5%BA%A6%E6%AD%8C%E8%88%9E.json?sign=objRswLsG5JDNbAai3-2iJ8lf4yb0CjV3aqE1fD9_5g%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "乐器",
+      "name": "🎻乐器🎻",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E5%90%BE%E7%88%B1%E4%B9%90%E5%99%A8.json?sign=z4Y7NjVCJaL5btPsV1J6EUBINaJ79WGmTzh_mjJlM-A%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "演唱会自定义",
+      "name": "🎤演唱会🎤",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/%E6%BC%94%E5%94%B1%E4%BC%9A-%E5%93%94%E5%93%A90723.json?sign=DDKIY_ztUCVB6BpF3yqKBbzoE6z7HLEIopBIM2f5y0M%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "csp_XYQHiker_酷奇MV",
+      "name":"🎻酷奇MV🎻",
+      "type":3,
+      "api":"csp_XYQHiker",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":1,
+      "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/酷奇MV.json",
+      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/t1_spider.jar;md5;316660b0adb299c1dc63587579a3522e"
+    },
+    {
+      "key": "MV",
+      "name": "🎞MV🎞",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/hero1898/DSZB/-/raw/main/json/MTV-%E5%93%94%E5%93%A90723.json?sign=MssMqfKTRURsrikq-zkJpo5eDMCplQp6nH7JbFESra8%3D%3A0",
+      "spider": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/520723.jar?sign=K2U3FqRBh-kFNgDJFpxZjZYwxV6EeTlf4QWZ9dPjc8o%3D%3A0"
+    },
+    {
+      "key": "MV_vod",
+      "name": "🎹MTV合集🎹",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0
+    },
+    {
+      "key": "MTV转点播",
+      "name":"🆎海量MV🆎",
+      "type":3,
+      "api":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/live2cms.js",
+      "searchable":0,
+      "quickSearch":0,
+      "filterable":0,
+      "ext":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/16万首MV.json"
+    },
+    {
+      "key":"Music_spider",
+      "name":"🎺音乐欣赏🎺",
+      "api":"csp_Music",
+      "type":3,
+      "filterable":0,
+      "quickSearch":0,
+      "searchable":1,
+      "ext":"",
+      "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/fix12210.jar"
+    },
  {
             "key": "玩偶备用弹幕",
             "name": "😎玩偶备用｜4K弹幕",
