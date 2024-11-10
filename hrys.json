@@ -160,11 +160,121 @@
 {"key":"洽洽","name":"💯洽洽","type":3,"api":"csp_AppGZ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"饭太硬玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
-{"key":"饭太硬米搜","name":"🦋米盘┃搜搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"饭太硬抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"饭太硬Lib","name":"🌟立播┃秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"饭太硬Sso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"饭太硬夸搜","name":"🐟夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
+
+{
+      "key":"玩弹幕1",
+      "name":"❤UC木偶❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "http://mogg.top",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕",
+      "name":"❤UC欧歌❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site":"https://woog.nxog.eu.org",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕2",
+      "name":"❤UC弟弟❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://mihdr.top",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕3",
+      "name":"❤UC多多❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://tv.yydsys.top",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕4",
+      "name":"❤UC哥哥❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://vip.omii.top",
+              "danmu": false
+           }
+    },
+    {
+      "key":"玩弹幕5",
+      "name":"❤UC表哥❤",
+      "type":3,
+      "api":"csp_Wobg",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "changeable":1,
+      "jar": "https://gitlab.com/hero1898/DSZB/-/raw/main/jar/ou.jar;md5;119acfe3682bc8197f8865af36a13540",
+      "ext":
+           {
+              "token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+              "cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+              "uc_cookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+              "site": "https://4k.4u4.cn",
+              "danmu": false
+           }
+    },
 { 
  "key": "FREEOK1",
  "name": "💯无广 | FREEOK1",
@@ -2868,11 +2978,17 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
+{"key":"玩偶","name":"👽饭太硬玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
+{"key":"Sso","name":"🐌饭太硬盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"夸搜","name":"🐟饭太硬夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"tvfan/https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"米搜","name":"🦋饭太硬米盘┃搜搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"抠搜","name":"🍄饭太硬抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"Lib","name":"🌟饭太硬立播┃秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"tvfan/https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"http://www.uuneed.cn/zyj/zz/raw/main/token.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🙀OK手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","danmu":true},
 "timeout":5},
-{"key":"push_agent","name":"🙀手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"push_agent","name":"🙀饭太硬手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
  {
             "key": "push_agent",
             "name": "潇洒手机｜推送", 
