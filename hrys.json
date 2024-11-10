@@ -164,7 +164,7 @@
 {"key":"饭太硬抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt?ref_type=heads","from":"4k|auto"}},
 {"key":"饭太硬Lib","name":"🌟立播┃秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt?ref_type=headst","from":"4k|auto"}},
 {"key":"饭太硬Sso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt?ref_type=heads","from":"4k|auto"}},
-{"key":"饭太硬夸搜","name":"🐟夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt?ref_type=heads","from":"4k|auto"}},
+{"key":"饭太硬夸搜","name":"🐟夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt?ref_type=heads","from":"4k|auto"}},
 { 
  "key": "FREEOK1",
  "name": "💯无广 | FREEOK1",
