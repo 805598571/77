@@ -2729,14 +2729,8 @@
                 "danmu": true
             }
         },
-   {"key":"玩偶","name":"👽饭太硬玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
-{"key":"Sso","name":"🐌饭太硬盘他┃三盘","type":3,"api":"csp_PanSso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"夸搜","name":"🐟饭太硬夸搜┃狸夸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"米搜","name":"🦋饭太硬米盘┃搜搜","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"抠搜","name":"🍄饭太硬抠抠┃搜搜","type":3,"api":"csp_KkSs","searchable":1,"quickSearch":1,"changeable":0,"ext":{"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"Lib","name":"🌟饭太硬立播┃秒播","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":{"https://gitlab.com/hero1898/DSZB/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
-        {
-            "key": "哔嘀弹幕",
+  
+{"key": "哔嘀弹幕",
             "name": "😎哔嘀｜弹幕",
             "type": 3,
             "api": "csp_Bdys",
