@@ -655,14 +655,7 @@
     "api": "https://ghp.ci/https://raw.githubusercontent.com/LIUJEI/T9/master/TV/drpy2.min.js",
     "ext": "https://ghp.ci/https://raw.githubusercontent.com/LIUJEI/T9/master/TV/墨点影视.js"
 },
-{
-    "key": "hipy_js_泥巴影院",
-    "name": "泥巴🆚影院",
-    "type": 3,
-    "api": "https://ghp.ci/https://raw.githubusercontent.com/LIUJEI/T9/master/TV/drpy2.min.js",
-    "order_num": 0,
-    "ext": "https://ghp.ci/https://raw.githubusercontent.com/LIUJEI/T9/master/TV/泥巴影院.js"
-},
+
 {
     "key": "hipy_js_暖光影视",
     "name": "暖光🆚影视",
@@ -748,13 +741,7 @@
    "api": "https://ghp.ci/https://raw.githubusercontent.com/LIUJEI/T9/master/TV/drpy2.min.js",
    "ext": "https://ghp.ci/https://raw.githubusercontent.com/LIUJEI/T9/master/TV/一起看.js"
 },
-{
-    "key": "hipy_js_南瓜",
-    "name": "南瓜🆚影視",
-    "type": 3,
-    "playerType": "2",
-    "api": "http://js.xn--z7x900a.com/js/ng_open.js"
-},
+
 {
     "key": "hipy_js_西瓜影院",
     "name": "西瓜🆚影視",
@@ -2499,7 +2486,7 @@
     },
 {
             "key": "玩偶弹幕",
-	            "name": "😎玩偶哥哥｜4K弹幕",
+            "name": "😎玩偶哥哥｜4K弹幕", 
             "type": 3,
             "api": "csp_Wogg",
             "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc", 
