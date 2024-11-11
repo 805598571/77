@@ -64,15 +64,6 @@
           "api": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/js/zb.js",
           "ext": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/tv/zb.json"
 },
-{
-      "key": "Wexalllive",
-      "name": "💓‍聚合┃直播💓‍",
-      "type": 3,
-      "api": "csp_Wexalllive",
-      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9",
-      "searchable": 1,
-      "changeable": 1
-    },
 
 { "key": "好趣网",
   "name": "🔱小橙子电视",
@@ -206,23 +197,7 @@
            "danmu": true
         }
 },	  	  
-{
-  "key": "玩偶备用弹幕",
-  "name":"🐲小橙子玩偶",
-  "type": 3,
-  "api": "csp_Wogg",
-  "jar": "http://我不是.摸鱼儿.com/by/jar/danmu.php",
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-           "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
-           "site": "https://wogg.xxooo.cf",
-           "danmu": true
-        }
-},
+
 {
   "key": "云星日记",
   "name": "☁️云星资源4K弹幕",
@@ -2683,7 +2658,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/aa.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
 		},    
 {
 			"key": "csp_AliShare",
@@ -2700,7 +2675,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
 		},
 		{
 			"key": "csp_QuarkShare",
@@ -2717,7 +2692,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
 		},
 		{
 			"key": "csp_UCShare",
@@ -3371,18 +3346,7 @@
 {"key":"csp_xp_jrszb2018","name":"🏆🏆🏀球赛(HD)","type":3,"api":"csp_XPathFilter",    "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/jrszb2018.json"},
 {"key":"csp_xp_jrskan","name":"🏆🏆🏀直播(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/sports.json"},
 {"key":"JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
- {
-      "key": "926看球",
-      "name": "🌐926┃体育🌐",
-      "type": 3,
-      "api": "csp_Wex926kanqiu",
-      "jar": "https://tt.xubaba.eu.org/https/raw.githubusercontent.com/fikryxuuuu/xx/refs/heads/main/wex/wex.txt;md5;b446cb40c1aa36eaf5174e5fb3d2f5d9", 
-      "searchable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      }
-    },
+ 
 
 {"key":"88js","name":"⚽88┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0},
