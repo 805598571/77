@@ -3069,7 +3069,7 @@
 			"name": "🏥找资源┃云搜",
 			"type": 3,
 			"api": "csp_Zhaozy",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;92bd54755cfbdc1d7425e0a6ea4f341a, 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;92bd54755cfbdc1d7425e0a6ea4f341a", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"selectable": 0,
