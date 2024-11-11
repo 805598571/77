@@ -169,17 +169,7 @@
   "filterable":1,
   "ext":"http://cmsytv.lyyytv.cn/api.php/app/"
 },
-{
-  "key": "蜂2鸟",
-  "name": "🕊️蜂鸟影视",
-  "type": 3,
-  "api": "csp_AppSK",
-  "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727892807646/fan.txt;md5;74a1bf23b9d08ad9f3483d1d73105a93",
-  "searchable": 1,
-  "quickSearch": 1,
-  "changeable": 1,
-  "ext": "FbjPcVZY48PN/RIZ5QqOrspjctNYHd8MCHVY/fi7wUpUQNqG/jfU2giXr76/DC+8eHSS1HMynmg3WiNrBtVgfEJASNqQ2hTVLzJC3SoblKA+CPO6c3h2LRrhcHl6z5b2unGGON8hEYJ29EtB6FH/E01cML7v6RxWYZMJfmBRNw=="
-},
+
 {
   "key": "玩偶智能",
   "name": "🐲小橙子智能4K弹幕",
