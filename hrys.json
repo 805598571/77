@@ -159,15 +159,14 @@
 {"key":"洽洽","name":"💯洽洽","type":3,"api":"csp_AppGZ","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {
-  "key":"影盒",
-  "name":"💡影盒影视",
-  "type":3,
-  "api":"csp_AppYsV2",
-  "jar": "https://xn--dkw0c.v.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;119acfe3682bc8197f8865af36a13540",		
-  "searchable":1,
-  "quickSearch":1,
-  "filterable":1,
-  "ext":"http://cmsytv.lyyytv.cn/api.php/app/"
+   "key": "m1905",
+   "name": "🖥cctv┃电影 ",
+    "type": 3,
+    "api": "py_cctv",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "https://git.acwing.com/999/tvbox/-/raw/main/Lib/m1905.py"
 },
 
 {
@@ -188,23 +187,7 @@
         }
 },	  	  
 
-{
-  "key": "云星日记",
-  "name": "☁️云星资源4K弹幕",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/柒豪.zip",	
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-           "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
-           "site": "https://4k.4u4.cn",
-           "danmu": true
-         }
-},
+
 {
       "key":"玩弹幕1",
       "name":"❤UC木偶❤",
@@ -875,6 +858,139 @@
 {"key":"csp_Lib_QJ","name":"雷蒙影视 | 🌂Libvio(SP)","type":3,"api":"csp_Lib", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"faHR0cHM6Ly9saWJ2aW8uYXJ0L3N0YXRpYy9qcy9wbGF5ZXJjb25maWcuanM="},
 {"key":"csp_Bdys01_QJ","name":"雷蒙影视 | 📯哔嘀(SP)","type":3,"api":"csp_Bdys01", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ShiLiuDY_QJ","name":"雷蒙影视 | 🍇石榴(SP)","api":"csp_ShiLiuDY", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","type":3,"filterable":1,"quickSearch":1,"playerType":2,"searchable":1,"ext":""},
+{
+      "key": "py_qie_duoduo",
+      "name": "📣直播企鹅",
+      "type": 3,
+      "api": "py_qie",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/qie_duo.py"
+    },
+
+    {
+      "key": "py_cctvzh",
+      "name": "🇨🇳央视综合",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvzh_星河.py"
+    },
+    {
+      "key": "py_cctvxw",
+      "name": "🇨🇳央视新闻",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvxw_星河.py"
+    },
+    {
+      "key": "py_cctvzy",
+      "name": "🇨🇳央视综艺",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvzy_星河.py"
+    },
+    
+    {
+      "key": "py_cctvdy",
+      "name": "🇨🇳央视电影",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvdy_星河.py"
+    },
+    {
+      "key": "py_cctvty",
+      "name": "🇨🇳央视体育",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvty_星河.py"
+    },
+    {
+      "key": "py_cctvkj",
+      "name": "🇨🇳央视科教",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvkj_星河.py"
+    },
+    {
+      "key": "py_cctvyy",
+      "name": "🇨🇳央视音乐",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvyy_星河.py"
+    },
+    {
+      "key": "py_cctvse",
+      "name": "🇨🇳央视少儿",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvse_星河.py"
+    },
+    
+    {
+      "key": "py_cctvny",
+      "name": "🇨🇳央视农业",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvny_星河.py"
+    },
+    {
+      "key": "py_cctvjs",
+      "name": "🇨🇳央视军事",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvjs_星河.py"
+    },
+    {
+      "key": "py_cctvxq",
+      "name": "🇨🇳央视戏曲",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctvxq_星河.py"
+    },
+    {
+      "key": "py_cctv",
+      "name": "🇨🇳央视合集",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitlab.com/jeossi/t/-/raw/main/my/py_cctv_星河.py"
+    },
 {
             "key": "drjs_功夫熊猫",
             "name": "👺功夫熊猫(DRPY)",
@@ -3331,7 +3447,7 @@
 "searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0},
-{"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","style":{"type":"list"},
+{"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
 {"key":"alllive","name":"😎一直播┃LIVE","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
 
