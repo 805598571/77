@@ -365,6 +365,22 @@
  "quickSearch": 1,
  "ext": "https://git.acwing.com/zhuger/tvbox/-/raw/main/json/新视觉影视.json"
   },
+{
+        "key":"csp_XBiuNIVODvip",
+        "name":"❤️｜泥視頻(VIP)",
+        "type":3,
+        "api":"csp_XBPQ",
+        "jar":"https://ghp.ci/https://raw.githubusercontent.com/newrecha/TVBOX/refs/heads/main/jar/xyqxbpq.jar;md5;fd3cefc7302f3a39a442682f802b11e5",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":{
+              "简介":"简介：&&</div>",
+              "分类url":"https://www.nivod.vip/k/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}/",
+              "分类": "電視劇$2#電影$1#動漫$4#動畫片$26#綜藝$3#紀錄片$21#直播$49"
+              }
+            },
+      
 {"key":"drjs_荐片[优]","name":"雷蒙影视 | 👺荐片[优](DRPY)","type":3,"api":"https://cdn09022024.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/js/荐片[优].js"},
 {"key":"drjs_PTT[优]","name":"雷蒙影视 | 👺PTT[优](DRPY)","type":3,"api":"https://cdn09022024.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/js/PTT[优].js"},
 {"key":"drjs_HBOTV[优]","name":"雷蒙影视 | 👺HBOTV[优](DRPY)","type":3,"api":"https://cdn09022024.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/libs/drpy2.min.js","ext":"https://cdn09022024.gitlink.org.cn/ss1234ss/N3RD/raw/branch/master/JN/dr_py/js/HBOTV[优].js"},
