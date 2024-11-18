@@ -31,7 +31,7 @@
       "name": "😎真心配置中心",
       "type": 3,
       "api": "csp_ConfigCenter",
-      "jar": "https://www.gitlink.org.cn/api/raae/oh/raw/zhenxin%2Fcustom_spider.jar?ref=master;md5;9145f7b960a0ce1986cca28b0c8d1e9e",
+      "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 0,
       "changeable": 0,
       "ext": {
@@ -203,7 +203,24 @@
         }
 },	  	  
 
-
+{
+      "key":"阿里合集",
+      "name":"❤阿里合集❤",
+      "type":3,
+      "api":"csp_AliShare",
+      "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",   
+      "searchable":1,
+      "changeable":0,
+      "filterable":0,
+      "ext":
+           {
+             "token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
+             "share":"https://git.acwing.com/pxiptv/tv/-/raw/main/json/alishare.json"},
+             "style":
+                    {
+                      "type":"list"
+                    }
+    },
 {
       "key":"玩弹幕1",
       "name":"❤UC木偶❤",
@@ -3999,14 +4016,14 @@
             "name": "😎玩偶哥哥｜4K弹幕", 
             "type": 3,
             "api": "csp_Wogg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc", 
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-               "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+                "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "wogg": true,
                 "danmu": true
             }
@@ -4016,14 +4033,14 @@
             "name": "😎玩偶备用｜4K弹幕",
             "type": 3,
             "api": "csp_Wogg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc", 
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7", 
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                 "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+                  "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://wogg.xxooo.cf",
                 "danmu": true
             }
@@ -4034,13 +4051,13 @@
             "name": "😎多多｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",   
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",   
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                 "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+               "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             }
@@ -4050,12 +4067,12 @@
             "name": "😎潇洒小纸条｜弹幕",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",     
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",     
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -4064,13 +4081,13 @@
             "name": "😎土豆｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",   
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",   
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+               "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "https://yunpan.yunpay.cc",
                 "danmu": true
             }
@@ -4080,12 +4097,12 @@
             "name": "😎搜索｜弹幕",
             "type": 3,
             "api": "csp_PanSearch",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",       
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",       
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -4094,12 +4111,12 @@
             "name": "😎云云｜弹幕",
             "type": 3,
             "api": "csp_Upys",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",    
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",    
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -4108,12 +4125,12 @@
             "name": "😎云搜｜弹幕",
             "type": 3,
             "api": "csp_UpYun",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",  
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",  
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -4122,15 +4139,15 @@
             "name": "😎欧哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                 "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+                 "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://woog.nxog.eu.org",
                 "danmu": true
             }
@@ -4176,7 +4193,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
+			"ext": "https://git.acwing.com/pxiptv/tv/-/raw/main/json/tokenx.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
 		},
 		{
 			"key": "csp_QuarkShare",
@@ -4227,7 +4244,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/115share.txt"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share.txt"
 		},
 			
 		{
@@ -4278,7 +4295,7 @@
       "name": "🉑2TgYunPan|服务器",
       "type": 3,
       "api": "csp_TgYunPan",
-      "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
@@ -4294,13 +4311,13 @@
             "name": "💋爱盘搜｜弹幕",
             "type": 3,
             "api": "csp_AiPanSou",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",  
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -4309,12 +4326,12 @@
             "name": "💓夸克盘搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso", 
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -4323,12 +4340,12 @@
             "name": "💋米搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",  
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",  
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "https://www.misou.fun",
                 "danmu": true
             }
@@ -4338,12 +4355,12 @@
             "name": "💋夸搜｜弹幕",
             "type": 3,
             "api": "csp_Qkso",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",   
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",   
             "searchable": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -4353,13 +4370,13 @@
 	    "name": "💋蜡笔｜4K弹幕",       
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc", 
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7", 
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-               "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-              "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+               "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "site": "http://labipan.com",
                 "danmu": true
             }
@@ -4369,14 +4386,14 @@
             "name": "😎至臻｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc", 
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7", 
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                       "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-              "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+                     "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
             }
@@ -4386,14 +4403,14 @@
             "name": "😎奥秘｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",    
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",    
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                      "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-              "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+                    "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://vip.omii.top",
                 "danmu": true
             }
@@ -4403,14 +4420,14 @@
             "name": "😎云星｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",     
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",     
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                       "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-              "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+              "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "https://4k.4u4.cn",
                 "danmu": true
             }
@@ -4420,14 +4437,14 @@
             "name": "😎木偶｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",  
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",  
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                     "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-              "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
-                "uc_cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
+              "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "uc_cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/uc.txt",
                 "site": "http://mogg.top",
                 "danmu": true
             }
@@ -4437,13 +4454,13 @@
             "name": "😎团长｜4K弹幕",
             "type": 3,
             "api": "csp_Tzfile",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc", 
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7", 
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-               "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+              "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -4452,13 +4469,13 @@
             "name": "😎影搜｜弹幕",
             "type": 3,
             "api": "csp_Yingso",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc", 
+            "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7", 
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
             "ext": {
-              "token": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+              "token": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -4467,12 +4484,12 @@
             "name": "😎夸克盘搜｜弹幕",
             "type": 3,
             "api": "csp_Qkpanso",
-            "jar":" https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",  
+            "jar":" https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",  
             "searchable": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt",
+                "cookie": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -4482,12 +4499,12 @@
       "name": "😎星剧社",
       "type": 3,
       "api": "csp_Star2",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
    {
@@ -4495,13 +4512,13 @@
       "name": "😎易搜|4K",
       "type": 3,
       "api": "csp_YiSo",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",  
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",  
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
         "cookie": "",
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
     {
@@ -4509,11 +4526,11 @@
       "name": "😎盤搜索",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
    {
@@ -4535,13 +4552,13 @@
       "name": "😎网盘集合|4K",
       "type": 3,
       "api": "csp_网盘集合",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
         "commonConfig": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/网盘集合.json",
-        "share": "https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"
+        "share": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
 {
@@ -4549,11 +4566,11 @@
       "name": "😎玩偶gg",
       "type": 3,
       "api": "csp_Wogg",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json",
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json",
         "siteUrl": "https://www.wogg.bf/",
         "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
@@ -4563,11 +4580,11 @@
       "name": "😎玩偶 | 木偶",
       "type": 3,
       "api": "csp_kongbai",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json",
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json",
         "siteUrl": "http://mogg.xn--yetu07f.top/",
         "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
@@ -4578,11 +4595,11 @@
       "name": "😎玩偶 | 蜡笔",
       "type": 3,
       "api": "csp_kongbai",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json",
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json",
         "siteUrl": "http://labipan.com/",
         "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
@@ -4592,11 +4609,11 @@
       "name": "😎真心紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/custom_spider.jar",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
       "searchable": 1,
       "changeable": 0,
       "ext": {
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
 
