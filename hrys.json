@@ -4067,8 +4067,7 @@
             "name": "😎潇洒小纸条｜弹幕",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
-            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",     
-            "searchable": 1,
+            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",              "searchable": 1,
             "filterable": 1,
             "changeable": 0,
             "ext": {
@@ -4076,13 +4075,13 @@
                 "danmu": true
             }
         },
+          
 {
             "key": "夸克土豆弹幕",
             "name": "😎土豆｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",   
-            "quickSearch": 1,
+            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",              "quickSearch": 1,   
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -4091,14 +4090,14 @@
                 "site": "https://yunpan.yunpay.cc",
                 "danmu": true
             }
+          
         },
  {
             "key": "搜索弹幕",
             "name": "😎搜索｜弹幕",
             "type": 3,
             "api": "csp_PanSearch",
-            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",       
-            "searchable": 1,
+            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",              "searchable": 1,   
             "filterable": 0,
             "changeable": 1,
             "ext": {
@@ -4106,13 +4105,13 @@
                 "danmu": true
             }
         },
+       
         {
             "key": "云云弹幕",
             "name": "😎云云｜弹幕",
             "type": 3,
             "api": "csp_Upys",
-            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",    
-            "searchable": 1,
+            "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",              "searchable": 1,    
             "filterable": 0,
             "changeable": 1,
             "ext": {
@@ -4120,6 +4119,7 @@
                 "danmu": true
             }
         },
+        
         {
             "key": "云搜弹幕",
             "name": "😎云搜｜弹幕",
@@ -4295,14 +4295,14 @@
       "name": "🉑2TgYunPan|服务器",
       "type": 3,
       "api": "csp_TgYunPan",
-      "jar": "https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7",
+      "jar": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/custom_spider.jar",
       "searchable": 1,
       "filterable": 0,
       "switchable": 0,
       "ext": {
         "siteUrl": "http://tgsou.seczh.com/",
       "channelUsername": "alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
-        "commonConfig": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/peizhi.json"
+        "commonConfig": "https://git.gra.phite.ro/diangu/gxtv/raw/branch/master/peizhi.json"
       }
     },
 {"key":"纸条搜","name":"📜小纸条","type":3,"api":"csp_XiaoZhiTiao","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5C9A9FEA3B8FC4C181918A63DC9C7F040","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
