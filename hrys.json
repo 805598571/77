@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731682555989/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731937895509/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -174,17 +174,16 @@
 {"key": "界界影视","name": "🐌┃界界┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 {"key": "ok","name": "🍃┃FreeOK┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","playerType": "1","ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/X/main/json/free.json"},
 {
-            "key": "农民影视",
-            "name": "🍃农民｜影视",
-            "type": 3,
-            "api": "csp_Nmys",
-            "jar": "https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/spider.jar;md5;540cb3abf9883a2de6d73b0624ffcabc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-{"key":"csp_Xifan_FM","name":"🍚稀饭[LM]","type":3,"api":"csp_Xifan","searchable": 1,"quickSearch":1,"filterable":1,"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lem.jar"},
-
+      "key": "yj",
+      "name": "🌾哔嘀┃玉玉",
+      "type": 3,
+      "api": "csp_WebYJ",
+      "jar": "https://gitee.com/xiaofei1980/tvbox/raw/master/lib/xc09.zip",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc5CHP5UeyBPMe9JSGR0ESb7Rr7jGXROXw856DS+0SB0OYdqbWuZJAzfS+NBspRjse2Lh15nI9opi7SIo="
+    },
 {
   "key": "玩偶智能",
   "name": "🐲小橙子智能4K弹幕",
@@ -4872,7 +4871,7 @@
 
 {"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
 
-{"key":"csp_xp_yoozhibo","name":"🏆🏆🏀赛事(HD)","type":3,"api":"csp_XPathFilter",  "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba",                        "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/yoozhibo.json"},
+{"key":"csp_xp_yoozhibo","name":"🏆🏆🏀赛事(HD)","type":3,"api":"csp_XPathFilter",  "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba",                        "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/805598571/666/-/raw/main/json/yoozhibo.json.json"},
 {"key":"csp_xp_ddkanqiu","name":"🏆🏆🏀低调(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba",                       "searchable":0,"quickSearch":0,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/ddkq.json"},
 {"key":"csp_xp_jrszb2018","name":"🏆🏆🏀球赛(HD)","type":3,"api":"csp_XPathFilter",    "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.space/download/2851/Dpz/jrszb2018.json"},
 {"key":"csp_xp_jrskan","name":"🏆🏆🏀直播(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/sports.json"},
