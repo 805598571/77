@@ -1,18 +1,10 @@
-﻿{
+{
   "spider": "https://git.acwing.com/ocean2025/ocean/-/raw/main/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
   "wallpaper": "https://git.acwing.com/ocean2025/ocean/-/raw/main/88.jpeg",
   "logo": "https://git.acwing.com/ocean2025/ocean/-/raw/main/77.jpg",
   "sites": [
-    {
-      "key": "豆豆",
-      "name": "🇨🇳豆瓣┃xs主页",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-{"key": "农民影视","name": "🔥┃农民影视┃秒播","type": 3,"api": "csp_WexNmys","jar": "http://mzjk.top/禁止贩卖/lib/o.jar","searchable": 1,"changeable": 1},
+   
+
  {
             "key": "米搜",
             "name": "🌖┃米搜┃网盘",
