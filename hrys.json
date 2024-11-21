@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731937895509/fan.txt;md5;fd16c6765d2cc453d40f8b3dfc02621d",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732117452286/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -173,17 +173,159 @@
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "界界影视","name": "🐌┃界界┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 {"key": "ok","name": "🍃┃FreeOK┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","playerType": "1","ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/X/main/json/free.json"},
-{
-      "key": "yj",
-      "name": "🌾哔嘀┃玉玉",
+		{
+      "key": "多多玩偶",
+      "name": "多多影音",
       "type": 3,
-      "api": "csp_WebYJ",
-      "jar": "https://gitee.com/xiaofei1980/tvbox/raw/master/lib/xc09.zip",
+      "api": "csp_kongbai",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "KhY021WelCEl+6MsvwnzaPusskysEhxc5CHP5UeyBPMe9JSGR0ESb7Rr7jGXROXw856DS+0SB0OYdqbWuZJAzfS+NBspRjse2Lh15nI9opi7SIo="
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+        "siteUrl": "https://tv.yydsys.cc/",
+        "filter": "https://git.acwing.com/pxiptv/tv/-/raw/main/wogg.json"
+      }
     },
+{
+      "key": "TgYunPan1",
+      "name": "TgYunPan1",
+      "type": 3,
+      "api": "csp_TgYunPan",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31", 
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "http://144.126.217.226:8000",
+        "channelUsername": "yunpanshare",
+        "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan5",
+      "name": "TgYunPan5",
+      "type": 3,
+      "api": "csp_TgYunPan",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "http://144.126.217.226:8000",
+        "channelUsername": "guaguale115",
+        "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json"
+      }
+    },
+{
+    "key": "土木偶",
+    "name": "💓奈飞网盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://mucpan.cc/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+  {
+    "key": "蜡笔网盘",
+    "name": "💓蜡笔网盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://labipan.com/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+  {
+    "key": "至臻网盘",
+    "name": "💓至臻网盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "https://mihdr.top/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+{
+    "key": "玩偶 | 木偶",
+    "name": "💓玩偶木偶",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://mogg.xn--yetu07f.top/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"
+      }
+  },
+  {
+    "key": "土豆木偶",
+    "name": "💓木偶UC盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://mogg.top",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+ {
+    "key": "115集合",
+    "name": "💓115集合",
+    "type": 3,
+    "api": "csp_网盘集合",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "share": "https://git.acwing.com/Ksir/tx/-/raw/main/json/115集合.json"}
+  },
+  {
+    "key": "优汐集合º",
+    "name": "💓优汐集合º",
+    "type": 3,
+    "api": "csp_网盘集合",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "share": "https://git.acwing.com/Ksir/tx/-/raw/main/json/优汐网盘.json"}
+  },
+  {
+    "key": "夸克集合¹",
+    "name": "💓夸克集合¹",
+    "type": 3,
+    "api": "csp_网盘集合",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "share": "https://git.acwing.com/Ksir/tx/-/raw/main/json/夸克网盘.json"}
+  },
 {
   "key": "玩偶智能",
   "name": "🐲小橙子智能4K弹幕",
