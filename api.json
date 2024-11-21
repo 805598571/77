@@ -4,21 +4,290 @@
   "logo": "https://git.acwing.com/ocean2025/ocean/-/raw/main/77.jpg",
   "sites": [
    
-
+{"key":"TGYunPanLocal","name":"🉑1TG频道搜索","type":3,"api":"csp_TGYunPanLocal", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","timeout":120, 
+			"ext":{
+				"token":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json",
+				"json":"https://git.acwing.com/oh/oh/-/raw/main/pg/lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe",
+				"proxy":"proxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{"key":"TGYunPan","name":"🉑2TG群组搜索","type":3,"api":"csp_TGYunPan", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","timeout":120, 
+			"ext":{
+				"token":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json",
+				"json":"https://git.acwing.com/oh/oh/-/raw/main/pg/lib/tgsearch.json",
+				"keywords":"名称,片名,推荐",
+				"tgsearch_url":"http://127.0.0.1:10199",
+				"tgsearch_media_url":"http://127.0.0.1:10199",
+				"channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000",
+				"proxy":"noproxy",
+				"danmu":true
+			},
+			"style": {
+				"type": "rect",
+				"ratio": 1.77
+			}
+		},
+		{
+      "key": "多多玩偶",
+      "name": "多多影音",
+      "type": 3,
+      "api": "csp_kongbai",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+        "siteUrl": "https://tv.yydsys.cc/",
+        "filter": "https://git.acwing.com/pxiptv/tv/-/raw/main/wogg.json"
+      }
+    },
+{
+      "key": "TgYunPan1",
+      "name": "TgYunPan1",
+      "type": 3,
+      "api": "csp_TgYunPan",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31", 
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "http://144.126.217.226:8000",
+        "channelUsername": "yunpanshare",
+        "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json"
+      }
+    },
+    {
+      "key": "TgYunPan5",
+      "name": "TgYunPan5",
+      "type": 3,
+      "api": "csp_TgYunPan",
+      "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "http://144.126.217.226:8000",
+        "channelUsername": "guaguale115",
+        "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json"
+      }
+    },
+{
+    "key": "土木偶",
+    "name": "💓奈飞网盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://mucpan.cc/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+  {
+    "key": "蜡笔网盘",
+    "name": "💓蜡笔网盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://labipan.com/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+  {
+    "key": "至臻网盘",
+    "name": "💓至臻网盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "https://mihdr.top/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+{
+    "key": "玩偶 | 木偶",
+    "name": "💓玩偶木偶",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://mogg.xn--yetu07f.top/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"
+      }
+  },
+  {
+    "key": "土豆木偶",
+    "name": "💓木偶UC盘",
+    "type": 3,
+    "api": "csp_kongbai",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "http://mogg.top",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+  {
+    "key": "玩偶gg",
+    "name": "💓玩偶哥哥",
+    "type": 3,
+    "api": "csp_Wogg",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "siteUrl": "https://www.wogg.bf/",
+    "filter": "https://git.acwing.com/Ksir/tx/-/raw/main/json/wogg.json"}
+  },
+{
+    "key": "星剧社",
+    "name": "💓星剧社",
+    "type": 3,
+    "api": "csp_Star2",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {"commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json"}
+  },
+  {
+    "key": "网盘集合",
+    "name": "💓网盘集合",
+    "type": 3,
+    "api": "csp_网盘集合",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "share": "https://git.acwing.com/Ksir/tx/-/raw/main/json/网盘集合.json"}
+  },
+  {
+    "key": "115集合",
+    "name": "💓115集合",
+    "type": 3,
+    "api": "csp_网盘集合",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "share": "https://git.acwing.com/Ksir/tx/-/raw/main/json/115集合.json"}
+  },
+  {
+    "key": "优汐集合º",
+    "name": "💓优汐集合º",
+    "type": 3,
+    "api": "csp_网盘集合",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",  
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "share": "https://git.acwing.com/Ksir/tx/-/raw/main/json/优汐网盘.json"}
+  },
+  {
+    "key": "夸克集合¹",
+    "name": "💓夸克集合¹",
+    "type": 3,
+    "api": "csp_网盘集合",
+    "jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/custom_spider.jar;md5;F1859A79A60B4FD5BB16A0F826568C31",
+    "searchable": 1,
+    "filterable": 0,
+    "switchable": 0,
+    "ext": {
+    "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
+    "share": "https://git.acwing.com/Ksir/tx/-/raw/main/json/夸克网盘.json"}
+  },
+  
+		{"key":"PushShare","name":"🌾我的资源分享",
+		"type":3, "api":"csp_PushShare", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, 
+		"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://git.acwing.com/oh/oh/-/raw/main/pg/lib/pushshare.txt$$$db$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{"key":"AlistShare","name":"🌾网盘分享合集","type":3,"api":"csp_AlistShare", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, "ext":"./lib/tokenm.json$$$null$$$proxy$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{"key":"AliShare",
+		"name":"🌾阿里云盘影视分享","type":3,"api":"csp_AliShare", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":60, 
+		"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://git.acwing.com/oh/oh/-/raw/main/pg/lib/alishare.txt$$$db$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{"key":"QuarkShare","name":"🌾夸克云盘分享",
+		"type":3,"api":"csp_QuarkShare", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, 
+		"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://git.acwing.com/oh/oh/-/raw/main/pg/lib/quarkshare.txt",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{"key":"115Share",
+		"name":"🌾115云盘分享","type":3,"api":"csp_P115Share", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","searchable":1,"quickSearch":1, "changeable":1, "filterable":0, "timeout":120, "ext":"./lib/tokenm.json$$$https://git.acwing.com/oh/oh/-/raw/main/pg/lib/115share.txt$$$db$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
+		{"key":"UCShare",
+		"name":"🌾UC云盘分享",
+		"type":3,
+		"api":"csp_UCShare", "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar","searchable":1,"quickSearch":0, "changeable":0, "filterable":0, "timeout":60, 
+		"ext":".https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://git.acwing.com/oh/oh/-/raw/main/pg/lib/ucshare.txt$$$db$$$1",
+			"style": {
+				"type": "list",
+				"ratio": 1.1
+			}
+		},
  {
             "key": "米搜",
             "name": "🌖┃米搜┃网盘",
             "type": 3,
             "api": "csp_MiSou",
             "jar":"https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox/spider.jar",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox/txt/kk.txt"
+            "ext": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt"
         },
         {
             "key": "csp_Pansou",
             "name": "🚢┃盘搜┃网盘",
             "type": 3,
             "api": "csp_Pansou",
-            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox/spider.jar", 
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar", 
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/MemoryCollection/IPTV/main/tvbox/txt/token.txt"
         },
         {
@@ -579,7 +848,7 @@
       "changeable": 1,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.json$$$./txt/pushshare.txt",
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.json$$$https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/pushshare.txt",
       "style": {
         "type": "list",
         "ratio": 1.1
@@ -596,7 +865,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "filterable": 0,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.json$$$./txt/alishare.txt",
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.json$$$https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/alishare.txt",
       "timeout": 60,
       "style": {
         "type": "list",
@@ -615,7 +884,7 @@
       "changeable": 0,
       "filterable": 0,
       "timeout": 60,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.json$$$./txt/sambashare.txt",
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.json$$$https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/sambashare.txt",
       "order_num": 9999
     },
     {
