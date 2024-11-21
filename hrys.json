@@ -38,6 +38,17 @@
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"
       }
     },
+{
+    "key": "ConfigCenter",
+    "name": "⚙️配置中心",
+    "type": 3,
+    "api": "csp_ConfigCenter",
+    "jar":"https://git.acwing.com/Ksir/tx/-/raw/main/jar/custom_spider.jar",   
+    "searchable": 0,
+    "changeable": 0,
+    "ext": {
+    "commonConfig": "http://127.0.0.1:9978/file/TV/token.json"}
+  },
  {
             "key": "配置中心",
             "name":"😎潇洒配置｜中心",
@@ -57,7 +68,7 @@
 			"name": "🔧pg配置中心",
 			"type": 3,
 			"api": "csp_Config",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;cd20fd3463a9fda232c172ff929e7c42",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;f83f5c8511b2a23c9e768a9a5717b9a1",
 			"style": {
 				"type": "rect",
 				"ratio": 1
@@ -4389,7 +4400,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOBG"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://wobge.run.goorm.io/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOBG"
 		},
 		{
 			"key": "Wnlg",
@@ -4402,7 +4413,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./lib/wogg.json$$$WNLG"
 		},    
 {
 			"key": "csp_AliShare",
@@ -4419,7 +4430,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://git.acwing.com/pxiptv/tv/-/raw/main/json/tokenx.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
 		},
 		{
 			"key": "csp_QuarkShare",
@@ -4436,7 +4447,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/quarkshare.txt"
 		},
 		{
 			"key": "csp_UCShare",
@@ -4470,7 +4481,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://git.acwing.com/oh/oh/-/raw/main/pg/lib/115share.txt"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://git.acwing.com/oh/oh/-/raw/main/pg/lib/115share.txt"
 		},
 			
 		{
@@ -4488,7 +4499,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/thundershare.txt"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/thundershare.txt"
 		},
 {
 			"key": "Wogg",
@@ -4514,7 +4525,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.91panta.cn/$$$null$$$1"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.91panta.cn/$$$null$$$1"
 		},
 {
       "key": "TgYunPan|服务器",
@@ -4856,7 +4867,7 @@
 			"filterable": 0,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$guub123$$$aa123456"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$guub123$$$aa123456"
 		},
 {
 			"key": "csp_MiaoSou",
@@ -4869,7 +4880,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 60,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json"
+			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"
 		},
 
 {"key":"纸条","name":"😎ok纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386426151/okpng.txt;md5;fa9e4a95ca968013241f903de599d809","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","danmu":true},
