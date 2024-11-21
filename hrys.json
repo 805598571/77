@@ -77,7 +77,7 @@
           "api": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/js/zb.js",
           "ext": "https://gitee.com/soundy-dust/cat_tv/raw/master/api/data/tv/zb.json"
 },
-
+{"key":"道长","name":"🔥┃道长视频┃秒播","type":3,"api":"http://47.99.102.252/drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"http://47.99.102.252/drpy_js/bulei.js"},
 { "key": "好趣网",
   "name": "🔱小橙子电视",
   "type": 3,
@@ -131,7 +131,7 @@
   "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
 },
 
-
+{"key":"小宝zj","name":"🔥┃宝盒单仓┃秒播","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
@@ -3589,20 +3589,20 @@
       "key": "csp_Panda_玩偶哥哥",
       "name": "👲┃玩偶┃影视",
       "api": "csp_Panda",
-      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",        
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb", 
       "type": 3,
       "searchable": 1,
       "playerType": 2,
       "timeout": 30,
       "changeable": 0,
-      "ext": "./json/玩偶哥哥.json"
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/json/玩偶哥哥.json"
     },
   {
       "key": "csp_search_Panda_UP云搜",
       "name": "🍒┃Up搜┃网盘",
       "type": 3,
       "api": "csp_UpYun",
-         "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",    
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",       
       "timeout": 30,
       "changeable": 0,
       "ext": ""
@@ -3610,7 +3610,7 @@
     {
       "key": "csp_search_Panda_易搜",
       "name": "🐷┃易搜┃网盘",
-           "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",       
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/hutiang/MyTvBox/main/jar/jinenge.jar;md5;9cc29f6286b2fe7910628852929c4bdb",       
       "type": 3,
       "api": "csp_YiSo",
       "ext": ""
@@ -3730,7 +3730,62 @@
 			"order_num": 0,
 			"ext": "http://www.uuneed.cn/smy/dzhipy/raw/main/drpy_js/多多影音.js"
 		},	
-
+{
+      "key": "kan360",
+      "name": "💖360(T4)",
+      "type": 4,
+      "api": "http://t4.540734621.xyz:8888/video/kan360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "header": {
+        "token": "yydf"
+      }
+    },
+    {
+      "key": "nmys",
+      "name": "💖农民(T4)",
+      "type": 4,
+      "api": "http://t4.540734621.xyz:8888/video/nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "header": {
+        "token": "yydf"
+      }
+    },
+    {
+      "key": "qq",
+      "name": "腾讯(T4)",
+      "type": 4,
+      "api": "http://t4.540734621.xyz:8888/video/qq",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "header": {
+        "token": "yydf"
+      }
+    },
+    {
+      "key": "php_heimuer",
+      "name": "💖木耳(T4)",
+      "type": 4,
+      "api": "https://json.doube.eu.org/app/index.php?site=webheimuer",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "php_bttwoo",
+      "name": "💖比特(T4)",
+      "type": 4,
+      "api": "https://json.doube.eu.org/app/index.php?site=bttwoo",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "changeable": 0
+    },
    {"key":"csp_XYQHiker_农民影视","name":" 😎‍农民影视","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/liu4331126/liu4331126/raw/master/XYQHiker/农民影视.json","jar":"https://gitee.com/liu4331126/liu4331126/raw/master/jar/custom_spider.jar"},
   {
   "key":"drpy_js_朴樱影视",
