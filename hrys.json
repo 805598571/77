@@ -39,7 +39,7 @@
       }
     },
 {
-    "key": "ConfigCenter",
+    "key": "ConfigCenter配置中心",
     "name": "⚙ConfigCenter配置中心",
     "type": 3,
     "api": "csp_ConfigCenter",
