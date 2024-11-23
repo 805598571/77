@@ -1,4 +1,4 @@
-﻿{
+{
 "spider":"./jar/pg.jar",
 
 "logo":"./N3RD/W/ICONSGIF.gif",
@@ -52,7 +52,7 @@
 {"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo", "jar":./jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"cookie":"","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_PanSearch","name":"雷蒙影视 | 💿盘搜索(SP)","type":3,"api":"csp_PanSearch", "jar":./jar/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_XiaoZhiTiao","name":"雷蒙影视 | 💿小纸条(SP)","type":3,"api":"csp_XiaoZhiTiao", "jar":./jar/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
-{"key":"csp_AList","name":"雷蒙影视 | 💿AList(SP)","type":3,"api":"csp_AList", "jar":./jar/custom_spider.jar","searchable":1,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"},
+{"key":"csp_AList","name":"雷蒙影视 | 💿AList(SP)","type":3,"api":"csp_AList", "searchable":1,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"},
 {"key":"csp_TgYunPanLocal","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TgYunPanLocal", "jar":./jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"channelUsername":"hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿电报搜索1(SP)","type":3,"api":"csp_TgYunPan", "jar":./jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://tgsou.seczh.com/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿电报搜索2(SP)","type":3,"api":"csp_TgYunPan", "jar":./jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://47.240.62.83:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
