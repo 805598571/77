@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732117452286/fan.txt;md5;8a9023a88704d4f491b2eee649be20d8",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -185,8 +185,8 @@
 {"key": "界界影视","name": "🐌┃界界┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 {"key": "ok","name": "🍃┃FreeOK┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","playerType": "1","ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/X/main/json/free.json"},
 {"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://www.mucpan.cc/$$$cfg$$$1$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/T/wogg.json$$$MOGG"},
-{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$./N3RD/T/wogg.json"},
-{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"./N3RD/T/pg.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/T/wogg.json"},
+{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/T/wogg.json"},
+{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/T/wogg.json"},
 {"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
 		{
       "key": "多多玩偶",
@@ -5120,7 +5120,7 @@
             },
             "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/JS/360吧.js"
         },
-
+{"key":"高清直播","name":"⛹️高清直播","type":3,"api":"https://jihulab.com/zxwwp1/TVBox/-/raw/main/js/drpy2.min.js","ext":"https://jihulab.com/zxwwp1/TVBox/-/raw/main/","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0"},
 {"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
 
 {"key":"csp_xp_yoozhibo","name":"🏆🏆🏀赛事(HD)","type":3,"api":"csp_XPathFilter",  "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba",                        "searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/805598571/666/-/raw/main/json/yoozhibo.json.json"},
