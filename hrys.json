@@ -80,6 +80,7 @@
 {"key":"ok配置中心","name":"👨‍🍳ok‍配置┃中心","type":3,"api":"csp_Config", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386426151/okpng.txt;md5;fa9e4a95ca968013241f903de599d809","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
 {"key":"玩偶弹幕版","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_Wogg", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386426151/okpng.txt;md5;fa9e4a95ca968013241f903de599d809","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","uc_cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt","wogg":true,"danmu":true},
 "timeout":30},
+
 {
           "key": "直播转点播",
           "name": "🔱IPTV",
@@ -4915,6 +4916,12 @@
 "timeout":15},
 {"key":"影搜","name":"😎ok影搜┃搜索","type":3,"api":"csp_Yingso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1731386426151/okpng.txt;md5;fa9e4a95ca968013241f903de599d809","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/token.txt","cookie":"https://cdn09022024.gitlink.org.cn/diangu/gxtv/raw/branch/master/file/TVBox/quark.txt","danmu":true},
 "timeout":15},
+{"key":"米搜","name":"👨‍🍳饭太硬米搜┃搜索","type":3,"api":"csp_MIPanSo",jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt","from":"4k|auto|fhd"}},
+{"key":"夸搜","name":"👨‍🍳饭太硬夸搜┃搜索","type":3,"api":"csp_PanSearch",jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","quarkCookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt","from":"4k|auto|fhd"}},
+{"key":"YiSo","name":"👨‍🍳饭太硬易搜┃搜索","type":3,"api":"csp_YiSo",jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"https://git.acwing.com/lzjx/tvbox/-/raw/main/token.txt","from":"4k|auto|fhd"}},
+{"key":"PanSou","name":"👨‍🍳饭太硬盘搜┃搜索","type":3,"api":"csp_PanSou",jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"https://git.acwing.com/lzjx/tvbox/-/raw/main/token.txt","from":"4k|auto|fhd"}},
+{"key":"UpYun","name":"😻饭太硬Up搜┃搜索","type":3,"api":"csp_UpYun",jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"https://git.acwing.com/lzjx/tvbox/-/raw/main/token.txt","from":"4k|auto|fhd"}},
+{"key":"PanSearch","name":"🙀饭太硬盘Se┃搜索","type":3,"api":"csp_PanSearch",jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/fan.txt;md5;0f1d73221352f4e6b049b3291f96d75d","searchable":1,"quickSearch":1,"changeable":0,"ext":{"aliToken":"https://git.acwing.com/lzjx/tvbox/-/raw/main/token.txt","from":"4k|auto|fhd"}},
  {
             "key": "荐片弹幕",
             "name": "😎荐片｜弹幕",
@@ -5120,6 +5127,13 @@
             },
             "ext": "https://github.zhoujie218.top/https://raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/体育/JS/360吧.js"
         },
+{"key":"drjs_好趣网[播]","name":"雷蒙影视 | 👺好趣网[播](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/好趣网[播].js"},
+{"key":"drjs_JRKAN直播","name":"雷蒙影视 | 👺JRKAN直播(DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/JRKAN直播.js"},
+{"key":"drjs_926tv[球]","name":"雷蒙影视 | 👺926tv[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/926tv[球].js"},
+{"key":"drjs_01看球[球]","name":"雷蒙影视 | 👺01看球[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/01看球[球].js"},
+{"key":"drjs_310直播[球]","name":"雷蒙影视 | 👺310直播[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/310直播[球].js"},
+{"key":"drjs_360吧[球]","name":"雷蒙影视 | 👺360吧[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/360吧[球].js"},
+{"key":"drjs_88看球[球]","name":"雷蒙影视 | 👺88看球[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/88看球[球].js"},
 
 
 {"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
@@ -5180,7 +5194,9 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/初中课堂.json"},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
-
+{"key":"drjs_童趣[儿]","name":"雷蒙影视 | 👺童趣[儿](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.jss","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/童趣[儿].js"},
+{"key":"drjs_兔小贝[儿]","name":"雷蒙影视 | 👺兔小贝[儿](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/兔小贝[儿].js"},
+{"key":"drjs_贝乐虎[儿]","name":"雷蒙影视 | 👺贝乐虎[儿](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/贝乐虎[儿].js"},
 {"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
 {"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🙀OK手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","danmu":true},
