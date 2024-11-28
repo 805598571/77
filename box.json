@@ -74,7 +74,7 @@
   "api": "http://kxrj.site:55/lib/drpy2.min.js",
   "ext": "http://kxrj.site:55/lib/js/金牌影视.js"
 },
-{"key":"配置中心","name":"㊙️配置中心㊙️","type":3,"api":"csp_Config","searchable":0,"changeable":0,"jar":"https://git.acwing.com/pxiptv/tv/-/raw/main/jar/spidero.jar;md5;7E2F6EF2A5DCE8B152DADEFA6C7D4BA7","style":{"type":"rect","ratio":1.597}},
+
 {"key":"阿里合集","name":"🦋阿里┃合集","type":3,"api":"csp_AliShare","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732685207394/okpng.txt;md5;3afaff2f1dcaec7b41e6d1293cc28bba","searchable":1,"changeable":0,"filterable":0,"indexs":0,"ext":{"token":"https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt","share":"file://TV/阿里集合.json"},
 {
          "key": "csp_Duopan",
