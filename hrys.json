@@ -141,7 +141,33 @@
   "order_num": 0,
   "ext": "http://kxrj.site:55/lib/js/KTV歌厅[听].js"
 },
-
+{
+      "key": "py_hitv.py",
+      "name": "🌏hitv┃py",
+      "type": 3,
+      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/py_hitv.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_可可.py",
+      "name": "🌏可可┃py",
+      "type": 3,
+      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/py_可可.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "py_shijue.py",
+      "name": "🌏视觉┃py",
+      "type": 3,
+      "api": "https://git.acwing.com/ocean2025/ocean/-/raw/main/py/py_shijue.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {"key":"小宝zj","name":"🔥┃宝盒单仓┃秒播","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
@@ -184,7 +210,37 @@
 {"key":"凡人","name":"💯凡人","type":3,"api":"csp_AppFr","jar": "http://www.uuneed.cn/zhuang/User/raw/master/Spider.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "界界影视","name": "🐌┃界界┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","ext": {"主页url": "https://www.hkybqufgh.com/","简介": "</label>&&</div>","影片类型": "tags\">&&director\">","影片状态": "bottom\">&&</div>","二次截取": "videoList\":\\[&&\\]","数组": "{&&}[不包含:伦理剧]","图片": "https+://ywxohs.com+obs.gduamoe.com&&\",","标题": "vodName\":\"&&\"","副标题": "vodRemarks\":\"&&\"","链接": "https://www.hkybqufgh.com/detail/+vodId\":&&,","导演": "导演:</div>&&主演","主演": "主演:</div>&&别名","线路标题": "寶寳","播放数组": "listitem\">&&info\">","播放列表": "<a&&</a>","倒序": "否","搜索url": "https://www.hkybqufgh.com/vod/search/{wd}","分类": "电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.hkybqufgh.com/vod/show/id/{cateId}/class/{class}/year/{year}/area/{area}/page/{catePg}"}},
 {"key": "ok","name": "🍃┃FreeOK┃影视","type": 3,"api": "csp_XBPQ", "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar","playerType": "1","ext": "https://ghp.ci/https://raw.githubusercontent.com/alantang1977/X/main/json/free.json"},
-
+{
+      "key": "SP33",
+      "name": "📺蜗牛┃解析",
+      "type": 3,
+      "api": "csp_SP33",
+      "jar": "https://tv.xn--11x555b.top/TV/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+{
+      "key": "dianyiPQ",
+      "name": "💭蜗牛专享┃秒播",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://tv.xn--11x555b.top/lib/woniu.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "quickSearch": 1,
+      "ext": {
+        "分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html",
+        "分类": "电视剧$dianshiju#电影$dianying#综艺$zongyi#动漫$dongman",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "搜索url": "https://xn--44qz85a01qpc.com/search--------------.html?wd={wd}",
+        "简介": "【公众号：蜗牛科技仓】提醒🔺勿信广告，避免受骗🔺+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
+        "线路标题": "【蜗牛科技仓】💠+<span>&&</span>[排序:TK>HD>XS>YI>DI>]"
+      }
+    },
 		{
       "key": "多多玩偶",
       "name": "多多影音",
