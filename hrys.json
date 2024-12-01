@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732559427206/fan.txt;md5;4e2429f30551927d1831c19063158ee9",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732351865966/fan.txt;md5;73c62850faf556c9c2d7048baf3a5d3a",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -2500,7 +2500,7 @@
 {"key": "白嫖者","name": "💎白嫖影视","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
 	"分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},
 {"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
-{"key":"速播","name":"⏮️速播┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytO6"},
+{"key":"速播","name":"⏮️速播┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA="},
 {"key": "xbpq_白嫖者联盟","name": "💎白嫖联盟","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B","filterable": 1,"changeable": 1,"ext": {"主页url": "https://www.qyzf88.com/",
 	"标题": "itle=\"&&\"","副标题": "class=\"pic-text text-right\">&&</span>","图片": "data-original=\"&&\"","简介": "剧情介绍：&&</div",
 	"搜索url": "https://www.qyzf88.com/qyvodsearch/-------------.html?wd={wd}&submit=","分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
@@ -4921,10 +4921,12 @@
 {"key":"JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
  
 
-{"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"310js","name":"⚽310┃看球","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js","style":{"type":"list"},
+{"key":"88js","name":"⚽88┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/88看球.js","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0},
-{"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},
+{"key":"310js","name":"⚽310┃看球","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/310直播.js","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/jrk.js","style":{"type":"list"},
+"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
 {"key":"alllive","name":"😎一直播┃LIVE","type":3,"api":"csp_Alllive","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
