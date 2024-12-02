@@ -169,9 +169,9 @@
       "filterable": 1
     },
 {"key":"小宝zj","name":"🔥┃宝盒单仓┃秒播","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
-{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_SaoHuo","name":"🔥骚火","type":3,"api":"csp_SaoHuo","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy77.com/"},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
@@ -190,7 +190,7 @@
 {"key":"csp_FengGo","name":"🐶疯狗","type":3,"api":"csp_FengGo","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},	
 {"key":"csp_Jiaozi","name":"💋饺子","type":3,"api":"csp_Jiaozi","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"看客","name":"👲看客","type":3,"api":"csp_Kanke","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"FreeOK","name":"️🆗FreeOK","type":3,"api":"csp_FreeOK","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"FreeOK","name":"️🆗FreeOK","type":3,"api":"csp_FreeOK","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SC1080","name":"⛪圣城","type":3,"api":"csp_SC1080","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_AppRZ","name":"😎忍者","type":3,"playerType":"2","api":"csp_AppRZ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://rzys.xyz/"},
 {"key":"csp_Quanwk","name":"😎┃全网┃影视","type":3,"api":"csp_Quanwk", "jar":"http://1.95.79.193/PandaQ241006.jar;md5;4352ec15dbd1601f601249f831c2e87c", "ext":"https://888.qkw2.cc"},
@@ -606,14 +606,14 @@
 	"分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"寒+剧情介绍：&&</p >"}},
 {"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
 {"key":"速播","name":"⏮️速播┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvEpcoxb5sQXd8GDXUTvbqvx0peQcuZ7GvQ0UGD/a2mS238cHqYkiBgwCduCiYrTZJtbwdDUt/L2w/LOWADxikKl6I8Cqz6OD9lIxS2anA6ytPprjXXepEhRI1g+FIGqkCgBFA="},
-{"key": "xbpq_白嫖者联盟","name": "💎白嫖联盟","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B","filterable": 1,"changeable": 1,"ext": {"主页url": "https://www.qyzf88.com/",
+{"key": "xbpq_白嫖者联盟","name": "💎白嫖联盟","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","filterable": 1,"changeable": 1,"ext": {"主页url": "https://www.qyzf88.com/",
 	"标题": "itle=\"&&\"","副标题": "class=\"pic-text text-right\">&&</span>","图片": "data-original=\"&&\"","简介": "剧情介绍：&&</div",
 	"搜索url": "https://www.qyzf88.com/qyvodsearch/-------------.html?wd={wd}&submit=","分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}------{catePg}---{year}.html",
 	"分类": "电影$1#电视剧$2#综艺$3#动漫$4",
 	"地区": "大陆$大陆#香港$香港#台湾$台湾#美国$美国#日本$日本#韩国$韩国#泰国$泰国#印度$印度||内地$内地#韩国$韩国#香港$香港#台湾$台湾#日本$日本#美国$美国#泰国$泰国#英国$英国#新加坡$新加坡#其他$其他||内地$内地#港台$港台#日韩$日韩#欧美$欧美||国产$国产#日本$日本#欧美$欧美#其他$其他",
 	"年代": "2009-2024"}},
   
-{"key": "白嫖者联盟2","name": "💎白嫖影视","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;5B9366213CB03B0F0366FD67E0BD103B", "searchable": 1,"quickSearch": 1,"filterable": 1,
+{"key": "白嫖者联盟2","name": "💎白嫖影视","type": 3,"api": "csp_XBPQ","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A", "searchable": 1,"quickSearch": 1,"filterable": 1,
             "ext": {"分类url": "https://www.6699z.cn/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
                 "分类": "电影&剧集&综艺&动漫&短剧","分类值": "1&2&3&4&58",
                 "类型": "动作片$6#喜剧片$7#爱情片$8#高分经典科幻片$9#恐怖片$10#剧情片$11#战争片$12||国产剧$13#香港剧$28#恋爱不分国度$29#台湾剧$27#美国剧$31#泰国剧$33#其它剧$35||无||无||无"}},
@@ -650,13 +650,13 @@
 
 {"key":"csp_Xdai_思源_QJ","name":"雷蒙影视 | 🌊思源(SP)","type":3,"api":"csp_Xdai", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"caHR0cDovLzguMjEwLjM0LjE0MzoxMTIyfHpodWl5aTg4ODg4NjY2NjZ8emh1aXlpODg4ODg2NjY2Ng=="},
 {"key":"csp_Xdai_客星_QJ","name":"雷蒙影视 | ⭐客星(SP)","type":3,"api":"csp_Xdai", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"caHR0cDovLzE1NC4zNy4yMjAuMTc6NjYyMnw1ODliMTkwNmI5NWY3MTljfDU4OWIxOTA2Yjk1ZjcxOWM="},
-{"key":"csp_qiao3_人人_QJ","name":"雷蒙影视 | 👨‍👩‍👧‍👦人人(SP)","type":3,"api":"csp_qiao3", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"caHR0cDovL3d3dy5jdXBmb3gxLmNjOjk5OTl8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0"},
+{"key":"csp_qiao3_人人_QJ","name":"雷蒙影视 | 👨‍👩‍👧‍👦人人(SP)","type":3,"api":"csp_qiao3", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"caHR0cDovL3d3dy5jdXBmb3gxLmNjOjk5OTl8MzFjOTNjN2JjMjExZDczNHwzMWM5M2M3YmMyMTFkNzM0"},
 {"key":"csp_qiao3_雨滴_QJ","name":"雷蒙影视 | 💧雨滴(SP)","type":3,"api":"csp_qiao3", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"jaHR0cDovL2M4dzJvdjd1NXdnMnoxbzhwMjFjLmFsaXl1bmNzLmNsaWNrfGs5bzNwMmM4YjdtM3owbzh8azlvM3AyYzhiN20zejBvOA"},
 {"key":"csp_qiao3_优质_QJ","name":"雷蒙影视 | 🌈优质(SP)","type":3,"api":"csp_qiao3", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":1,"ext":"jaHR0cHM6Ly9hcGlhcHBkeXl6dHZ5eWRzcXdkeS42OC5neTo1Njg5fGR5eXp0dmFwaWFwcHl5ZHN8ZHl5enR2YXBpYXBweXlkcw"},
 {"key":"csp_Frong_木叶_QJ","name":"雷蒙影视 | 🍃木叶(SP)","type":3,"api":"csp_Frong", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"cMS4wLjl8aHR0cDovLzExMy40NS4xMzUuMTAwOjYxMTB8NWNlOGJmYTB8MTAwOXw1Njg2ODU0MzRGRUM3QzhDMjkwQUU0RkIzMjVGRjEzMHxzaGlqaWVtYW90dnw3NjU0ODdmNmIzODY2ODI4"},
 {"key":"csp_Frong_繁荣_QJ","name":"雷蒙影视 | 🌳繁荣(SP)","type":3,"api":"csp_Frong", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"FMy4wLjJ8aHR0cDovLzQzLjI0OC4xMjguMTM4OjMzMTV8NDJmN2EyMDl8MjV8NTY4Njg1NDM0RkVDN0M4QzI5MEFFNEZCMzI1RkYxMzB8c2hpamllbWFvdHZ8MDllZTM1MTZjMWNhOGVkMQ=="},
 {"key":"csp_Slys_QJ","name":"雷蒙影视 | ☄雷电(SP)","type":3,"api":"csp_Slys", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"caHR0cDovLzEyMC4yMjQuNy45MDo4MDg="},
-{"key":"csp_Nmvod_QJ","name":"雷蒙影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod", "jar": "http://www.uuneed.cn/zx1101/zxz/raw/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
+{"key":"csp_Nmvod_QJ","name":"雷蒙影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","playerType":2,"ext":"eaHR0cHM6Ly9hcGkuY25tY29tLmNvbS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
 {"key":"csp_AI1_QJ","name":"雷蒙影视 | ️💻AI1(SP)","type":3,"api":"csp_AI", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"faHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvYXBpLnBocC9wcm92aWRlL3ZvZC98TW96aWxsYS81LjAgKE1hY2ludG9zaDsgSW50ZWwgTWFjIE9TIFggMTBfMTVfNykgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzExOS4wLjAuMCBTYWZhcmkvNTM3LjMzfHFpYW9qaQ=="},
 {"key":"csp_AI2_QJ","name":"雷蒙影视 | ️💻AI2(SP)","type":3,"api":"csp_AI", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"haHR0cDovLzEyNC4yMjIuMTE2LjUvbWIvc3h5cy9hcGkucGhwL3Byb3ZpZGUvdm9kL3xva2h0dHAvNC45LjF8cWlhb2pp"},
 {"key":"csp_AI3_QJ","name":"雷蒙影视 | ️💻AI3(SP)","type":3,"api":"csp_AppYsV2", "jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext":"iaHR0cDovLzM5Ljk4LjMyLjI0MTo2Njg4L2FwaS5waHAvemp2My52b2Q="},
@@ -932,7 +932,7 @@
       "filterable": 1,
       "ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
       "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
-    }
+    },
 
 
 {
