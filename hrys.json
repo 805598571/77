@@ -131,17 +131,7 @@
   "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
 },
 
-{
-      "key": "YiSo",
-      "name": "风易搜┃搜索",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.txt+auto|4k|fhd"
-    },
+
 {
   "key": "hipy_js_KTV歌厅[听]",
   "name": "🔱KTV歌厅",
@@ -180,8 +170,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228","filterable":1,"ext":{"site_urls":["https://xiaomiai.site"],"url_key":"Netfixtv","token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","ucCookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt","quarkCookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","threadinfo":{"chunksize":450,"threads":10}}},
-{"key":"csp_Fantuan","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228","click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
+
 
 {"key":"小宝zj","name":"🔥┃宝盒单仓┃秒播","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
