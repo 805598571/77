@@ -175,7 +175,17 @@
         "prefix": "Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="
       }
     },
-
+{
+      "key": "YiSo",
+      "name": "风易搜┃搜索",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "https://git.acwing.com/ocean2025/ocean/-/raw/main/txt/token.txt+auto|4k|fhd"
+    },
 {
   "key": "hipy_js_KTV歌厅[听]",
   "name": "🔱KTV歌厅",
