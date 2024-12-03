@@ -130,51 +130,7 @@
   "filterable": 0,
   "ext": "http://我不是.摸鱼儿.com/api/moyu.php?file=lives"
 },
- {
-      "key": "风中知秋",
-      "name": "风中|知秋",
-      "type": 3,
-      "api": "csp_AppYsV3",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cmsApis": "UP4wckC350BpK3+jAtNI2bALiFmoKuT3saBr3tEJwib2fyd/xcLxfgaGGQQtWFUy",
-        "jxApi": "Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-        "prefix": "Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="
-      }
-    },
-    {
-      "key": "炉火茶香",
-      "name": "炉火|茶香",
-      "type": 3,
-      "api": "csp_AppYsV3",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/moyu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cmsApis": "UP4wckC350BpK3+jAtNI2blhjGe5XpRJzt28WdKpAOLIdkF5c7qnry0vLSuNURpG",
-        "jxApi": "Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-        "prefix": "dJfwfXAVjjaQz8j4tCkylOzM25rS6UDt2JFvGkrFC/U="
-      }
-    },
-    {
-      "key": "知秋",
-      "name": "风中|知",
-      "type": 3,
-      "api": "csp_AppYsV3",
-      "jar": "http://我不是.摸鱼儿.com/by/jar/zhiqiu.php",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "cmsApis": "UP4wckC350BpK3+jAtNI2bALiFmoKuT3saBr3tEJwib2fyd/xcLxfgaGGQQtWFUy",
-        "jxApi": "Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY",
-        "prefix": "Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="
-      }
-    },
+
 {
       "key": "YiSo",
       "name": "风易搜┃搜索",
