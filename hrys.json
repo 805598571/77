@@ -7,7 +7,7 @@
 		     "name":"😎豆瓣┃TG",
 		     "type":3,
 		     "api":"csp_TGDouban",
-                     "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6",
+                     "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75",
 		     "timeout":120, 
 		     "changeable": 2,
 			 "ext":{
@@ -159,7 +159,48 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{"key":"csp_Netfixtv","name":"💌┃️至臻┃影视","type":3,"api":"csp_Duopan","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228","filterable":1,"ext":{"site_urls":["https://xiaomiai.site"],"url_key":"Netfixtv","token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","ucCookie":"https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt","quarkCookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","threadinfo":{"chunksize":450,"threads":10}}},
+{
+            "key": "csp_速播",
+            "name": "💫蚂蚁速播",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar" : "https://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app;md5;62f18005177794427b32473e25413428",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "头部集合": "User-Agent$Mozilla/5.0 (iPad; CPU OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1#authority$heimuer.tv#referer$https://heimuer.tv/",
+                "分类": "国产剧&国产动漫&古装短剧&虐恋短剧&逆袭短剧&神豪短剧&重生短剧&甜宠短剧&其他短剧&喜剧片&爱情片&恐怖片&战争片&科幻片&动作片&冒险片&奇幻片&惊悚片&欧美剧&港剧&台剧&韩剧&日剧&泰剧&国产综艺&港台综艺&韩国综艺&日本综艺&欧美综艺&欧美动漫&日本动漫",
+                "分类值": "13&60&45&46&47&49&50&53&56&10&23&12&34&25&7&8&11&21&30&14&29&15&16&28&38&39&40&41&42&57&58",
+                "分类url": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&t={cateId}&pg={catePg}",
+                "数组二次截取": "list\":[&&]",
+                "数组": "{&&}",
+                "图片": "vod_pic\"*\"&&\"",
+                "标题": "vod_name\"*\"&&\"",
+                "副标题": "vod_remarks\"*\"&&\"",
+                "链接": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+                "搜索url": "https://heimuer.tv/api.php/provide/vod/?ac=detail&wd={wd}",
+                "搜索模式": "1",
+                "搜索二次截取": "list\":[&&]",
+                "搜索数组": "{&&}",
+                "搜索图片": "vod_pic\"*\"&&\"",
+                "搜索标题": "vod_name\"*\"&&\"",
+                "搜索副标题": "vod_remarks\"*\"&&\"",
+                "搜索链接": "https://heimuer.tv/api.php/provide/vod/?ac=list&ac=detail&ids=+vod_id\":&&,",
+                "影片类型": "vod_class\"*\"&&\"",
+                "导演": "vod_director\"*\"&&\"",
+                "主演": "vod_actor\"*\"&&\"",
+                "简介": "vod_content\"*\"&&\"",
+                "线路二次截取": "\"list\":[&&]",
+                "线路数组": "\"vod_play_from\":&&,",
+                "线路标题": "\"&&\"",
+                "播放数组": "vod_play_url\":&&,[替换:\">>链表题#$>>题链#\\#>>链表表题]",
+                "播放二次截取": "",
+                "播放列表": "表&&表",
+                "播放标题": "题&&题",
+                "播放链接": "链&&链+?sku=OWY3ZDA4ZjVjYzY3YmRhYjM5NTUwYzEyZWRjNjUyZWM1NjQ2ZGRjYTVhMGVkM2Nh&p=1&sign=9a69d1563936ead3677623722660c4d9",
+                "播放请求头": "User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36#Referer$https://heimuer.tv/#Cookie$PHPSESSID=t9a0fl2ngh4t175j3995v2669d",
+                "嗅探词": ".m3u8#.mp4#video_mp4#feiyunNB.mp4#.mp4#cdn.123pan.cn#huoshanvod.com"}},
 {"key":"csp_Fantuan","name":"🍙┃饭团┃影视","type":3,"api":"csp_Fantuan","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732278536174/PandaQ241122.txt;md5;b22151214f757c2d4b25635393e06228","click":"document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();","ext":"https://www.fantuan.vip"},
 {"key":"小宝zj","name":"🔥┃宝盒单仓┃秒播","type":3,"api":"csp_XBPQ","ext":{"分类url":"https://www.8q8k.com/vodshow/{cateId}--------{catePg}---.html","分类":"电影$dy#电视剧$dsj#综艺$zy#动漫$dm"}},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Yoursmile/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
@@ -227,20 +268,7 @@
         "线路标题": "【蜗牛科技仓】💠+<span>&&</span>[排序:TK>HD>XS>YI>DI>]"
       }
     },
-		{
-      "key": "多多玩偶",
-      "name": "多多影音",
-      "type": 3,
-      "api": "csp_kongbai",
-      "jar":"https://git.acwing.com/Ksir/tx/-/raw/main/jar/custom_spider.jar",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "commonConfig": "https://git.acwing.com/pxiptv/tv/-/raw/main/peizhi.json",
-        "siteUrl": "https://tv.yydsys.cc/",
-        "filter": "https://git.acwing.com/pxiptv/tv/-/raw/main/wogg.json"
-      }
-    },
+{"key":"dr_宝片视频","name":"🎥宝片视频[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/libs/drpy2.min.js","searchable": 1,"quickSearch":1,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/js/宝片视频.js"},
 {
       "key": "TgYunPan1",
       "name": "TgYunPan1",
@@ -1344,7 +1372,7 @@
 			"name": "😎美剧天天┃磁力",
 			"type": 3,
 			"api": "csp_MeijuTT",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2
@@ -1885,7 +1913,7 @@
 				"type": "list",
 				"ratio": 1.1
 			},
-			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt$$$db$$$1"
 		},
 		{
 			"key": "csp_QuarkShare",
@@ -2231,7 +2259,7 @@
 			"name": "🌐世界┃云磁",
 			"type": 3,
 			"api": "csp_FourKHDR",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -2309,16 +2337,16 @@
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"
       }
     },
-{"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://www.mucpan.cc/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
-{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
+{"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://www.mucpan.cc/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
+{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
 {
 			"key": "Zhaozy",
 			"name": "🏥找资源┃云搜",
 			"type": 3,
 			"api": "csp_Zhaozy",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"selectable": 0,
@@ -2332,7 +2360,7 @@
 			"name": "😎秒搜┃云搜",
 			"type": 3,
 			"api": "csp_MiaoSou",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07af74d31184ab6e496dc590b667d1f6", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6fcd971f2450c43c6248812ff0593c75", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
