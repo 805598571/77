@@ -78,7 +78,7 @@
 			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"
 		},         
 {"key":"ok配置中心","name":"👨‍🍳ok‍配置┃中心","type":3,"api":"csp_Config", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
-{"key":"玩偶弹幕版","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_Wogg", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","uc_cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt","wogg":true,"danmu":true},
+{"key":"玩偶弹幕版","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_Wogg", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","cookie":"https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt","uc_cookie":"https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt","wogg":true,"danmu":true},
 "timeout":30},
 {
           "key": "直播转点播",
@@ -180,6 +180,38 @@
 {"key":"xzso","name":"👻盘它盘它┃三盘搜索","type":3,"api":"csp_xzso","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://api.paoyun.eu.org/zq/tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"米搜","name":"🦋米搜盘┃夸父","type":3,"api":"csp_MIPanSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://api.paoyun.eu.org/zq/tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"夸搜","name":"😻夸搜盘┃夸父","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"pan":"quark","Cloud-drive":"https://api.paoyun.eu.org/zq/tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{
+			"key": "韩剧看看",
+			"name": "🇰🇷韩剧┃看看",
+			"type": 3,
+			"api": "csp_XBPQ",
+			"jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/spider.jar",
+			"ext": {
+				"请求头": "User-Agent$MOBILE_UA",
+				"编码": "UTF-8",
+				"数组": "默认--<a href=\"/xvd&&no-referrer||搜索--module-card-item module-item&&</a >",
+				"标题": "默认--title=\"&&\"||搜索--alt=\"&&\"",
+				"图片": "默认--data-original=\"&&\"||搜索--data-original=\"&&\"",
+				"副标题": "默认--note\">&&</div>||搜索--note\">&&</div>",
+				"链接": "默认--https://www.hanjukankan.com/xvd+&&\"||搜索--https://www.hanjukankan.com+href=\"&&\"",
+				"播放数组": "module-play-list-content&&</div>",
+				"播放列表": "<a&&a>",
+				"播放链接": "href=\"&&\"",
+				"播放标题": "<span>&&</span>",
+				"线路数组": "module-tab-item&&</div>",
+				"线路标题": "<span>&&</span>",
+				"跳转播放链接": "var player_*\"url\":\"&&\"",
+				"搜索url": "https://www.hanjukankan.com/xvse{wd}abcdefghig{pg}klm.html",
+				"分类url": "https://www.hanjukankan.com/xvs{cateId}xat{area}xbt{by}xct{class}xdt{lang}xet{letter}xftxgtxht{catePg}atbtct{year}.html;;x",
+				"分类": "韩剧$1#韩影$2#韩综$3#其他$4",
+				"剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||古装&战争&青春偶像&喜剧&家庭&犯罪&动作&奇幻&剧情&历史&经典&乡村&情景&商战&网剧&其他||喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影||喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
+				"剧情值": "*",
+				"地区": "韩国||韩国||韩国||韩国",
+				"地区值": "*",
+				"语言": "韩语||韩语||韩语||韩语",
+				"语言值": "*"
+			}
+		},
 {
         "key": "泰劇網",
         "name": "❤️｜🇹🇭泰劇",
@@ -430,9 +462,9 @@
   "quickSearch": 1,
   "filterable": 1,
   "ext": {
-           "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-           "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+           "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
+           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
            "wogg": true,
            "danmu": true
         }
@@ -1809,8 +1841,8 @@
             "filterable": 1,
             "ext": {
                 "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-           "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
                 "wogg": true,
                 "danmu": true
             }
@@ -1826,8 +1858,8 @@
             "filterable": 1,
             "ext": {
                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-           "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
                 "site": "https://wogg.xxooo.cf",
                 "danmu": true
             }
@@ -1844,7 +1876,7 @@
             "filterable": 1,
             "ext": {
                    "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             }
@@ -1858,7 +1890,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-               "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+               "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
                 "danmu": true
             }
         },
@@ -1873,7 +1905,7 @@
             "filterable": 1,
             "ext": {
                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-                "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+                "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
                 "site": "https://yunpan.yunpay.cc",
                 "danmu": true
             }
@@ -1888,7 +1920,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+                "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
                 "danmu": true
             }
         },
@@ -1902,7 +1934,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+                "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
                 "danmu": true
             }
         },
@@ -1917,7 +1949,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+                "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
                 "danmu": true
             }
         },
@@ -1933,8 +1965,8 @@
             "changeable": 1,
             "ext": {
                  "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
-           "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
+           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
                 "site": "https://woog.nxog.eu.org",
                 "danmu": true
             }
@@ -2481,11 +2513,11 @@
 			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"
 		},
 
-{"key":"纸条","name":"😎ok纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","danmu":true},
+{"key":"纸条","name":"😎ok纸条┃搜索","type":3,"api":"csp_XiaoZhiTiao","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":0,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","danmu":true},
 "timeout":15},
-{"key":"盘Se","name":"😎ok盘Se┃搜索","type":3,"api":"csp_PanSearch","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","danmu":true},
+{"key":"盘Se","name":"😎ok盘Se┃搜索","type":3,"api":"csp_PanSearch","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","danmu":true},
 "timeout":15},
-{"key":"易搜","name":"😎ok易搜┃搜索","type":3,"api":"csp_YiSo","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","danmu":true},
+{"key":"易搜","name":"😎ok易搜┃搜索","type":3,"api":"csp_YiSo","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","danmu":true},
 "timeout":15},
 {"key":"csp_QuPanSou","name":"😎ok趣盘搜┃搜索","type":3,"api":"csp_QuPanSou","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
 "timeout":15},
@@ -2495,9 +2527,9 @@
 "timeout":15},
 {"key":"夸搜","name":"😎ok夸搜┃搜索","type":3,"api":"csp_Qkso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
 "timeout":15},
-{"key":"云盘4K","name":"😎ok云盘4K┃搜索","type":3,"api":"csp_Yunpan4k","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
+{"key":"云盘4K","name":"😎ok云盘4K┃搜索","type":3,"api":"csp_Yunpan4k","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
 "timeout":15},
-{"key":"影搜","name":"😎ok影搜┃搜索","type":3,"api":"csp_Yingso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
+{"key":"影搜","name":"😎ok影搜┃搜索","type":3,"api":"csp_Yingso","jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":0,"changeable":0,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true},
 "timeout":15},
  {
       "key": "YiSo",
@@ -7644,8 +7676,8 @@
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/高中课堂.json"},
 
-{"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
-{"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
+{"key":"YiSo","name":"😹易搜┃阿狸","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","from":"4k|auto"}},
+{"key":"PanSearch","name":"🙀盘Se┃阿狸","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"🙀OK手机┃推送","type":3,"api":"csp_Push","searchable":0,"filterable":0,"changeable":0,"ext":{"token":"file://TV/ali_token.txt","cookie":"file://TV/quark_cookie.txt","uc_cookie":"file://TV/uc_cookie.txt","danmu":true},
 "timeout":5},
 {"key":"push_agent","name":"🙀饭太硬手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
