@@ -78,7 +78,7 @@
 			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"
 		},         
 {"key":"ok配置中心","name":"👨‍🍳ok‍配置┃中心","type":3,"api":"csp_Config", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":0,"changeable":0,"indexs":0,"style":{"type":"rect","ratio":1.43}},
-{"key":"玩偶弹幕版","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_Wogg", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","cookie":"https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt","uc_cookie":"https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt","wogg":true,"danmu":true},
+{"key":"玩偶弹幕版","name":"👽玩偶┃4K弹幕","type":3,"api":"csp_Wogg", "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1732953847024/okpng.txt;md5;314ea7475979c30931da01d0010baba2","searchable":1,"filterable":1,"changeable":1,"ext":{"token":"https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt","cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","uc_cookie":"https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt","wogg":true,"danmu":true},
 "timeout":30},
 {
           "key": "直播转点播",
@@ -1841,7 +1841,7 @@
             "filterable": 1,
             "ext": {
                 "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
                 "wogg": true,
                 "danmu": true
@@ -1858,7 +1858,7 @@
             "filterable": 1,
             "ext": {
                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
                 "site": "https://wogg.xxooo.cf",
                 "danmu": true
@@ -1876,7 +1876,7 @@
             "filterable": 1,
             "ext": {
                    "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
             }
@@ -1905,7 +1905,7 @@
             "filterable": 1,
             "ext": {
                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-                "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "https://yunpan.yunpay.cc",
                 "danmu": true
             }
@@ -1965,7 +1965,7 @@
             "changeable": 1,
             "ext": {
                  "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/quark.txt",
+           "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
                 "site": "https://woog.nxog.eu.org",
                 "danmu": true
@@ -2136,7 +2136,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -2150,7 +2150,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -2164,7 +2164,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "https://www.misou.fun",
                 "danmu": true
             }
@@ -2179,7 +2179,7 @@
             "filterable": 1,
             "changeable": 0,
             "ext": {
-                "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -2195,7 +2195,7 @@
             "filterable": 1,
             "ext": {
                      "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+           "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "http://duopan.fun",
                 "danmu": true
             }
@@ -2211,7 +2211,7 @@
             "filterable": 1,
             "ext": {
                   "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
-           "cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/quark.txt",
+           "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://gitlab.com/hero1898/DSZB/-/raw/main/uc.txt",
                 "site": "https://mihdr.top",
                 "danmu": true
@@ -2755,7 +2755,7 @@
 {"key":"drjs_310直播[球]","name":"雷蒙影视 | 👺310直播[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/310直播[球].js"},
 {"key":"drjs_360吧[球]","name":"雷蒙影视 | 👺360吧[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/360吧[球].js"},
 {"key":"drjs_88看球[球]","name":"雷蒙影视 | 👺88看球[球](DRPY)","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/88看球[球].js"},
-
+{"key":"csp_Kanqiu","name":"⚾看球","type":3,"api":"csp_Kanqiu",  "jar": "https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A",  
 {"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"88看球","name":"⚽88┃看球","type":3,"api":"csp_Sir88","searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"310js","name":"⚽310┃看球","type":3,"api":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://ghp.ci/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/310直播.js","style":{"type":"list"},
