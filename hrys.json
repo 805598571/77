@@ -99,23 +99,7 @@
            "danmu": true
          }
 },
-{
-  "key": "土豆",
-  "name": "🥔土豆4K",
-  "type": 3,
-  "api": "csp_Wobg",
-  "jar": "https://gitee.com/wzbdyr/xcz/raw/master/jar/wzx.zip",	
-  "quickSearch": 1,
-  "changeable": 1,
-  "filterable": 1,
-  "ext": {
-           "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
-           "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
-           "uc_cookie": "https://git.acwing.com/pxiptv/tv/-/raw/main/uc.txt",
-           "site": "https://dcyun.cc",
-           "danmu": true
-         }
-},
+{"key":"csp_Nkdy","name":"🌽耐看┃影视","type":3,"api":"csp_Nkdy","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733446734514/tianjiaguanggao.jar;md5;0ff7e60497d8cbe92b5b318dd64b356a"},
 {
           "key": "直播转点播",
           "name": "🔱IPTV",
@@ -172,30 +156,7 @@
     },
     
    
-    {
-      "key": "小俊",
-      "name": "💻小俊直播┃T直播",
-      "type": 3,
-      "api": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/sdtv.js",
-      "ext": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/lib/sdtv.txt",
-      "jar": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/lib/sdtv.jar"
-    },
-    {
-      "key": "chun",
-      "name": "🖥春英天下┃T直播",
-      "type": 3,
-      "api": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/sdtv.js",
-      "ext": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/lib/chun.json",
-      "jar": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/lib/sdtv.jar"
-    },
-    {
-      "key": "开心直播",
-      "name": "💗开心直播┃T直播",
-      "type": 3,
-      "api": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/sdtv.js",
-      "ext": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/lib/kaixinzhibo.json",
-      "jar": "https://git.acwing.com/gyjune/zizhjiekou/-/raw/main/俊俊同学/lib/sdtv.jar"
-    },
+   {"key":"点播","name":"🦌┃直播┃点播","type":4,"api":"http://zhangqun66.com/zh/2241-2.php","searchable":1,"changeable":0},
 {
   "key": "hipy_js_KTV歌厅[听]",
   "name": "🔱KTV歌厅",
@@ -3861,8 +3822,8 @@
 {"key":"csp_xp_jrskan","name":"🏆🏆🏀直播(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/sports.json"},
 {"key":"JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
  
-{"key":"直播迷","name":"⛹️直播迷","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/tiyu/直播迷.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt"},
-{"key":"高清直播","name":"⛹️高清直播","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/tiyu/高清直播.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733563475484/fan.txt"},
+{"key":"直播迷","name":"⛹️直播迷","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/tiyu/直播迷.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0},
+{"key":"高清直播","name":"⛹️高清直播","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/tiyu/高清直播.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0"},
 
 {"key":"企鹅xp","name":"🐧鹅鹅┃体育","type":3,"api":"csp_XPath","jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","style":{"type":"list"},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/fantaiying/ext/-/raw/main/企鹅直播.json"},
