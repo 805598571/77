@@ -44,7 +44,7 @@
 {"key":"csp_Dm84","name":"🚌动漫巴士","type":3,"api":"csp_Dm84","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Alllive","name":"📽️一直播","type":3,"api":"csp_Alllive","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;64ECBF2910590EA19DAF3A7ECDEC1D5A","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
 
-            "key": "drjs_我的哔哩传参[官]",
+          {  "key": "drjs_我的哔哩传参[官]",
             "name": "👺我的哔哩[官](DRPY)",
             "type": 3,
             "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
