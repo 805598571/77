@@ -232,35 +232,7 @@
 {"key":"csp_QxiTv","name":"雷蒙影视 | 7️⃣7喜影院(SP)","type":3,"api":"csp_QxiTv","jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w55xy.com/"},
 {"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1},
- {
-      "key": "闪雷影视",
-      "name": "🔥闪雷┃急速",
-      "type": 3,
-      "api": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/drpy2.min.js",
-      "jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/ttkx.jar",
-      "ext": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/闪雷影视.js"
-    },
-    {
-      "key": "csp_MiTuApp",
-      "name": "🔥米兔┃1080P",
-      "type": 3,
-      "api": "csp_MiTuApp",
-      "jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/tianjiaguanggao.jar",
-      "ext": "ewogICAgICAgICJ1cmwiOiAiaHR0cHM6Ly9reTEwODAudG9wIiwKICAgICAgICAiZGF0YUtleSI6ICJlNTlkNDRiMmVlZjAzYmEyIiwKICAgICAgICAiZGF0YUl2IjogImU1OWQ0NGIyZWVmMDNiYTIiLAogICAgICAgICJkZXZpY2VJZCI6ICIyMzgxM2IxNWJmN2JkMzU5Y2I4ZDMyZjlkMDI4NjI0NGMiCiAgfQ=="
-    },
-    {
-      "key": "csp_XSX",
-      "name": "🔥视讯┃1080P",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "csp_Xsx",
-      "jar": "https://git.acwing.com/203BDXC/tvboxt/-/raw/main/lib/tounima.jar",
-      "playerType": 2,
-      "filterable": 1,
-      "ext": ""
-    },
+ 
 {"key":"dr_哔哩影视","name":"®️哔哩影视[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/libs/drpy2.min.js","searchable": 1,"quickSearch":0,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/js/哔哩影视[官].js"},
 
    {"key":"点播","name":"🦌┃直播┃点播","type":4,"api":"http://zhangqun66.com/zh/2241-2.php","searchable":1,"changeable":0},
