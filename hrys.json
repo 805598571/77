@@ -478,7 +478,12 @@
 	  },
 
 {"key":"壹伴","name":"💖分享壹伴","type":3,"api":"csp_Xdai","playerType":2,"ext":"caHR0cDovL2dldGFwcC50dnliYXBwLmNvbXxtaWNrMjQ1OG1pY2syNDU4fG1pY2syNDU4bWljazI0NTg=", "jar":"http://tv.laohu.cool/laohujar.jar"},
-
+{"key": "稀饭影视","name": "☄️稀饭影视","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar","ext": {"分类": "电影$1#剧集$2#综艺$3#动漫$4#短剧$5","分类url": "https://www.xifanys.com/index.php/vod/type/id/{cateId}.html"}},
+{"key": "蚂蚁影库","name": "☄️蚂蚁影库","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar","ext": {"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5","分类url": "https://www.mayiyingku.com/type/{cateId}.html"}},
+{"key": "17K影视","name": "☄️17K影视","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar","ext": {"分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5","分类url": "https://17k.video/index.php/vod/type/id/{cateId}.html"}},
+{"key": "老王电影","name": "☄️老王电影","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar","ext": {"分类": "电影$1#连续剧$2#综艺$3#动漫$4#短剧$5","分类url": "https://www.laowang.co/v/{cateId}.html"}},
+{"key": "纽约影院","name": "☄️纽约影院","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar","ext": {"分类": "电影$1#连续剧$2#动漫$4#短剧$50","分类url": "https://www.nycvod.com/vodshow/{cateId}-----------.html"}},
+{"key": "NUU","name": "☄️NUU影院","type": 3,"api": "csp_XBPQ","jar": "https://ghp.ci/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar","ext": {"分类": "电影$1#连续剧$2#综艺$3#动漫$4","分类url": "https://nuu.su/f/{cateId}.html"}},
 {
       "key": "孜然影视",
       "name": "🍉孜然影视|T爽剧",
@@ -4068,7 +4073,6 @@
 {"key":"csp_xp_jrskan","name":"🏆🏆🏀直播(HD)","type":3,"api":"csp_XPathMacFilter",   "jar": "https://jihulab.com/dwei1/dwei/-/raw/main/jar/Dweif1031.jar;md5;4790c27bc627ca29e4bcf7775551a7ba","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://d.kstore.space/download/2851/Dpz/sports.json"},
 {"key":"JRKAN直播","name":"🏆🏆🏀JRKAN直播","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/lib/drpy2.min.js","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/yoursmile66/TVBox/main/js/JRKAN直播.js"},
  {"key":"直播迷","name":"⛹️直播迷","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/tiyu/直播迷.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0"},
-{"key":"高清直播","name":"⛹️高清直播","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/js/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/zxwwp/TVBox/master/tiyu/高清直播.js","playerType": 1,"style":{"type":"list"},"ua": "okhttp/3.15","searchable": 0,"quickSearch": 0,"changeable":0"},
 
 
 
