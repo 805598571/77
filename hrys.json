@@ -108,14 +108,20 @@
 {"key":"csp_Duopan","name":"🖍︎┃肥猫蜡笔┃影视","type":3,"api":"csp_Duopan","jar":"https://img2.gelonghui.com/library/f6908-5fd61601-427f-486f-b4c1-0a89cfbb9abd.txt;md5;f69087df20933692fccd2dd795095f5b","filterable":1,"ext":{"site_urls":["https://duopan.fun","http://labipan.com","http://feimaoai.site","https://mihdr.top"],"url_key":"Duopan2"}},
 {"key":"csp_Panda_玩偶哥哥","name":"👲┃肥猫玩偶┃影视","api":"csp_Wogg","jar":"https://img2.gelonghui.com/library/f6908-5fd61601-427f-486f-b4c1-0a89cfbb9abd.txt;md5;f69087df20933692fccd2dd795095f5b","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"https://www.wogg.net"},
 {"key":"金牌","name":"金牌秒播","type":3,"api":"csp_Jpys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"金牌影视3","name": "金牌影视","type": 3,"jar":"https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/bhtv.txt","api": "https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js","ext": "https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/金牌影视3.js"},  
-{"key":"csp_AppDaMi","name":"大米影视","type":3,"jar": "https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/bhtv.txtt","playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app-v1.ecoliving168.com/"},
-{"key":"csp_AppDaMi2","name":"大米影视","type":3,"jar": "https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/bhtv.txt","playerType":"2","api":"csp_AppDaMi","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://damifan.wiki"}, 
-{"key":"布蕾","name":"布蕾影视","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"order_num":0,"changeable":0,"ext":"http://47.99.102.252/drpy_js/bulei.js"},	    
-
-{"key":"闪雷","name":"闪电视频","type":3,"api":"https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js","ext":"https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/闪电.js"},	    
-{"key":"金牌影视2","name": "金牌影视","type": 3,"jar":"./bhtv.txt","api": "https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js","ext": "https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/金牌影视2.js"},  
-{"key": "金牌影视","name": "金牌影视","type": 3,"jar":"./bhtv.txt","api": ".https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/drpy2.min.js","ext": "https://ghp.ci/https://raw.githubusercontent.com/hanhan8127/TVBox/main/lib/金牌影视.js"},
+ {
+      "key": "小雷",
+      "name": "小雷",
+      "type": 3,
+      "api": "csp_PanTa",
+      "jar": "https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",  
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "siteUrl": "https://www.leijing1.com/",
+        "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"
+      }
+    },
 
  {
       "key": "TGYunPanLocal影巢",
@@ -241,8 +247,9 @@
 {"key":"csp_QxiTv","name":"雷蒙影视 | 7️⃣7喜影院(SP)","type":3,"api":"csp_QxiTv","jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w55xy.com/"},
 {"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","jar": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem1104.jar","searchable":1,"quickSearch":1,"filterable":1},
- 
-
+ {"key":"csp_WoGG","name":"🎈4KK┃玩偶网盘","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gitee.com/fyxs2/1974/raw/min/js/自己网盘ID.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"夜猫短剧","name":"🎦夜猫短剧","type":3,"api":"csp_YMduanju","jar":"http://74.120.175.78/JK/XYQTVBox/ymz_0509.jar","searchable":1,"quickSearch":1,"filterable":1},
+        {"key":"星芽短剧","name":"🎦星芽短剧","type":3,"api":"csp_AppXY","searchable":1,"quickSearch":0,"filterable":0,"jar":"http://74.120.175.78/JK/XYQTVBox/spider0529.jar"},
 
    {"key":"点播","name":"🦌┃直播┃点播","type":4,"api":"http://zhangqun66.com/zh/2241-2.php","searchable":1,"changeable":0},
 {
@@ -3731,18 +3738,19 @@
     },
 {
       "key": "玩偶gg",
-      "name": "😎玩偶gg",
+      "name": "玩偶 | 饭",
       "type": 3,
       "api": "csp_Wogg",
-      "jar":"https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",
+      "jar":"https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",  
       "searchable": 1,
       "changeable": 0,
       "ext": {
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json",
-        "siteUrl": "https://www.wogg.bf/",
+        "siteUrl": "https://www.wogg.net/",
         "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
     },
+
     {
       "key": "玩偶 | 木偶",
       "name": "😎玩偶 | 木偶",
@@ -3753,7 +3761,7 @@
       "changeable": 0,
       "ext": {
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json",
-        "siteUrl": "http://mogg.xn--yetu07f.top/",
+        "siteUrl": "http://www.muoupan.top/",
         "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
     },
@@ -3772,9 +3780,11 @@
         "filter": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"
       }
     },
+
+
 {
       "key": "紙條搜",
-      "name": "😎真心紙條搜",
+      "name": "😎紙條搜",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
       "jar":"https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",
