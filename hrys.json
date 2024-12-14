@@ -1,4 +1,4 @@
-﻿{
+{
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733932725378/fan.txt;md5;f98827d83bb8ca104b0b1ead61a98c5b",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
@@ -142,7 +142,538 @@
         "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"
       }
     },
-
+{
+            "key": "nodejs_iqiyi_奇异视频",
+            "name": "奇异视频",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/iqiyi",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_qq_腾讯视频",
+            "name": "腾讯视频",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/qq",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_mgtv_芒果视频",
+            "name": "芒果视频",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/mgtv",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_youku_优酷视频",
+            "name": "优酷视频",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/youku",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar", 
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_bilibili_哔哩哔哩",
+            "name": "哔哩哔哩",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/bilibili",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",   
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_kan360_三六零源",
+            "name": "三六零源",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/kan360",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_libo_立波影视",
+            "name": "立播影视",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/libo",
+            "searchable": 1,
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_zxzj_在线之家",
+            "name": "在线之家",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/zxzj",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_nmys_农民影视",
+            "name": "农民影视",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/nmys",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_share_网盘分享",
+            "name": "网盘合集",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/share",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "style": {
+                "type": "list"
+            },
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+  {
+            "key": "nodejs_xiaomi_小米网盘",
+            "name": "小米网盘",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/xiaomi",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",  
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_labi_蜡笔网盘",
+            "name": "蜡笔网盘",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/labi",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",    
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_mogg_木偶网盘",
+            "name": "木偶网盘",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/mogg",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar", 
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_mihdr_至臻网盘",
+            "name": "至臻网盘",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/mihdr",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_duoduo_多多网盘",
+            "name": "多多网盘",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/duoduo",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_nxog_讴歌网盘",
+            "name": "讴歌网盘",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/nxog",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_liuqu_六趣网盘",
+            "name": "六趣网盘",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/liuqu",
+            "searchable": 1,
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",  
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+{
+            "key": "nodejs_iptv6_直播",
+            "name": "在线直播",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/iptv",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 0,
+            "quickSearch": 0,
+            "changeable": 0,
+            "filterable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_star2_星剧社源",
+            "name": "星剧社源",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/star2",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",  
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "nodejs_yingso_云盘影搜",
+            "name": "云盘影搜",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/yingso",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "guaguale115",
+            "name": "TG-妖舞①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/guaguale115",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",  
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "oneonefivewpfx",
+            "name": "TG-妖舞②",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/oneonefivewpfx",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "hao115",
+            "name": "TG-妖舞③",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/hao115",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "vip115hot",
+            "name": "TG-妖舞④",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/vip115hot",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "shareAliyun",
+            "name": "TG-阿里①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/shareAliyun",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "dianyingshare",
+            "name": "TG-阿里②",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/dianyingshare",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "qixingzhenren",
+            "name": "TG-阿里③",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/qixingzhenren",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar", 
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "kuakeyun",
+            "name": "TG-夸克①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/kuakeyun",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "Quark_Movies",
+            "name": "TG-夸克②",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/Quark_Movies",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "longzbija",
+            "name": "TG-夸克③",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/longzbija",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "Quark_Share_Channel",
+            "name": "TG-夸克④",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/Quark_Share_Channel",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",  
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "yunpanshare",
+            "name": "TG-夸克⑤",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/yunpanshare",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",   
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "yunpanpan",
+            "name": "TG-云盘①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/yunpanpan",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "alyp_4K_Movies",
+            "name": "TG-云盘②",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/alyp_4K_Movies",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "XiangxiuNB",
+            "name": "TG-云盘③",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/XiangxiuNB",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "alyp_TV",
+            "name": "TG-剧集①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/alyp_TV",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "Lossless_Yinyue",
+            "name": "TG-音乐①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/Lossless_Yinyue",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "alyp_Animation",
+            "name": "TG-动漫①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/alyp_Animation",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",  
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+        {
+            "key": "xunleibl",
+            "name": "TG-迅雷①",
+            "type": 4,
+            "api": "http://211.149.154.162:8080/video/xunleibl",
+            "jar":"https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "header": {
+                "token": "justDoIt$2024"
+            }
+        },
+ {
+            "key": "drpy_js_厂长资源",
+            "name": "厂长资源",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/libs/drpy/drpy2.min.js",
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/js/drpy/影视/厂长资源.js"
+        },
+        {
+            "key": "drpy_js_低端影视",
+            "name": "低端影视",
+            "type": 3,
+            "api": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/libs/drpy/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://ghp.ci/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/js/drpy/影视/低端影视.js"
+        },
  {
       "key": "TGYunPanLocal影巢",
       "name": "TG影巢🍹專屬|网盘搜索",
@@ -3886,7 +4417,88 @@
 {"key":"风中知秋","name":"🌀风中知秋┃4K弹幕","type":3,"api":"csp_AppYsV3","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733373805954/PandaQ241205v2.txt;md5;eda955bd039c70e212ce10aecddc4fc8","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cmsApis":"UP4wckC350BpK3+jAtNI2bALiFmoKuT3saBr3tEJwib2fyd/xcLxfgaGGQQtWFUy","jxApi":"Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY","prefix":"Vjg339EykTqCGOzkWu38CGyBHHEtp7snRpwV7kGvMmk="}},
 {"key":"炉火茶香","name":"🌀炉火茶香┃4K弹幕","type":3,"api":"csp_AppYsV3","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733373805954/PandaQ241205v2.txt;md5;eda955bd039c70e212ce10aecddc4fc8","searchable":1,"quickSearch":1,"filterable":1,"ext":{"cmsApis":"UP4wckC350BpK3+jAtNI2blhjGe5XpRJzt28WdKpAOLIdkF5c7qnry0vLSuNURpG","jxApi":"Wej8dsjSOejyktB12mocSLWTi825PIxEG4czSppvUqp1CDqccQ6jsoQpTPy0wQZY","prefix":"dJfwfXAVjjaQz8j4tCkylOzM25rS6UDt2JFvGkrFC/U="}},
 
-    {"key":"至臻","name":"💌至臻","type":3,"api":"csp_kongbai",  "jar":"https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",  "searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json","siteUrl":"http://mucpan.cc","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},     
+    {"key":"至臻","name":"💌至臻","type":3,"api":"csp_kongbai",  "jar":"https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",  "searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json","siteUrl":"http://mucpan.cc","filter":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/wogg.json"}},   
+{
+      "key": "Youtube",
+      "name": "😎Youtube",
+      "type": 3,
+      "api": "csp_Youtube",
+      "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar",    
+      "searchable": 1,
+      "changeable": 1,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json",
+        "json": "https://git.acwing.com/805598571/666/-/raw/main/json/youtube.json",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "lf_live10_min",
+      "name": " 😎路飞丨Live",
+      "type": 3,
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://git.acwing.com/805598571/666/-/raw/main/js/lf_live10_min-output.js",
+      "ext": "https://git.acwing.com/805598571/666/-/raw/main/json/lf_live.json"
+    },
+    {
+      "key": "哔哩FM",
+      "name": "😎哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar",      
+      "searchable": 1,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
+      },
+      "ext": {
+        "json": "https://git.acwing.com/805598571/666/-/raw/main/json/bilibili.json",
+        "cookie": ""
+      }
+    },
+    {
+      "key": "TgYunPan|本地",
+      "name": "😎TgYunPan|本地",
+      "type": 3,
+      "api": "csp_TgYunPanLocal",
+      "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "switchable": 0,
+      "ext": {
+        "channelUsername": "ucpanpan,ydypzyfx,tianyi_pd2,hao115,guaguale115,longzbija,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe",
+        "commonConfig": "https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"
+      }
+    },
+ {
+      "key": "賤賤",
+      "name": "😎賤賤",
+      "type": 3,
+      "api": "csp_Jianpian",
+      "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://ghp.ci/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/jianpian.json"
+    },
+    {
+      "key": "AList",
+      "name": "😎AList",
+      "type": 3,
+      "api": "csp_AList",
+      "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "https://git.acwing.com/805598571/666/-/raw/main/json/alist.json"
+    },
+  
 {
       "key": "星剧社",
       "name": "😎星剧社",
