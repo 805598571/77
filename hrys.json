@@ -65,7 +65,7 @@
         },
   {
             "key": "影视配置",
-            "name": "影视｜配置",
+            "name": "😎影视｜配置",
             "type": 3,
             "api": "csp_Wexconfig",
             "searchable": 0,
@@ -75,7 +75,7 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "jar": "http://127.0.0.1:9978/file/TVBoxOSC/本地仓/wex.jar"
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/wex.jar"
         },
 
   {
