@@ -3848,7 +3848,7 @@
             "name": "😎小米｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-           "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5", 
+            "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",  
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -3882,7 +3882,7 @@
             "name": "😎潇洒小纸条｜弹幕",
             "type": 3,
             "api": "csp_XiaoZhiTiao",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",              "searchable": 1,
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",                 "searchable": 1,  
             "filterable": 1,
             "changeable": 0,
             "ext": {
@@ -3982,7 +3982,7 @@
             "name": "😎搜索｜弹幕",
             "type": 3,
             "api": "csp_PanSearch",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",              "searchable": 1,   
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",                 "searchable": 1,    
             "filterable": 0,
             "changeable": 1,
             "ext": {
@@ -3996,11 +3996,11 @@
             "name": "😎云云｜弹幕",
             "type": 3,
             "api": "csp_Upys",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",              "searchable": 1,    
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",                 "searchable": 1,      
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -4010,12 +4010,12 @@
             "name": "😎云搜｜弹幕",
             "type": 3,
             "api": "csp_UpYun",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",  
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",  
             "searchable": 1,
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://git.acwing.com/pxiptv/tv/-/raw/main/token.txt",
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -4024,13 +4024,13 @@
             "name": "😎欧哥｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar": "https://ghp.ci/https://raw.githubusercontent.com/805598571/77/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                 "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+                 "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://woog.nxog.eu.org",
