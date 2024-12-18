@@ -4061,7 +4061,7 @@
 
 {"key":"比特","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 
-{"key":"Wexhanjutv","name":"🌺韩剧┃秒播🌺","type":3,"api":"csp_Wexhanjutv",jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727784528961/wex.txt;md5;e4d01b08559fb19c33e964e2ca421b87", "searchable":1,"changeable":1},
+{"key":"Wexhanjutv","name":"🌺韩剧┃秒播🌺","type":3,"api":"csp_Wexhanjutv","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1727784528961/wex.txt;md5;e4d01b08559fb19c33e964e2ca421b87", "searchable":1,"changeable":1},
 {"key":"达达龟","name":"🐢达龟┃蓝光┃纯净","type":3,"api":"csp_Dadag","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"大米星球","name":"🌌大米┃星球┃蓝光","type":3,"api":"csp_AppDaMi","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"笔触琉璃","name":"😎笔触琉璃┃4K极影","type":3,"api":"csp_Bilimd","jar":"http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable":1,"quickSearch":1,"filterable":1,"style":{"type":"rect","ratio":1.433},
@@ -5677,7 +5677,7 @@
 {"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6b3b5a4a16a424395f656ce73a79eff0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://www.mucpan.cc/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
 {"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6b3b5a4a16a424395f656ce73a79eff0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
 {"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6b3b5a4a16a424395f656ce73a79eff0","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6b3b5a4a16a424395f656ce73a79eff0","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
+{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6b3b5a4a16a424395f656ce73a79eff0","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
 {
 			"key": "Zhaozy",
 			"name": "🏥找资源┃云搜",
@@ -6138,7 +6138,7 @@
             "name": "👺兄弟影视[优](DRPY)",
             "type": 3,
             "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/兄弟影视[优].js"
+            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/兄弟影视[优].js"
         },
         {
             "key": "drjs_哔嘀影视[优]",
