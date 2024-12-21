@@ -1,5 +1,5 @@
 {
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1733932725378/fan.txt;md5;f98827d83bb8ca104b0b1ead61a98c5b",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734602329530/fan.txt;md5;7c6dbc73b47bcff6a7744f6aecedebc2",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -118,6 +118,7 @@
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/"},
 {"key":"csp_Jiaozi","name":"🔱饺子","type":3,"api":"csp_Jiaozi","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1},
+
   {
             "key": "厂长弹幕",
             "name": "厂长｜弹幕",
@@ -219,6 +220,7 @@
             "name": "小苹果｜弹幕",
             "type": 3,
             "api": "csp_Xpg",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",        
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -231,7 +233,7 @@
             "name": "荐片｜弹幕",
             "type": 3,
             "api": "csp_Jianpian",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",  
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -259,7 +261,7 @@
             "name": "农民｜影视",
             "type": 3,
             "api": "csp_Nmys",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",  
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -270,7 +272,7 @@
             "name": "全网｜影视",
             "type": 3,
             "api": "csp_Quanwk",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",     
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",     
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -281,7 +283,7 @@
             "name": "看客｜影视",
             "type": 3,
             "api": "csp_Kanke",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5", 
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -292,7 +294,7 @@
             "name": "疯狗｜影视",
             "type": 3,
             "api": "csp_FengGo",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -612,7 +614,7 @@
             "name": "🔱农民影视",
             "type": 4,
             "api": "http://211.149.154.162:8080/video/nmys",
-            "jar":https://gh.llkk.cc/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
+            "jar":"https://gh.llkk.cc/https://raw.githubusercontent.com/MrArven/TVBoxConfig/main/jars/t4.jar",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 0,
@@ -1077,457 +1079,29 @@
          }
 },
 {
-      "key": "djmv",
-      "name": "音乐-DJMV(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/djmv.php"
-    },
-  
-    {
-      "key": "T4-douban",
-      "name": "影视-豆瓣(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/douban.php"
-    },
-    {
-      "key": "T4-yugaopian",
-      "name": "影视-预告片(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/yugaopian.php"
-    },
-    {
-      "key": "yinyue",
-      "name": "音乐-258(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/yyyy.php"
-    },
-    
-    {
-      "key": "T4-剧圈",
-      "name": "影视-剧圈(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/juquan.php"
-    },
-    {
-      "key": "T4-黑狐",
-      "name": "影视-黑狐(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/heihu.php"
-    },
-    {
-      "key": "T4-jp",
-      "name": "影视-荐片(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/jianpian.php"
-    },
-    {
-      "key": "T4-南瓜",
-      "name": "影视-南瓜(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/nangua.php"
-    },
-    {
-      "key": "T4-极光",
-      "name": "影视-极光(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/jiguang.php"
-    },
-    {
-      "key": "T4-fj",
-      "name": "影视-腐剧(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/fuju.php"
-    },
-    {
-      "key": "T4-caiji",
-      "name": "影视-采集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/caiji.php"
-    },
-    {
-      "key": "T4-xinshijue",
-      "name": "影视-新视觉(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/xinshijue.php"
-    },
-    {
-      "key": "T4-saohuo",
-      "name": "影视-骚火(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/saohuo.php"
-    },
-    {
-      "key": "T4-mmdj",
-      "name": "短剧-MM(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/mmdj.php"
-    },
-    {
-      "key": "T4-pptv",
-      "name": "影视-皮皮(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/pptv.php"
-    },
-    {
-      "key": "T4-mingri",
-      "name": "影视-明日(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/mingri.php"
-    },
-    {
-      "key": "T4-jrkan",
-      "name": "其他-jr看球(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/jrkan.php"
-    },
-    {
-      "key": "T4-suishenting",
-      "name": "其他-随身听(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/suishenting.php"
-    },
-    {
-      "key": "T4-6v",
-      "name": "磁力-6V(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/6v.php"
-    },
-    {
-      "key": "T4-哔嘀",
-      "name": "磁力-哔嘀(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bdys.php"
-    },
-    {
-      "key": "T4-樱花",
-      "name": "动漫-樱花(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/yinghua.php"
-    },
-    {
-      "key": "T4-dongman",
-      "name": "动漫-巴士(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/dm84.php"
-    },
-    {
-      "key": "T4-xifan",
-      "name": "动漫-稀饭(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/xifan.php"
-    },
-    {
-      "key": "T4-jijiu",
-      "name": "其他-急救(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/jijiu.php"
-    },
-    {
-      "key": "T4-qingting",
-      "name": "音乐-蜻蜓(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/qingting.php"
-    },
-    {
-      "key": "T4-qingfeng",
-      "name": "音乐-清风(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/qingfengdj.php"
-    },
-    {
-      "key": "T4-qiertiyu",
-      "name": "体育-企鹅(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/qietiyu.php"
-    },
-    {
-      "key": "T4-bookan",
-      "name": "听书-博看(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bookan.php"
-    },
-    {
-      "key": "T4-tingshu",
-      "name": "其他-275听书(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/275ts.php"
-    },
-    {
-      "key": "T4-360kq",
-      "name": "其他-看球(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/360kq.php"
-    },
-    {
-      "key": "T4-cctv",
-      "name": "其他-央视(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/cctv.php"
-    },
-    {
-      "key": "T4-cntv",
-      "name": "其他-央视2(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/cntv.php"
-    },
-    {
-      "key": "T4-blh",
-      "name": "儿童-贝乐虎(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/beilehu.php"
-    },
-    {
-      "key": "tuxiaobei",
-      "name": "儿童-兔小贝(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/tuxiaobei.php"
-    },
-    {
-      "key": "T4-iktv",
-      "name": "音乐-iktv(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/iktv.php"
-    },
-    {
-      "key": "T4-tangdou",
-      "name": "音乐-糖豆(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/tangdou.php"
-    },
-    {
-      "key": "yinyuetai",
-      "name": "音乐-音悦(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/yyt.php"
-    },
-    {
-      "key": "xiaoyi",
-      "name": "音乐-小姨(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/wy.php"
-    },
-    {
-      "key": "MV",
-      "name": "音乐-酷奇(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/mv2.php"
-    },
-    {
-      "key": "T4-xiaogou",
-      "name": "音乐-小狗(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/xiaogou.php"
-    },
-    {
-      "key": "T4-djuu",
-      "name": "音乐-DJUU(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/djuu.php"
-    },
-    {
-      "key": "T4-a8",
-      "name": "音乐-A8(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/a8.php"
-    },
-    {
-      "key": "T4-jieshuo",
-      "name": "B站-解说(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=影视解说"
-    },
-    {
-      "key": "T4-bmtv",
-      "name": "B站-MTV(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=bMTV"
-    },
-    {
-      "key": "T4-Blixs",
-      "name": "B站-相声(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=Blixs"
-    },
-    {
-      "key": "T4-Blixq",
-      "name": "B站-戏曲(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=Blixq"
-    },
-    {
-      "key": "T4-Bliych",
-      "name": "B站-演唱会(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=Bliych"
-    },
-    {
-      "key": "T4-mybili",
-      "name": "B站-mybili(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=我的哔哩"
-    },
-    {
-      "key": "T4-bili",
-      "name": "B站-哔哩(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php"
-    },
-    {
-      "key": "T4-waiyu",
-      "name": "B站-外语(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=waiyu"
-    },
-    {
-      "key": "T4-bili1",
-      "name": "B站-幼儿(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=少儿教育"
-    },
-    {
-      "key": "T4-bili2",
-      "name": "B站-小学(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=小学课堂"
-    },
-    {
-      "key": "T4-bili3",
-      "name": "B站-初中(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=初中课堂"
-    },
-    {
-      "key": "T4-bili4",
-      "name": "B站-高中(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=高中课堂"
-    },
-    {
-      "key": "T4-小灯塔科学",
-      "name": "B站-小灯塔科学(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=小灯塔科学"
-    },
-    {
-      "key": "T4-小灯塔地理",
-      "name": "B站-小灯塔地理(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=小灯塔地理"
-    },
-    {
-      "key": "T4-小灯塔百科",
-      "name": "B站-小灯塔百科(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=小灯塔百科"
-    },
-    {
-      "key": "T4-小灯塔国学",
-      "name": "B站-小灯塔国学(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=小灯塔国学"
-    },
-    {
-      "key": "T4-儿童口才",
-      "name": "B站-儿童口才(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童口才"
-    },
-    {
-      "key": "T4-儿童拼音",
-      "name": "B站-儿童拼音(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童拼音"
-    },
-    {
-      "key": "T4-儿童识字",
-      "name": "B站-儿童识字(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童识字"
-    },
-    {
-      "key": "T4-儿童思维",
-      "name": "B站-儿童思维(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童思维"
-    },
-    {
-      "key": "T4-儿童英语",
-      "name": "B站-儿童英语(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童英语"
-    },
-    {
-      "key": "T4-儿童硬笔",
-      "name": "B站-儿童硬笔(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童硬笔"
-    },
-    {
-      "key": "T4-儿童编程",
-      "name": "B站-儿童编程(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童编程"
-    },
-    {
-      "key": "T4-儿童武术",
-      "name": "B站-儿童武术(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=儿童武术"
-    },
-    {
-      "key": "T4-哔哩套餐1",
-      "name": "B站-哔哩套餐1(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=哔哩套餐1"
-    },
-    {
-      "key": "T4-哔哩套餐2",
-      "name": "B站-哔哩套餐2(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=哔哩套餐2"
-    },
-    {
-      "key": "T4-软件教程",
-      "name": "B站-软件教程(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=软件教程"
-    },
-    {
-      "key": "T4-合集",
-      "name": "B站-合集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=合集"
-    },
-    {
-      "key": "T4-美食",
-      "name": "B站-美食(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=美食"
-    },
-    {
-      "key": "T4-中医",
-      "name": "B站-中医(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=中医"
-    },
-    {
-      "key": "T4-球类合集",
-      "name": "B站-球类合集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=球类合集"
-    },
-    {
-      "key": "T4-球星合集",
-      "name": "B站-球星合集(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/bili.php?id=球星合集"
-    },
-    {
-      "key": "T4-whzb",
-      "name": "游戏(T4)",
-      "type": 4,
-      "api": "https://catbox.n13.club/t4/whzb.php"
-    },
+            "key": "csp_月光小雅",
+            "name": "♑月光小雅",
+            "changeable": 0,
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "searchable": 1,
+            "ext": "eyJhcGkiOiJodHRwOi8vMTE0LjIyNi4yMjguMjI1OjQ1NjciLCJ0b2tlbiI6IiJ9",
+            "filterable": 1,
+            "quickSearch": 1,
+            "jar": "http://114.226.228.225:4567/spring.jar"
+        },
+        {
+            "key": "csp_HXP小雅",
+            "name": "♐HXP小雅",
+            "api": "csp_XiaoYa",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "changeable": 0,
+            "searchable": 1,
+            "ext": "eyJhcGkiOiJodHRwOi8vNDIuMTkzLjE0OC4xNjA6NDU2NyIsInRva2VuIjoiIn0=",
+            "jar": "http://42.193.148.160:4567/spring.jar"
+        },
     {
       "key": "xuexi",
       "name": "线路|学习",
@@ -10821,6 +10395,94 @@
       "ext":"",
       "jar":"https://gitlab.com/hero1898/DSZB/-/raw/main/jar/fix12210.jar"
     },
+ {
+            "key": "赵本山小品网①",
+            "name": "🥬本山①┃小品",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "gb2312",
+                "数组": "<li><a class=\"img&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "image:url(&&)",
+                "副标题": "data-desc=\"&&\"",
+                "链接": "href=\"&&\"",
+                "主页url": "http://m.u77.net/",
+                "分类": "赵本山$9#赵本山电影$46#赵本山电视剧$47#本山选谁上春晚$48#本山快乐营$49#历届春晚$3#动画小品$4#欢乐喜剧人$161#今夜现场秀$375#组团上春晚$294#欢乐送$305#笑动剧场$346#欢乐中国人$347#娱乐乐翻天$349#我爱满堂彩$352#喜剧班的春天$357#开心剧乐部$358#笑动欢乐秀$353#笑声传奇$355#哎呀妈呀$354#元宵晚会$350#我看你有戏$218#一起来笑吧$219#笑动2015$250#笑动2016$300#潮汕小品$255#笑傲江湖$273#欢乐集结号$303#笑傲帮$310#喜剧者联盟$315#我为喜剧狂$328#爱笑会议室$331#喜乐街$332#跨界喜剧王$334#喜剧总动员$335#欢乐饭米粒儿$336#关东微喜剧$338#今夜百乐门$339#寻笑人$340#憋住不准笑$343#笑星闯地球$344#周六夜现场$378#相声有新人$379#笑礼相迎$380#动画相声$7#天津相声俱乐部$359#宽和茶园$356#嘻哈包袱铺$360#德云社$89#郭德纲$309#岳云鹏$306#烧饼$308#单口相声$329#马三立$361#相声新势力$376",
+                "分类url": "/xiaopin/{cateId}.html;;z"
+            }
+        },
+        {
+            "key": "赵本山小品网②",
+            "name": "🥬本山②┃戏曲",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "gb2312",
+                "数组": "<li><a class=\"img&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "image:url(&&)",
+                "副标题": "data-desc=\"&&\"",
+                "链接": "href=\"&&\"",
+                "主页url": "http://m.u77.net/",
+                "分类": "豫剧$96#梨园春$286#京剧$97#黄梅戏$129#晋剧$130#越剧$142#秦腔大全$143#莆仙戏$144#河北梆子$145#锡剧$146#川剧$148#潮剧$149#评剧$150#曲剧$151#花鼓戏$152#蒲剧$153#昆曲$154#粤剧$155#吕剧$156#莲花落$157#歌仔戏$158#淮剧$159#婺剧$160#河南坠子$162#闽剧$163#上党鼓书$164#沪剧$165#上党梆子$166#淮剧$167#庐剧$168#彩调剧$169#扬剧$170#大鼓$171#越调$172#琴书$173#大平调$174#楚剧$175#二人台$176#大秧歌$184#落子$185#柳琴戏$186#木偶戏$187#绍剧$188#丝弦$189#姚剧$190#温州鼓词$191#甬剧$192#湘剧$193#道情$194#赣剧$195#采茶戏$196#琼剧$197#苏州评弹$198#梨园戏$199#眉户$200#茂腔$201#芗剧$205#白字戏$206#泗州戏$207#四平调$208#桂剧$209#山歌剧$210#高甲戏$211#花灯戏$212#龙江剧$214#推剧$215#二夹弦$216#柳子戏$217#唢呐$243#大鼓书$259#莱芜梆子$271#皮影戏$272#扬琴戏$291#南音$369#汉剧$370#安徽民间小调$295#河南民间小调$296#刘晓燕民间小调$297#沂蒙小调$325",
+                "分类url": "/xiaopin/{cateId}.html;;z"
+            }
+        },
+        {
+            "key": "赵本山小品网③",
+            "name": "🥬本山③┃评书",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "gb2312",
+                "数组": "<li><a class=\"img&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "image:url(&&)",
+                "副标题": "data-desc=\"&&\"",
+                "链接": "href=\"&&\"",
+                "主页url": "http://m.u77.net/",
+                "分类": "北京评书大会$374#中国新相亲$348#社会人文$366#金牌调解$367#门当户对$368#荒野求生$371#爱情保卫战$364#调解面对面$365#单田芳$121#刘兰芳$122#田连元$123#袁阔成$124#连丽如$125#张少佐$126#王玥波$127#孙一$128#李伯清$330#脱口秀$337#陈翔六点半$341#都市笑口组$342#二人转正戏$132#二人转拉场戏$133#二人转小帽$134#二人转单出头$138#粗口二人转$140#二人转短剧$258#魏三$93#明星转起来$333#小黄飞$94#孙小宝$98#冯涛$372#小王刚$113#小沈阳$131#小豆豆$136#孙大美$139#闫学晶$141#郭旺$177#蒋小东$178#王小利$179#翟波$180#崔大笨$181#李毛毛$182#王小福$183#宋小宝二人转$220#程野$221#周云鹏$223#关小平$224#韩子平$225#田娃$226#小火苗$227#宋晓峰$228#赵晓波$229#张涛$230#唐鉴军$231#董明珠$232#秦志平$233#王金龙$234#王小虎$235#张小光$236#王小宝$237#蔡维利$238#王文轩$239#董孝芳$241#丫蛋/毛毛$256#何晓影$257#向阳/相阳$263#张小飞$270#吉忠利$277#路小波$278#赵小军$279#闫书平$280#李晓霞$282#闫光明$283#闫淑萍$284#徐云鹏$298#小矮人$312#盛喆$313#郑淑云$326#董玮$327#孙晓丽$362#尹维民$363",
+                "分类url": "/xiaopin/{cateId}.html;;z"
+            }
+        },
+        {
+            "key": "赵本山小品网④",
+            "name": "🥬本山④┃舞蹈",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://ghp.ci/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/jar/xyqxbpq.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "gb2312",
+                "数组": "<li><a class=\"img&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "image:url(&&)",
+                "副标题": "data-desc=\"&&\"",
+                "链接": "href=\"&&\"",
+                "主页url": "http://m.u77.net/",
+                "分类": "玫香广场舞$351#百姓健康舞$102#广播体操$112#中老年操$287#广场舞教学$137#八段锦$240#郑多燕减肥舞$262#太极拳$242#易筋经$275#糖豆广场舞$244#辣妈广场舞$135#春英广场舞$245#动动广场舞$246#美久广场舞$247#云裳广场舞$248#茉莉广场舞$249#青儿广场舞$251#杨艺广场舞$252#刘荣广场舞$253#高安子君广场舞$254#迪斯科广场舞$260#格格广场舞$261#新风尚广场舞$265#応子广场舞$266#周思萍广场舞$267#紫蝶踏歌广场舞$268#舞动旋律2007健身队$269#博白廖弟广场舞$274#张春丽广场舞$276#馨梅广场舞$281#金芙蓉广场舞$288#新生代广场舞$290#金灿灿广场舞$292#陶然亭水兵舞$293#宇美广场舞$299#阿采广场舞$302#孕妇操$304#武林风$285#幼儿舞蹈$307#米悠悠广场舞$314#吕芳广场舞$316#穿心村广场舞$317#王广成广场舞$318#惠汝广场舞$319#舞灵美娜子广场舞$320#青青世界广场舞$321#小君广场舞$322#南昌玲玲广场舞$323#吉美广场舞$324#就爱名师教你跳$373",
+                "分类url": "/xiaopin/{cateId}.html;;z"
+            }
+        },
 {"key":"drpy_js_酷狗MV","name":"💋MV | 酷狗[js]","type":3,"api":"https://raw.nuaa.cf/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://raw.nuaa.cf/hjdhnx/dr_py/main/js/酷狗MV.js"},
 {
       "key": "戏曲杂苑",
