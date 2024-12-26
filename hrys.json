@@ -121,7 +121,7 @@
 {"key":"Gitcafe","name":"阿里|小纸条","type":3,"api":"csp_Gitcafe",  "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;3d6cefe43d7e180834017f2c75822200","searchable":1,"quickSearch":1,"filterable":0,"timeout":30,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/ab.json"},
   {
             "key": "厂长弹幕",
-            "name": "厂长｜弹幕",
+            "name": "️厂长｜弹幕",
             "type": 3,
             "api": "csp_Czzy",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",
@@ -134,7 +134,7 @@
         },
         {
             "key": "天天弹幕",
-            "name": "天天｜弹幕",
+            "name": "️天天｜弹幕",
             "type": 3,
             "api": "csp_TianTian",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",   
@@ -147,7 +147,7 @@
         },
         {
             "key": "热播弹幕",
-            "name": "热播｜弹幕",
+            "name": "️热播｜弹幕",
             "type": 3,
             "api": "csp_ReBo",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -160,7 +160,7 @@
         },
         {
             "key": "糯米弹幕",
-            "name": "糯米｜弹幕",
+            "name": "️糯米｜弹幕",
             "type": 3,
             "api": "csp_Nmys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",     
@@ -173,7 +173,7 @@
         },
         {
             "key": "文才弹幕",
-            "name": "文才｜弹幕",
+            "name": "️文才｜弹幕",
             "type": 3,
             "api": "csp_Jpys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",   
@@ -186,7 +186,7 @@
         },
         {
             "key": "哔哩弹幕",
-            "name": "哔哩｜弹幕",
+            "name": "️哔哩｜弹幕",
             "type": 3,
             "api": "csp_Bilimd",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -204,7 +204,7 @@
         },
   {
             "key": "机器人弹幕",
-            "name": "机器人｜弹幕",
+            "name": "️机器人｜弹幕",
             "type": 3,
             "api": "csp_Ikanbot",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",     
@@ -217,7 +217,7 @@
         },
         {
             "key": "小苹果弹幕",
-            "name": "小苹果｜弹幕",
+            "name": "️小苹果｜弹幕",
             "type": 3,
             "api": "csp_Xpg",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",        
@@ -230,7 +230,7 @@
         },
         {
             "key": "荐片弹幕",
-            "name": "荐片｜弹幕",
+            "name": "️荐片｜弹幕",
             "type": 3,
             "api": "csp_Jianpian",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -244,7 +244,7 @@
         },
         {
             "key": "哔嘀弹幕",
-            "name": "哔嘀｜弹幕",
+            "name": "️哔嘀｜弹幕",
             "type": 3,
             "api": "csp_Bdys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -258,7 +258,7 @@
         },
    {
             "key": "农民影视",
-            "name": "农民｜影视",
+            "name": "️农民｜影视",
             "type": 3,
             "api": "csp_Nmys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -269,7 +269,7 @@
 
  {
             "key": "全网影视",
-            "name": "全网｜影视",
+            "name": "️全网｜影视",
             "type": 3,
             "api": "csp_Quanwk",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",     
@@ -280,7 +280,7 @@
         },
         {
             "key": "看客影视",
-            "name": "看客｜影视",
+            "name": "️看客｜影视",
             "type": 3,
             "api": "csp_Kanke",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar", 
@@ -291,7 +291,7 @@
         },
     {
             "key": "疯狗影视",
-            "name": "疯狗｜影视",
+            "name": "️疯狗｜影视",
             "type": 3,
             "api": "csp_FengGo",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",
@@ -301,7 +301,7 @@
         },
   {
             "key": "铁剧影视",
-            "name": "铁剧｜影视",
+            "name": "️铁剧｜影视",
             "type": 3,
             "api": "csp_WebBr",
             "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -311,7 +311,7 @@
         },
         {
             "key": "真心影视",
-            "name": "真心｜影视",
+            "name": "️真心｜影视",
             "type": 3,
             "api": "csp_WebGZ",
             "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",   
@@ -321,7 +321,7 @@
         },
         {
             "key": "耐看影视",
-            "name": "耐看｜影视",
+            "name": "️耐看｜影视",
             "type": 3,
             "api": "csp_WebNK",
             "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",   
@@ -330,8 +330,8 @@
             "filterable": 1
         },
 
-{"key":"攻阁","name":"攻阁┃App","type":3,"api":"csp_Appto", "jar": "http://ygbhbox.3vfree.club/pg/pg.jar","searchable":0,"playerType":2,"ext":"cepveeMdL3qzBp3D86fBcgucTPCRb88AXoITrxvmypEbJbvnC/4ipv8+gLYBHlIYBFWfcZr3fkzfxQ8gAmZel3ej+I4REk7LnHUBNtZ9P0S97uBwswzPtz3voKW2TcVbBKQNmA2XowTEbiwPTJTkP8H3KpHtipqyoPNDOoDXGviUlUQqn3+A8FSXDyoySvEvG3eTw64Pj48USmhQvQPG8Jvhpo9+YRSg3pa6vv9hUjYmgheP1X8rA6zqy9N4L++/NL5gszaaf8yH4omdSxtYrj330jkXC4vPWU5fE4p6vRrq7mxA5Bp48Lhp3GjrKDyoOjBrI7+yvKarHhyoklswLFD3vfmM4J3osXIoUnwpXBBktdkDgFzUHvxY8BUeCTMBIPQfGiS8v88z6OPR8ven+KdreBl8BV6RqFK7vHb/OM9O5qLNpsPNSImbet1tdaAbSyEUxNUjplKpbGCxM5RZgcdyl/prki2aDcpICE54hcagK8d0JvmohzpLE2xper9AdIP1lD+sYndodhIYejNPFP3BiKPdRkBTrcQbicyp9oA6OIg2/aoJRvH1tai/OcozC5DaT0TPg1eo1NhodMKHa/CZ3Srg0ij9ocYwbX/e42JrBCgnp0gCph/oz7EipyUDI3n437r/skJ/cDEPColQ8PfT2LQE7hPGbp1/mDG3aKLNSuVCiMkQy66a6jyfyPKd8GqzpkGPCrPpneBNsMjGqLCveMl/PgXloTG7BZbg+X0VoXpCjOC3u9n2/Z4xqdnc+Dhw1LBXpdhvLKKl6d9K6/dOVgWRIfYx2I5DPQn79fU47+UkPxPA7qAaU0v9tRXYKXfRh2yJcijXre4/JzBxSmR2owrKVmnXcwBlsIseor36jbISj4TJdA+gVP5Ayfh5a09kpFDYvuPTgRhs4O2z2t3LBnQzLE3KBT2xPznJurYInw7P4yVxDOhpFkGGPZNV/+ehl9CcWwhZzUvHqtPD2zqZXKZvgB3BxR4b1NTgtRY+h28BFD4N9ejY5aJ9yS50kXYTIhXvwrzbRAjHLf+sj4t0gybV7S4osR92WoOyf3rpyeUQdO+9Bqfl5fWvqVl9tMC7/ukkgqlb2p+R1TLbiqD+ruQNMYGdETK4Nl4dkgUVOxOmabWH6RjKiykA5GQWKwo2PLrxE4fwhgkNCYlVDP8gYUBPdo5SeXM7p2ZKrRs7hlFGA2WbSnC4Ni05mwCmlOw9pJzbCXUMalJcD+9b53sLKgb4JYWjEmPe1/4fpH+xwZPlNDjQXGVolNxGkUodNzUFTECEWZLjGtqwQiQYNrErYXRYfea5Vx02WW1JyrHbYJ4FJv61h1KQ6fXAxty+OdtMTU95TwpNr8E62aFNSMQ==$$$null$$$1"},
-{"key":"皮皮虾","name":"🦞皮皮吃虾┃4K纯净","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://38.55.250.149:1314/api.php/app/"},
+{"key":"攻阁","name":"️攻阁┃App","type":3,"api":"csp_Appto", "jar": "http://ygbhbox.3vfree.club/pg/pg.jar","searchable":0,"playerType":2,"ext":"cepveeMdL3qzBp3D86fBcgucTPCRb88AXoITrxvmypEbJbvnC/4ipv8+gLYBHlIYBFWfcZr3fkzfxQ8gAmZel3ej+I4REk7LnHUBNtZ9P0S97uBwswzPtz3voKW2TcVbBKQNmA2XowTEbiwPTJTkP8H3KpHtipqyoPNDOoDXGviUlUQqn3+A8FSXDyoySvEvG3eTw64Pj48USmhQvQPG8Jvhpo9+YRSg3pa6vv9hUjYmgheP1X8rA6zqy9N4L++/NL5gszaaf8yH4omdSxtYrj330jkXC4vPWU5fE4p6vRrq7mxA5Bp48Lhp3GjrKDyoOjBrI7+yvKarHhyoklswLFD3vfmM4J3osXIoUnwpXBBktdkDgFzUHvxY8BUeCTMBIPQfGiS8v88z6OPR8ven+KdreBl8BV6RqFK7vHb/OM9O5qLNpsPNSImbet1tdaAbSyEUxNUjplKpbGCxM5RZgcdyl/prki2aDcpICE54hcagK8d0JvmohzpLE2xper9AdIP1lD+sYndodhIYejNPFP3BiKPdRkBTrcQbicyp9oA6OIg2/aoJRvH1tai/OcozC5DaT0TPg1eo1NhodMKHa/CZ3Srg0ij9ocYwbX/e42JrBCgnp0gCph/oz7EipyUDI3n437r/skJ/cDEPColQ8PfT2LQE7hPGbp1/mDG3aKLNSuVCiMkQy66a6jyfyPKd8GqzpkGPCrPpneBNsMjGqLCveMl/PgXloTG7BZbg+X0VoXpCjOC3u9n2/Z4xqdnc+Dhw1LBXpdhvLKKl6d9K6/dOVgWRIfYx2I5DPQn79fU47+UkPxPA7qAaU0v9tRXYKXfRh2yJcijXre4/JzBxSmR2owrKVmnXcwBlsIseor36jbISj4TJdA+gVP5Ayfh5a09kpFDYvuPTgRhs4O2z2t3LBnQzLE3KBT2xPznJurYInw7P4yVxDOhpFkGGPZNV/+ehl9CcWwhZzUvHqtPD2zqZXKZvgB3BxR4b1NTgtRY+h28BFD4N9ejY5aJ9yS50kXYTIhXvwrzbRAjHLf+sj4t0gybV7S4osR92WoOyf3rpyeUQdO+9Bqfl5fWvqVl9tMC7/ukkgqlb2p+R1TLbiqD+ruQNMYGdETK4Nl4dkgUVOxOmabWH6RjKiykA5GQWKwo2PLrxE4fwhgkNCYlVDP8gYUBPdo5SeXM7p2ZKrRs7hlFGA2WbSnC4Ni05mwCmlOw9pJzbCXUMalJcD+9b53sLKgb4JYWjEmPe1/4fpH+xwZPlNDjQXGVolNxGkUodNzUFTECEWZLjGtqwQiQYNrErYXRYfea5Vx02WW1JyrHbYJ4FJv61h1KQ6fXAxty+OdtMTU95TwpNr8E62aFNSMQ==$$$null$$$1"},
+{"key":"皮皮虾","name":"️皮皮吃虾┃4K纯净","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://38.55.250.149:1314/api.php/app/"},
 {
       "key": "柠檬",
       "name": "😎柠檬┃秒播",
@@ -1278,6 +1278,21 @@
                 "分类": "电影$2#电视剧$1#动漫$3#综艺$4#体育赛事$5#短剧$41"
             }
         },
+{
+            "key": "drjs_爱看2",
+            "name": "👹爱看2",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot2.js"
+        },
+        {
+            "key": "drjs_爱看3",
+            "name": "👹爱看3",
+            "type": 3,
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/EXT/JS/ikanbot3.js"
+        },
+
 {"key":"dr_cally66","name":"🎥cally66[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/libs/drpy2.min.js","searchable": 1,"quickSearch":1,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/js/cally66.js"},
 {"key":"dr_iFun","name":"🎥iFun[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/libs/drpy2.min.js","searchable": 1,"quickSearch":1,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/js/iFun.js"},
 {"key":"dr_freeok","name":"🎥freeok[JS]","type":3,"api":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/libs/drpy2.min.js","searchable": 1,"quickSearch":1,"filterable":1,"ext":"https://git.886.be/https://raw.githubusercontent.com/n3rddd/N3RD/refs/heads/master/JN/dr_py/js/freeok.js"},
@@ -2464,7 +2479,106 @@
         "类型": "动作片$7#喜剧片$8#爱情片$9#科幻片$10#恐怖片$11#剧情片$12#战争片$13#犯罪片$29||国产剧$14#港剧$15#台湾剧$16#韩剧$17#日剧$18#泰剧$31#欧美剧$19#海外剧$20#短剧$43||大陆综艺$21#日韩综艺$22#港台综艺$23#欧美综艺$24||国产动漫$25#日本动漫$26#欧美动漫$27#海外动漫$28||空||空"
       }
     },
-
+{
+            "key": "几个亿影视",
+            "name": "几亿┃影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://jigeyi.pro/",
+                "数组": "/voddetail/&&</a >",
+                "标题": "title=\"&&\"",
+                "副标题": "note\">&&<",
+                "图片": "data-original=\"&&\"",
+                "链接": "/voddetail/+&&\"",
+                "播放数组": "module-play-list-content&&</div>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": "<span>&&</span>",
+                "线路数组": "module-tab-item tab-item&&</div>",
+                "线路标题": "<span>&&</span>",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "简介": "<p>&&</p >",
+                "搜索url": "https://jigeyi.pro/vodsearch/{wd}----------{pg}---.html",
+                "分类url": "https://jigeyi.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5"
+            }
+        },
+{
+            "key": "皮皮虾影视",
+            "name": "🦞皮虾┃影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "主页url": "http://www.ppxys.vip/",
+                "图片": "data-original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "class=\"module-item-note\">&&</div>",
+                "链接": "href=\"&&\"",
+                "简介": "视频剧情简介:,&&",
+                "线路数组": "class=\"swiper-slide module-tab-item tab-item&&</small>",
+                "线路标题": ">&&<small",
+                "分类url": "http://www.ppxys.vip/s/{cateId}/area/{area}/by/{by}/class/{class}/lang/{lang}/letter/{letter}/page/{catePg}/year/2024.html",
+                "分类": "剧集$1#电影$2#动漫$3#综艺$4"
+            }
+        },
+        {
+            "key": "竹器影院",
+            "name": "竹器影院(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "http://1369.zhuqiweb.com/",
+                "二次截取": "",
+                "数组": "lazyload&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "right\"&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "detail-content&&</span>",
+                "播放数组": "playlist clearfix\"&&</ul>",
+                "播放列表": "<a&&a>",
+                "播放链接": "href=\"&&\"",
+                "播放标题": ">&&<",
+                "线路二次截取": "",
+                "线路数组": "pull-right1\"&&/span>",
+                "线路标题": ">&&<",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索模式": "1",
+                "搜索url": "http://1369.zhuqiweb.com/search/----------{pg}---.html?wd={wd}&submit=",
+                "搜索数组": "lazyload&&</li>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "right\"&&</span>",
+                "搜索链接": "href=\"&&\"",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "分类url": "http://1369.zhuqiweb.com/show/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#伦理片$30",
+                "筛选": "1",
+                "类型": "",
+                "剧情": "",
+                "地区": "",
+                "地区值": "*",
+                "年份": "",
+                "排序": ""
+            }
+        },
 {
         "key": "泰劇網",
         "name": "❤️｜🇹🇭泰劇",
@@ -2477,6 +2591,77 @@
         "ext": "https://ghp.ci/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/json_now/泰劇.json"
     },
 {"key":"csp_XBPQ_速影TV","name":"🍋🌀速影TV[XBPQ]","type":3,"api":"csp_XBPQ","ext":{"防走丢":"https://xn--tv-ks3d939o.com/","分类url":"https://xn--94qq85au3qyvbe13c.com/movie-list-id-{cateId}-pg-{catePg}-order-desc-by-{by}-class-{class}-year-{year}-letter-{letter}-area-{area}-lang-{lang}.html;;x","分类":"电影$1#电视剧$2#综艺$3#动漫$4","类型":"动作片$5#喜剧片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#纪录片$20#伦理片$22||国产剧$12#韩国剧$17#欧美剧$15#日本剧$16#香港剧$18#台湾剧$19#海外剧$21||空||空","简介":"detail-sketch\">&&</span>","数组":"thumb\"&&</a>","图片":"url('&&')","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"right\">&&</span>","线路数组":"class=\"playtitle\"&&span>","线路标题":"</i>&&</[不包含:BD云]","播放数组":"playlist column10 clearfix&&</ul>","播放列表":"<a&&a>","播放链接":"href='&&'","播放标题":"self\">&&</"},"jar":"https://www.fish2018.us.kg/p/lib/XBPQ.jar"},
+{
+            "key": "凤凰城美剧",
+            "name": "📽️凤凰城美剧(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/凤凰城美剧.json",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/HeChengChaXiu.jar"
+        },
+        {
+            "key": "久久美剧网",
+            "name": "📽️久久美剧网(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "1",
+            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/久久美剧网.json",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
+        },
+{
+            "key": "美剧天堂",
+            "name": "📽️美剧天堂(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "1",
+            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/美剧天堂.json",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
+        },
+        {
+            "key": "美剧窝",
+            "name": "📽️美剧窝(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "1",
+            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/美剧窝.json",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
+        },
+        {
+            "key": "XBPQ米爱影视",
+            "name": "📽️米爱影视(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "",
+            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/米爱影视.json",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/HeChengChaXiu.jar"
+        },
+{
+            "key": "奈飞N中文",
+            "name": "📽️奈飞N中文(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "playerType": "",
+            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/奈飞N中文.json",
+            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
+        },
    {
         "key": "csp_TvDy",
         "name": "🎥｜电影天堂",
@@ -10202,6 +10387,28 @@
 {"key":"csp_TgYunPan4","name":"雷蒙影视 | 💿电报搜索4(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://107.172.201.182:9999/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TgYunPan5","name":"雷蒙影视 | 💿电报搜索5(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://tgsou.uu8.pro","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
 {"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅸ(SP)","type":3,"api":"csp_TGYunPan","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/xbpg.jar",
+            "key": "csp_XBPQ_布谷TV",
+            "name": "🧲布谷TV(XBPQ)",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
+                "简介": "◎简*介</p>&&</p>",
+                "线路数组": "entry-content u-text-format u-clearfix&&\"content-template",
+                "线路标题": "磁力",
+                "播放数组": "entry-content u-text-format u-clearfix&&content-template[不包含:网盘]",
+                "播放列表": "<p>&&</p>[包含:magnet]",
+                "分类": "4KUHD电影$4kuhd#4K电影$4kmovie#4K剧集$4ktv#杜比视界$dolbyvision#4K纪录片$4kdocu#4K演示片$4kdemo/4ktv-4ktv#杜比演示片$4kdemo/dolbydomo#DTS演示片$4kdemo/dtsdomo#8K演示片$4kdemo/8kdemo#蓝光电影$bluraymovie/bluray-movie#蓝光剧集$bluraymovie/bluraytv#3D蓝光$bluraymovie/3dmovie#蓝光纪录片$bluraymovie/documentary#蓝光演唱会$bluraymovie/audiotest",
+                "分类链接": "https://www.bugutv.org/{cateId}/page/{catePg}",
+                "搜索链接": "https://www.bugutv.org/?cat=&s={wd}",
+                "搜索数组": "class=\"entry-media\">&&</div"
+            }
+        },
 {
       "key": "csp_SixV",
       "name": "💎磁力🧲",
