@@ -1,4 +1,4 @@
-﻿{
+{
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1734945785689/fan.txt;md5;5187bb3bc6eba66ecb3785abb0d21431",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
@@ -118,10 +118,85 @@
 {"key":"csp_Tvyb","name":"☁️TVB云播","type":3,"api":"csp_Tvyb","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.tvyun01.com/"},
 {"key":"csp_Jiaozi","name":"🔱饺子","type":3,"api":"csp_Jiaozi","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1},
+{
+      "key":"😎皮皮4k",//酷影蓝光4K
+      "name": "🏆4k-vip8",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/ss3234741/sj/-/raw/main/json2/皮皮4k.json"//影酷多个
+    },
+
+
+
+
+
+{
+      "key": "皮皮虾",
+      "name": "😎小明专线┃曦悦4K",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "playerType": 2,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://38.55.250.149:1314/api.php/app/"
+    },
+
+
+
+{
+      "key": "csp_Xlys",
+      "name": "😎哔嘀影视┃曦悦4K",
+      "api": "csp_Xlys",
+      "type": 3,
+      "playerType": 2,
+      "jar":"https://jihulab.com/ss3234741/sj/-/raw/main/jar/1007.jar"
+     },
+
+
+
 
   {
+      "key": "csp_zhufan",
+      "name": "😎追饭影视┃曦悦4K",
+      "searchable": 1,
+      "quickSearch": 1,
+      "type": 3,
+      "api": "csp_MiTo",
+      "ext": {
+        "url": "http://103.88.35.251:8989",
+        "dataKey": "aassddwwxxllsx1x",
+        "playKey": "bbssqdbbssll25sx",
+        "version": "2.1.0"
+      },
+            "jar":"https://jihulab.com/ss3234741/sj/-/raw/main/jar/1007.jar"
+    },
+
+  {
+      "key": "哥哥",
+      "name": "📀网盘",
+      "type": 3,
+      "api": "csp_Wogg",
+      "jar":"https://jihulab.com/ss3234741/sj/-/raw/main/jar/ttkx.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+        "cookie": "http://wanganbang.synology.me:8885/index/wxy666/js/quark.txt",
+        "uc_cookie": "http://wanganbang.synology.me:8885/index/wxy666/js/uc.txt",
+        "wogg": true,
+        "danmu": true
+      },
+      "timeout": 30
+    },
+  {
             "key": "厂长弹幕",
-            "name": "️厂长｜弹幕",
+            "name": "😎厂长｜弹幕",
             "type": 3,
             "api": "csp_Czzy",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",
@@ -134,7 +209,7 @@
         },
         {
             "key": "天天弹幕",
-            "name": "️天天｜弹幕",
+            "name": "😎天天｜弹幕",
             "type": 3,
             "api": "csp_TianTian",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",   
@@ -147,7 +222,7 @@
         },
         {
             "key": "热播弹幕",
-            "name": "️热播｜弹幕",
+            "name": "😎热播｜弹幕",
             "type": 3,
             "api": "csp_ReBo",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -160,7 +235,7 @@
         },
         {
             "key": "糯米弹幕",
-            "name": "️糯米｜弹幕",
+            "name": "😎糯米｜弹幕",
             "type": 3,
             "api": "csp_Nmys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",     
@@ -173,7 +248,7 @@
         },
         {
             "key": "文才弹幕",
-            "name": "️文才｜弹幕",
+            "name": "😎文才｜弹幕",
             "type": 3,
             "api": "csp_Jpys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",   
@@ -186,7 +261,7 @@
         },
         {
             "key": "哔哩弹幕",
-            "name": "️哔哩｜弹幕",
+            "name": "😎哔哩｜弹幕",
             "type": 3,
             "api": "csp_Bilimd",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -204,7 +279,7 @@
         },
   {
             "key": "机器人弹幕",
-            "name": "️机器人｜弹幕",
+            "name": "😎机器人｜弹幕",
             "type": 3,
             "api": "csp_Ikanbot",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",     
@@ -217,7 +292,7 @@
         },
         {
             "key": "小苹果弹幕",
-            "name": "️小苹果｜弹幕",
+            "name": "😎小苹果｜弹幕",
             "type": 3,
             "api": "csp_Xpg",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",        
@@ -230,7 +305,7 @@
         },
         {
             "key": "荐片弹幕",
-            "name": "️荐片｜弹幕",
+            "name": "😎荐片｜弹幕",
             "type": 3,
             "api": "csp_Jianpian",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -244,7 +319,7 @@
         },
         {
             "key": "哔嘀弹幕",
-            "name": "️哔嘀｜弹幕",
+            "name": "😎哔嘀｜弹幕",
             "type": 3,
             "api": "csp_Bdys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -258,7 +333,7 @@
         },
    {
             "key": "农民影视",
-            "name": "️农民｜影视",
+            "name": "😎农民｜影视",
             "type": 3,
             "api": "csp_Nmys",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",  
@@ -269,7 +344,7 @@
 
  {
             "key": "全网影视",
-            "name": "️全网｜影视",
+            "name": "😎全网｜影视",
             "type": 3,
             "api": "csp_Quanwk",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",     
@@ -280,7 +355,7 @@
         },
         {
             "key": "看客影视",
-            "name": "️看客｜影视",
+            "name": "😎看客｜影视",
             "type": 3,
             "api": "csp_Kanke",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar", 
@@ -291,7 +366,7 @@
         },
     {
             "key": "疯狗影视",
-            "name": "️疯狗｜影视",
+            "name": "😎疯狗｜影视",
             "type": 3,
             "api": "csp_FengGo",
             "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar",
@@ -301,7 +376,7 @@
         },
   {
             "key": "铁剧影视",
-            "name": "️铁剧｜影视",
+            "name": "😎铁剧｜影视",
             "type": 3,
             "api": "csp_WebBr",
             "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",
@@ -311,7 +386,7 @@
         },
         {
             "key": "真心影视",
-            "name": "️真心｜影视",
+            "name": "😎真心｜影视",
             "type": 3,
             "api": "csp_WebGZ",
             "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",   
@@ -321,7 +396,7 @@
         },
         {
             "key": "耐看影视",
-            "name": "️耐看｜影视",
+            "name": "😎耐看｜影视",
             "type": 3,
             "api": "csp_WebNK",
             "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",   
@@ -10842,6 +10917,10 @@
 			"type": 3,
 			"url": "Web"
 		},
+{"name":"📦天招4k会员777","type": 1,"url":"https://jx.youxidc.cn/api/?key=216d959b181672b0791b539f076aafb9&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+
+{"name":"📦悦测试","type": 1,"url":"http://wab.xyyh.online:8889/api/api.php?key=962478788&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
+{"name":"📦天招4k会员6666","type": 1,"url":"https://jx.xmflv.com/?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {
     "name": "云梦解析",
     "type": 1,
