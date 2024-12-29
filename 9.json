@@ -64,26 +64,7 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"}},
-{
-"key": "我的",
-"name": "我的网站",
-"playerType": 2,
-"type": 3,
-"api": "csp_AppYsV2",
-"searchable": 1,
-"quickSearch": 1,
-"filterable": 1,
-"ext": "http://8.155.36.180:1294/api.php/app/"
-},
 
-{
-            "key":"drpy_js_百忙无果",
-            "name":"曦悦专线2┃曦悦4K",
-            "type":3,
-            "playerType":2,
-            "api":"http://wanganbang.synology.me:8885/index/wxy666/lib/apiv537drpy2.min.js",
-            "ext":"http://wanganbang.synology.me:8885/index/wxy666/js/%E7%99%BE%E5%BF%99%E6%97%A0%E6%9E%9C.js"
-        },
 
 
 {"key":"csp_XBPQ_男人仓库","name":"男人仓库[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","直接播放": "0","分类url":"https://nanrencangkufhebfennask.buzz/type/{cateId}/{catePg}","搜索url": "https://nanrencangkufhebfennask.buzz/search/{wd}/n/{pg}","搜索模式": "1","图片":"img src=\"&&\"","数组":"","播放数组":"class=\"group-box2&&</div>","分类":"精品仓库$158#91精选$392#91传媒$415#收藏仓库$161#网-曝-门$343#特色资源$316#番号大全$165#富二代区$166#热门视频$177#大众精品$164"},"jar":"http://www.fish2018.us.kg/p/lib/XBPQ.jar"},
@@ -92,118 +73,10 @@
 {"key":"csp_XBPQ_91吃瓜","name":"91吃瓜[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":0,"quickSearch":1,"filterable":1,"ext": {"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://369169.xyz/index.php/vod/show/id/{cateId}/page/{catePg}.html","搜索url": "","搜索模式": "","图片":"data-original=\"&&\"","数组":"","播放数组":"","分类":"视频一区$1#视频二区$2#视频三区$3#视频四区$5","类型":"网红主播$6#国产视频$7#萝莉少女$8#明星换脸$9#探花约炮$10#华语传媒$11||日本无码$13#中字有码$14#欧美无码$15#黑人无码$16||重口猎奇$20#人妖系列$21#SM调教$22#男同基友$23#人兽大战$24#女同性爱$12||网曝黑料$4#激情动漫$17#伦理三级$18"},"jar":"http://www.fish2018.us.kg/p/lib/XBPQ.jar"},
 
 
-{
-      "key":"皮皮4k",//酷影蓝光4K
-      "name": "🏆4k-vip8",
-      "type": 3,
-      "api": "csp_XBPQ",
-      //"jar":"./jar/tz0629.jar",
-      //"jar":"http://122.228.85.203:19578/down/Jz7zhALNrwWB.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/ss3234741/sj/-/tree/main/json2/皮皮4k.json"//影酷多个
-    },
 
 {"key":"csp_大米星球","name":"🌐大米星球","type":3,"api":"csp_AppDaMi","jar":"https://git.acwing.com/tvys/tvys/-/raw/main/jar/danmu.jar"},
 
-{
-      "key": "爱奇异",
-      "name": "🥇天招VIP专线11",
-      "type": 3,
-      "api": "https://jihulab.com/ss3234741/sj/-/tree/main/lib/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://jihulab.com/ss3234741/sj/-/tree/main/lib/iqy.js"
-    },
 
-{"key":"csp_追剧影视","name":"💥追剧影视","type":3,"api":"csp_AppZJ","ext":"http://z.kzjtv.com/","jar":"https://git.acwing.com/tvys/tvys/-/raw/main/jar/danmu.jar"},
-{
-  "key": "优酷",
-  "name": "🥈2k-VIP¹⁰",  
-  "type": 3,
-  "api": "https://jihulab.com/ss3234741/sj/-/tree/main/lib/drpy2.min.js",
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,  
-  "ext": "https://jihulab.com/ss3234741/sj/-/tree/main/lib/youku2.js"
-  },
-{
-      "key": "影视仓",
-      "name": "🇹┃七星影仓┃秒播",
-      "type": 3,
-      "api": "csp_AppMr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
-    },
-
-{"key":"4K影视","name":"🇹┃蓝光在线┃秒播","type":3,"api":"csp_XBPQ","jar":"https://11256.kstore.space/TWYS/lib/tw.jar","searchable":1,"quickSearch":1,"ua": "okhttp/3.15","filterable":1,"ext":"https://11256.kstore.space/TWYS/lib/4K影视.json"},
-{"key":"csp_文采弹幕","name":"💮文采弹幕","type":3,"api":"csp_Jpys","ext":{"danmu":true},"jar":"https://git.acwing.com/tvys/tvys/-/raw/main/jar/danmu.jar"},
-    {"key":"csp_天天弹幕","name":"⛅️天天弹幕","type":3,"api":"csp_TianTian","ext":{"danmu":true},"jar":"https://git.acwing.com/tvys/tvys/-/raw/main/jar/danmu.jar"},
-    {"key":"csp_荐片弹幕","name":"👍️荐片弹幕","type":3,"api":"csp_Jianpian","playerType":0,"ext":{"danmu":true},"jar":"https://git.acwing.com/tvys/tvys/-/raw/main/jar/danmu.jar"},
-    {"key":"csp_玩偶弹幕","name":"🎭玩偶弹幕","type":3,"api":"csp_Wogg","ext":{"token":"http://127.0.0.1:9978/file/TVBox/token.txt","cookie":"http://127.0.0.1:9978/file/TVBox/quark.txt","uc_cookie":"http://127.0.0.1:9978/file/TVBox/uc.txt","wogg":true,"danmu":true}},
-
-
-{
-  "key": "腾讯555",
-  "name": "提示：请每次打开后选择主页长按遥控器确定键更新最新数据！",
-  "type": 3,
-  "api": "https://jihulab.com/ss3234741/sj/-/tree/main/js2/drpy2.min.js",
-  "ext": "https://jihulab.com/ss3234741/sj/-/tree/main/lib/腾讯22.js"//影酷4k解析
-  },
-
-
-{
-            "key":"视觉",
-            "name":"视觉影视┃曦悦4K",
-            "type":3,
-            "api":"https://jihulab.com/ss3234741/sj/-/tree/main/js6/drpy2.min.js",
-            "ext":"https://jihulab.com/ss3234741/sj/-/tree/main/json2/视觉.js"
-        },
-
-{
-      "key": "皮皮虾",
-      "name": "小明专线┃曦悦4K",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://38.55.250.149:1314/api.php/app/"
-    },
-
-{
-  "key": "腾讯28882",
-  "name": "🏆4k-vip1",
-  "type": 3,
-  "api": "https://jihulab.com/ss3234741/sj/-/tree/main/js3/drpy2.min.js",
-  "playerType": 3,
-  "searchable": 1,
-  "quickSearch": 1,
-  "filterable": 1,
-  "order_num": 0,
-  "changeable": 0,
-  "ext": "https://jihulab.com/ss3234741/sj/-/tree/main/lib/腾云驾雾_官_.js"  
-  },
-
-  {
-      "key": "果果4K解析_js",
-      "name": "🌞果果4K(解析)",
-      "type": 3,
-      "api": "./js6/drpy2.min.js",
-      "searchable": 1,
-      "playerType": 2,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "./json2/果果4k2.js"
-      //"timeout": 15
-     // "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"      
-    },
 {
       "key": "520pp-ggxx.vip",
       "name": "🍌┃中文资源🔞",
@@ -550,50 +423,7 @@
             },
             "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
         },
- {
-      "key": "大尺度影视",
-      "name": "大尺度影视伦理🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "图片代理": "0",
-        "主页url": "http://dachidz.com/vodshow/1-%E4%BC%A6%E7%90%86-----.html",
-        "首页": "120",
-        "起始页": "1",
-        "分类url": "http://dachidz.com/vodshow/1-%E4%BC%A6%E7%90%86-{cateId}----{catePg}.html",
-        "分类": "大陆&香港&台湾&韩国&日本&美国&印度&英国&法国&泰国&新加坡&马来西亚&加拿大&西班牙&俄罗斯",
-        "分类值": "*"
-      }
-    },
-    {
-      "key": "鹊桥伦理",
-      "name": "鹊桥伦理🔞",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "请求头": "User-Agent$MOBILE_UA",
-        "编码": "UTF-8",
-        "主页url": "http://www.www.114bate.com/show/30-----------.html",
-        "数组": "默认--lazyload\"&&</div>||搜索--lazyload\"&&</div>",
-        "标题": "title=\"&&\"",
-        "图片": "data-original=\"&&\"",
-        "副标题": "right\">&&<",
-        "链接": "href=\"&&\"",
-        "线路数组": "vodlist__head\">&&/span>",
-        "线路标题": "✨+>&&<",
-        "跳转播放链接": "var player_*\"url\":\"&&\"",
-        "分类url": "http://www.www.114bate.com/show/30-{cateId}-------{catePg}---.html",
-        "分类": "香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大"
-      }
-    },
+ 
 {
 			"key": "鹊桥影院",
 			"name": "🌉鹊桥┃影院",
