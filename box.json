@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6b3b5a4a16a424395f656ce73a79eff0",
+"spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07e684678c1a0ce21cf304c9be83f6a7",
 
 "logo":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/W/ICONSGIF.gif",
 
@@ -360,13 +360,13 @@
 {"key":"csp_zhufan","name":"🥭追番视频┃秒播","searchable":1,"quickSearch":1,"type":3,"api":"csp_MiTo","jar":"https://10759.kstore.vip/xcxl/DEMO.jar","ext":{"url":"http://xiafan.zhuiju666.com","dataKey":"aassddwwxxllsx1x","playKey":"bbssqdbbssll25sx","version":"1.1.0"}},
 {"key":"zhaixing","name":"🧿摘星视频┃秒播","type":3,"api":"csp_AppZX","jar":"https://10759.kstore.vip/xcxl/DEMO.jar","playerType":2},
 
-{"key":"csp_Nmvod_QJ","name":"柠檬影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod", "jar":"./jar/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
-{"key":"csp_Nongm_FM","name":"农民影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm", "jar":"./jar/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4","ext":"https://wwgz.cn"},
-{"key":"csp_Xlys_FM","name":"修罗影视 | 📯修罗(SP)","type":3,"api":"csp_Xlys", "jar":"./jar/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4"},
-{"key":"csp_AppTT_欢视","name":"欢视影视 | 🧿欢视(APP)","type":3,"api":"csp_AppTT", "jar":"./jar/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
-{"key":"csp_Auete","name":"Auete影视 | 🎀Auete(SP)","type": 3,"api":"csp_Auete", "jar":"./jar/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"}, 
-{"key":"csp_Uvod","name":"优视频影视 | 💎优视频(SP)","type":3,"api":"csp_Uvod", "jar":"./jar/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_PTT","name":"PTT | 🎈PTT(SP)","type":3,"api":"csp_PTT" ,"jar":"./jar/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nmvod_QJ","name":"柠檬影视 | 🍋柠檬(SP)","type":3,"api":"csp_Nmvod", "jar":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/lem1221.jar;md5;9DF41C66F068EF964806B0B1DA26B3D4","playerType":2,"ext":"eaHR0cHM6Ly92aXAud3dnei5jbjo1MjAwL25tcGxheS93ZWJjbG91ZC9yZWxheS5waHA/dXJsPQ=="},
+{"key":"csp_Nongm_FM","name":"农民影视 | 🌾️农民(SP)","type":3,"api":"csp_Nongm", "jar":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR;md5;9DF41C66F068EF964806B0B1DA26B3D4","ext":"https://wwgz.cn"},
+{"key":"csp_Xlys_FM","name":"修罗影视 | 📯修罗(SP)","type":3,"api":"csp_Xlys", "jar":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR;md5;9DF41C66F068EF964806B0B1DA26B3D4"},
+{"key":"csp_AppTT_欢视","name":"欢视影视 | 🧿欢视(APP)","type":3,"api":"csp_AppTT", "jar":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR;md5;9DF41C66F068EF964806B0B1DA26B3D4","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B+Qsa7gqa+pU="},
+{"key":"csp_Auete","name":"Auete影视 | 🎀Auete(SP)","type": 3,"api":"csp_Auete", "jar":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR;md5;9DF41C66F068EF964806B0B1DA26B3D4","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://auete.com/"}, 
+{"key":"csp_Uvod","name":"优视频影视 | 💎优视频(SP)","type":3,"api":"csp_Uvod", "jar":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JARr;md5;9DF41C66F068EF964806B0B1DA26B3D4","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"csp_PTT","name":"PTT | 🎈PTT(SP)","type":3,"api":"csp_PTT" ,"jar":"https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR;md5;9DF41C66F068EF964806B0B1DA26B3D4","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"csp_Jianpian","name":"🧲荐片","type":3,"api":"csp_Jianpian","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/jianpian.json"},
 
@@ -979,7 +979,7 @@
 },
 {"key":"csp_ConfigCenter","name":"雷蒙影视 | 💿配置中心","type":3,"api":"csp_ConfigCenter","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":0,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"}},
 {"key":"csp_网盘集合","name":"雷蒙影视 | 💿网盘集合(SP)","type":3,"api":"csp_网盘集合","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json","share":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"}},
-{"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json","siteUrl":"https://www.wogg.bf/","filter":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/T/wogg.json"}},
+{"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json","siteUrl":"https://www.wogg.bf/","filter":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"}},
 {"key":"csp_kongbai_蜡笔","name":"雷蒙影视 | 💿蜡笔(SP)","type":3,"api":"csp_kongbai","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json","siteUrl":"hhttp://labipan.com/","filter":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/T/wogg.json"}},
 {"key":"csp_kongbai_木偶","name":"雷蒙影视 | 💿木偶(SP)","type":3,"api":"csp_kongbai","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json","siteUrl":"http://mogg.xn--yetu07f.top/","filter":"./N3RD/T/wogg.json"}},
 {"key":"csp_Star2","name":"雷蒙影视 | 💿星剧社(SP)","type":3,"api":"csp_Star2","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"}},
