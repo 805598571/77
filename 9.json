@@ -1,4 +1,4 @@
-﻿{
+{
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
@@ -64,7 +64,7 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/初中课堂.json"}},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghgo.xyz/raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/高中课堂.json"}},
-
+{"key":"Netflav","name":"Netflav","type":3,"api":"csp_Netflav", "jar": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;9e939948abbdc543f711098a3c2052b0","changeable":1,"ext":"https://netflav.com$$$proxy","timeout":60,"style":{"type":"rect","ratio":1.485}},
 
 
 {"key":"csp_XBPQ_男人仓库","name":"男人仓库[XBPQ]","type": 3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext": {"请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","直接播放": "0","分类url":"https://nanrencangkufhebfennask.buzz/type/{cateId}/{catePg}","搜索url": "https://nanrencangkufhebfennask.buzz/search/{wd}/n/{pg}","搜索模式": "1","图片":"img src=\"&&\"","数组":"","播放数组":"class=\"group-box2&&</div>","分类":"精品仓库$158#91精选$392#91传媒$415#收藏仓库$161#网-曝-门$343#特色资源$316#番号大全$165#富二代区$166#热门视频$177#大众精品$164"},"jar":"http://www.fish2018.us.kg/p/lib/XBPQ.jar"},
@@ -5201,7 +5201,7 @@
             "分类ID": "/llq/index.php/vod/*/id/&&.html",
             "分类url": "https://web.llq4.xyz/llq/index.php/vod/type/id/{cateId}/page/{catePg}.html;;z"}
     },
-{"key": "Net_emby", "name": "🍏 Net┃Emby","type": 3, "api":"https://ghgo.xyz/"https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://net.creativeinfo.org:8096","username":"ntest","password":"ntest123","thread": 0,"proxy":""},"changeable": 1},
+{"key": "Net_emby", "name": "🍏 Net┃Emby","type": 3, "api":"https://ghgo.xyz/https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://net.creativeinfo.org:8096","username":"ntest","password":"ntest123","thread": 0,"proxy":""},"changeable": 1},
 {"key": "San_emby", "name": "🍏 San┃Emby","type": 3, "api":"https://ghgo.xyz/https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://san.creativeinfo.org:8096","username":"san","password":"san123","thread": 0,"proxy":""},"changeable": 1},
 {"key": "Jav_emby", "name": "🍏 Jav┃Emby","type": 3, "api":"https://ghgo.xyz/https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://jav.creativeinfo.org:8096","username":"atest","password":"atest123","thread": 0,"proxy":""},"changeable": 1},
 {"key": "ISO_emby", "name": "🍏 ISO┃Emby","type": 3, "api":"https://ghgo.xyz/https://raw.githubusercontent.com/boly4189/tv1/refs/heads/master/py/py_emby.py", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"server": "http://iso.creativeinfo.org:8096","username":"itest","password":"itest123","thread": 0,"proxy":""},"changeable": 1},
