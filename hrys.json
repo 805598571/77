@@ -1,5 +1,5 @@
-{
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735370809906/fan.txt;md5;9136a7f6aec51c5b18e911121774ab5f",
+﻿{
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1735983193416/fan.txt;md5;65e12949f9090ca4451bd04338542881",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -103,10 +103,12 @@
 {"key":"欢视","name":"👓欢视┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8IPB+BwH4Qma+opv"},
 {"key":"南瓜","name":"🎃南瓜┃多线","type":3,"api":"csp_NanGua","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"热播","name":"📺热播┃多线","type":3,"api":"csp_AppTT","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"AO7TcBkd8I/B5wQc4Qma+pU="},
+{"key":"白白","name":"🐭白白┃秒播","type":3,"api":"csp_Sbaibai","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"可可","name":"👻可可┃多线","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线┃外剧","type":3,"api":"csp_Zxzj","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"低端","name":"😎低端┃外剧","type":3,"api":"csp_Ddrk","playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
    {"key":"木星","name":"🌞木星┃多线","type":3,"api":"csp_AppSx","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTGI9OTT9b/fj1hQEfFo3ZpT7IjxyVo6ytU3boJSbS02op2WA9SGNlCJpscUJASIjSk1eTbWgFj3BY0O58XL66c3hoMFG1cCcjgoux+ibEY4c2WZ85pgVQ9BW3RV1NZ7a2+xJHJdcafyUM"},
+{"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Jianpian","name":"💋荐片","type":3,"api":"csp_Jianpian","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/yoursmile66/TVBox/main/sub/jianpian.json"},
 {"key":"csp_SuBaiBai","name":"🏳️素白白","type":3,"api":"csp_SuBaiBai","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://subaibai.com"},
 {"key":"瓜子","name":"🍉瓜子","type":3,"api":"csp_Gz360","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1},
@@ -119,6 +121,72 @@
 {"key":"csp_Jiaozi","name":"🔱饺子","type":3,"api":"csp_Jiaozi","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","jar":"https://jihulab.com/Nostalgia/TVbox/-/raw/master/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326","searchable":1,"quickSearch":1,"filterable":1},
 {
+            "key": "csp_Bttoo",
+            "name": "🍄两个BT(SP)",
+            "type": 3,
+            "api": "csp_Bttwoo",
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373",   
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1
+        },
+{
+            "key": "csp_Drama_QJ",
+            "name": "🍟世纪(SP)",
+            "type": 3,
+            "api": "csp_Drama",
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373",  
+            "playerType": 1,
+            "ext": "saHR0cDovLzExOC4yNS4xOC4yMTc6NjYzMnxURkxZV1ZKNUVHNVlCMVBMWkxWVk1HVkxCR1JJRENTV3xuajZFNUs0eVlZVDVXNFNjSjNKM3JKMnpyemNKa3BUaw=="
+        },
+        {
+            "key": "csp_Muou_QJ",
+            "name": "💫星河(SP)",
+            "type": 3,
+            "api": "csp_Muou",
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373",     
+            "playerType": 1,
+            "ext": "caHR0cDovL2EubXVxaXhoLnRvcDo1NjIzfOW5leWQr+aYn+aysw=="
+        },
+{
+            "key": "csp_Xlys_FM",
+            "name": "📯修罗(SP)",
+            "type": 3,
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373",            
+            "api": "csp_Xlys"
+        },
+        {
+            "key": "csp_AppRZ_FM",
+            "name": "🕵️忍者(SP)",
+            "type": 3,
+            "api": "csp_AppRZ",
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373",     
+            "playerType": 1, 
+            "playerType": 1,
+            "ext": "http://rzys.xyz/"
+        },
+        {
+            "key": "csp_Lkdy_FM",
+            "name": "🏔️来看(SP)",
+            "type": 3,
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373",  
+            "api": "csp_Lkdy"
+        },
+        {
+            "key": "csp_Lggys_FM",
+            "name": "💗️攻阁(SP)",
+            "type": 3,
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373", 
+            "api": "csp_Lggys"
+        },
+        {
+            "key": "csp_Tvyb_FM",
+            "name": "☁︎云播(SP)",
+            "type": 3,
+            "jar":      "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR//lem0105.jar;md5;A94B7E584D0E27CF84F449D8566E2373", 
+            "api": "csp_Tvyb"
+        },
+{
       "key":"😎皮皮4k",//酷影蓝光4K
       "name": "🏆4k-vip8",
       "type": 3,
@@ -130,7 +198,26 @@
       "ext": "https://jihulab.com/ss3234741/sj/-/raw/main/json2/皮皮4k.json"//影酷多个
     },
 
-
+{
+            "key": "皮皮影视",
+            "name": "拾光☪皮皮虾",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.55.250.149:1314/api.php/app/"
+        },
+        {
+            "key": "影探",
+            "name": "影探",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://cms147.lyyytv.cn/api.php/app/"
+        },
 
 
 
