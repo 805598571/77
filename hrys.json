@@ -13872,22 +13872,22 @@
             "key": "drjs_达达兔",
             "name": "👺达达兔(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达兔.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达兔.js"
         },
         {
             "key": "drjs_功夫熊猫",
             "name": "👺功夫熊猫(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/功夫熊猫.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/功夫熊猫.js"
         },
         {
             "key": "drjs_哩咕TV",
             "name": "👺哩咕TV(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/哩咕TV.js"
+            "api": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/哩咕TV.js"
         },
         {
             "key": "drjs_糖果影院",
