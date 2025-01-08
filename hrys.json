@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736064855351/fan.txt;md5;ff90f08636149d5ad8dfa91af77b8955",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1736154838099/fan.txt;md5;199d292d646c6d3b0d6a2b37eb30f05b",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
@@ -7,7 +7,7 @@
 		     "name":"😎豆瓣┃TG",
 		     "type":3,
 		     "api":"csp_TGDouban",
-                     "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                     "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 		     "timeout":120, 
 		     "changeable": 2,
 			 "ext":{
@@ -83,7 +83,7 @@
 			"name": "🔧pg配置中心",
 			"type": 3,
 			"api": "csp_Config",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"style": {
 				"type": "rect",
 				"ratio": 1
@@ -3971,13 +3971,7 @@
 			},
 			"ext":"https://www.gitlink.org.cn/api/guot55/yg/raw/lib%2FKimivod.json?ref=main"},
 
-{
-            "key": "drjs_采集之王[合]",
-            "name": "👺采集之王[合](DRPY)",
-            "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/采集之王[合].js?type=url&params=https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/json/采集静态.json"
-        },
+
   {"key":"短剧","name":"🌈上头┃短剧","type":3,"api":"csp_Djtt","searchable":1,"quickSearch":1,"changeable":1},    
  {
             "key": "采集集合",
@@ -4646,7 +4640,7 @@
 			"name": "😎美剧天天┃磁力",
 			"type": 3,
 			"api": "csp_MeijuTT",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 2
@@ -4656,7 +4650,7 @@
 			"name": "🎭玩偶表哥┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",   
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",   
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4669,7 +4663,7 @@
 			"name": "😜玩你老哥┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4682,7 +4676,7 @@
 			"name": "✨阿里┃网盘",
 			"type": 3,
 			"api": "csp_AliShare",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4699,7 +4693,7 @@
 			"name": "💠夸克┃网盘",
 			"type": 3,
 			"api": "csp_QuarkShare",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4716,7 +4710,7 @@
 			"name": "😎UC┃网盘",
 			"type": 3,
 			"api": "csp_UCShare",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4733,7 +4727,7 @@
 			"name": "🔂115┃网盘",
 			"type": 3,
 			"api": "csp_P115Share",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4751,7 +4745,7 @@
 			"name": "⚡迅雷┃网盘",
 			"type": 3,
 			"api": "csp_ThunderShare",
-                        "jar" :"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar" :"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4768,7 +4762,7 @@
 			"name": "👽玩偶哥哥┃云盘",
 			"type": 3,
 			"api": "csp_Wogg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4781,7 +4775,7 @@
 			"name": "💋盘ta┃云搜",
 			"type": 3,
 			"api": "csp_Panta",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07e684678c1a0ce21cf304c9be83f6a7", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4794,7 +4788,7 @@
 			"name": "🖍️pg蜡笔┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",  
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",  
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4807,7 +4801,7 @@
 			"name": "🪵pg木偶┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",  
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",  
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4820,7 +4814,7 @@
 			"name": "🥔pg土豆┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d7",  
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",  
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4833,7 +4827,7 @@
 			"name": "🇲pg小米┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4846,7 +4840,7 @@
 			"name": "🇭HDmoli┃Mix",
 			"type": 3,
 			"api": "csp_Moli",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4859,7 +4853,7 @@
 			"name": "🏺pg影巢┃云盘",
 			"type": 3,
 			"api": "csp_Hdh",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4872,7 +4866,7 @@
 			"name": "🏫pg校长┃云盘",
 			"type": 3,
 			"api": "csp_XiaoZhang",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",                           	"searchable": 1,
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",                           	"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
@@ -4885,7 +4879,7 @@
 			"name": "⛺团长┃云盘",
 			"type": 3,
 			"api": "csp_TZFile",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",                            "searchable": 1,	
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",                            "searchable": 1,	
 			"quickSearch": 1,
 			"filterable": 1,
 			"changeable": 2,
@@ -4898,7 +4892,7 @@
 			"name": "👼🏼小盘盘┃云盘",
 			"type": 3,
 			"api": "csp_Xpanpan",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4911,7 +4905,7 @@
 			"name": "☁云盘资源┃云盘",
 			"type": 3,
 			"api": "csp_YunPan",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4924,7 +4918,7 @@
 			"name": "🦐皮皮虾┃云盘",
 			"type": 3,
 			"api": "csp_Ppxzy",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",   
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",   
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4937,7 +4931,7 @@
 			"name": "🔱pg低端┃云盘",
 			"type": 3,
 			"api": "csp_Ddys",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",    
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",    
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -4950,7 +4944,7 @@
 			"name": "🔍pg易搜┃云搜",
 			"type": 3,
 			"api": "csp_YiSo",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",    
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",    
 			"searchable": 1,
 			"quickSearch": 1,
 			"selectable": 0,
@@ -4964,7 +4958,7 @@
 			"name": "🏥找资源┃云搜",
 			"type": 3,
 			"api": "csp_Zhaozy",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"selectable": 0,
@@ -4978,7 +4972,7 @@
 			"name": "🐱pg盘搜┃云搜",
 			"type": 3,
 			"api": "csp_PanSou",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",                          	"searchable": 1,         
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",                          	"searchable": 1,         
 			"quickSearch": 1,
 			"selectable": 0,
 			"filterable": 0,
@@ -4992,7 +4986,7 @@
 			"name": "🔱pgUP搜┃云搜",
 			"type": 3,
 			"api": "csp_UpYun",
-                        "jar"      :"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",  
+                        "jar"      :"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",  
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
@@ -5005,7 +4999,7 @@
 			"name": "🙀pg狸搜┃云搜",
 			"type": 3,
 			"api": "csp_PanSearch",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",                           	"searchable": 1,
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",                           	"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
 			"changeable": 2,
@@ -5018,7 +5012,7 @@
 			"name": "🔰pg夸克盘搜┃云搜",
 			"type": 3,
 			"api": "csp_QuarkPanso",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",    
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",    
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5031,7 +5025,7 @@
 			"name": "🥰pg趣盘搜┃云搜",
 			"type": 3,
 			"api": "csp_Funletu",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",   
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",   
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5044,7 +5038,7 @@
 			"name": "💾pg盘Search┃云搜",
 			"type": 3,
 			"api": "csp_PanSearch",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"selectable": 0,
@@ -5058,7 +5052,7 @@
 			"name": "👶小云┃云搜",
 			"type": 3,
 			"api": "csp_YunSo",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5071,7 +5065,7 @@
 			"name": "1⃣云盘One┃云搜",
 			"type": 3,
 			"api": "csp_YunPanOne",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;07e684678c1a0ce21cf304c9be83f6a7", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5084,7 +5078,7 @@
 			"name": "🎱88盘┃云搜",
 			"type": 3,
 			"api": "csp_EightEight",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5097,7 +5091,7 @@
 			"name": "🏬混合盘┃云搜",
 			"type": 3,
 			"api": "csp_HunHePan",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5110,7 +5104,7 @@
 			"name": "🔌皮卡搜┃云搜",
 			"type": 3,
 			"api": "csp_PikaSo",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5123,7 +5117,7 @@
 			"name": "🛟盘友圈┃云搜",
 			"type": 3,
 			"api": "csp_Panyq",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",  
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",  
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5136,7 +5130,7 @@
 			"name": "🎥pg影搜┃云搜",
 			"type": 3,
 			"api": "csp_YingSo",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5149,7 +5143,7 @@
 			"name": "🦴大盘搜┃云搜",
 			"type": 3,
 			"api": "csp_DaPanSo",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5162,7 +5156,7 @@
 			"name": "⛵千帆搜索┃云搜",
 			"type": 3,
 			"api": "csp_Qianfan",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5175,7 +5169,7 @@
 			"name": "🌐世界┃云磁",
 			"type": 3,
 			"api": "csp_FourKHDR",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5188,7 +5182,7 @@
 			"name": "🐯虎斑┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5201,7 +5195,7 @@
 			"name": "🔭观影┃云磁",
 			"type": 3,
 			"api": "csp_Guanying",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4",
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5209,16 +5203,16 @@
 			"timeout": 60,
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.gyg.la$$$noproxy$$$1$$$./lib/guanying.txt"
 		},
-{"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://www.mucpan.cc/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
-{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
+{"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://www.mucpan.cc/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
+{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wpcms.xn--9hq.icu/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
 {
 			"key": "Zhaozy",
 			"name": "🏥找资源┃云搜",
 			"type": 3,
 			"api": "csp_Zhaozy",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"selectable": 0,
@@ -5232,7 +5226,7 @@
 			"name": "😎秒搜┃云搜",
 			"type": 3,
 			"api": "csp_MiaoSou",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d", 
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4", 
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -5244,7 +5238,7 @@
 			"key": "Bdys_spider",
 			"name": "😎修罗┃磁力",
 			"api": "csp_Bdys01",
-                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e428715a35f998ba90c517d01f4af60d",
+                        "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;134b60648fe0ec1d7f2b5882328f4ba4d",
 			"type": 3,
 			"filterable": 1,
 			"searchable":1,
@@ -13893,22 +13887,22 @@
             "key": "drjs_糖果影院",
             "name": "👺糖果影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/糖果影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/糖果影院.js"
         },
         {
             "key": "drjs_红狐影视",
             "name": "👺红狐影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/红狐影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/红狐影视.js"
         },
         {
             "key": "drjs_白夜影院",
             "name": "👺白夜影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/白夜影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/白夜影院.js"
         },
         {
             "key": "drjs_石榴电影",
@@ -13921,953 +13915,953 @@
             "key": "drjs_白嫖者影视",
             "name": "👺白嫖者影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/白嫖者影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/白嫖者影视.js"
         },
         {
             "key": "drjs_CNN影院",
             "name": "👺CNN影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/CNN影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/CNN影院.js"
         },
         {
             "key": "drjs_看片狂人",
             "name": "👺看片狂人(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看片狂人.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看片狂人.js"
         },
         {
             "key": "drjs_最新4K",
             "name": "👺最新4K(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/最新4K.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/最新4K.js"
         },
         {
             "key": "drjs_飞飞影视",
             "name": "👺飞飞影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/飞飞影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/飞飞影视.js"
         },
         {
             "key": "drjs_嘀哩",
             "name": "👺嘀哩(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/嘀哩.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/嘀哩.js"
         },
         {
             "key": "drjs_华乐影院",
             "name": "👺华乐影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/华乐影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/华乐影院.js"
         },
         {
             "key": "drjs_策驰影院",
             "name": "👺策驰影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/策驰影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/策驰影院.js"
         },
         {
             "key": "drjs_剧集屋",
             "name": "👺剧集屋(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧集屋.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧集屋.js"
         },
         {
             "key": "drjs_LAN6影视",
             "name": "👺LAN6影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/LAN6影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/LAN6影视.js"
         },
         {
             "key": "drjs_海纳TV",
             "name": "👺海纳TV(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/海纳TV.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/海纳TV.js"
         },
         {
             "key": "drjs_在线之家",
             "name": "👺在线之家(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/在线之家.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/在线之家.js"
         },
         {
             "key": "drjs_爱壹帆",
             "name": "👺爱壹帆(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱壹帆.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱壹帆.js"
         },
         {
             "key": "drjs_九八剧",
             "name": "👺九八剧(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/九八剧.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/九八剧.js"
         },
         {
             "key": "drjs_葡萄影视",
             "name": "👺葡萄影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/葡萄影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/葡萄影视.js"
         },
         {
             "key": "drjs_团长资源",
             "name": "👺团长资源(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/团长资源.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/团长资源.js"
         },
         {
             "key": "drjs_MM短剧网",
             "name": "👺MM短剧网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/MM短剧网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/MM短剧网.js"
         },
         {
             "key": "drjs_七味网",
             "name": "👺七味网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/七味网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/七味网.js"
         },
         {
             "key": "drjs_麻雀视频",
             "name": "👺麻雀视频(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/麻雀视频.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/麻雀视频.js"
         },
         {
             "key": "drjs_片多多",
             "name": "👺片多多(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/片多多.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/片多多.js"
         },
         {
             "key": "drjs_永乐视频",
             "name": "👺永乐视频(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/永乐视频.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":" https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/永乐视频.js"
         },
         {
             "key": "drjs_电影驿站",
             "name": "👺电影驿站(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影驿站.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影驿站.js"
         },
         {
             "key": "drjs_顶好剧场",
             "name": "👺顶好剧场(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/顶好剧场.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/顶好剧场.js"
         },
         {
             "key": "drjs_七七看片网",
             "name": "👺七七看片网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/七七看片网.js"
+            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/七七看片网.js"
         },
         {
             "key": "drjs_多多影视",
             "name": "👺多多影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/多多影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/多多影视.js"
         },
         {
             "key": "drjs_大象影院",
             "name": "👺大象影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大象影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大象影院.js"
         },
         {
             "key": "drjs_达达龟点击",
             "name": "👺达达龟点击(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达龟点击.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达龟点击.js"
         },
         {
             "key": "drjs_天龙电影网",
             "name": "👺天龙电影网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/天龙电影网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/天龙电影网.js"
         },
         {
             "key": "drjs_那兔视频",
             "name": "👺那兔视频(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/那兔视频.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/那兔视频.js"
         },
         {
             "key": "drjs_美剧之家",
             "name": "👺美剧之家(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/美剧之家.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/美剧之家.js"
         },
         {
             "key": "drjs_家庭影视",
             "name": "👺家庭影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/家庭影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/家庭影视.js"
         },
         {
             "key": "drjs_看呀看",
             "name": "👺看呀看(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看呀看.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看呀看.js"
         },
         {
             "key": "drjs_JOJO",
             "name": "👺JOJO(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/JOJO.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/JOJO.js"
         },
         {
             "key": "drjs_金牌影院2",
             "name": "👺金牌影院2(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/金牌影院2.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/金牌影院2.js"
         },
         {
             "key": "drjs_HDmoli",
             "name": "👺HDmoli(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/HDmoli.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/HDmoli.js"
         },
         {
             "key": "drjs_影剧星球",
             "name": "👺影剧星球(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/影剧星球.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/影剧星球.js"
         },
         {
             "key": "drjs_电影天堂",
             "name": "👺电影天堂(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影天堂.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影天堂.js"
         },
         {
             "key": "drjs_看57",
             "name": "👺看57(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看57.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看57.js"
         },
         {
             "key": "drjs_耐看",
             "name": "👺耐看(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/耐看.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/耐看.js"
         },
         {
             "key": "drjs_蝴蝶影视",
             "name": "👺蝴蝶影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蝴蝶影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蝴蝶影视.js"
         },
         {
             "key": "drjs_2345one",
             "name": "👺2345one(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/2345one.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/2345one.js"
         },
         {
             "key": "drjs_98影院",
             "name": "👺98影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/98影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/98影院.js"
         },
         {
             "key": "drjs_BT影视",
             "name": "👺BT影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/BT影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/BT影视.js"
         },
         {
             "key": "drjs_M1949电影",
             "name": "👺M1949电影(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/M1949电影.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/M1949电影.js"
         },
         {
             "key": "drjs_疯狗电影",
             "name": "👺疯狗电影(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/疯狗电影.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/疯狗电影.js"
         },
         {
             "key": "drjs_畅享影音",
             "name": "👺畅享影音(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/畅享影音.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/畅享影音.js"
         },
         {
             "key": "drjs_看剧网",
             "name": "👺看剧网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看剧网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看剧网.js"
         },
         {
             "key": "drjs_胖虎小站",
             "name": "👺胖虎小站(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/胖虎小站.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/胖虎小站.js"
         },
         {
             "key": "drjs_GO影视",
             "name": "👺GO影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/GO影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/GO影视.js"
         },
         {
             "key": "drjs_千神影视",
             "name": "👺千神影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/千神影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/千神影视.js"
         },
         {
             "key": "drjs_美剧星球",
             "name": "👺美剧星球(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/美剧星球.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/美剧星球.js"
         },
         {
             "key": "drjs_B站影视",
             "name": "👺B站影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/B站影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/B站影视.js"
         },
         {
             "key": "drjs_泡泡影院",
             "name": "👺泡泡影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/泡泡影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/泡泡影院.js"
         },
         {
             "key": "drjs_极点影视",
             "name": "👺极点影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/极点影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/极点影视.js"
         },
         {
             "key": "drjs_云电影网",
             "name": "👺云电影网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/云电影网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/云电影网.js"
         },
         {
             "key": "drjs_金金虫",
             "name": "👺金金虫(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/金金虫.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/金金虫.js"
         },
         {
             "key": "drjs_追影TV",
             "name": "👺追影TV(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/追影TV.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/追影TV.js"
         },
         {
             "key": "drjs_影视工场",
             "name": "👺影视工场(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/影视工场.js"
         },
         {
             "key": "drjs_影视工厂",
             "name": "👺影视工厂(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/影视工厂.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/影视工厂.js"
         },
         {
             "key": "drjs_eFuns",
             "name": "👺eFuns(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/eFuns.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/eFuns.js"
         },
         {
             "key": "drjs_达达猪",
             "name": "👺达达猪(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达猪.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达猪.js"
         },
         {
             "key": "drjs_牌牌影院",
             "name": "👺牌牌影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/牌牌影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/牌牌影院.js"
         },
         {
             "key": "drjs_剧巴巴",
             "name": "👺剧巴巴(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧巴巴.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧巴巴.js"
         },
         {
             "key": "drjs_0855影视",
             "name": "👺0855影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/0855影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/0855影视.js"
         },
         {
             "key": "drjs_思古影视[V2]",
             "name": "👺思古影视[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/思古影视[V2].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/思古影视[V2].js"
         },
         {
             "key": "drjs_小马影视[V2]",
             "name": "👺小马影视[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小马影视[V2].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小马影视[V2].js"
         },
         {
             "key": "drjs_鸭飞影视[V2]",
             "name": "👺鸭飞影视[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/鸭飞影视[V2].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn//https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/鸭飞影视[V2].js"
         },
         {
             "key": "drjs_银河影视[V2]",
             "name": "👺银河影视[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/银河影视[V2].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/银河影视[V2].js"
         },
         {
             "key": "drjs_河狸影视[V2]",
             "name": "👺河狸影视[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/河狸影视[V2].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/河狸影视[V2].js"
         },
         {
             "key": "drjs_柠檬影视[V2]",
             "name": "👺柠檬影视[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/柠檬影视[V2].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/柠檬影视[V2].js"
         },
         {
             "key": "drjs_金牌影院",
             "name": "👺金牌影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/金牌影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/金牌影院.js"
         },
         {
             "key": "drjs_PTT追剧大师",
             "name": "👺PTT追剧大师(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/PTT追剧大师.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/PTT追剧大师.js"
         },
         {
             "key": "drjs_一支穿云箭",
             "name": "👺一支穿云箭(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/一支穿云箭.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/一支穿云箭.js"
         },
         {
             "key": "drjs_小宝影院",
             "name": "👺小宝影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小宝影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小宝影院.js"
         },
         {
             "key": "drjs_旋风视频",
             "name": "👺旋风视频(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/旋风视频.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/旋风视频.js"
         },
         {
             "key": "drjs_电影狗",
             "name": "👺电影狗(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影狗.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影狗.js"
         },
         {
             "key": "drjs_臭蛋蛋",
             "name": " 👺臭蛋蛋(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/臭蛋蛋.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/臭蛋蛋.js"
         },
         {
             "key": "drjs_爱看hd",
             "name": "👺爱看hd(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱看hd.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱看hd.js"
         },
         {
             "key": "drjs_策驰影院[自动]",
             "name": "👺策驰影院[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/策驰影院[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/策驰影院[自动].js"
         },
         {
             "key": "drjs_达达龟",
             "name": "👺达达龟(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达龟.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达龟.js"
         },
         {
             "key": "drjs_速讯影院",
             "name": "👺速讯影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/速讯影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/速讯影院.js"
         },
         {
             "key": "drjs_毛驴影视",
             "name": "👺毛驴影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/毛驴影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/毛驴影视.js"
         },
         {
             "key": "drjs_南柯电影网",
             "name": "👺南柯电影网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/南柯电影网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/南柯电影网.js"
         },
         {
             "key": "drjs_全看网[自动]",
             "name": "👺全看网[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/全看网[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/全看网[自动].js"
         },
         {
             "key": "drjs_cally66",
             "name": "👺cally66(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/cally66.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/cally66.js"
         },
         {
             "key": "drjs_骑士影院",
             "name": "👺骑士影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/骑士影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/骑士影院.js"
         },
         {
             "key": "drjs_可可兔影视",
             "name": "👺可可兔影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/可可兔影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/可可兔影视.js"
         },
         {
             "key": "drjs_鸡搞鸡影视",
             "name": "👺鸡搞鸡影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/鸡搞鸡影视.js"
         },
         {
             "key": "drjs_免费电影vip",
             "name": "👺免费电影vip(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/免费电影vip.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/免费电影vip.js"
         },
         {
             "key": "drjs_星空影院",
             "name": "👺星空影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/星空影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/星空影院.js"
         },
         {
             "key": "drjs_酷基今影视",
             "name": "👺酷基今影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/酷基今影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/酷基今影视.js"
         },
         {
             "key": "drjs_火狐影视",
             "name": "👺火狐影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/火狐影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/火狐影视.js"
         },
         {
             "key": "drjs_农民影视",
             "name": "👺农民影视(DRPY)",
             "type": 3,
-            "api": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/农民影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/农民影视.js"
         },
         {
             "key": "drjs_农民影视2",
             "name": "👺农民影视2(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/农民影视2.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/农民影视2.js"
         },
         {
             "key": "drjs_看客影院",
             "name": "👺看客影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看客影院.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看客影院.js"
         },
         {
             "key": "drjs_看客视频",
             "name": "👺看客视频(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看客视频.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看客视频.js"
         },
         {
             "key": "drjs_胖虎影视",
             "name": "👺胖虎影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/胖虎影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/胖虎影视.js"
         },
         {
             "key": "drjs_348电影网",
             "name": "👺348电影网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/348电影网.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/348电影网.js"
         },
         {
             "key": "drjs_539影视",
             "name": "👺539影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/539影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/539影视.js"
         },
         {
             "key": "drjs_FreeOKLOL",
             "name": "👺FreeOKLOL(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/FreeOKLOL.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/FreeOKLOL.js"
         },
         {
             "key": "drjs_两个BT",
             "name": "👺两个BT(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/两个BT.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/两个BT.js"
         },
         {
             "key": "drjs_低端",
             "name": "👺低端(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/低端.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/低端.js"
         },
         {
             "key": "drjs_北川影视",
             "name": "👺北川影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/北川影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/北川影视.js"
         },
         {
             "key": "drjs_宇航影视",
             "name": "👺宇航影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/宇航影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/宇航影视.js"
         },
         {
             "key": "drjs_宇航影视[自动]",
             "name": "👺宇航影视[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/宇航影视[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/宇航影视[自动].js"
         },
         {
             "key": "drjs_小白菜电影",
             "name": "👺小白菜电影(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小白菜电影.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小白菜电影.js"
         },
         {
             "key": "drjs_我爱跟剧",
             "name": "👺我爱跟剧(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/我爱跟剧.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/我爱跟剧.js"
         },
         {
             "key": "drjs_朴樱影视",
             "name": "👺朴樱影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/朴樱影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/朴樱影视.js"
         },
         {
             "key": "drjs_樱花影视",
             "name": "👺樱花影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/樱花影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/樱花影视.js"
         },
         {
             "key": "drjs_爱迪影视",
             "name": "👺爱迪影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱迪影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱迪影视.js"
         },
         {
             "key": "drjs_米爱影视",
             "name": "👺米爱影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/米爱影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/米爱影视.js"
         },
         {
             "key": "drjs_达达龟",
             "name": "👺达达龟(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达龟.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/达达龟.js"
         },
         {
             "key": "drjs_爱优影视[自动]",
             "name": "👺爱优影视[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱优影视[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱优影视[自动].js"
         },
         {
             "key": "drjs_Bilfun[自动]",
             "name": "👺Bilfun[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/Bilfun[自动].js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/Bilfun[自动].js"
         },
         {
             "key": "drjs_天龙影院",
             "name": "👺天龙影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/天龙影院.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/天龙影院.js"
         },
         {
             "key": "drjs_飞鱼影视",
             "name": "👺飞鱼影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/飞鱼影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/飞鱼影视.js"
         },
         {
             "key": "drjs_闪雷电",
             "name": "👺闪雷电(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/闪雷电.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/闪雷电.js"
         },
         {
             "key": "drjs_爱欧乐影院[飞]",
             "name": "👺爱欧乐影院[飞](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱欧乐影院[飞].js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱欧乐影院[飞].js"
         },
         {
             "key": "drjs_唐人街[飞]",
             "name": "👺唐人街[飞](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/唐人街[飞].js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/唐人街[飞].js"
         },
         {
             "key": "drjs_人人影视",
             "name": "👺人人影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/人人影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/人人影视.js"
         },
         {
             "key": "drjs_看了么",
             "name": "👺看了么(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看了么.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看了么.js"
         },
         {
             "key": "drjs_嘀哩嘀哩",
             "name": "👺嘀哩嘀哩(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/嘀哩嘀哩.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/嘀哩嘀哩.js"
         },
         {
             "key": "drjs_饺子影院",
             "name": "👺饺子影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/饺子影院.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/饺子影院.js"
         },
         {
             "key": "drjs_饭团影视",
             "name": "👺饭团影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/饭团影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/饭团影视.js"
         },
         {
             "key": "drjs_游子视频",
             "name": "👺游子视频(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/游子视频.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/游子视频.js"
         },
         {
             "key": "drjs_大千视界",
             "name": "👺大千视界(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大千视界.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大千视界.js"
         },
         {
             "key": "drjs_咖啡影视",
             "name": "👺咖啡影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/咖啡影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/咖啡影视.js"
         },
         {
             "key": "drjs_剧迷",
             "name": "👺剧迷(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧迷.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧迷.js"
         },
         {
             "key": "drjs_刷剧网",
             "name": "👺刷剧网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/刷剧网.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/刷剧网.js"
         },
         {
             "key": "drjs_冠建影视",
             "name": "👺冠建影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/冠建影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/冠建影视.js"
         },
         {
             "key": "drjs_你好帅影院",
             "name": "👺你好帅影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/你好帅影院.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/你好帅影院.js"
         },
         {
             "key": "drjs_auete",
             "name": "👺auete(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/auete.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/auete.js"
         },
         {
             "key": "drjs_映播TV",
             "name": "👺映播TV(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/映播TV.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/映播TV.js"
         },
         {
             "key": "drjs_旺旺影视",
             "name": "👺旺旺影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/旺旺影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/旺旺影视.js"
         },
         {
             "key": "drjs_无忧影视",
             "name": "👺无忧影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/无忧影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/无忧影视.js"
         },
         {
             "key": "drjs_悠悠影视",
             "name": "👺悠悠影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/悠悠影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/悠悠影视.js"
         },
         {
             "key": "drjs_影视控",
@@ -14880,50 +14874,50 @@
             "key": "drjs_影渣渣影视",
             "name": "👺影渣渣影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/影渣渣影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/影渣渣影视.js"
         },
         {
             "key": "drjs_易点看影院[自动]",
             "name": "👺易点看影院[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/易点看影院[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/易点看影院[自动].js"
         },
         {
             "key": "drjs_来看点播[自动]",
             "name": "👺来看点播[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/来看点播[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/来看点播[自动].js"
         },
         {
             "key": "drjs_三集电影[自动]",
             "name": "👺三集电影[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/三集电影[自动].js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/三集电影[自动].js"
         },
         {
             "key": "drjs_奈飞中文[自动]",
             "name": "👺奈飞中文[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/奈飞中文[自动].js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/奈飞中文[自动].js"
         },
         {
             "key": "drjs_神马影院[自动]",
             "name": "👺神马影院[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/神马影院[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/神马影院[自动].js"
         },
         {
             "key": "drjs_网飞啦[自动]",
             "name": "👺网飞啦[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/网飞啦[自动].js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/网飞啦[自动].js"
         },
         {
             "key": "drjs_奶狗影视[慢]",
@@ -14936,42 +14930,42 @@
             "key": "drjs_网飞.TV",
             "name": "👺网飞.TV(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/网飞.TV.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/网飞.TV.js"
         },
         {
             "key": "drjs_豆角网",
             "name": "👺豆角网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/豆角网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/豆角网.js"
         },
         {
             "key": "drjs_西瓜影院",
             "name": "👺西瓜影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/西瓜影院.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/西瓜影院.js"
         },
         {
             "key": "drjs_剧哥哥",
             "name": "👺剧哥哥(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧哥哥.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧哥哥.js"
         },
         {
             "key": "drjs_刺猬影视",
             "name": "👺刺猬影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/刺猬影视.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/刺猬影视.js"
         },
         {
             "key": "drjs_七新电影网",
             "name": "👺七新电影网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
             "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/七新电影网.js"
         },
         {
@@ -15041,378 +15035,378 @@
             "key": "drjs_剧集TV",
             "name": "👺剧集TV(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧集TV.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧集TV.js"
         },
         {
             "key": "drjs_爱迪[自动]",
             "name": "👺爱迪[自动](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱迪[自动].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱迪[自动].js"
         },
         {
             "key": "drjs_酷云影视",
             "name": "👺酷云影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/酷云影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/酷云影视.js"
         },
         {
             "key": "drjs_神仙影视",
             "name": "👺神仙影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/神仙影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/神仙影视.js"
         },
         {
             "key": "drjs_星辰CT",
             "name": "👺星辰CT(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/星辰CT.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/星辰CT.js"
         },
         {
             "key": "drjs_天启",
             "name": "👺天启(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/天启.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/天启.js"
         },
         {
             "key": "drjs_子子影视",
             "name": "👺子子影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/子子影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/子子影视.js"
         },
         {
             "key": "drjs_热片网",
             "name": "👺热片网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/热片网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/热片网.js"
         },
         {
             "key": "drjs_虾酱追剧",
             "name": "👺虾酱追剧(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/虾酱追剧.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/虾酱追剧.js"
         },
         {
             "key": "drjs_热播之家",
             "name": "👺热播之家(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/热播之家.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/热播之家.js"
         },
         {
             "key": "drjs_被窝电影",
             "name": "👺被窝电影(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/被窝电影.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/被窝电影.js"
         },
         {
             "key": "drjs_蚂蚁影视",
             "name": "👺蚂蚁影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蚂蚁影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蚂蚁影视.js"
         },
         {
             "key": "drjs_暖光影视",
             "name": "👺暖光影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/暖光影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/暖光影视.js"
         },
         {
             "key": "drjs_夕云影视",
             "name": "👺夕云影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/夕云影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/夕云影视.js"
         },
         {
             "key": "drjs_想看影院",
             "name": "👺想看影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/想看影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/想看影院.js"
         },
         {
             "key": "drjs_小鱼影视",
             "name": "👺小鱼影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小鱼影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/小鱼影视.js"
         },
         {
             "key": "drjs_我播",
             "name": "👺我播(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/我播.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/我播.js"
         },
         {
             "key": "drjs_飘花影院",
             "name": "👺飘花影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/飘花影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/飘花影院.js"
         },
         {
             "key": "drjs_4khdr",
             "name": "👺4khdr(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/4khdr.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/4khdr.js"
         },
         {
             "key": "drjs_4k剧院",
             "name": "👺4k剧院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/4k剧院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/4k剧院.js"
         },
         {
             "key": "drjs_8号影院",
             "name": "👺8号影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/8号影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/8号影院.js"
         },
         {
             "key": "drjs_555影视[飞]",
             "name": "👺555影视[飞](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/555影视[飞].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/555影视[飞].js"
         },
         {
             "key": "drjs_777影视",
             "name": "👺777影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/777影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/777影视.js"
         },
         {
             "key": "drjs_freeok",
             "name": "👺freeok(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/freeok.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/freeok.js"
         },
         {
             "key": "drjs_iFun",
             "name": "👺iFun(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/iFun.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/iFun.js"
         },
         {
             "key": "drjs_TVB云播",
             "name": "👺TVB云播(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/TVB云播.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/TVB云播.js"
         },
         {
             "key": "drjs_voflix",
             "name": "👺voflix(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/voflix.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/voflix.js"
         },
         {
             "key": "drjs_爱看影院",
             "name": "👺爱看影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱看影院.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/爱看影院.js"
         },
         {
             "key": "drjs_白嫖者联盟",
             "name": "👺白嫖者联盟(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/白嫖者联盟.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/白嫖者联盟.js"
         },
         {
             "key": "drjs_宝片视频",
             "name": "👺宝片视频(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/宝片视频.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/宝片视频.js"
         },
         {
             "key": "drjs_厂长资源",
             "name": "👺厂长资源(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/厂长资源.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/厂长资源.js"
         },
         {
             "key": "drjs_橙汁影视",
             "name": "👺橙汁影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/橙汁影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/橙汁影视.js"
         },
         {
             "key": "drjs_大米星球",
             "name": "👺大米星球(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大米星球.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大米星球.js"
         },
         {
             "key": "drjs_大米星球[V2]",
             "name": "👺大米星球[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大米星球[V2].js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大米星球[V2].js"
         },
         {
             "key": "drjs_大中国",
             "name": "👺大中国(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大中国.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/大中国.js"
         },
         {
             "key": "drjs_蛋蛋剧",
             "name": "👺蛋蛋剧(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蛋蛋剧.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蛋蛋剧.js"
         },
         {
             "key": "drjs_蛋蛋赞",
             "name": "👺蛋蛋赞(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蛋蛋赞.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蛋蛋赞.js"
         },
         {
             "key": "drjs_电影先生",
             "name": "👺电影先生(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影先生.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/电影先生.js"
         },
         {
             "key": "drjs_干饭影视",
             "name": "👺干饭影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/干饭影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/干饭影视.js"
         },
         {
             "key": "drjs_海外剧汇",
             "name": "👺海外剧汇(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/海外剧汇.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/海外剧汇.js"
         },
         {
             "key": "drjs_即看影视",
             "name": "👺即看影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/即看影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/即看影视.js"
         },
         {
             "key": "drjs_剧圈圈",
             "name": "👺剧圈圈(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧圈圈.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/剧圈圈.js"
         },
         {
             "key": "drjs_看看影视",
             "name": "👺看看影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看看影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/看看影视.js"
         },
         {
             "key": "drjs_可达影视",
             "name": "👺可达影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/可达影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/可达影视.js"
         },
         {
             "key": "drjs_酷客影视",
             "name": "👺酷客影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/酷客影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/酷客影视.js"
         },
         {
             "key": "drjs_快看影视",
             "name": "👺快看影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/快看影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/快看影视.js"
         },
         {
             "key": "drjs_蓝光影视",
             "name": "👺蓝光影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蓝光影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/蓝光影视.js"
         },
         {
             "key": "drjs_美益达",
             "name": "👺美益达(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/美益达.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/美益达.js"
         },
         {
             "key": "drjs_魔方影视",
             "name": "👺魔方影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/魔方影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/魔方影视.js"
         },
         {
             "key": "drjs_七年影视",
             "name": "👺七年影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/七年影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/七年影视.js"
         },
         {
             "key": "drjs_如意影视",
             "name": "👺如意影视(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/如意影视.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/如意影视.js"
         },
         {
             "key": "drjs_时光影院",
             "name": "👺时光影院(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/时光影院.js"
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/时光影院.js"
         },
         {
             "key": "drjs_首发网",
             "name": "👺首发网(DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
-            "ext": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/首发网.js"
+            "api": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/首发网.js"
         },
         {
             "key": "drjs_思古影视[V2]",
             "name": "👺思古影视[V2](DRPY)",
             "type": 3,
-            "api": "https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
+            "api":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js",
             "ext": "https://gh.llkk.cc/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/思古影视[V2].js"
         },
         {
@@ -15617,21 +15611,21 @@
 {"key":"csp_TgYunPan4","name":"雷蒙影视 | 💿电报搜索4(SP)","type":3,"api":"csp_TgYunPan","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://107.172.201.182:9999/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"./N3RD/T/zx.json"}},
 {"key":"csp_TgYunPan5","name":"雷蒙影视 | 💿电报搜索5(SP)","type":3,"api":"csp_TgYunPan","jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/custom_spider.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://tgsou.uu8.pro","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/peizhi.json"}},
 
-{"key":"csp_TGYunPanLocal","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TGYunPanLocal",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,SharePanBaidu","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan1","name":"雷蒙影视 | 💿电报搜索Ⅰ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.devopser.org","tgsearch_media_url":"http://tg.devopser.org","channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan2","name":"雷蒙影视 | 💿电报搜索Ⅱ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.club/","tgsearch_media_url":"https://tg.uu8.club/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan3","name":"雷蒙影视 | 💿电报搜索Ⅲ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://107.172.201.182:524","tgsearch_media_url":"http://107.172.201.182:524","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan4","name":"雷蒙影视 | 💿电报搜索Ⅳ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://146.235.228.60:24903","tgsearch_media_url":"http://146.235.228.60:24903","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan5","name":"雷蒙影视 | 💿电报搜索Ⅴ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.pro/","tgsearch_media_url":"https://tg.uu8.pro/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan6","name":"雷蒙影视 | 💿电报搜索Ⅵ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://xzqcsa.iepose.cn","tgsearch_media_url":"http://xzqcsa.iepose.cn","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅶ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://hl.cloudns.be:10199","tgsearch_media_url":"http://hl.cloudns.be:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅷ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://45.207.209.177:10199","tgsearch_media_url":"http://45.207.209.177:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿电报搜索1(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://tgsou.seczh.com/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
-{"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿电报搜索2(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://47.240.62.83:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
-{"key":"csp_TgYunPan3","name":"雷蒙影视 | 💿电报搜索3(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://45.207.209.177:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
-{"key":"csp_TgYunPan4","name":"雷蒙影视 | 💿电报搜索4(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://107.172.201.182:9999/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
-{"key":"csp_TgYunPan5","name":"雷蒙影视 | 💿电报搜索5(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://tgsou.uu8.pro","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
-{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅸ(SP)","type":3,"api":"csp_TGYunPan","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPanLocal","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TGYunPanLocal",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,SharePanBaidu","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan1","name":"雷蒙影视 | 💿电报搜索Ⅰ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.devopser.org","tgsearch_media_url":"http://tg.devopser.org","channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan2","name":"雷蒙影视 | 💿电报搜索Ⅱ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.club/","tgsearch_media_url":"https://tg.uu8.club/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan3","name":"雷蒙影视 | 💿电报搜索Ⅲ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://107.172.201.182:524","tgsearch_media_url":"http://107.172.201.182:524","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan4","name":"雷蒙影视 | 💿电报搜索Ⅳ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://146.235.228.60:24903","tgsearch_media_url":"http://146.235.228.60:24903","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan5","name":"雷蒙影视 | 💿电报搜索Ⅴ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.pro/","tgsearch_media_url":"https://tg.uu8.pro/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan6","name":"雷蒙影视 | 💿电报搜索Ⅵ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://xzqcsa.iepose.cn","tgsearch_media_url":"http://xzqcsa.iepose.cn","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅶ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://hl.cloudns.be:10199","tgsearch_media_url":"http://hl.cloudns.be:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅷ(SP)","type":3,"api":"csp_TGYunPan",jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://45.207.209.177:10199","tgsearch_media_url":"http://45.207.209.177:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TgYunPan1","name":"雷蒙影视 | 💿电报搜索1(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://tgsou.seczh.com/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan2","name":"雷蒙影视 | 💿电报搜索2(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://47.240.62.83:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan3","name":"雷蒙影视 | 💿电报搜索3(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://45.207.209.177:9999","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan4","name":"雷蒙影视 | 💿电报搜索4(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"http://107.172.201.182:9999/","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TgYunPan5","name":"雷蒙影视 | 💿电报搜索5(SP)","type":3,"api":"csp_TgYunPan","jar":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/zx.jar","searchable":1,"filterable":0,"switchable":0,"ext":{"siteUrl":"https://tgsou.uu8.pro","channelUsername":"hao115,guaguale115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,alyp_4K_Movies,vip115hot,yunpanshare,ucwangpan,Quark_Share_Channel,Aliyundrive_Share_Channel,shareAliyun,ikiviyyp,wanwansubchat,wangpanziyuan2021,alyp_1,quanziyuanshe","commonConfig":"https://git.acwing.com/805598571/666/-/raw/main/lib/peizhi.json"}},
+{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅸ(SP)","type":3,"api":"csp_TGYunPan","jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;e5e62c1f436c6e9ef45dce7da2cdc50f","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghproxy.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
 {
             "jar": "https://ghproxy.net/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/xbpg.jar",
             "key": "csp_XBPQ_布谷TV",
@@ -16088,7 +16082,8 @@
 			"url": "Web"
 		},
 {"name":"📦天招4k会员777","type": 1,"url":"https://jx.youxidc.cn/api/?key=216d959b181672b0791b539f076aafb9&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-
+{"name":"📦ww","type": 1,"url":"http://8.155.36.180:1255/api/?key=982a4532442d682b874967224d8ca714&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name":"📦nn","type": 1,"url":"https://jx.youxidc.cn/api/?key=216d959b181672b0791b539f076aafb9&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {"name":"📦悦测试","type": 1,"url":"http://wab.xyyh.online:8889/api/api.php?key=962478788&url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},//影酷HDR超级
 {"name":"📦天招4k会员6666","type": 1,"url":"https://jx.xmflv.com/?url=","ext": {"flag": ["qq"],"header": {"User-Agent": "okhttp/4.1.0"}}},
 {
