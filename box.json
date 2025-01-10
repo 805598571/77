@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;3488eaa517fc76f40c508616b6da8156",
+"spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;1009a3d4f010972d00cd9559e84e14e8",
 
 "logo":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/W/ICONSGIF.gif",
 
@@ -1033,9 +1033,10 @@
 {"key":"csp_AlistShare","name":"雷蒙影视 | 💿网盘分享合集(SP)","type":3,"api":"csp_AlistShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":120,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$null$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_AlistShare2","name":"雷蒙影视 | 💿AList网盘分享(SP)","type":3,"api":"csp_AlistShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://slink.ltd/https://raw.githubusercontent.com/xiaoyaliu00/data/main/update.zip$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://wogg.888484.xyz/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"},
-
+{"key":"csp_Wobg_小虎斑","name":"雷蒙影视 | 💿小虎斑(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"hhttps://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wp.huban.xyz$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$U_HUBAN"},
+{"key":"csp_Wobg_特下饭","name":"雷蒙影视 | 💿特下饭(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://txfyyds.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
 {"key":"csp_Wobg_闪电优汐","name":"雷蒙影视 | 💿闪电优汐(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://feimaouc.cloud:666$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-
+{"key":"csp_Guanying","name":"雷蒙影视 | 💿观影(SP)","type":3,"api":"csp_Guanying","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.gyg.la$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/guanying.txt"},
 {
 			"key": "Wobg",
 			"name": "🎭玩偶表哥┃云盘",
@@ -1134,86 +1135,7 @@
 {"key":"csp_BLSGod","name":"雷蒙影视 | 🧲80S影视(SP)","type":3,"api":"csp_BLSGod","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xunlei8","name":"雷蒙影视 | 🧲迅雷吧(SP)","type":3,"api":"csp_Xunlei8","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Clg","name":"雷蒙影视 | 🧲磁力狗(SP)","type":3,"api":"csp_Clg","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://clg.clgvip1.xyz/$$$cfg$$$1","style":{"type":"rect","ratio":1.5}},
-{
-			"key": "csp_Jav8",
-			"name": "🔞Jav8┃磁力",
-			"type": 3,
-			"api": "csp_Jav8",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://jav98.xyz$$$noproxy"
-		},
-		{
-			"key": "csp_Bus",
-			"name": "️Bus┃磁力",
-			"type": 3,
-			"api": "csp_Bus",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.6
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://xh5.top$$$noproxy"
-		},
-{
-			"key": "csp_JavDb",
-			"name": "🔞JavDb┃磁力",
-			"type": 3,
-			"api": "csp_JavDb",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://javdb368.com$$$noproxy"
-		},
-		{
-			"key": "csp_JavBus",
-			"name": "️JavBus┃磁力",
-			"type": 3,
-			"api": "csp_JavBus",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.6
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.cdnbus.shop$$$noproxy"
-		},
-{
-			"key": "csp_Netflav",
-			"name": "🇳Netflav┃直连",
-			"type": 3,
-			"api": "csp_Netflav",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,
-			"ext":"null$$$proxy"
-		},
-{
-			"key": "csp_Jav",
-			"name": "🔞Jav┃磁力",
-			"type": 3,
-			"api": "csp_Jav",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://pc5.top$$$noproxy"
-		},
+
         {
             "key": "阿里合集",
             "name": "💯阿里合集丨4K超清",
