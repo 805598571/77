@@ -279,17 +279,7 @@
       }
      }
     },
-    {
-      "key": "csp_视觉",
-      "name": "⏭｜视觉｜PYTHON",
-      "type": 3,
-      "searchable": 1,
-      "changeable": 1,
-      "quickSearch": 1,
-      "api": "https://ghproxy.cn/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/HArjrki0_shijue.py",
-      "playerType": 2,
-      "filterable": 1
-    },
+   
     {
       "key": "Net_emby", 
       "name": "⏭｜Net_Emby｜PYTHON",
@@ -701,7 +691,7 @@
             },
             "ext": "https://ghproxy.cn/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_js1/theporn.js"
         },
-            "key": "hipy_js_avtoday[密]",
+          {  "key": "hipy_js_avtoday[密]",
             "name": "🔞AVtoday",
             "type": 3,
             "api": "https://ghproxy.cn/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/drpy2.min.js",
