@@ -2948,18 +2948,7 @@
             "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/美剧窝.json",
             "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
         },
-        {
-            "key": "XBPQ米爱影视",
-            "name": "📽️米爱影视(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "playerType": "",
-            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/米爱影视.json",
-            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/HeChengChaXiu.jar"
-        },
+       
 {
             "key": "奈飞N中文",
             "name": "📽️奈飞N中文(XBPQ)",
@@ -4647,7 +4636,7 @@
         },
 {
 			"key": "TGYunPanLocal",
-			"name": " TG频道搜索",
+			"name": "🔱TG频道搜索",
 			"type": 3,
 			"api": "csp_TGYunPanLocal",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4669,7 +4658,7 @@
 		},
 		{
 			"key": "TGYunPan",
-			"name": " TG群组搜索",
+			"name": "🔱TG群组搜索",
 			"type": 3,
 			"api": "csp_TGYunPan",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",   
@@ -4704,7 +4693,7 @@
 		},
     {
 			"key": "Wobg",
-			"name": " 玩偶表哥┃云盘",
+			"name": "🔱玩偶表哥┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",   
@@ -4717,7 +4706,7 @@
 		},
 		{
 			"key": "Wnlg",
-			"name": " 玩你老哥┃云盘",
+			"name": "🔱玩你老哥┃云盘",
 			"type": 3,
 			"api": "csp_Wobg",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4730,7 +4719,7 @@
 		},    
 {
 			"key": "csp_AliShare",
-			"name": " 阿里┃网盘",
+			"name": "🔱阿里┃网盘",
 			"type": 3,
 			"api": "csp_AliShare",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4747,7 +4736,7 @@
 		},
 		{
 			"key": "csp_QuarkShare",
-			"name": " 夸克┃网盘",
+			"name": "🔱夸克┃网盘",
 			"type": 3,
 			"api": "csp_QuarkShare",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4764,7 +4753,7 @@
 		},
 		{
 			"key": "csp_UCShare",
-			"name": " UC┃网盘",
+			"name": "🔱UC┃网盘",
 			"type": 3,
 			"api": "csp_UCShare",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4788,7 +4777,7 @@
 		},
 		{
 			"key": "csp_P115Share",
-			"name": " 115┃网盘",
+			"name": "🔱115┃网盘",
 			"type": 3,
 			"api": "csp_P115Share",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4806,7 +4795,7 @@
 			
 		{
 			"key": "csp_ThunderShare",
-			"name": " 迅雷┃网盘",
+			"name": "🔱迅雷┃网盘",
 			"type": 3,
 			"api": "csp_ThunderShare",
                         "jar" :"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4824,7 +4813,7 @@
 {"key":"Wogg","name":" 玩偶|p g","type":3,"api":"csp_Wogg", "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0","quickSearch":1, "changeable":1, "filterable":1, "timeout":60, "ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wogg.888484.xyz/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"},
 {
 			"key": "Wogg",
-			"name": " 玩偶哥哥┃云盘",
+			"name": 🔱玩偶哥哥┃云盘",
 			"type": 3,
 			"api": "csp_Wogg",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -4837,7 +4826,7 @@
 		},
 {
 			"key": "csp_Panta",
-			"name": " 盘ta┃云搜",
+			"name": "🔱盘ta┃云搜",
 			"type": 3,
 			"api": "csp_Panta",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0", 
