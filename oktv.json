@@ -664,7 +664,7 @@
             "name": "🐯色虎┃视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": ".https://ghfast.top/https://raw.githubusercontent.com/lc529180405/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lc529180405/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -835,7 +835,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "https://ghproxy.cn/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/jar/xyqxbpq.jar",
-      "ext": https://git.acwing.com/66tv/669/-/raw/main/mov/json/黄色仓库xyz.json"
+      "ext":" https://git.acwing.com/66tv/669/-/raw/main/mov/json/黄色仓库xyz.json"
     },
 {
       "key":"u9a9","name":"🆕u9a9|磁力","type":3,"api":"csp_XBPQ","jar":"https://www.fish2018.us.kg/p/lib/XBPQ.jar","style":{"ratio":1.7},
