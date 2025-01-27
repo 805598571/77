@@ -1,10 +1,10 @@
-﻿{
+{
 "spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1737725007229/f01242.txt;md5;c4745a1b57105d124cf1b429eba5d4bf",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 "sites":[
 {
 		     "key":"TGDouban",
-		     "name":" 豆瓣┃TG",
+		     "name":"😎豆瓣┃TG",
 		     "type":3,
 		     "api":"csp_TGDouban",
                      "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -80,7 +80,7 @@
 
   {
 			"key": "pg配置中心",
-			"name": " pg配置中心",
+			"name": "😎pg配置中心",
 			"type": 3,
 			"api": "csp_Config",
                         "jar":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;b3891117f7ed5ec28948c7d466072cb0",
@@ -2949,28 +2949,7 @@
             "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
         },
        
-{
-            "key": "奈飞N中文",
-            "name": "📽️奈飞N中文(XBPQ)",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1,
-            "playerType": "",
-            "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/奈飞N中文.json",
-            "jar": "https://git.acwing.com/gggwang/gggwang/-/raw/main/JAR/xyqxbpq.jar;md5;FD3CEFC7302F3A39A442682F802B11E5"
-        },
-   {
-        "key": "csp_TvDy",
-        "name": "🎥｜电影天堂",
-        "type": 3,
-        "api": "csp_TvDy",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/jar0423.jar;md5;f5f25556deaf4016a82345864b16cd81"
-      },
+
    {
       "key": "玩偶",
       "name": "🌀玩偶┃4K",
