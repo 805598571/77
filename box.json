@@ -1,4 +1,4 @@
-﻿{
+{
 "spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;c79ffacf50a582928206ee5d8c6ad9db",
 
 "logo":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/W/ICONSGIF.gif",
@@ -134,7 +134,7 @@
             "name": "😎云云｜弹幕",
             "type": 3,
             "api": "csp_Upys",
-            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",              "searchable": 1,    
+            "jar": "https://git.acwing.com/805598571/666/-/raw/main/jar/spider.jar;md5;6044e3ceb295d82028c72e4524bae5f5",                 "searchable": 1,                 
             "filterable": 0,
             "changeable": 1,
             "ext": {
@@ -422,7 +422,7 @@
 {"key":"csp_PushShare","name":"雷蒙影视 | 💿我的资源分享(SP)","type":3,"api":"csp_PushShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/pushshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_AlistShare","name":"雷蒙影视 | 💿网盘分享合集(SP)","type":3,"api":"csp_AlistShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":120,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$null$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
 {"key":"csp_AlistShare2","name":"雷蒙影视 | 💿AList网盘分享(SP)","type":3,"api":"csp_AlistShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://slink.ltd/https://raw.githubusercontent.com/xiaoyaliu00/data/main/update.zip$$$cfg$$$1","style":{"type":"list","ratio":1.1}},
-{"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://wogg.888484.xyz/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"},
+{"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.wogg.net/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$WOGG"},
 {"key":"csp_Wobg_小虎斑","name":"雷蒙影视 | 💿小虎斑(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"hhttps://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://wp.huban.xyz$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$U_HUBAN"},
 {"key":"csp_Wobg_特下饭","name":"雷蒙影视 | 💿特下饭(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://txfyyds.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
 {"key":"csp_Wobg_闪电优汐","name":"雷蒙影视 | 💿闪电优汐(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://feimaouc.cloud:666$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
