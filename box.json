@@ -672,7 +672,30 @@
             "timeout": 60
         },
 
-
+{
+            "key": "BLSGod",
+            "name": "BLSGod|磁",
+            "type": 3,
+            "api": "csp_BLSGod",
+            "changeable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "Xunlei8",
+            "name": "Xunlei8|磁",
+            "type": 3,
+            "api": "csp_Xunlei8",
+            "changeable": 1,
+            "timeout": 60
+        },
+        {
+            "key": "SeedHub",
+            "name": "SeedHub|磁",
+            "type": 3,
+            "api": "csp_SeedHub",
+            "changeable": 1,
+            "timeout": 60
+        },
         {
             "key": "阿里合集",
             "name": "💯阿里合集丨4K超清",
@@ -692,39 +715,35 @@
             }
         },
  
- 
-{
-            "key": "csp_JavDb",
-            "name": "🔞9JavDb┃磁力",
-            "type": 3,
-            "api": "csp_JavDb",
-         
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            },
-            "ext": "./lib/tokenm.json$$$http://javdb369.com$$$proxy"
-        },
-        {
-            "key": "csp_JavBus",
-            "name": "🔞9JavBus┃磁力",
-            "type": 3,
-            "api": "csp_JavBus",
-            
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "timeout": 60,
-            "style": {
-                "type": "rect",
-                "ratio": 1.33
-            },
-            "ext": "./lib/tokenm.json$$$null$$$proxy"},
+ {
+			"key": "csp_JavDb",
+			"name": "🔞JavDb┃磁力",
+			"type": 3,
+			"api": "csp_JavDb",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,	
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://javdb369.com$$$noproxy"
+		},
+		{
+			"key": "csp_JavBus",
+			"name": "㊙️JavBus┃磁力",
+			"type": 3,
+			"api": "csp_JavBus",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.6
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.busfan.ink$$$noproxy"
+		},
+
 {"key":"Gxqvlj","name":"Gxqvlj","type":3,"api":"csp_Gxqvlj","searchable":0,"changeable":1},
 {"key":"push_agent","name":"🙀饭太硬手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"https://git.acwing.com/pxiptv/tv/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"雷蒙影视 | ⬆雷蒙影视推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.json"}
