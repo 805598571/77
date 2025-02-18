@@ -691,50 +691,8 @@
                 "type": "list"
             }
         },
- {
-            "key": "csp_JavBus",
-            "name": "5JavBus",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "null$$$https://www.javbus.com$$$proxy"
-        },
-        {
-            "key": "csp_JavDb",
-            "name": "5JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "null$$$https://www.javdb.com$$$proxy"
-        },
- {
-            "key": "csp_JavBus",
-            "name": "JavBus",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "null$$$https://www.dmmbus.ink$$$proxy"
-        },
-        {
-            "key": "csp_JavDb",
-            "name": "JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "null$$$http://javdb369.com$$$proxy"
-        },
+ 
+ 
 {
             "key": "csp_JavDb",
             "name": "🔞9JavDb┃磁力",
