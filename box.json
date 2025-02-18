@@ -692,13 +692,26 @@
             }
         },
  {
-            "key": "TGYunPan18",
-            "name": "🔞🎎TG搜索|涩涩网盘",
+            "key": "csp_JavBus",
+            "name": "5JavBus",
             "type": 3,
-           
-            "api": "csp_TGYunPan",
-            "timeout": 60,
-            "ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://tg.seczh.com/$$$IPX_AV|1000,pikpakziyuan|1000,avpush|1000,avgc5200|1000,cctav|1000,javdb91|1000,zyfx_0315|1000,ribenseyuge1|1000,vn666hh|1000,avab01|1000,CosMM18|1000,cilitu|1000,SeseAnime|1000$$$noproxy$$$1"
+            "api": "csp_JavBus",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "null$$$https://www.javbus.com$$$proxy"
+        },
+        {
+            "key": "csp_JavDb",
+            "name": "5JavDb",
+            "type": 3,
+            "api": "csp_JavDb",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "null$$$https://www.javdb.com$$$proxy"
         },
  {
             "key": "csp_JavBus",
@@ -722,7 +735,38 @@
             "changeable": 0,
             "ext": "null$$$http://javdb369.com$$$proxy"
         },
-
+{
+            "key": "csp_JavDb",
+            "name": "🔞9JavDb┃磁力",
+            "type": 3,
+            "api": "csp_JavDb",
+         
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "style": {
+                "type": "rect",
+                "ratio": 1.5
+            },
+            "ext": "./lib/tokenm.json$$$http://javdb369.com$$$proxy"
+        },
+        {
+            "key": "csp_JavBus",
+            "name": "🔞9JavBus┃磁力",
+            "type": 3,
+            "api": "csp_JavBus",
+            
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.33
+            },
+            "ext": "./lib/tokenm.json$$$null$$$proxy"
 {"key":"Gxqvlj","name":"Gxqvlj","type":3,"api":"csp_Gxqvlj","searchable":0,"changeable":1},
 {"key":"push_agent","name":"🙀饭太硬手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"https://git.acwing.com/pxiptv/tv/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"雷蒙影视 | ⬆雷蒙影视推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.json"}
