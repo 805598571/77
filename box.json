@@ -712,9 +712,9 @@
             }
         },
  
- {
-			"key": "csp_JavDb",
-			"name": "JavDb┃磁力",
+ 
+			{"key": "csp_JavDb",
+			"name": "🌾JavDb┃磁力",
 			"type": 3,
 			"api": "csp_JavDb",
 			"searchable": 1,
@@ -726,7 +726,7 @@
 		},
 		{
 			"key": "csp_JavBus",
-			"name": "JavBus┃磁力",
+			"name": "🌾JavBus┃磁力",
 			"type": 3,
 			"api": "csp_JavBus",
 			"searchable": 1,
