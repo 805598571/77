@@ -8,6 +8,7 @@
 
 
 "sites":[
+
 {"key":"文采","name":"💮文采┃秒播","type":3,"api":"csp_Jpys","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"低端","name":"⏮️低端┃外剧","type":3,"api":"csp_Ddrk","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74",playerType":"2","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74","searchable":1,"quickSearch":1,"changeable":1},
@@ -53,7 +54,6 @@
 {"key":"Jrsjs","name":"⚽Jrs┃球迷","type":3,"api":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://raw.gitmirror.com/fantaiying7/EXT/refs/heads/main/jrk.js","style":{"type":"list"},
 
 {"key":"926看球","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739805062395/f0218.txt;md5;0849d9b214667fd4d4af3ddb9c060d74","searchable":0,"changeable":0,"style":{"type":"list"}},
-
 {
             "key": "配置中心",
             "name":"😎潇洒配置｜中心",
@@ -201,7 +201,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/liu4331126/liu4331126/raw/master/token.txt",
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -216,7 +216,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/liu4331126/liu4331126/raw/master/token.txt",
+                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
                 "danmu": true
             }
         },
@@ -620,7 +620,6 @@
 			"timeout": 60,
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.gying.net$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/guanying.txt"
 		},
-{"key":"Hdhive","name":"鸟窝|网盘","type":3,"api":"csp_Hdh","quickSearch":1, "changeable":1, "filterable":1, "timeout":120, "ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$http://hdhive.online$$$noproxy$$$1$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/hdhive.txt"},
 {"key":"csp_Wobg_白嫖分享","name":"雷蒙影视 | 💿白嫖分享(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://smdyo.top//$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
 {"key":"csp_Wobg_木偶哥哥","name":"雷蒙影视 | 💿木偶哥哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.muoupan.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
 {"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://mihdr.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
@@ -693,19 +692,20 @@
 			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
 		},
 {"key":"csp_AliShare_EBook","name":"雷蒙影视 | 💿阿里云盘书籍分享(SP)","type":3,"api":"csp_AliShare","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/alishare.ebook.txt"},
-{
-			"key": "csp_Netflav",
-			"name": "🇳Netflav┃直连",
-			"type": 3,
-			"api": "csp_Netflav",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,
-			"ext":"null$$$proxy"
-		},
-           
+
+ {
+            "key": "csp_Netflav",
+            "name": "Netflav",
+            "type": 3,
+            "api": "csp_Netflav",
+            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar",
+            "ext": "proxy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 0,
+            "timeout": 60
+        },
 
 {
             "key": "BLSGod",
@@ -783,7 +783,6 @@
 {"key":"push_agent","name":"🙀饭太硬手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"https://git.acwing.com/pxiptv/tv/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"雷蒙影视 | ⬆雷蒙影视推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.json"}
 ],
-
   "parses": [
     
     {
