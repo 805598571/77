@@ -796,33 +796,7 @@
             }
         },
  
-			{"key": "csp_JavDb",
-			"name": "🌾1┃磁力",
-			"type": 3,
-			"api": "csp_JavDb",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"changeable": 2,
-			"timeout": 1801,	
-			"ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$http://javdb369.com$$$noproxy"
-		},
-		{
-			"key": "csp_JavBus",
-			"name": "🌾8┃磁力",
-			"type": 3,
-			"api": "csp_JavBus",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"style": {
-				"type": "rect",
-				"ratio": 1.6
-			},
-			"changeable": 2,
-			"timeout": 1801,
-			"ext": "https://cnb.cool/fish2018/pg/-/git/raw/master/lib/tokenm.json$$$https://www.seejav.ink$$$noproxy"
-		},
+		
 
 {
             "key": "csp_JavBus",
