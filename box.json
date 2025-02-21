@@ -795,7 +795,8 @@
                 "手动嗅探视频链接过滤词": ".html#=http"
             }
         },
- 
+  {"key":"JavDb","name":"🔞JavDb","type":3,"api":"csp_JavDb","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"http://javdb369.com"},
+{"key":"JavBus","name":"🔞JavBus","type":3,"api":"csp_JavBus","filterable":1,"changeable":0,"style":{"type":"rect","ratio":1.6},"timeout":60,"ext":"https://www.cdnbus.ink"},
 	{
 			"key": "csp_JavDb",
 			"name": "🔞JavDb┃磁力",
@@ -822,7 +823,7 @@
 			},
 			"changeable": 2,
 			"timeout": 1801,
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.seejav.ink$$$noproxy"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.cdnbus.ink$$$noproxy"
 		},	
 
 
