@@ -11,7 +11,7 @@
 {"key":"白白","name":"🐭白白┃秒播","type":3,"api":"csp_Sbaibai", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3","playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"zxzj","name":"🍊在线┃秒播","type":3,"api":"csp_Zxzj", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3","timeout":15,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzjhd.com/"},
 {"key":"csp_Bttoo","name":"🍄比特┃秒播","type":3,"api":"csp_Bttwoo", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739954396935/f0219.txt;md5;ba35fb2f0e67c77dce39098d79093a8e","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteApple", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyz", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3","timeout":15,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCz", "jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzyvideo.com/"},
 {"key":"港迷","name":"💯港迷┃粤语","type":3,"api":"csp_AppSK","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740082223598/f0221.txt;md5;2f204873d78bd47a56a4e42fba0d3ac3","searchable":1,"quickSearch":1,"filterable":1,"ext":"FbjPcVZY48PN/RIZ5UWFrphwLIZMAYVUEz5FpK6jnh0fUMKIpzPWz0jI/rymDTutcXiX2Dhu1XsjGntrH8QzPldJXdqa2h7TLjJF3DFX"},
@@ -1344,14 +1344,7 @@
         "type": "list"
       }
     },
-     {
-      "key": "花都影视",
-      "name": "花都影视🔞\"",
-      "type": 1,
-      "api": "https://hdys2.com/api.php/provide/vod/",
-      "searchable": 1,
-      "filterable": 1
-    },
+    
 {
             "key": "hipy_js_看球",
             "name": "🌞看球┃解析",
@@ -8855,7 +8848,7 @@
 {"name": "🐤┃Guovin直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.txt","playerType": 1,"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},	
 {"name": "🧸┃joevess直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/IPTV-GZ/main/iptv.m3u8","playerType":1},
 {"name": "🤡┃NAS肥羊","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/NAS肥羊.m3u","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://live.fanmingming.com/tv/{name}.png"},
-{"name": "🐏┃ssili126直播","type":0,"url":""https://ghfast.top/https://raw.githubusercontent.com/alantang1977/live/main/itvlist.txt","playerType":1},
+{"name": "🐏┃ssili126直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/live/main/itvlist.txt","playerType":1},
 {"name": "🐹┃4GTV","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/lndsqhj/zblive/main/juneliu.txt","playerType": 1,"logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name": "🍚┃饭太硬IPV4","type":0,"url":"https://gitea.moe/gdxd/gdxd/raw/branch/main/zj/zj.txt","playerType":1,"logo":"https://live.fanmingming.com/tv/{name}.png"},
 {"name": "🍚┃饭太硬IPV6","type":0,"url":"https://gitea.moe/STLHF/iptv/raw/branch/main/st1.txt","playerType":1},
