@@ -8364,7 +8364,29 @@
                 "手动嗅探视频链接过滤词": ".html#=http"
             }
         },
-
+{
+      "key": "csp_JavBus",
+      "name": "🧲┃JavBus┃磁力",
+      "type": 3,
+      "api": "csp_JavBus",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://www.javsee.ink"
+    },
+    {
+      "key": "csp_JavDb",
+      "name": "🔞🧲JavDb",
+      "type": 3,
+      "api": "csp_JavDb",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "style":{ "type":"rect", "ratio":1.5 },
+      "ext": "https://javdb369.com"
+    },
 {
 			"key": "csp_JavDb",
 			"name": "🔞JavDb┃磁力",
