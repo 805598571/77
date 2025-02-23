@@ -1,5 +1,5 @@
 ﻿{
-	"spider": "https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
+	"spider": "https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;9c16582cbdf2a78e0a3c1c5068571356",
 	"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 	"logo":"https://image.xinwenba.net/uploads/allimg/2024/11/19/202411191719166731203263.jpg",
 "sites":[
@@ -8365,30 +8365,79 @@
                 "手动嗅探视频链接过滤词": ".html#=http"
             }
         },
+{
+            "key": "黃色都市",
+            "name": "🔞黃色都市",
+            "type": 3,
+            "changeable": 1,
+            "filterable": 1,
+            "api": "csp_XBPQ",
+            "jar": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/xyqxbpq.jar",
+            "ext": 
+            {
+                "分类url": "https://hsds1.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+                "分类": "国产❤️AV$1#日本と无码$9#欧美$2#麻豆传媒$3#明星❤️AI$4#三级伦理$6#5D动漫$7"
+            }
+        },
  {
             "key": "csp_JavBus",
-            "name": "JavBus",
+            "name": "🔞JavBus(點選點播才有東西)",
             "type": 3,
             "api": "csp_JavBus",
-            "searchable": 1,
-            "quickSearch": 1,
+          
+            "ext": "https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/tokenm.json$$$https://www.javsee.ink",
             "filterable": 1,
             "changeable": 0,
-            "ext": "null$$$https://www.javsee.ink$$$proxy"
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "timeout": 60
         },
         {
             "key": "csp_JavDb",
-            "name": "JavDb",
+            "name": "🔞JavDb",
             "type": 3,
             "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
+           
+            "ext": "ttps://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$1",
             "filterable": 1,
             "changeable": 0,
-            "ext": "null$$$https://javdb369.com$$$proxy"
+            "style": {
+                "type": "rect",
+                "ratio": 1.77
+            },
+            "timeout": 60
         },
+   {
+			"key": "csp_JavDb",
+			"name": "🔞JavDb┃磁力",
+			"type": 3,
+			"api": "csp_JavDb",
+                        "searchable": 1, 	
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,	
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://javdb369.com$$$noproxy"
+		},   
 		
-   
+		{
+			"key": "csp_JavBus",
+			"name": "㊙️JavBus┃磁力",
+			"type": 3,
+			"api": "csp_JavBus",
+                        "searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.6
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.javsee.ink$$$noproxy"
+		},   
  {
       "key": "乐哥特供-KISSAV(女优)",
       "name": "KISSAV(女优)",
