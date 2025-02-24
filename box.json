@@ -367,7 +367,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/liu4331126/liu4331126/raw/master/token.txt",
+                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
                 "danmu": true
             }
         },
@@ -381,7 +381,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/liu4331126/liu4331126/raw/master/token.txt",
+                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
                 "danmu": true
             }
         },
@@ -409,7 +409,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
                 "danmu": true
             }
         },
@@ -424,7 +424,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
                 "danmu": true
             }
         },
@@ -900,19 +900,7 @@
 			"ext": "https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.xlys01.com/$$$noproxy$$$1"
 		},
 {"key":"csp_AliShare_EBook","name":"雷蒙影视 | 💿阿里云盘书籍分享(SP)","type":3,"api":"csp_AliShare","searchable":0,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://github.moeyy.xyz/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/alishare.ebook.txt"},
- {
-            "key": "csp_Netflav",
-            "name": "Netflav",
-            "type": 3,
-            "api": "csp_Netflav",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar",
-            "ext": "proxy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60
-        },
+ 
  
 
 {
@@ -1031,40 +1019,35 @@
         },
  
  {
-            "key": "csp_JavBus",
-            "name": "JavBus",
-            "type": 3,
-            "api": "csp_JavBus",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "null$$$https://javdb369.com$$$proxy"
-        },
-        {
-            "key": "csp_JavDb",
-            "name": "JavDb",
-            "type": 3,
-            "api": "csp_JavDb",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "null$$$https://www.javsee.ink$$$proxy"
-        },
-        {
-            "key": "csp_Netflav",
-            "name": "Netflav",
-            "type": 3,
-            "api": "csp_Netflav",
-            "jar": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/jar/netflav.jar",
-            "ext": "proxy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "filterable": 0,
-            "timeout": 60
-        },
+			"key": "csp_JavDb",
+			"name": " ⬆JavDb┃磁力",
+			"type": 3,
+			"api": "csp_JavDb",
+                        "searchable": 1, 	
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 2,
+			"timeout": 1801,	
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://javdb369.com$$$noproxy"
+		},   
+		
+		{
+			"key": "csp_JavBus",
+			"name": " ⬆JavBus┃磁力",
+			"type": 3,
+			"api": "csp_JavBus",
+                        "searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"style": {
+				"type": "rect",
+				"ratio": 1.6
+			},
+			"changeable": 2,
+			"timeout": 1801,
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.busdmm.help$$$noproxy"
+		},   
+    
 {"key":"push_agent","name":"🙀饭太硬手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"https://git.acwing.com/pxiptv/tv/-/raw/main/json/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"push_agent","name":"雷蒙影视 | ⬆雷蒙影视推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"filterable":0,"ext":"./N3RD/T/pg.json"}
 ],
