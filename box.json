@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;700bae9109240d32221a00a0feb644f4",
+"spider":"https://gitlab.com/kerkier/yhb/-/raw/main/jar/pg.jar;md5;6e1b7c4d5f823ec66dd6518cbeb52ee7",
 
 "logo":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/W/ICONSGIF.gif",
 
@@ -286,7 +286,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/uc.txt",
                 "wogg": true,
@@ -321,7 +321,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                   "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                   "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "site": "https://tv.yydsys.top",
                 "danmu": true
@@ -367,7 +367,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+                "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
                 "danmu": true
             }
         },
@@ -381,7 +381,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+                "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
                 "danmu": true
             }
         },
@@ -396,7 +396,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitlab.com/hero1898/DSZB/-/raw/main/token.txt",
+                "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
                 "danmu": true
             }
         },
@@ -409,7 +409,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+                "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
                 "danmu": true
             }
         },
@@ -424,7 +424,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-                "token": "https://gitee.com/xiaolong69/xl/raw/master/spider/alitoken.txt",
+                "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
                 "danmu": true
             }
         },
@@ -439,7 +439,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                 "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                 "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://woog.nxog.eu.org",
@@ -531,7 +531,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                  "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                  "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://mihdr.top",
@@ -547,7 +547,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                 "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                 "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://vip.omii.top",
@@ -565,7 +565,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                  "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                  "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://4k.4u4.cn",
@@ -583,7 +583,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-               "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+               "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "http://mogg.top",
@@ -600,7 +600,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-              "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+              "cookie": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
                 "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "danmu": true
             }
@@ -615,7 +615,7 @@
             "filterable": 0,
             "changeable": 1,
             "ext": {
-               "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+               "cookie": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
                 "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "danmu": true
             }
@@ -630,7 +630,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
                 "danmu": true
             }
         },
@@ -646,7 +646,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                  "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                  "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "http://1.95.79.193",
@@ -664,7 +664,7 @@
             "filterable": 1,
             "changeable": 1,
             "ext": {
-                   "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                   "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://woog.nxog.eu.org",
@@ -681,7 +681,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                   "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                   "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "http://ucmi.fun",
@@ -698,7 +698,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                   "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                   "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://smdyo.top",
@@ -715,7 +715,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                   "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                   "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "https://wp.huban.xyz",
@@ -732,7 +732,7 @@
             "changeable": 1,
             "filterable": 1,
             "ext": {
-                    "token": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt",
+                    "token": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/token.txt",
            "cookie": "https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt",
            "uc_cookie": "https://jihulab.com/ss3234741/sj/-/raw/main/uc/uc.txt",
                 "site": "http://txfyyds.top",
