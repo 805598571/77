@@ -73,7 +73,7 @@
         },
 {
       "key": "nmys",
-      "name": "农民丨影视",
+      "name": "📣农民丨影视",
       "type": 3,
       "api": "csp_Nongm",
       "searchable": 1,
@@ -83,7 +83,7 @@
     },
     {
       "key": "sbys",
-      "name": "素白丨影视",
+      "name": "📣素白丨影视",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -92,35 +92,56 @@
       "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/4.jar;md5;8F8C284CBD299B04F5CB309D6CA99210"
     },
-   {
-      "key": "美益达",
-      "name": "益达丨狐狸",
+  {
+			"key": "js_瓜子",
+			"name": "💢简影💈瓜子",
+			"type": 3,
+			"api": "https://git.acwing.com/smuyun/tv/-/raw/main/drpy_libs/drpy2.min.js",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"order_num": 0,
+			"changeable": 0,
+			"ext": "https://git.acwing.com/smuyun/tv/-/raw/main/js/gz.js"
+		},
+    {
+      "key": "爱奇",
+      "name": "拾光☪爱奇",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/美.js"
+      "api": "https://git.acwing.com/smuyun/tv/-/raw/main/drpy_libs/drpy2.min.js",
+      "ext": "https://git.acwing.com/smuyun/tv/-/raw/main/js/爱奇艺.js"
     },
     {
-      "key": "淘影",
-      "name": "淘影丨狐狸",
+      "key": "游酷",
+      "name": "拾光☪游酷",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/xyqxbpq.jar",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/淘影.json"
+      "api": "https://git.acwing.com/smuyun/tv/-/raw/main/drpy_libs/drpy2.min.js",
+      "ext": "https://git.acwing.com/smuyun/tv/-/raw/main/js/优酷.js"
     },
-{
-      "key": "猫咪",
-      "name": "猫咪丨弹幕",
+    {
+      "key": "企鹅",
+      "name": "拾光☪企鹅",
       "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/熊密.js"
+      "api": "https://git.acwing.com/smuyun/tv/-/raw/main/drpy_libs/drpy2.min.js",
+      "ext": "https://git.acwing.com/smuyun/tv/-/raw/main/js/腾讯VIP.js"
+    },
+    {
+      "key": "芒果",
+      "name": "拾光☪芒果",
+      "type": 3,
+      "api": "https://git.acwing.com/smuyun/tv/-/raw/main/drpy_libs/drpy2.min.js",
+      "ext": "https://git.acwing.com/smuyun/tv/-/raw/main/js/芒果.js"
+    },
+    {
+      "key": "艘狗",
+      "name": "拾光☪艘狗",
+      "type": 3,
+      "api": "https://git.acwing.com/smuyun/tv/-/raw/main/drpy_libs/drpy2.min.js",
+      "ext": "https://git.acwing.com/smuyun/tv/-/raw/main/js/搜狗.js"
     },
     {
       "key": "农民影视",
-      "name": "农民｜影视",
+      "name": "📣农民｜影视",
       "type": 3,
       "api": "csp_Nmys",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PGspider1225.txt;md5;a017cafdb3877083267886d97c5e24f2",
@@ -130,7 +151,7 @@
     },
     {
       "key": "看客影视",
-      "name": "看客｜影视",
+      "name": "📣看客｜影视",
       "type": 3,
       "api": "csp_Kanke",
       "jar": "https://framagit.org/168/myys/-/raw/main/bb/jar/PGspider1225.txt;md5;a017cafdb3877083267886d97c5e24f2",
@@ -138,27 +159,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-{
-      "key": "hipy_js_影探4K",
-      "name": "影探｜4K①",
-      "type": 3,
-      "api": "https://framagit.org/168/myys/-/raw/main/bb/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://framagit.org/168/myys/-/raw/main/bb/lib/影探[V2].js"
-    },
-    {
-      "key": "csp_appys_影盒",
-      "name": "影探｜4K②",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cms-yt.lyyytv.cn/api.php/app/"
-    },
+
 
 {
 			"key": "csp_Bili",
@@ -299,7 +300,7 @@
             "name": "😎土豆｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",                          "quickSearch": 1,         
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",                        "quickSearch": 1,                      
             "changeable": 1,
             "filterable": 1,
             "ext": {
@@ -695,7 +696,7 @@
 
 {
             "key": "夸克二小弹幕",
-	            "name": "二小｜4K弹幕",
+	            "name": "😎二小｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
@@ -712,7 +713,7 @@
         },
         {
             "key": "夸克百家弹幕",
-	            "name": "百家｜4K弹幕",
+	            "name": "😎百家｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
@@ -729,7 +730,7 @@
         },
         {
             "key": "夸克叔叔弹幕",
-	            "name": "叔叔｜4K弹幕",
+	            "name": "😎叔叔｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
@@ -746,7 +747,7 @@
         },
         {
             "key": "夸克大玩弹幕",
-	            "name": "大玩｜4K弹幕",
+	            "name": "😎大玩｜4K弹幕",
             "type": 3,
             "api": "csp_Wobg",
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
@@ -782,7 +783,7 @@
 {"key":"csp_Wogg","name":"雷蒙影视 | 💿玩偶哥哥(SP)","type":3,"api":"csp_Wogg","jar":"https://cnb.cool/fish2018/zx/-/git/archive/master/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://codeberg.org/diangu/gxtv/raw/branch/main/lib/peizhi.json","siteUrl":"https://woggpan.333232.xyz/","filter":"https://cnb.cool/fish2018/zx/-/git/raw/master/json/wogg.json"}},
 {
             "key": "玩偶 | 闪电uc",
-            "name": "玩偶 | 闪电uc",
+            "name": "💿玩偶 | 闪电uc",
             "type": 3,
             "api": "csp_kongbai",
             "jar":"https://cnb.cool/fish2018/zx/-/git/archive/master/custom_spider.jar",
@@ -796,7 +797,7 @@
         },
         {
             "key": "玩偶 | 二小",
-            "name": "玩偶 | 二小",
+            "name": "💿玩偶 | 二小",
             "type": 3,
             "api": "csp_kongbai",
             "jar":"https://cnb.cool/fish2018/zx/-/git/archive/master/custom_spider.jar", 
@@ -811,7 +812,7 @@
 {"key":"csp_kongbai_蜡笔","name":"雷蒙影视 | 💿蜡笔(SP)","type":3,"api":"csp_kongbai","jar":"https://cnb.cool/fish2018/zx/-/git/archive/master/custom_spider.jar","searchable":1,"changeable":0,"ext":{"commonConfig":"https://codeberg.org/diangu/gxtv/raw/branch/main/lib/peizhi.json","siteUrl":"hhttp://labipan.com/","filter":"https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json"}},
  {
             "key": "玩偶 | 木偶",
-            "name": "玩偶 | 木偶",
+            "name": "💿玩偶 | 木偶",
             "type": 3,
             "api": "csp_kongbai",
             "jar":"https://cnb.cool/fish2018/zx/-/git/archive/master/custom_spider.jar",
@@ -826,7 +827,7 @@
         },
 {
             "key": "星剧社",
-            "name": "网盘 | 星剧社",
+            "name": "💿网盘 | 星剧社",
             "type": 3,
             "api": "csp_Star2",
             "jar":"https://cnb.cool/fish2018/zx/-/git/archive/master/custom_spider.jar",  
@@ -991,7 +992,7 @@
             "filterable": 1,
             "changeable": 2,
             "timeout": 60,
-            "ext":" https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://erxiaofn.click/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$ERXIAO"
+            "ext": "https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://erxiaofn.click/$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$ERXIAO"
         },
         {
             "key": "特下饭",
@@ -1150,64 +1151,64 @@
 			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://www.gying.net$$$noproxy$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/guanying.txt"
 		},
 {"key":"csp_Wobg_白嫖分享","name":"雷蒙影视 | 💿白嫖分享(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://smdyo.top//$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_木偶哥哥","name":"雷蒙影视 | 💿木偶哥哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.muoupan.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
-{"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://mihdr.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
-{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://wp.0v.fit/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_玩你老哥","name":"雷蒙影视 | 💿玩你老哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://tv.yydsys.top/$$$cfg$$$1$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json$$$WNLG"}, 
-{"key":"csp_Wobg_土豆阿里","name":"雷蒙影视 | 💿土豆阿里(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://yunpan.yunpay.cc/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_蜡笔网盘","name":"雷蒙影视 | 💿蜡笔网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://duopan.fun/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$LABI"},
-{"key":"csp_Wobg_至臻视觉","name":"雷蒙影视 | 💿至臻视觉(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://mihdr.top/$$$cfg$$$1$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json$$$XIAOMI"},
-{"key":"csp_Wobg_奥秘影视","name":"雷蒙影视 | 💿奥秘影视(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://vip.omii.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_云星网盘","name":"雷蒙影视 | 💿云星网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://4k.4u4.cn$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Wobg_欧歌分享","name":"雷蒙影视 | 💿欧歌分享(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://woog.nxog.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
-{"key":"csp_Hdh","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdh","quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://hdhive.online$$$cfg$$$1$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/hdhive.txt"},
-{"key":"csp_UpYun","name":"雷蒙影视 | 💿云搜(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_PanSearch","name":"雷蒙影视 | 💿PanSearch(SP)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$cfg$$$proxy"},
-{"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/yiso.txt"},
-{"key":"csp_TGYunPanLocal","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,SharePanBaidu","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan1","name":"雷蒙影视 | 💿电报搜索Ⅰ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.devopser.org","tgsearch_media_url":"http://tg.devopser.org","channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan2","name":"雷蒙影视 | 💿电报搜索Ⅱ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghp.ci/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.club/","tgsearch_media_url":"https://tg.uu8.club/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan3","name":"雷蒙影视 | 💿电报搜索Ⅲ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://107.172.201.182:524","tgsearch_media_url":"http://107.172.201.182:524","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan4","name":"雷蒙影视 | 💿电报搜索Ⅳ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://146.235.228.60:24903","tgsearch_media_url":"http://146.235.228.60:24903","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan5","name":"雷蒙影视 | 💿电报搜索Ⅴ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.pro/","tgsearch_media_url":"https://tg.uu8.pro/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan6","name":"雷蒙影视 | 💿电报搜索Ⅵ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://xzqcsa.iepose.cn","tgsearch_media_url":"http://xzqcsa.iepose.cn","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅶ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://hl.cloudns.be:10199","tgsearch_media_url":"http://hl.cloudns.be:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅷ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://45.207.209.177:10199","tgsearch_media_url":"http://45.207.209.177:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅸ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
-{"key":"csp_TGYunPan18","name":"雷蒙影视 | 💿电报搜索18+(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314","proxy":"cfg","danmu":true}},
+{"key":"csp_Wobg_木偶哥哥","name":"雷蒙影视 | 💿木偶哥哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://www.muoupan.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
+{"key":"csp_Wobg_小米UC","name":"雷蒙影视 | 💿小米UC(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://mihdr.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$MOGG"},
+{"key":"csp_Wobg_龙龙玩偶","name":"雷蒙影视 | 💿龙龙玩偶(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$http://wanou.xn--yi7aa.top:3108/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Wobg_六趣网盘","name":"雷蒙影视 | 💿六趣网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://wp.0v.fit/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Wobg_玩你老哥","name":"雷蒙影视 | 💿玩你老哥(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://tv.yydsys.top/$$$cfg$$$1$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json$$$WNLG"}, 
+{"key":"csp_Wobg_土豆阿里","name":"雷蒙影视 | 💿土豆阿里(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://yunpan.yunpay.cc/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Wobg_蜡笔网盘","name":"雷蒙影视 | 💿蜡笔网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://duopan.fun/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json$$$LABI"},
+{"key":"csp_Wobg_至臻视觉","name":"雷蒙影视 | 💿至臻视觉(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://mihdr.top/$$$cfg$$$1$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/wogg.json$$$XIAOMI"},
+{"key":"csp_Wobg_奥秘影视","name":"雷蒙影视 | 💿奥秘影视(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://vip.omii.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Wobg_云星网盘","name":"雷蒙影视 | 💿云星网盘(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://4k.4u4.cn$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Wobg_欧歌分享","name":"雷蒙影视 | 💿欧歌分享(SP)","type":3,"api":"csp_Wobg","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://woog.nxog.top/$$$cfg$$$1$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/wogg.json"},
+{"key":"csp_Hdh","name":"雷蒙影视 | 💿影巢(SP)","type":3,"api":"csp_Hdh","quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://hdhive.online$$$cfg$$$1$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/hdhive.txt"},
+{"key":"csp_UpYun","name":"雷蒙影视 | 💿云搜(SP)","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_PanSearch","name":"雷蒙影视 | 💿PanSearch(SP)","type":3,"api":"csp_PanSearch","searchable":1,"filterable":0,"changeable":0,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$cfg$$$proxy"},
+{"key":"csp_YiSo","name":"雷蒙影视 | 💿易搜(SP)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/yiso.txt"},
+{"key":"csp_TGYunPanLocal","name":"雷蒙影视 | 💿TG搜索(SP)","type":3,"api":"csp_TGYunPanLocal","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"oneonefivewpfx,hao115,guaguale115,Channel_Shares_115,dianyingshare,XiangxiuNB,yunpanpan,kuakeyun,zaihuayun,Quark_Movies,vip115hot,yunpanshare,shareAliyun,ikiviyyp,alyp_1,quanziyuanshe,tgsearchers,SharePanBaidu","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan1","name":"雷蒙影视 | 💿电报搜索Ⅰ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.devopser.org","tgsearch_media_url":"http://tg.devopser.org","channellist":"alypzyhzq|1000,Mbox115|1000,shares_115|1000,Quark_Share_Channel|1000,Aliyundrive_Share_Channel|1000,wanwansubchat|1000","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan2","name":"雷蒙影视 | 💿电报搜索Ⅱ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.club/","tgsearch_media_url":"https://tg.uu8.club/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan3","name":"雷蒙影视 | 💿电报搜索Ⅲ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://107.172.201.182:524","tgsearch_media_url":"http://107.172.201.182:524","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan4","name":"雷蒙影视 | 💿电报搜索Ⅳ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://146.235.228.60:24903","tgsearch_media_url":"http://146.235.228.60:24903","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan5","name":"雷蒙影视 | 💿电报搜索Ⅴ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"https://tg.uu8.pro/","tgsearch_media_url":"https://tg.uu8.pro/","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan6","name":"雷蒙影视 | 💿电报搜索Ⅵ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://xzqcsa.iepose.cn","tgsearch_media_url":"http://xzqcsa.iepose.cn","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅶ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://hl.cloudns.be:10199","tgsearch_media_url":"http://hl.cloudns.be:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅷ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://45.207.209.177:10199","tgsearch_media_url":"http://45.207.209.177:10199","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan7","name":"雷蒙影视 | 💿电报搜索Ⅸ(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"alypzyhzq,Mbox115,shares_115,Quark_Share_Channel,Aliyundrive_Share_Channel,wanwansubchat,IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ljqqyy,QiangJAv,madou_77,xpzhenshi,wanninai,fuligege4","proxy":"cfg","danmu":true}},
+{"key":"csp_TGYunPan18","name":"雷蒙影视 | 💿电报搜索18+(SP)","type":3,"api":"csp_TGYunPan","timeout":60,"ext":{"token":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json","json":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/T/tgsearch.json","keywords":"恐怖,惊悚,喜剧","tgsearch_url":"http://tg.fish2018.us.kg","tgsearch_media_url":"http://tg.fish2018.us.kg","channellist":"IPX_AV,pikpakziyuan,avpush,avgc5200,cctav,javdb91,zyfx_0315,ribenseyuge1,vn666hh,avab01,CosMM18,cilitu,SeseAnime,ppg1314","proxy":"cfg","danmu":true}},
 {"key":"csp_Xinshijue","name":"雷蒙影视 | 💿新视觉(SP)","type":3,"api":"csp_Xinshijue","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://6080z.com/$$$cfg$$$1$$$https://git.acwing.com/805598571/666/-/raw/main/lib/wogg.json"},
-{"key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_Gaoqing","name":"雷蒙影视 | 💿中国高清网(SP)","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gaoqing.la/$$$cfg$$$1"},
-{"key":"csp_Ddys","name":"雷蒙影视 | 💿低端影视(SP)","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://ddys.pro/$$$cfg$$$1$$$"},
-{"key":"csp_YunPan","name":"雷蒙影视 | 💿云盘资源(SP)","type":3,"api":"csp_YunPan","timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$null$$$cfg$$$1"},
-{"key":"csp_YunPanOne","name":"雷蒙影视 | 💿云盘One(SP)","type":3,"api":"csp_YunPanOne","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_PanSou","name":"雷蒙影视 | 💿盘搜(SP)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_EightEight","name":"雷蒙影视 | 💿88网盘(SP)","type":3,"api":"csp_EightEight","timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://662688.xyz"},
+{"key":"csp_YingSo","name":"雷蒙影视 | 💿影搜(SP)","type":3,"api":"csp_YingSo","timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_Gaoqing","name":"雷蒙影视 | 💿中国高清网(SP)","type":3,"api":"csp_Gaoqing","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://gaoqing.la/$$$cfg$$$1"},
+{"key":"csp_Ddys","name":"雷蒙影视 | 💿低端影视(SP)","type":3,"api":"csp_Ddys","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://ddys.pro/$$$cfg$$$1$$$"},
+{"key":"csp_YunPan","name":"雷蒙影视 | 💿云盘资源(SP)","type":3,"api":"csp_YunPan","timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$null$$$cfg$$$1"},
+{"key":"csp_YunPanOne","name":"雷蒙影视 | 💿云盘One(SP)","type":3,"api":"csp_YunPanOne","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_PanSou","name":"雷蒙影视 | 💿盘搜(SP)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_EightEight","name":"雷蒙影视 | 💿88网盘(SP)","type":3,"api":"csp_EightEight","timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://662688.xyz"},
 {"key":"csp_FourKHDR","name":"雷蒙影视 | 💿4KHDR(SP)","type":3,"api":"csp_FourKHDR","searchable":1,"quickSearch":1,"changeable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/4k.json$$$1"},
-{"key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视(SP)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://xzyshd.com$$$cfg$$$1"},
-{"key":"csp_TZFile","name":"雷蒙影视 | 💿团长资源(SP)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$cfg$$$1"},
-{"key":"csp_Ppxzy","name":"雷蒙影视 | 💿皮皮虾(SP)","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://ppxzy.ink$$$cfg$$$1"}, 
-{"key":"csp_Funletu","name":"雷蒙影视 | 💿趣盘搜(SP)","type":3,"api":"csp_Funletu","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_QuarkPanso","name":"雷蒙影视 | 💿夸克盘搜(SP)","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_YunSo","name":"雷蒙影视 | 💿小云搜索(SP)","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_Panta","name":"雷蒙影视 | 💿盘Ta(SP)","type":3,"api":"csp_Panta","searchable":1,"quickSearch":1, "changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.91panta.cn/$$$cfg$$$1"},
+{"key":"csp_XiaoZhang","name":"雷蒙影视 | 💿校长影视(SP)","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"hhttps://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://xzyshd.com$$$cfg$$$1"},
+{"key":"csp_TZFile","name":"雷蒙影视 | 💿团长资源(SP)","type":3,"api":"csp_TZFile","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$cfg$$$1"},
+{"key":"csp_Ppxzy","name":"雷蒙影视 | 💿皮皮虾(SP)","type":3,"api":"csp_Ppxzy","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://ppxzy.ink$$$cfg$$$1"}, 
+{"key":"csp_Funletu","name":"雷蒙影视 | 💿趣盘搜(SP)","type":3,"api":"csp_Funletu","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_QuarkPanso","name":"雷蒙影视 | 💿夸克盘搜(SP)","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_YunSo","name":"雷蒙影视 | 💿小云搜索(SP)","type":3,"api":"csp_YunSo","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_Panta","name":"雷蒙影视 | 💿盘Ta(SP)","type":3,"api":"csp_Panta","searchable":1,"quickSearch":1, "changeable":1,"filterable":1,"timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://www.91panta.cn/$$$cfg$$$1"},
 {"key":"csp_DaPanSo","name":"雷蒙影视 | 💿大盘搜(SP)","type":3,"api":"csp_DaPanSo","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://dapanso.com$$$cfg$$$1"},
-{"key":"csp_HunHePan","name":"雷蒙影视 | 💿混合盘(SP)","type":3,"api":"csp_HunHePan","searchable":1,"changeable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_MiaoSou","name":"雷蒙影视 | 💿秒搜(SP)","type":3,"api":"csp_MiaoSou","searchable":1,"changeable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json"},
-{"key":"csp_PikaSo","name":"雷蒙影视 | 💿皮卡搜(SP)","type":3,"api":"csp_PikaSo","searchable":1,"changeable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.pikaso.top/$$$cfg"},
-{"key":"csp_Qianfan","name":"雷蒙影视 | 💿千帆(SP)","type":3,"api":"csp_Qianfan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://pan.qianfan.app$$$cfg$$$https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/qf.txt"},
+{"key":"csp_HunHePan","name":"雷蒙影视 | 💿混合盘(SP)","type":3,"api":"csp_HunHePan","searchable":1,"changeable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_MiaoSou","name":"雷蒙影视 | 💿秒搜(SP)","type":3,"api":"csp_MiaoSou","searchable":1,"changeable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json"},
+{"key":"csp_PikaSo","name":"雷蒙影视 | 💿皮卡搜(SP)","type":3,"api":"csp_PikaSo","searchable":1,"changeable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://www.pikaso.top/$$$cfg"},
+{"key":"csp_Qianfan","name":"雷蒙影视 | 💿千帆(SP)","type":3,"api":"csp_Qianfan","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://pan.qianfan.app$$$cfg$$$https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/qf.txt"},
 {"key":"csp_Libvio","name":"雷蒙影视 | 💿LIBVIO(SP)","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.libvio.pro$$$cfg"},
 {"key":"csp_Meijumi","name":"雷蒙影视 | 💿美剧迷(SP)","type":3,"api":"csp_Meijumi","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":120,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.meijumi.net/$$$cfg$$$1"},
-{"key":"csp_Moli","name":"雷蒙影视 | 💿HDmoli(SP)","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://www.hdmoli.pro/$$$cfg$$$1$$$https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/moli.json"},
-{"key":"csp_Panyq","name":"雷蒙影视 | 💿盘友圈(SP)","type":3,"api":"csp_Panyq","timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$null$$$cfg"},
-{"key":"csp_Xpanpan","name":"雷蒙影视 | 💿小盘盘(SP)","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://xpanpan.site$$$cfg$$$1"},
-{"key":"csp_AliShare","name":"雷蒙影视 | 💿阿里云盘分享(SP)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/pxiptv/tv/-/raw/main/json/tokenx.json$$$https://gitlab.com/kerkier/yhb/-/blob/main/lib/alishare.txt"},
-{"key":"csp_ThunderShare","name":"雷蒙影视 | 💿迅雷云盘分享(SP)","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/thundershare.txt"},
-{"key":"csp_QuarkShare","name":"雷蒙影视 | 💿夸克云盘分享(SP)","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://git.acwing.com/805598571/666/-/raw/main/lib/quarkshare.txt"},
-{"key":"csp_P115Share1","name":"雷蒙影视 | 💿115云盘分享Ⅰ(SP)","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://gitlab.com/kerkier/yhb/-/blob/main/lib/115share.txt","style":{"type":"list","ratio":1.1}},
-{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$$https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
-{"key":"csp_UCShare","name":"雷蒙影视 | 💿UC云盘分享(SP)","type":3,"api":"csp_UCShare","searchable":1,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"https://git.acwing.com/805598571/666/-/raw/main/lib/tokenm.json$$https://gitlab.com/kerkier/yhb/-/blob/main/lib/ucshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
+{"key":"csp_Moli","name":"雷蒙影视 | 💿HDmoli(SP)","type":3,"api":"csp_Moli","searchable":1,"quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://www.hdmoli.pro/$$$cfg$$$1$$$https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/moli.json"},
+{"key":"csp_Panyq","name":"雷蒙影视 | 💿盘友圈(SP)","type":3,"api":"csp_Panyq","timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$null$$$cfg"},
+{"key":"csp_Xpanpan","name":"雷蒙影视 | 💿小盘盘(SP)","type":3,"api":"csp_Xpanpan","quickSearch":1,"changeable":1,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://xpanpan.site$$$cfg$$$1"},
+{"key":"csp_AliShare","name":"雷蒙影视 | 💿阿里云盘分享(SP)","type":3,"api":"csp_AliShare","searchable":1,"quickSearch":1, "changeable":1,"filterable":0,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://gitlab.com/kerkier/yhb/-/raw/main/lib/alishare.txt"},
+{"key":"csp_ThunderShare","name":"雷蒙影视 | 💿迅雷云盘分享(SP)","type":3,"api":"csp_ThunderShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://gh.idayer.com/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/thundershare.txt"},
+{"key":"csp_QuarkShare","name":"雷蒙影视 | 💿夸克云盘分享(SP)","type":3,"api":"csp_QuarkShare","searchable":1,"quickSearch":1,"changeable":1,"filterable":0,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://git.acwing.com/805598571/666/-/raw/main/lib/quarkshare.txt"},
+{"key":"csp_P115Share1","name":"雷蒙影视 | 💿115云盘分享Ⅰ(SP)","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://gitlab.com/kerkier/yhb/-/blob/main/lib/115share.txt","style":{"type":"list","ratio":1.1}},
+{"key":"csp_P115Share2","name":"雷蒙影视 | 💿115云盘分享Ⅱ(SP)","type":3,"api":"csp_P115Share","searchable":1,"quickSearch":1,"changeable":0,"filterable":1,"timeout":60,"ext":https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$$https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/T/115share2.txt","style":{"type":"list","ratio":1.1}},
+{"key":"csp_UCShare","name":"雷蒙影视 | 💿UC云盘分享(SP)","type":3,"api":"csp_UCShare","searchable":1,"quickSearch":0,"changeable":0,"filterable":0,"timeout":60,"ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/json/tokenm.json$$https://gitlab.com/kerkier/yhb/-/blob/main/lib/ucshare.txt$$$db$$$1","style":{"type":"list","ratio":1.1}},
 {
 			"key": "Bdys_spider",
 			"name": "🌾修罗|pg磁",
@@ -1428,11 +1429,216 @@
 {"name": "🐼┃范明明","type":0,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   "parses": [
     
-    {
-      "name": "☯️自动解析聚合",
+ {
+      "name": "聚合1",
       "type": 3,
       "url": "Demo"
     },
+    {
+      "name": "聚合0",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "m3u8",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+
+
+{
+            "name": "mgtv4K",
+            "type": 1,
+            "url": "http://1.94.221.189:88/algorithm.php?url=",
+            "ext": {
+                "flag": [
+                    "公众号:拾光趣乐屋",
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+         {
+            "name": "XGJ",
+            "type": "1",
+            "url": "http://43.248.100.147:6068/KEY/XGJ/root/key/70.php?url=",
+            "ext": {
+                "flag": [
+                    "youku",
+                    "qq",
+                    "qiyi",
+                    "bilibili",
+                    "mgtv",
+                    "pptv",
+                    "xigua",
+                    "NBY",
+                    "ETH-",
+                    "BBA",
+                    "TX",
+                    "MXTV",
+                    "mytv",
+                    "nmys",
+                    "yhdm",
+                    "BNNB",
+                    "letu",
+                    "DJWB",
+                    "DJWX",
+                    "DJWT",
+                    "duanju"
+                ],
+                "header": {
+                    "User-Agent": "Dalvik/2.1.0"
+                }
+            }
+        },
+         {
+            "name": "icu",
+            "type": 1,
+            "url": "https://jxjson.icu/neibu.php?url=",
+            "ext": {
+                "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "sohu",
+                    "搜狐",
+                    "letv",
+                    "乐视",
+                    "mgtv",
+                    "芒果",
+                    "tnmb",
+                    "seven",
+                    "bilibili",
+                    "1905"
+                ],
+                "header": {
+                    "User-Agent": "okhttp/4.9.1"
+                }
+            }
+        },
+      
+        {
+      "name": "llyh",
+      "url": "http://llyh.xn--yi7aa.top/api/?key=5b317c16d457b31a3150d87c0a362a9e&url=",
+      "flag": [
+        "youku",
+        "qq",
+        "qiyi",
+        "bilibili",
+        "mgtv",
+        "pptv",
+        "xigua"
+      ],
+      "header": {
+        "User-Agent": "Dalvik/2.1.0"
+      },
+      "type": "1"
+    },
+    {
+      "name": "xmflv",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+        {
+            "name": "xmjx",
+            "type": 1,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+         {
+      "name": "qiaoji8",
+      "type": 1,
+      "url": "http://pan.qiaoji8.com/tvbox/gouzi.php?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905",
+          "NetFilx"
+        ]
+      }
+    },
+        {
+            "name": "uiovo",
+            "url": "http://zy.uiovo.com/api/?key=951b4ca48d0f8c77cd8ebbc2e784c441&ud=105&url=",
+            "flag": [
+                "mgtv"
+            ],
+            "header": {
+                "User-Agent": "Dalvik/2.1.0"
+            },
+            "type": "1"
+        },
+        {
+            "name": "quankan",
+            "type": 1,
+            "url": "https://jx.quankan.app/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "yparse",
+            "type": 1,
+            "url": "https://jx.yparse.com/index.php?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
+        {
+            "name": "jsonplayer",
+            "type": 1,
+            "url": "https://jx.jsonplayer.com/player/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+                }
+            }
+        },
 {
       "name": "天招影院",
       "type": 0,
