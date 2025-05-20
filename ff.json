@@ -787,9 +787,9 @@
   
 
 
-
-    {"key": "avtoday.io","name": "avtoday☂️io",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   "filterable": 1,
+{"key": "avtoday.io","name": "avtoday☂️io",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   
 	"ext": { 
 	"数组": "\"thumbnail col\"&&\"thumbnail col\"", 
 	 "图片":"src=\"&&\"",
@@ -806,7 +806,8 @@
 
      
     {"key": "禁片天堂","name": "禁片💗天堂",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   "filterable": 1,
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",    
 	"ext": { 
 	"数组": "\"col oneVideo\"&&\"col oneVideo\"", 
 	"图片": "src=\"&&\"",
@@ -822,8 +823,9 @@
    
 
      
-     {"key": "国产x站","name": "国产❌站",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   "filterable": 1,
+    {"key": "国产x站","name": "国产❌站",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -837,7 +839,8 @@
 
         
      {"key": "麻豆传媒","name": "麻豆🥔传媒",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   "filterable": 1,
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -853,7 +856,8 @@
 
 
      {"key": "花丛视频","name": "花丛🌸影院",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   "filterable": 1,
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -867,8 +871,10 @@
    
 
 
-  {"key": "国产老司机","name": "司机🔋影院",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","filterable": 1,
+
+     {"key": "国产老司机","name": "司机🔋影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -880,7 +886,107 @@
 
   
       {"key": "飞机吧","name": "飞机✈️影院",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","filterable": 1,
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
+	"ext": { 
+	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
+	"图片": "data-original=\"https://img.siwazywimg2.com:5278/&&",
+	 "标题": "title=\"&&\"", 
+     "链接": "https://5x.feiji12.shop/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	"直接播放":"1", 
+	"分类": "少女萝莉$21#视频伦理$22#制服诱惑$25#中文字幕$26#巨乳美乳$27#强奸乱伦$28#熟女人妻$29#步兵专区$31#国产自拍$32",
+	"分类url":"https://5x.feiji12.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+  
+  
+    {"key": "咪咪女孩","name": "咪咪👧女孩",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
+	"ext": { 
+	  "数组": "\"list-item slick-item\"&&\"list-item slick-item\"", 
+	"图片":"style=\"background-image:url(&&)\"",
+	 "标题": "title=\"&&\"", 
+     "链接": "https://hg.mimigirl12.shop/index.php/vod/play/id/+href=\"/index.php/vod/detail/id/&&.html\"+/sid/1/nid/1.html", 
+	"直接播放":"1", 
+	  "搜索url":"https://hg.mimigirl12.shop/index.php/vod/search.html?wd={wd}.html",
+       "搜索模式":"1",
+	"分类": "少女萝莉$21#视频伦理$22#制服诱惑$25#中文字幕$26#巨乳美乳$27#强奸乱伦$28#熟女人妻$29#步兵专区$31#国产自拍$32",
+	"分类url":"https://hg.mimigirl12.shop/index.php/vod/type/id/{cateId}/page/{catePg}.html"}},
+  
+  
+       {"key": "蜜汁TV","name": "📺蜜汁TV📺",
+      "type": 3,"api": "csp_XBPQ","searchable": 1,
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",      
+      "quickSearch": 1,"filterable": 1,
+      "ext": {"主页url": "https://mizhitv142.buzz/",
+       "数组": "<figure class=\"figure\">&&</figure>",
+       "标题": "title=\"&&\"",
+      "图片": "src=\"&&\"",
+       "副标题": "<time>&&</time>",
+       "链接": "https://mizhitv142.buzz/video/play/+/video/info/&&.html",
+	    "搜索模式": "1", 
+	   "搜索url": "https://mizhitv142.buzz/video/lookup/{wd}/L/{pg}.html",
+       "分类url": "https://mizhitv142.buzz/video/type/{cateId}/{catePg}.html[https://mizhitv142.buzz/video/type/{cateId}.html]",
+	    "分类数组": "<a&&/a>",
+        "分类标题": ">&&<",
+        "分类ID": "/video/type/&&.html",
+		"跳转播放链接": "var playUrl=\'&&\'",
+        "直接播放": "1",
+         "嗅探词":"index.m3u8#.m3u8#tc.qq.com#.m3u8?#.mp4?#.m4a"
+      }},
+  
+  
+        { "key": "男人本色A","name": "男人📍本色A版",
+       "type": 3,"api": "csp_XBPQ",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
+       "ext": {"主页url": "http://www.bprjt.com/",
+        "分类url": "http://www.bprjt.com/{cateId}p{catePg}.html",
+	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
+		"数组": "<li class=\"mb15\">&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+		"链接": "href=\"&&\"",
+		 "嗅探词":".m3u8#index.m3u8#.m3u8?#.mp4?#.m4a",
+		 "跳转播放链接": "\"contentUr\": \"&&\"",
+        "直接播放":"1"
+      } },		
+  
+      
+	    { "key": "男人本色B","name": "男人📍本色B版",
+       "type": 3,"api": "csp_XBPQ",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
+       "ext": {"主页url": "http://www.splyjx.com/",
+        "分类url": "http://www.splyjx.com/{cateId}p{catePg}.html",
+	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
+		"数组": "<li class=\"mb15&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+		"链接": "href=\"&&\"",
+		 "嗅探词":".m3u8#index.m3u8#.m3u8?#.mp4?#.m4a",
+		 "跳转播放链接": "\"contentUr\": \"&&\"",
+        "直接播放":"1"
+      } },		
+  
+  
+  
+        { "key": "男人本色C","name": "男人📍本色C版",
+       "type": 3,"api": "csp_XBPQ",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
+       "ext": {"主页url": "http://www.hyhspx.com/",
+        "分类url": "http://www.hyhspx.com/{cateId}p{catePg}.html",
+	    "分类":"骑兵$t25#中字$t26#美👀👀$t27#人妻$t28#不道德$t29#萝莉$t31#制服$t35#颜🐍$t36#精品$t37",
+		"数组": "<li class=\"mb15&&</li>",
+        "标题": "title=\"&&\"",
+        "图片": "data-original=\"&&\"",
+		"链接": "href=\"&&\"",
+		 "嗅探词":".m3u8#index.m3u8#.m3u8?#.mp4?#.m4a",
+		 "跳转播放链接": "\"contentUr\": \"&&\"",
+        "直接播放":"1"
+      } },		
+
+  
+      {"key": "飞机吧","name": "飞机✈️影院",
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"https://img.siwazywimg2.com:5278/&&",
@@ -991,8 +1097,9 @@
 	  
   
         {"key": "精品阁","name": "🚎精品阁影视🚎",
-      "type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","searchable": 1,
+      "type": 3,"api": "csp_XBPQ","searchable": 1,
       "quickSearch": 1,"filterable": 1,
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
       "ext": {"主页url": "https://jingpinge533.click/",
        "数组": "<figure class=\"figure\">&&</figure>",
        "标题": "title=\"&&\"",
@@ -1194,7 +1301,8 @@
      
 	  
     {"key": "猫咪视频 ","name": "猫咪🐱视频",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","filterable": 1,
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
 	"ext": {  
 	 "数组": "<a class=\"thumbnail-link&&<a class=\"thumbnail-link",
 	 "图片": "src=\"&&\"",
@@ -1247,7 +1355,8 @@
   
   
       {"key": "24HJAV","name": "24HJ🍇影视",
-	"type": 3,"api": "csp_XBPQ","jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","filterable": 1,
+	"type": 3,"api": "csp_XBPQ","filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
 	"ext": { "主页url": "https://24hjav.com/", 
 	 "数组": "\"video-thumb\"&&\"video-thumb\"",
 	 "图片": "src=\"&&\"",
@@ -1416,7 +1525,8 @@
  
       {"key": "好莱污A","name": "好莱坞🚽影院A版",
 		   "type": 3,
-		   "api": "csp_XBPQ",   "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","ext": {
+                   "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+		   "api": "csp_XBPQ",   "ext": {
            "主页url": "https://boutiquefire.xyz/",
            "直接播放": "1",
            "数组": "\"colVideoList\"&&\"colVideoList\"",
@@ -1462,8 +1572,10 @@
  
  
     {"key":"色女儿","name":"👧女儿国👧","type":3,
-	"api":"csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","searchable":1,
-	"quickSearch":1,"filterable":1,"ext":{
+	"api":"csp_XBPQ",  "searchable":1,
+	"quickSearch":1,"filterable":1,
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",  
+"ext":{
       "主页url":"https://wosesenvwo1.sbs/",
      "数组":"<li id=\"li1\"&&</li>",
      "图片":"src=\"&&\"",
@@ -1481,9 +1593,9 @@
   
   
     {"key":"问天影院","name":"🎬问天影院🎬",
-     "type":3, "api":"csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+     "type":3, "api":"csp_XBPQ", 
     "searchable":1,
-   
+    "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
     "quickSearch":1,
     "filterable":1,
     "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
@@ -1505,7 +1617,8 @@
   
   
       {"key":"69avwang","name":"🎬69影院🎬",
-     "type":3, "api":"csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+     "type":3, "api":"csp_XBPQ", 
+     "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
@@ -1548,7 +1661,8 @@
   
   
       {"key": "最新AV","name": "新新🆕️影院",
-	"type": 3,"api": "csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","filterable": 1,
+	"type": 3,"api": "csp_XBPQ",  "filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
 	"ext": { 
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -1646,7 +1760,8 @@
 
 
 	  {"key": "夜色资源网","name": "夜色🌃影院",
-	"type": 3,"api": "csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","filterable": 1,
+	"type": 3,"api": "csp_XBPQ",  "filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
 	"ext": { 
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -1665,7 +1780,8 @@
 	
 	
 	  {"key": "鲨鱼视频","name": "鲨鱼🦈影院",
-	"type": 3,"api": "csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","filterable": 1,
+	"type": 3,"api": "csp_XBPQ",  "filterable": 1,
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   
 	"ext": { 
 	"数组": "<li class=\"multi\">&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -2100,7 +2216,8 @@
     { "key": "七色古",
       "name": "🌧️七色影院🌧️",
       "type": 3,
-      "api": "csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+      "api": "csp_XBPQ",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",   
       "ext": {
         "分类url": "https://q1r2s3t4.qisegu26.buzz/vodtype/{cateId}-{catePg}/",
 		
@@ -2275,7 +2392,8 @@
        {"key":"BJ老司机",
        "name":"🚚BJ老司机🚚",
        "type":3,
-       "api":"csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+       "api":"csp_XBPQ",
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
        "filterable": 1,
 	   "searchable": 1,
        "quickSearch": 1,
@@ -2296,9 +2414,10 @@
 			 
 			 
 	  { "key": "yubanghanzhu",
-      "name": "👀玉蚌含珠👀",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+      "name": "👀玉蚌含珠👀",  
       "type": 3,
       "api": "csp_XBPQ",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
       "ext": {
         "分类url": "https://m5n6o7p8.ybhz21.buzz/vodtype/{cateId}-{catePg}/",
         "分类": "国产传媒$1#国产剧情$2#旧中文字幕$15#日本有码$43#中文字幕$41#AV解说$55#欧美无码$45#天美传媒$23#无码中文$144#伦理三级$54",
@@ -2343,7 +2462,9 @@
 
 
 
-{"key": "农夫与少妇","name": "农夫👨‍🌾与少妇‍👩","type": 3,"api": "csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{
+{"key": "农夫与少妇","name": "农夫👨‍🌾与少妇‍👩","type": 3,"api": "csp_XBPQ",  "searchable": 1,"quickSearch": 1,"filterable": 1,
+"jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar", 
+"ext":{
     "二次截取": "<ul class=\"img-list-data&&</ul",
     "主页url": "https://nfsf8kj.nfsf-a2.buzz/go",
     "数组": "<li>&&</li>",
