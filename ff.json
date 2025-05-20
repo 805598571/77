@@ -1416,7 +1416,7 @@
  
       {"key": "好莱污A","name": "好莱坞🚽影院A版",
 		   "type": 3,
-		   "api": "csp_XBPQ","ext": {
+		   "api": "csp_XBPQ",   "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","ext": {
            "主页url": "https://boutiquefire.xyz/",
            "直接播放": "1",
            "数组": "\"colVideoList\"&&\"colVideoList\"",
@@ -2534,7 +2534,8 @@
 
 				
 	{"key":"av77.com/","name":"7️⃣ 7️⃣ 77影视","type":3,
-	"api":"csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+	"api":"csp_XBPQ",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",  
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,"ext":{
@@ -2653,7 +2654,7 @@
 
 
 		 
-{"key":"传媒二区","name":"🍁传媒二区🍁","type":3,"api":"csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar","searchable":1,"quickSearch":1,"filterable":1,
+{"key":"传媒二区","name":"🍁传媒二区🍁","type":3,"api":"csp_XBPQ",  "searchable":1,"quickSearch":1,"filterable":1,
 "ext":{
   "主页url":"https://www.34gaobk.com/index.html",
   "数组":"<div class=\"card mb-0\">&&</a",
