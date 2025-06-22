@@ -8523,8 +8523,8 @@
     },
 {"key":"米搜","name":"🌖┃米搜┃网盘","type":3,"api":"csp_MiSou","jar":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1739347341648/PandaQ250212.txt;md5;2ce1c06d0582d9dca3496f00a37ade6c","ext":"https://codeberg.org/diangu/gxtv/raw/branch/main/lib/quark.txt"},
 {"key":"夸搜弹幕","name":"🐟夸搜┃弹幕┃搜索","type":3,"api":"csp_Qkso","jar":"https://codeberg.org/diangu/gxtv/raw/branch/main/jar/spider.jar","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true}},
-{"key":"Aliso","name":"🙀饭太硬盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
-{"key":"YiSo","name":"😹饭太硬易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
+{"key":"Aliso","name":"🙀饭太硬盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/json/token.txt","from":"4k|auto"}},
+{"key":"YiSo","name":"😹饭太硬易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/json/token.txt","from":"4k|auto"}},
 
 {
       "key":"csp_Kanqiu",
