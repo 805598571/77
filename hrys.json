@@ -1164,8 +1164,8 @@
 {"key":"py_西饭短剧","name":"✴️西饭短剧┃PY","type": 3,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/lege0001/TVbox/refs/heads/main/TV/py/西饭短剧.py","style":{"type":"rect","ratio":0.85},"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Py_hmdj","name":"✴️河馬短劇┃PY","style":{"type":"rect","ratio":0.85},"searchable":1,"quickSearch":1,"changeable":1,"type":3,"api":"https://raw.githubusercontent.com/myhomebox/tv/main/Plugin/py_hmdj.py"},
 {"key":"Py_tldj","name":"✴️偷樂短劇┃PY","style":{"type":"rect","ratio":0.85},"searchable":1,"quickSearch":1,"changeable":1,"type":3,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/myhomebox/tv/main/Plugin/py_tldj.py"},
-{"key":"Aliso","name":"🙀饭太硬盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
-{"key":"YiSo","name":"😹饭太硬易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/token.txt","from":"4k|auto"}},
+{"key":"Aliso","name":"🙀饭太硬盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/json/token.txt","from":"4k|auto"}},
+{"key":"YiSo","name":"😹饭太硬易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/json/token.txt","from":"4k|auto"}},
   {
             "key": "Wogg",
             "name": "😎玩偶哥哥|网盘",
