@@ -176,9 +176,31 @@ ELEVEN体育2,rtmp://f13h.mine.nu/sat/tv741
 台视新闻1,http://8.138.7.223/tv/4gtv.php?id=5
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
 🌞港澳4Gtv,#genre#
-今日新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8?proxy=true
-今日天气4Gtv,http://xn--elt51t.azip.dpdns.org:5008/nnews-wf/index.m3u8?proxy=true
-中天新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8?proxy=true
+凤凰中文,https://live.tvfix.org/live/fhzw/index.m3u8
+凤凰资讯,https://live.tvfix.org/live/fwzx/index.m3u8
+凤凰香港,https://live.tvfix.org/live/fwxg/index.m3u8
+翡翠台,https://live.tvfix.org/live/jade/index.m3u8
+TVB Plus,https://live.tvfix.org/live/tvbplus/index.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+TVBS a频道,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+ETRV中国,http://38.64.72.148/hls/modn/list/2003/chunklist0.m3u8
+超视34.5,http://38.64.72.148/hls/modn/list/2013/chunklist0.m3u8
+ETRV美国,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist0.m3u8
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+华语电视2,http://38.64.72.148/hls/modn/list/4002/chunklist0.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+纬来日本,rtmp://f13h.mine.nu:1935/sat/tv771
 东森新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv152/index.m3u8?proxy=true
 tvbs新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv072/index.m3u8?proxy=true
 寰宇新闻4Gtv,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8?proxy=true
@@ -413,6 +435,25 @@ SMArt台4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn19/index.m3u8
 韩国娱乐4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv016/index.m3u8?proxy=true
 TRACEU4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv082/index.m3u8?proxy=true
 MEZZOl4Gtv,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv083/index.m3u8?proxy=true
+📺地方频道,#genre#
+浙江：新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江教科,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江民生,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江经济,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+绍兴公共,http://live.shaoxing.com.cn/video/s10001-sxtv2/index.m3u8?zzhed
+绍兴文化,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8?zzhed
+绍兴综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8?zzhed
+
 🌞港台频道,#genre#
 翡翠台,http://erp.giihgtidg.com:8080/live/jade01.m3u8
 翡翠台,http://qwt.zhibotv.top:2016/%E5%85%A8%E7%BD%91%E9%80%9A.php?id=%E7%BF%A1%E7%BF%A0%E5%8F%B0
@@ -2888,7 +2929,7 @@ RTHK32,http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
 大立DALI,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 
 
-�🇳港湾-频道,#genre#,#genre#
+�🇳港湾-频道,#genre#
 凤凰中文频高,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文频高,https://cdn.163189.xyz/live/fhzw/stream.m3u8
 凤凰中文频标,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
@@ -5821,7 +5862,7 @@ CIBN院线大片,http://zby.xjqxz.top/zh06/live.m3u8
 电影_喜乐影院,http://cfss.cc/cdn/hy/21059580.m3u8
 亮剑,http://cfss.cc/cdn/hy/30080238.m3u8
 雪豹,http://cfss.cc/cdn/hy/29580970.m3u8
-⬇️藏海传全集⬇️
+⬇️藏海传全集,#genre#⬇️
 藏海传第01集,https://cdn.yzzy28-play.com/20250518/267_eda80a3d/index.m3u8
 藏海传第02集,https://cdn.yzzy28-play.com/20250518/268_8f121ce0/index.m3u8
 藏海传第03集,https://cdn.yzzy27-play.com/20250519/3778_cab070d5/index.m3u8
@@ -5849,6 +5890,44 @@ CIBN院线大片,http://zby.xjqxz.top/zh06/live.m3u8
 藏海传第25集,https://cdn.yzzy27-play.com/20250530/4767_a3f61f3a/index.m3u8
 藏海传第26集,https://cdn.yzzy27-play.com/20250530/4768_1a77befc/index.m3u8
 藏海传第27集,https://cdn.yzzy28-play.com/20250530/1823_14cfdb59/index.m3u8
+🙏林正英,#genre#
+神枪手与咖喱鸡,https://svip.ryplay15.com/20250422/131_d8e2b0cf/index.m3u8
+群龙戏凤,https://svip.ryplay15.com/20250421/44_28479120/index.m3u8
+夏日福星,https://cdn7.ryplay7.com/20250116/10438_f112fd6f/index.m3u8
+福星高照国语,https://cdn7.ryplay7.com/20241031/6085_dd1c9bcd/index.m3u8
+新僵尸先生国语,https://cdn2.ryplay2.com/20241105/16332_67d6191f/index.m3u8
+奇谋妙计五福星,https://cdn7.ryplay7.com/20241014/3762_4c54e4fc/index.m3u8
+笑傲江湖1990,https://cdn7.ryplay7.com/20240927/2215_4319e6d4/index.m3u8
+赞先生与找钱华,https://cdn1.ryplay1.com/20240905/6666_16cdf6aa/index.m3u8
+杂家小子1979,https://cdn1.ryplay1.com/20240905/6663_a5b19bda/index.m3u8
+醒目仔蛊惑招,https://cdn1.ryplay1.com/20240905/6648_9ea19197/index.m3u8
+新贴错门神,https://cdn1.ryplay1.com/20240905/6644_0388bfe3/index.m3u8
+三德和尚与舂米六,https://cdn1.ryplay1.com/20240905/6591_e74791b9/index.m3u8
+猛龙过江1972,https://cdn1.ryplay1.com/20240905/6560_74ea9629/index.m3u8
+洪熙官1977,https://cdn1.ryplay1.com/20240905/6515_0f1e6f88/index.m3u8
+咸鱼翻生,https://cdn1.ryplay1.com/20240904/6409_64bc12b6/index.m3u8
+钱作怪,https://cdn1.ryplay1.com/20240904/6359_4e72acd7/index.m3u8
+僵尸先生1985,https://cdn7.ryplay7.com/20240930/2681_c0691713/index.m3u8
+一眉道人,https://cdn7.ryplay7.com/20241014/3734_501a0bae/index.m3u8
+新僵尸先生,https://play.hhuus.com/play/penJwgPe/index.m3u8 
+新僵尸先生2,https://play.hhuus.com/play/yb8zOgge/index.m3u8                               
+僵尸至尊,https://play.hhuus.com/play/rb2D9xje/index.m3u8                
+鬼打鬼1980,https://cdn7.ryplay7.com/20241217/8190_6c07f17f/index.m3u8
+驱魔道长,https://play.hhuus.com/play/penmYmpd/index.m3u8                
+人吓鬼,https://play.hhuus.com/play/Xe03KkGd/index.m3u8                
+僵尸先生3,https://svip.ryplay15.com/20250421/21_d096b7dc/index.m3u8
+甩皮鬼,https://play.hhuus.com/play/DbD70Q6a/index.m3u8                
+僵尸家族,https://cdn7.ryplay7.com/20241107/6590_b2b8ce0b/index.m3u8
+妖怪都市,https://play.hhuus.com/play/lejJlXWe/index.m3u8                
+驱魔警察,https://play.hhuus.com/play/Xe03k5Vd/index.m3u8 
+音乐僵尸,https://play.hhuus.com/play/lejJD24e/index.m3u8
+哗鬼旅行团,https://play.hhuus.com/play/0dNJ04Kd/index.m3u8                       
+鬼打鬼之黄金道士,https://play.hhuus.com/play/9aAKm1jd/index.m3u8 
+画皮之阴阳法王,https://play.hhuus.com/play/mep6QN1b/index.m3u8  
+太阳之子,https://play.hhuus.com/play/QeZXL0vb/index.m3u8    
+血玫瑰,https://play.hhuus.com/play/9b6VZ2lb/index.m3u8  
+羞羞鬼,https://play.hhuus.com/play/nelLyRre/index.m3u8 
+天地玄门,https://play.hhuus.com/play/lejMDYld/index.m3u8
 藏海传第28集,https://cdn.yzzy28-play.com/20250530/1824_2647c1db/index.m3u8
 藏海传第29集,https://cdn.yzzy27-play.com/20250601/5174_8df7c2e3/index.m3u8
 藏海传第30集,https://cdn.yzzy27-play.com/20250601/5175_ffd2257b/index.m3u8
