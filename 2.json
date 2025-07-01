@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750152746722/f0617.jpg;md5;9b4406d5c1de4d695db13d5f771a835a",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1750940281747/f0626.jpg;md5;5e47ee0da460f1cfad869441e9eb2660",
 "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
@@ -257,6 +257,62 @@
                 "version": "112"
             }
         },
+ {
+            "key": "行动",
+            "name": "😎行动｜APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "http://160.202.246.9:2356",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "aassddwwxxllsx1x",
+                "key3": "aassddwwxxllsx1x"
+            }
+        },
+        {
+            "key": "斗量",
+            "name": "😎斗量｜APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "https://app.ystva.com",
+                "key1": "hsZwQK5yrnefW7OJ",
+                "key2": "hsZwQK5yrnefW7OJ",
+                "key3": "hsZwQK5yrnefW7OJ"
+            }
+        },
+{
+            "key": "樱桃",
+            "name": "😎樱桃｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppMuou",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "http://sp.dxgsp.cc",
+                "dataKey": "25f9e794323b4538",
+                "dataIv": "25f9e794323b4538",
+                "jxurl": "https://ap.dxgsp.cc"
+            }
+        },
+{
+            "key": "魔方",
+            "name": "😎魔方｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "https://mfsp33.top",
+                "dataKey": "1234567887654321",
+                "dataIv": "1234567887654321",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+
         {
             "key": "恋鱼",
             "name": "😎恋鱼｜APP",
