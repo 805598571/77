@@ -211,6 +211,18 @@
             "quickSearch": 1,
             "filterable": 0
         },
+{
+      "key": "FourKTV",
+      "name": "😎还行｜影视",
+      "type": 3,
+      "api": "csp_FourKTV",
+     "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/tvkj.jar",  
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+
  {
             "key": "咖啡",
             "name": "😎咖啡｜APP",
@@ -2242,6 +2254,111 @@
                 "简介": "🍁龙少爷🍁广告勿信🍁，🍁谨防诈骗🍁"
             }
         },
+{
+            "key": "5视",
+            "name": "😎单5-影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.5.movie/",
+                "数组": "class=\"pic\"&&</div>",
+                "图片": "data-original=\"&&\"[替换:amp;>>空]",
+                "副标题": "text-overflow\">&&</",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.5.movie/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#剧集$2#短剧$3#动漫$4#综艺$5",
+                "简介": "随缘提示：视频中广告勿信，守护好钱袋子!"
+            }
+        },
+        {
+            "key": "88视",
+            "name": "😎奈飞-影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://www.naifei.wiki/",
+                "数组": "class=\"stui-vodlist__box\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "副标题": "text-right=\"&&\"",
+                "链接": "href=\"&&\"",
+                "分类url": "https://www.naifei.wiki/vodtype/{cateId}-{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5",
+                "简介": "随缘提示：视频中广告勿信，守护好钱袋子!"
+            }
+        },
+        {
+            "key": "海555TV",
+            "name": "😎88影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "主页url": "https://m.libracarbon.com/",
+                "数组": "class=\"ewave-vodlist__box\"&&</div>",
+                "图片": "data-original=\"&&\"",
+                "副标题": "text-right\">&&</",
+                "链接": "href=\"&&\"",
+                "分类url": "https://m.libracarbon.com/vodshow/{cateId}-{class}--{area}-{lang}----{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$31"
+            }
+        },
+{
+            "key": "量子影视",
+            "name": "😎量子影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://lzi888.com//index.php/vod/type/id//{cateId}/{year}/{class}/{area}/{catePg}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#",
+                "简介": "❤️幸福年年❤️水印广告勿信，谨防诈骗🍁"
+            }
+        },
+        {
+            "key": "受影视",
+            "name": "😎幸福年年爱影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "http://110.42.7.59:11822/api.php/v1.player/comments?vod_id/{cateId}/{year}/{class}/{area}/{catePg}.html",
+                "分类": "电影$1#剧集$2#综艺$3#动漫$4#",
+                "简介": "❤️幸福年年❤️水印广告勿信，谨防诈骗🍁"
+            }
+        },
+        {
+            "key": "茶杯狐官网",
+            "name": "😎茶杯狐官网",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://d.kstore.dev/download/5220/JAR/xyqxbpq.jar",
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://www.bnjxjd.com/vodshow/id/{cateId}/page/{catePg}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4",
+                "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
+            }
+        },
+
         {
             "key": "网飞啦在线影院",
             "name": "🐉网飞影视┃1080p",
@@ -2437,6 +2554,48 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "http://csyt.lyyytv.cn/api.php/app/"
+        },
+{
+            "key": "d'd",
+            "name": "修罗c|弹幕",
+            "type": 3,
+            "api": "csp_HBPQ",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "数组": "card card-sm card-link&&</div>",
+                "图片": "src=\"&&\"",
+                "标题": "mb-0 card-title text-truncate\">&&<",
+                "副标题": "start-0 text-red-fg\">&&</span>",
+                "链接": "href=\"&&\"",
+                "简介": "剧情简介：&&\"",
+                "线路标题": "磁力+>&&<",
+                "播放数组": "download-list&&</tbody>",
+                "播放列表": "<tr&&</tr>",
+                "播放标题": "text-muted\">&&</td>[不包含:网盘下载]",
+                "跳转播放链接": "href=\"&&\"",
+                "分类url": "https://v.xlys.ltd.ua/s/all/{catePg}?type={cateId};;d0",
+                "分类": "电影$0#电视剧$1"
+            }
+        },
+        {
+            "key": "234XBPQ",
+            "name": "234|弹幕",
+            "type": 3,
+            "api": "csp_HBPQ",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "首页": "0",
+                "数组": "class=\"stui-vodlist__thumb&&</h4>",
+                "图片": "original=\"&&\"",
+                "标题": "title=\"&&\"",
+                "副标题": "text-right\">&&</span>",
+                "链接": "href=\"&&\"",
+                "免嗅": "1",
+                "播放数组": "<ul class=\"stui-content__playlist&&</ul>",
+                "播放列表": "<li&&</li>",
+                "分类url": "https://ikan234.com/list/{cateId}-{catePg}.html",
+                "分类": "电视剧$2#电影$1#动漫$4#短剧$5#综艺$3"
+            }
         },
 {"key":"csp_XBPQ_feikuai","name":"😎飛快TV","style":{"type":"rect","ratio":0.85},
 "type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/myhomebox/tv/main/json/feikuai.json","jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/myhomebox/tv/main/JAR/xyqxbpq.jar"},
@@ -8664,11 +8823,21 @@
       "quickSearch":1,
       "changeable":0,
       "gridview":3,
-      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
+      "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",    
       "style":{"type":"list"}},
 
 {"key":"csp_Kanqiu","name":"😎看球","type":3,"api":"csp_Kanqiu","jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8", "searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
-
+  {
+      "key": "比赛看球",
+      "name": "☀比赛🔹看球",
+      "type": 3,
+      "api": "csp_Kanqiu",
+      "jar":"https://git.acwing.com/805598571/666/-/raw/main/jar/tvkj.jar",  
+      "gridview": 3,
+      "style": {
+        "type": "list"
+      }
+    },
 
 {"key":"drjs_88看球[球]","name":"😎88看球[球](DRPY)","type":3,"api":"https://gh.tryxd.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/libs/drpy2.min.js","ext":"https://gh.tryxd.cn/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/dr_py/js/88看球[球].js"},
 {
@@ -8681,6 +8850,7 @@
       "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy.min.js",
       "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/JRKAN直播.js"
     },
+
 {"key":"926","name":"⚽926┃看球","type":3,"api":"csp_kanqiu926Guard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"88","name":"⚽88┃看球","type":3,"api":"csp_Sir88Guard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
 {"key":"看球","name":"⚽看球┃直播","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
