@@ -6098,13 +6098,7 @@
             "filterable": 0,
             "timeout": 60
         },
- {"key":"csp_XBPQ_WakuWaku","name":"🔞WakuWaku","type":3,"api":"csp_XBPQ","jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lishuncai8881/TVBox/main/jar/xbpq.jar","searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","链接":"href=\"&&\"[替换:voddetail>>v]", "直接播放":"1","分类url":"https://b9t9a-61362-sz0803.wakuwakutvww3.cfd/t/{cateId}-{catePg}/","分类":"国产$20#日本有码$21#传媒系列$117#探花系列$153#上头黑料$155#里番动漫$24#翻牌子$45#令人上头$179#小清新$159#欧美$23#伦理$25#另类$41#国产精品$26#国产自拍$29#国产剧情$27#国产偷拍$30#国产女奴$81#国产主播$35#国模私拍$85"}},
 
- {"key":"csp_XBPQ_91国产经典","name":"🔞91国产经典","type":3,"api":"csp_XBPQ",    "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lishuncai8881/TVBox/main/jar/xbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","播放数组":"<a class=\"play-active\"&&</a>", "直接播放":"1","分类url":"https://www.91gcjd20.xyz/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"91国产经典$13#国产必看$15#高清无码$16#热门视频$2#今日黑料$14#性爱直播$21#国产偷拍$22#萝莉少女$23#热门事件$24"}},
-
-{"key":"csp_XBPQ_AV在线看","name":"🔞AV在线看","type":3,"api":"csp_XBPQ",    "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lishuncai8881/TVBox/main/jar/xbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"请求头": "User-Agent$MOBILE_UA","编码": "UTF-8","链接":"href=\"&&\"[替换:detail>>play]","链接前缀":"https://www.avzxkk20.top","链接后缀":"/sid/1/nid/1.html","直接播放":"1","分类url":"https://www.avzxkk20.top/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"动漫推荐$83#中文字幕$162#偷拍自拍$154#乱伦毁三观$156"}},
-
-{"key":"csp_XBPQ_灰灰影音","name":"🔞灰灰影音","type":3,"api":"csp_XBPQ",    "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lishuncai8881/TVBox/main/jar/xbpq.jar",     "searchable": 1,"quickSearch": 0,"filterable": 1,"ext":{"链接":"href=\"&&\"[替换:detail>>play]","链接前缀":"https://235kl.huahua47.top","链接后缀":"/sid/1/nid/1.html","直接播放":"1","请求头": "User-Agent$MOBILE_UA","编码": "UTF-8", "搜索url":"https://235kl.huahua47.top/index.php/vod/search.html?wd={wd}","主页url":"https://235kl.huahua47.top/","分类url":"https://235kl.huahua47.top/index.php/vod/type/id/{cateId}/page/{catePg}.html","分类":"视频一区$1#中文字幕$7#国产视频$6#国产传媒$8#日本有码$9#日本无码$10#欧美无码$11#视频二区$2#女优明星$20#网曝黑料$21#伦理三级$22#制服诱惑$13#激情动漫$14#抖阴视频$16#视频三区$3#萝莉少女$23#SM调教$24#女同性恋$25#人妖系列$26#极品媚黑$27#强奸乱伦$28#视频四区$4#明星换脸$15#VR视角$34#网红头条$30#国产主播$31#韩国主播$32#AV解说$33"}},
  {
             "key": "lav",
             "name": "lav",
@@ -11662,7 +11656,7 @@
 			"filterable": 1,
 			"changeable": 2,
 			"timeout": 1801,	
-			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://javdb458.com$$$noproxy"
+			"ext": "https://gitlab.com/kerkier/yhb/-/raw/main/lib/aa.json$$$https://javdb459.com$$$noproxy"
 		},   
 
 {"key":"csp_XBPQ_JavSB","name":"JavSB[XBPQ]","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"分类url":"https://jav.sb/javtype/{cateId}-{catePg}.html","搜索url":"https://jav.sb/vod/search/page/{pg}/wd/{wd}.html","搜索模式": "1","数组":"class=\"thumbnail group\"&&</div>","直接播放": "1","图片": "data-src=\"&&\"","分类":"日本有碼$Censored#日本無碼$Uncensored#FC2-PPV$FC2-PPV#無碼破解$Mosaic_Removed#中文字幕$CHN_SUB#MGS動画$MGS#寫真$Adult_IDOL#國產$Asian_Amateur"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
