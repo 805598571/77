@@ -212,12 +212,98 @@
             "filterable": 0
         },
  {
+            "key": "闪影",
+            "name": "😎闪影｜APP",
+            "type": 3,
+            "api": "csp_AppYs",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://38.47.213.61:41271/mogai_api.php/v1.vod"
+        },
+{
+            "key": "追忆",
+            "name": "😎追忆｜APP",
+            "type": 3,
+            "api": "csp_AppSy",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "http://110.42.7.130:1866",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "2083c87e98b6ce08",
+                "key3": "2083c87e98b6ce08"
+            }
+        },
+ {
+            "key": "知了",
+            "name": "😎知了｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "https://zzos.cc",
+                "dataKey": "zzoccc2025555555",
+                "dataIv": "zzoccc2025555555",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+        {
+            "key": "APP4K",
+            "name": "😎蓝光｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "http://59.153.167.186",
+                "dataKey": "SDSFET23215FDSF2",
+                "dataIv": "SDSFET23215FDSF2",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+   {
+            "key": "灵虎",
+            "name": "😎灵虎｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://bind.315999.xyz/89.txt",
+                "dataKey": "#getapp@TMD@2025",
+                "dataIv": "#getapp@TMD@2025",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "橘猫",
+            "name": "😎橘猫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "https://qjappcms.jm4k.top",
+                "dataKey": "pBVmysmGX8TsgrQN",
+                "dataIv": "pBVmysmGX8TsgrQN",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+
+ {
             "key": "麻花",
             "name": "😎麻花｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "",
                 "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget",
@@ -227,7 +313,21 @@
                 "version": ""
             }
         },
-
+{
+            "key": "萝卜",
+            "name": "😎萝卜｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
+            "ext": {
+                "url": "https://apiapplbys.lbys.app:5678",
+                "dataKey": "apiapplbyskey168",
+                "dataIv": "apiapplbyskey168",
+                "deviceId": "",
+                "version": "107"
+            }
+        },
  {
             "key": "咖啡",
             "name": "😎咖啡｜APP",
