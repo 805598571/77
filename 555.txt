@@ -1,5 +1,5 @@
 ﻿🇨🇳央卫港台,#genre#
-CCTV-1 综合,http://cdn.101.qzz.io/live/cctv1/stream.m3u8
+CCTV-1 综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/yifa-cctv1.flv
 CCTV-1 综合1,http://go.bkpcp.top/mg/cctv1
 CCTV综合1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
