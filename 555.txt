@@ -646,11 +646,11 @@ TVBS新闻,http://122.117.71.103:8543/tvbs新闻.m3u8
 凤凰电影,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 中天新闻,http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
 美亞電影台,http://jxiptv.dpdns.org/stream/tvb/null-8/master.m3u8
-八大第一台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大第一台
-八大戏剧台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大戏剧台
-八大综合台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大综合台
-八大精彩台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大精彩台
-八大娱乐台,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=八大娱乐台
+ELTA影剧,http://j.s.bkpcp.top/jj/aedyjt
+ELTA体育1,http://j.s.bkpcp.top/jj/aedty1
+ELTA体育2,http://j.s.bkpcp.top/jj/aedty2
+ELTA体育3,http://j.s.bkpcp.top/jj/aedty3
+ELTA体育4,http://j.s.bkpcp.top/jj/aedty4
 李连杰,https://aldirect.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv
 李连杰1,http://cfss.cc/cdn/hy/11342390.m3u8
 李连杰2,http://tv.666150.xyz/huya.php?id=11342390

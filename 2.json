@@ -195,6 +195,69 @@
       "ext": "https://www.wwgz.cn/",
       "jar": "http://m1839732.ca.caoni.ru/8/meow.php;md5;CC57F10CB80E1BC9DF179A6129BD07B3"
     },
+  {
+            "key": "小野",
+            "name": "😎小野｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
+            "ext": {
+                "url": "https://appcms.xy4k.com",
+                "site": "",
+                "dataKey": "7SDWjknU34zqFbVr",
+                "dataIv": "7SDWjknU34zqFbVr",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "爱看",
+            "name": "😎爱看丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
+            "ext": {
+                "url": "http://154.37.220.65",
+                "dataKey": "uI1TkPJC8B46AyN3",
+                "dataIv": "uI1TkPJC8B46AyN3",
+                "deviceId": "2112fc5eac600314ba95c4d65da9286b3",
+                "version": "120"
+            }
+        },
+        {
+            "key": "稀饭",
+            "name": "😎稀饭｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
+            "ext": {
+                "url": "https://app.xifanys.com",
+                "dataKey": "HM6Ly9yeS4ya3dvL",
+                "dataIv": "HM6Ly9yeS4ya3dvL",
+                "deviceId": "",
+                "version": "119"
+            }
+        },
+ {
+            "key": "白蛇",
+            "name": "😎白蛇｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
+            "ext": {
+                "url": "",
+                "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
+                "dataKey": "f5e2tx53ykp6s2c9",
+                "dataIv": "f5e2tx53ykp6s2c9",
+                "deviceId": "",
+                "version": "361"
+            }
+        },
+
 {
             "key": "耐看影视",
             "name": "😎耐看｜影视",
@@ -1593,6 +1656,7 @@
       "playerType": 1,
       "jar": "http://m1839732.ca.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
+
    {
       "key":"︎酷云",
       "name": "🔥米兔┃1080",
@@ -1974,6 +2038,52 @@
             "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1740652967925/PandaQ250227c.jar;md5;ceda5421cdce5fad2a2f6d8c71ae4311",
             "api": "csp_AppRJ",
             "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb"
+        },
+ {
+            "key": "明星影视",
+            "name": "明星｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/明星影视.json"
+        },
+        {
+            "key": "麦田影视",
+            "name": "麦田｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/麦田影视.json"
+        },
+ {
+            "key": "免费影视",
+            "name": "免费｜影视",
+            "type": 3,
+            "api": "csp_HBPQ",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/%E6%BD%87%E6%B4%92/XBPQ/免费影视.json"
+        },
+ {
+            "key": "想看影视",
+            "name": "想看｜影视",
+            "type": 3,
+            "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/%E6%BD%87%E6%B4%92/py/想看影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },
+        {
+            "key": "追星影视",
+            "name": "追星｜影视",
+            "type": 3,
+            "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/%E6%BD%87%E6%B4%92/py/追星影视.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
         },
         {
             "key": "梦回",
