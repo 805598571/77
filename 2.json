@@ -6381,7 +6381,7 @@
       "key": "萌芽",
       "name": "🐟短剧|萌芽",
       "type": 3,
-      "jar":https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/custom_spider.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/custom_spider.jar",    
       "api": "csp_HBmengya"
     },
     {
@@ -6508,7 +6508,7 @@
       "name": "🐟追追|弹幕",
       "type": 3,
       "api": "csp_Wcai",
-      "jar":"hhttps://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/custom_spider.jar",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/custom_spider.jar",
       "ext": "https://zjuys.com/"
     },
     {
