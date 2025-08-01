@@ -1701,7 +1701,7 @@
       "name": "🗽耐看┃蓝光┃纯净",
       "type": 3,
       "api": "csp_WebNK",
-      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+      "jar": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -5012,7 +5012,7 @@
           "name": "😎｜策驰｜PYTHON",
           "type": 3,
           "api": "https://ghfast.top/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/py/策驰影院.py",
-          "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/py.jar;md5;71d846866f2ceb9666ba114e5963983f",
+          "jar": "https://ghfast.top//https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/jar1/py.jar;md5;71d846866f2ceb9666ba114e5963983f",
           "searchable": 1,
           "quickSearch": 0,
           "filterable": 0,
@@ -5054,7 +5054,7 @@
       "key": "csp_低端",
       "name": "😎｜低端｜無廣",
       "type": 3,
-      "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/drpy2.min.js",
+      "api": "https://ghfast.top//https://raw.githubusercontent.com/fastbuild7099/fastbuild7099/refs/heads/main/drpy_libs1/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -5252,7 +5252,7 @@
             "key": "91美剧网",
             "name": "🇺🇸美剧┃影视",
             "type": 3,
-            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lndsqhj/mylive/main/jar/XBPQ.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lndsqhj/mylive/main/jar/XBPQ.jar",
             "api": "csp_XBPQ",
             "ext": {
                 "分类url": "https://91mjww.com/category/all_mj/{cateId}/page/{catePg}",
@@ -6535,7 +6535,7 @@
       "key": "土豆",
       "name": "🐟土豆|搜索",
       "type": 3,
-      "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/custom_spider.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/testboxapi/main/test1/custom_spider.jar",  
       "api": "csp_HBtdou"
     },
     {
@@ -9401,7 +9401,7 @@
       "jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",    
       "style":{"type":"list"}},
 
-{"key":"csp_Kanqiu","name":"😎看球","type":3,"api":"csp_Kanqiu","jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8", "searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
+{"key":"csp_Kanqiu","name":"😎看球","type":3,"api":"csp_Kanqiu","jar": "https://jihulab.com/yoursmile66/TVBox/-/raw/main/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8", "searchable":1,"quickSearch":1,"changeable":0,"gridview":3,"style":{"type":"list"}},
   {
       "key": "比赛看球",
       "name": "☀比赛🔹看球",
@@ -9549,7 +9549,7 @@
 {"name": "🛬┃极速直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/live_ipv4.m3u","playerType":1},
 {"name": "🥮┃666直播","type": 0,"url": "http://api.mytv666.top/lives/free.php?type=txt","playerType":1},
 {"name": "🤿┃IPTV_SuperA直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/refs/heads/main/output/result.m3u","playerType":1},	
-{"name": "🪂┃IPTV_SuperB直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV_SuperB/refs/heads/main/output/live_ipv4.m3u","playerType":1},
+{"name": "🪂┃IPTV_SuperB直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/IPTV_SuperB/refs/heads/main/output/live_ipv4.m3u","playerType":1},
 {"name": "🧀┃香港直播","type":0,"url":"https://smart.pendy.dpdns.org/m3u/Smart.m3u","playerType":1},
 {"name": "🎃┃中港台馬電視台頻道","type":0,"url":"http://209.141.59.146:50509/?type=m3u","playerType":1},
 {"name": "🦆┃SuperMAN直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/user_result.txt","playerType":1},
