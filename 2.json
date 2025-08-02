@@ -109,7 +109,7 @@
 
  {
              "key": "文才",
-             "name": "文才｜APP",
+             "name": " 👤文才｜APP",
              "type": 3,
              "api": "https://4708.kstore.space/box/XBPQ/毒舌影视.json/py/文才影视.py",
              "searchable": 1,
@@ -118,7 +118,7 @@
              "ext": {"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}},
              {
             "key": "毒舌影视",
-            "name": "毒舌｜APP",
+            "name": " 👤毒舌｜APP",
             "type": 3,
             "api": "csp_XBPQ",
             "jar":"https://4708.kstore.space/box/svip.jar",
@@ -129,7 +129,7 @@
         },
 {
             "key": "电影院",
-            "name": "影院｜APP",
+            "name": " 👤影院｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -2923,7 +2923,7 @@
             "name": "🐉毒舌影视2┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar", 
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -3005,7 +3005,7 @@
             "name": "😄奇迹影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar",   
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
             "ext": {
                 "简介": "剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
                 "分类url": "https://qiji.91by.top/index.php/vod/show/class/{class}/area/{area}/by/{by}/id/{cateId}/lang/{lang}/letter/{letter}/page/{catePg}/year/{year}.html",
@@ -3017,7 +3017,7 @@
             "name": "🐉ptt视频┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar",   
+         "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3032,7 +3032,7 @@
             "name": "😄毒舌┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar",  
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
             "ext": {
                 "请求头": "手机",
                 "分类url": "https://www.thshic.com/thssw/{cateId}-{area}-------{catePg}---{year}.html",
@@ -3046,7 +3046,7 @@
             "name": "🐉来看影视┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar",       
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
             "ext": {
                 "分类url": "https://lkvod.me/show/{cateId}--{by}------{catePg}---{year}.html",
                 "分类": "电影$1#剧集$2#综艺$3#动漫$4",
@@ -3123,7 +3123,7 @@
             "name": "😎量子影视",
             "type": 3,
             "api": "csp_XBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -3140,7 +3140,7 @@
             "name": "😎幸福年年爱影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
+             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -3172,7 +3172,7 @@
             "name": "🐉网飞影视┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar",  
+          "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -3204,7 +3204,7 @@
             "name": "🐉哔嘀影视┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar", 
+             "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3220,7 +3220,7 @@
             "name": "🐉火车太堵影院┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar", 
+           "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3235,7 +3235,7 @@
             "name": "🐉真不卡影院┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar", 
+          "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -3250,7 +3250,7 @@
             "name": "🍊人缘影视┃1080p",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/boossu/along/main/o.jar", 
+          "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
             "ext": {
                 "请求头": "手机",
                 "图片": "data-original=\"&&\"",
