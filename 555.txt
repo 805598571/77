@@ -3,7 +3,7 @@ CCTV-1 综合,http://8.138.7.223/tv/ptbtv.php?id=27
 CCTV-1 综合1,http://go.bkpcp.top/mg/cctv1
 CCTV 01 综合9,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8
 CCTV 01 综合8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
-CCTV 01,http://8.138.7.223/tv/ptbtv.php?id=27
+CCTV 01,http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
 综合CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8
 CCTV1-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226638/1.m3u8
 CCTV1-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
@@ -216,7 +216,9 @@ cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
 台视1 HD,http://api.mytv666.top/api/hk.php?id=3837336464383036613733306162366165643731666434336664376263663166267469643d74762669643d3639
 台视2 HD,http://api.mytv666.top/api/hk.php?id=3131376436636639653166326535623238366237646639393164336336303962267469643d74762669643d313135
 寰宇新聞,http://222.128.55.152:9080/live/hy.m3u8
-台视新闻,http://222.128.55.152:9080/live/ts.m3u8
+台视新闻,https://live.wcetv.com/hls/master-ttvnews.m3u8
+台视新闻1,https://live.catvod.com/smart.php?id=ttvnews_twn
+台视新闻2,http://222.128.55.152:9080/live/ts.m3u8
 民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视新闻1,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
 民视新闻2,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
@@ -1107,7 +1109,34 @@ CCTV4欧洲,http://106.53.99.30/tv/jzb.php?id=cctv4o
 甘肃卫视,http://106.53.99.30/tv/jzb.php?id=gsws
 新疆卫视,http://106.53.99.30/tv/jzb.php?id=xjws
 山西卫视,http://106.53.99.30/tv/jzb.php?id=shanxws
+FTV综艺,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mszyt.flv
+TVBS,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbs.flv
+TVBS新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-tvbsxwt.flv
+TVB明珠台15,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mzt.flv
+V6香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+八大第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+东森LIVE,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dsxw.flv
+东森财经新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-dscjxw.flv
+翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszwt-012346789.flv
+凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰咨询,http://push-rtmp-hs-spe-f5.douyincdn.com/live/fhwszxt-012346789.flv
+华视新闻资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-hsxw.flv
+美亚电影台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+民视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ms.flv
+民视第一台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msdyt.flv
+民视台湾台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-mstwt.flv
+民视新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+民视新闻台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-msxwt.flv
 
+香港HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztxwt.flv
+中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+中天亚洲台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1234567890-ztyzt.flv
+中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
 🇨🇳港澳台8,#genre#
 CCTV1综合,http://39.164.174.139:5000/nl.m3u8?id=CCTV-1HD
 CCTV2财经,http://39.164.174.139:5000/nl.m3u8?id=CCTV-2HD
@@ -1646,9 +1675,264 @@ CCTV-17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.
  纪实人文,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
  中国教育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8
 ⏲央卫推流,#genre#
-CHC影迷电影,http://27.18.157.225:2701/rtp/239.69.1.241:11088$武汉电信
-CHC动作电影,http://27.18.157.225:2701/rtp/239.69.1.242:11094$武汉电信
-CHC家庭影院,http://27.18.157.225:2701/rtp/239.69.1.243:11100$武汉电信
+-凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+-凤凰资讯,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+-凤凰香港,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+-中天亚洲,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+-中天综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+-中天新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+-翡翠台,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+-无线新闻,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+-重温经典,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_cwjd.flv
+-tvbplus,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_j2.flv
+-民视第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+-民视台湾,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+-HOY77,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy77.flv
+-HOY78,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+-美亚电影,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+-东森超视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+-东森综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
+-八大第一,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+-八大综合,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+-爱尔达娱乐,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+Plus综合AKtv,http://s1.an94tv.cfd/aktv/tvbplus/AKTV.m3u8
+pₒₚc电影AKtv,http://s1.an94tv.cfd/aktv/popc/AKTV.m3u8
+美亚电影AKtv,http://s1.an94tv.cfd/aktv/hk/AKTV.m3u8
+天映频道AKtv,http://s1.an94tv.cfd/aktv2/CH-3/AKTV.m3u8
+天映经典AKtv,http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
+凤凰中文AKtv,http://s1.an94tv.cfd/aktv/CH-3/AKTV.m3u8
+凤凰资讯AKtv,http://s1.an94tv.cfd/aktv/CH-4/AKTV.m3u8
+凤凰香港AKtv,http://s1.an94tv.cfd/aktv/CH-5/AKTV.m3u8
+中天新闻AKtv,http://s1.an94tv.cfd/zhongtian/CH-0/AKTV.m3u8
+无线新闻AKtv,http://s1.an94tv.cfd/aktv/CH-1/AKTV.m3u8
+无线翡翠AKtv,http://s1.an94tv.cfd/aktv/CH-0/AKTV.m3u8
+无线明珠AKtv,http://s1.an94tv.cfd/aktv/CH-2/AKTV.m3u8
+无线星河AKtv,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
+无线翡剧AKtv,http://s1.an94tv.cfd/aktv/CH-18/AKTV.m3u8
+无线明剧AKtv,http://s1.an94tv.cfd/aktv/CH-19/AKTV.m3u8
+无线J1美AKtv,http://s1.an94tv.cfd/aktv/CH-17/AKTV.m3u8
+黃金翡翠AKtv,http://s1.an94tv.cfd/aktv/CH-6/AKTV.m3u8
+tvbs新闻AKtv,http://s1.an94tv.cfd/tvbs/tvbs/AKTV.m3u8
+tvbsAKtv,http://s1.an94tv.cfd/taiwan/tvbs/AKTV.m3u8
+东森新闻AKtv,http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
+东森洋片AKtv,http://s1.an94tv.cfd/aktv2/CH-2/AKTV.m3u8
+好莱电影AKtv,http://s1.an94tv.cfd/aktv2/CH-1/AKTV.m3u8
+民视AKtv,http://s1.an94tv.cfd/taiwan/CH-1/AKTV.m3u8
+民视第一AKtv,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
+中天亚洲AKtv,http://s1.an94tv.cfd/astro/CH-1/AKTV.m3u8
+龙华日韩AKtv,http://s1.an94tv.cfd/taiwan/CH-5/AKTV.m3u8
+channeluAKtv,http://s1.an94tv.cfd/aktv/channeluhd/AKTV.m3u8
+channel5AKtv,http://s1.an94tv.cfd/aktv/channel5hd/AKTV.m3u8
+channel8AKtv,http://s1.an94tv.cfd/aktv/channel8hd/AKTV.m3u8
+八度空间AKtv,http://s1.an94tv.cfd/astro/8tv/AKTV.m3u8
+国家地理AKtv,http://s1.an94tv.cfd/aktv/lovenaturehd/AKTV.m3u8
+靖天国际AKtv,http://s1.an94tv.cfd/taiwan/CH-3/AKTV.m3u8
+CNA新闻AKtv,http://s1.an94tv.cfd/aktv3/cna/AKTV.m3u8
+TVN韩综AKtv,http://s1.an94tv.cfd/aktv/tvn/AKTV.m3u8
+朝鲜恩情AKtv,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
+日-NEWSAKtv,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
+japan_24AKtv,http://s1.an94tv.cfd/aktvjp/japannews24hlive/AKTV.m3u8
+rock影综AKtv,http://s1.an94tv.cfd/aktv/rockaction/AKTV.m3u8
+AXN电影AKtv,http://s1.an94tv.cfd/aktv/axn/AKTV.m3u8
+纬来体育AKtv,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
+ASTRo4kAKtv,http://s1.an94tv.cfd/astro/astrosportuhd/AKTV.m3u8
+ASTRO体AKtv,http://s1.an94tv.cfd/astro/CH-0/AKTV.m3u8
+Euro_体1AKtv,http://s1.an94tv.cfd/astro/eurosport1/AKTV.m3u8
+Euro_体2AKtv,http://s1.an94tv.cfd/astro/eurosport2/AKTV.m3u8
+TNT_体1AKtv,http://s1.an94tv.cfd/astro/tntsports1/AKTV.m3u8
+TNT_体2AKtv,http://s1.an94tv.cfd/astro/tntsports2/AKTV.m3u8
+TNT_体3AKtv,http://s1.an94tv.cfd/astro/tntsports3/AKTV.m3u8
+Sky体-F1AKtv,http://s1.an94tv.cfd/aktv2/skysportsf1/AKTV.m3u8
+animax漫AKtv,http://s1.an94tv.cfd/aktv/animaxhk/AKTV.m3u8
+中天新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
+寰宇新闻4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn14
+东森新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv152
+tvbs新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv072
+三立新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live089
+三立新闻4Gtv,https://www.judy.xx.kg/judy.php?id=iNEWS
+非凡新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv010
+闽镜新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv075
+民视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv13
+中视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv074
+华视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv052
+台视新闻4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv051
+民视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv002
+民视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv155
+中视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv040
+华视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv041
+台视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv066
+寰宇4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv156
+tvbs4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv073
+民视台湾4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv001
+民视第一4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv003
+民视旅游4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv07
+民视影剧4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv09
+民视综艺4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv004
+中视菁采4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv064
+中视经典4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv080
+台视财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv056
+公视戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv042
+戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn22
+国际财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv104
+全球财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live060
+东森财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv153
+寰宇财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv158
+cnbc财经4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live130
+tvbs精采4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv067
+tvbs欢乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv068
+tvbs综艺4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live087
+tvbs台剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live088
+八大精彩4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv034
+八大综艺4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv039
+三立综合4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live207
+爱达娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv070
+靖洋戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv045
+靖洋卡通4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv057
+靖天卡通4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv044
+靖天综合4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv046
+靖天日本4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv047
+靖天欢乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv054
+靖天映画4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv055
+靖天戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv058
+靖天电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv061
+靖天育乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv062
+靖天国际4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv063
+靖天资讯4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv065
+龙华卡通4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn01
+龙华日韩4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn11
+龙华偶像4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn12
+龙华电影4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn03
+龙华洋片4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn02
+龙华戏剧4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn18
+龙华经典4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn21
+国会频壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv084
+国会频贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv085
+好消息壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv16
+好消息贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv17
+大爱壹高4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live007
+大爱贰高4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live106
+人间卫视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live008
+原住民族4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live014
+唐人亚太4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live050
+智林体育4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv101
+博斯魅力4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn04
+博斯网球4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn09
+博高球壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn05
+博高球贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn06
+博运动壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn07
+博运动贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn08
+博无限壹4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn10
+博无限贰4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn13
+阿里郎台4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv079
+滚动人生4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live012
+达文西台4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv018
+猪哥亮厅4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv006
+亚洲旅游4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv076
+ELta旅游4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live120
+美国之音4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv03
+半岛新闻4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv10
+非凡商业4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv048
+第壹商业4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv109
+影迷纪实4Gtv,https://www.judy.xx.kg/judy.php?id=litv-ftv15
+经典电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live021
+经典卡通4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live022
+精选动漫4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live024
+戏剧壹台4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live010
+古典音乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv059
+客家电视4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv043
+华仁纪实4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv013
+时尚运动4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv014
+空间居家4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live206
+生活英语4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn20
+互动英语4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live030
+采昌影剧4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv049
+数位电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv011
+欧洲电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live157
+Amc电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv017
+CINEMA-4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live069
+TRA体育4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv077
+车迷体育4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live201
+SMArt台4Gtv,https://www.judy.xx.kg/judy.php?id=litv-longturn19
+罪案侦查4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live027
+霹雳布袋4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live145
+金光布袋4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live144
+nick动漫4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live032
+nick少儿4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live105
+MO-亲子4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live107
+DreamW4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live017
+LUXE-TV4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live121
+rock娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live080
+rock电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live138
+HItS电影4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live620
+magellan4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live123
+INULTRa4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live096
+LifeTime4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live029
+电影原声4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live031
+MTVLive4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live025
+PETClUB4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live110
+FUN娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live011
+韩国娱乐4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv016
+GLOBAL4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live112
+TV5mon4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live122
+TRACEU4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv082
+BLoomb4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live059
+FRANCE4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live146
+MEZZOl4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv083
+GINX_TV4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv053
+DW-之声4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live071
+历史频道4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live026
+国家地理4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live208
+东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live047
+东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv102
+东森购壹4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv102
+东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live046
+东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv103
+东森购贰4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-4gtv103
+东森购叁4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live048
+东森购五4Gtv,https://www.judy.xx.kg/judy.php?id=4gtv-live049
+凤凰中文频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzw.flv
+凤凰资讯频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhzx.flv
+凤凰香港频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_fhxg.flv
+中天新闻频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztxw.flv
+中天新闻频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw01.flv
+中天新闻频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/KNxQhC5Pd0QWdsDuYnX84iZanamxeIGuZ1rGHgVlSPqkHm8y1E.flv
+中天新闻频高,P2p://66.42.60.221:6001/684f89d200086f6c0d14c5361a8e4371.ts
+中天新闻加高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/ztxw201.flv
+有线新闻频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_hoy78.flv
+有线新闻频高,https://haoyunlai.serv00.net/Smartv-1.php?id=hoycaijing_twn
+无线新闻频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_wxxw.flv
+无线新闻频高,http://erp.giihgtidg.com:8080/live/wxxw01.m3u8
+无线翡翠频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_jade.flv
+无线翡翠频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaoge15131132145.flv
+无线翡翠频高,http://erp.giihgtidg.com:8080/live/jade01.m3u8
+寰宇新闻频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XNkGn6bw9KKiK2y0RcgHRVke7yQhC5PkQ4hkeRMVJUGHhzCm45.flv
+民视第一频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_msdy.flv
+民视闽南频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mstw.flv
+东森超视频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dscs.flv
+东森综合频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_dszh.flv
+中天亚洲频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztyz.flv
+中天综合频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_ztzh.flv
+八大第一频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bddy.flv
+八大综合频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_bdzh.flv
+台视综合频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/1fAAda17L41fqlzQhC5PY5nPKNqvLwxkfwKIcIMBeBbKtYRRdqX.flv
+ELta娱乐频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_aedyl.flv
+tvbs闽南频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/XhyG6NWlXFUuLxA75JShFUJC6ZK7Wl7b9ohSUJ8ZFuoQhC5PMv.flv
+无线星河粤标,http://php.jdshipin.com/PLTV/iptv.php?id=xinghe
+无线功夫粤标,http://cdn.101.qzz.io/live/yzwx/stream.m3u8
+无线功夫粤标,http://php.jdshipin.com/PLTV/iptv.php?id=yzwx
+黄金华剧频标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/oJ9WqwwFHMUUdTEQVt7zwC3vE7DUFUgtFqsdl7ztt5Ka56QIN7ZiFOjjaZfDQlGZrSBUEhZ.flv
+天映频道粤高,https://haoyunlai.serv00.net/Smartv-1.php?id=ctv18_twn
+美亚电影国高,https://fr-us7.jdiptv.cc/live/xgmydygy.m3u8http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+美亚电影标,http://push-rtmp-hs-spe-f5.douyincdn.com/live/awei_mydy.flv
+凤凰电影频标,http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
+星空电影频高,http://iot-mqqt.111yao.cn:8080/live/diyp_starmovies.m3u8
+星空音乐频标,http://iot-mqqt.111yao.cn:8080/live/diyp_channelv.m3u8
+星空卫视频标,http://iot-mqqt.111yao.cn:8080/live/diyp_xingkong.m3u8
+重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
+1905电影频道,http://150.138.77.132:10037/1905电影网.php?id=1905
+星光综合频视,http://push-rtmp-hs-spe-f5.douyincdn.com/live/zxcvbnm9852.flv
+无线赛马频高,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogemytv0318.flv
+香港卫视频标,http://anren.live/HK/BSJDUFpB.m3u8
 CCTV1,https://live.sxrtv.com/iptv/cctv1.flv
 CCTV2,https://live.sxrtv.com/iptv/cctv2.flv
 CCTV3,https://live.sxrtv.com/iptv/cctv3.flv
@@ -8710,7 +8994,70 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 如来神掌再战江湖国语_第19集,https://vip.lz-cdn16.com/20230603/25891_eb16aae1/index.m3u8
 如来神掌再战江湖国语_第20集,https://vip.lz-cdn16.com/20230603/25893_240d8b2c/index.m3u8
 大侠沈胜衣电影解说_第01集,https://v.cdnlz18.com/20231214/8024_dad981a4/index.m3u8
-
+山西广电cs源,#genre#
+CCTV-01（山西广电cs源）,http://live.sxrtv.com/iptv/cctv1.m3u8
+CCTV-02（山西广电cs源）,http://live.sxrtv.com/iptv/cctv2.m3u8
+CCTV-03（山西广电cs源）,http://live.sxrtv.com/iptv/cctv3.m3u8
+CCTV-04（山西广电cs源）,http://live.sxrtv.com/iptv/cctv4.m3u8
+CCTV-05（山西广电cs源）,http://live.sxrtv.com/iptv/cctv5.m3u8
+CCTV-5+（山西广电cs源）,http://live.sxrtv.com/iptv/cctv5p.m3u8
+CCTV-06（山西广电cs源）,http://live.sxrtv.com/iptv/cctv6.m3u8
+CCTV-07（山西广电cs源）,http://live.sxrtv.com/iptv/cctv7.m3u8
+CCTV-08（山西广电cs源）,http://live.sxrtv.com/iptv/cctv8.m3u8
+CCTV-09（山西广电cs源）,http://live.sxrtv.com/iptv/cctv9.m3u8
+CCTV-10（山西广电cs源）,http://live.sxrtv.com/iptv/cctv10.m3u8
+CCTV-11（山西广电cs源）,http://live.sxrtv.com/iptv/cctv11.m3u8
+CCTV-12（山西广电cs源）,http://live.sxrtv.com/iptv/cctv12.m3u8
+CCTV-13（山西广电cs源）,http://live.sxrtv.com/iptv/cctv13.m3u8
+CCTV-14（山西广电cs源）,http://live.sxrtv.com/iptv/cctv14.m3u8
+CCTV-15（山西广电cs源）,http://live.sxrtv.com/iptv/cctv15.m3u8
+CCTV-16（山西广电cs源）,http://live.sxrtv.com/iptv/cctv16.m3u8
+CCTV-17（山西广电cs源）,http://live.sxrtv.com/iptv/cctv17.m3u8
+北京卫视（山西广电cs源）,http://live.sxrtv.com/iptv/bjws.m3u8
+东方卫视（山西广电cs源）,http://live.sxrtv.com/iptv/dfws.m3u8
+浙江卫视（山西广电cs源）,http://live.sxrtv.com/iptv/zjws.m3u8
+江苏卫视（山西广电cs源）,http://live.sxrtv.com/iptv/jsws.m3u8
+湖南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hunws.m3u8
+广东卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gdws.m3u8
+深圳卫视（山西广电cs源）,http://live.sxrtv.com/iptv/szws.m3u8
+天津卫视（山西广电cs源）,http://live.sxrtv.com/iptv/tjws.m3u8
+安徽卫视（山西广电cs源）,http://live.sxrtv.com/iptv/ahws.m3u8
+山东卫视（山西广电cs源）,http://live.sxrtv.com/iptv/sdws.m3u8
+山西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/sxws.m3u8
+辽宁卫视（山西广电cs源）,http://live.sxrtv.com/iptv/lnws.m3u8
+河北卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hbws.m3u8
+河南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hnws.m3u8
+江西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/jxws.m3u8
+四川卫视（山西广电cs源）,http://live.sxrtv.com/iptv/scws.m3u8
+重庆卫视（山西广电cs源）,http://live.sxrtv.com/iptv/cqws.m3u8
+贵州卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gzws.m3u8
+湖北卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hubws.m3u8
+广西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gxws.m3u8
+云南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/ynws.m3u8
+东南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/dnws.m3u8
+海南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hinws.m3u8
+陕西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/shxws.m3u8
+甘肃卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gsws.m3u8
+宁夏卫视（山西广电cs源）,http://live.sxrtv.com/iptv/nxws.m3u8
+新疆卫视（山西广电cs源）,http://live.sxrtv.com/iptv/xjws.m3u8
+西藏卫视（山西广电cs源）,http://live.sxrtv.com/iptv/xzws.m3u8
+吉林卫视（山西广电cs源）,http://live.sxrtv.com/iptv/jlws.m3u8
+内蒙古视（山西广电cs源）,http://live.sxrtv.com/iptv/nmgws.m3u8
+黑龙江视（山西广电cs源）,http://live.sxrtv.com/iptv/hljws.m3u8
+山东教育（山西广电cs源）,http://live.sxrtv.com/iptv/sdce.m3u8
+CETV-01（山西广电cs源）,http://live.sxrtv.com/iptv/cetv1.m3u8
+CETV-02（山西广电cs源）,http://live.sxrtv.com/iptv/cetv2.m3u8
+CETV-04（山西广电cs源）,http://live.sxrtv.com/iptv/cetv4.m3u8
+金鹰卡通（山西广电cs源）,http://live.sxrtv.com/iptv/jykt.m3u8
+优漫卡通（山西广电cs源）,http://live.sxrtv.com/iptv/ymkt.m3u8
+卡酷少儿（山西广电cs源）,http://live.sxrtv.com/iptv/kkse.m3u8
+哈哈炫动（山西广电cs源）,http://live.sxrtv.com/iptv/hhxd.m3u8
+凤凰中文（山西广电cs源）,http://live.sxrtv.com/iptv/fhzw.m3u8
+凤凰资讯（山西广电cs源）,http://live.sxrtv.com/iptv/fhzx.m3u8
+凤凰香港（山西广电cs源）,http://live.sxrtv.com/iptv/fhhk.m3u8
+家庭影院（山西广电cs源）,http://live.sxrtv.com/iptv/chcjtyy.m3u8
+动作电影（山西广电cs源）,http://live.sxrtv.com/iptv/chcdzdy.m3u8
+影迷电影（山西广电cs源）,http://live.sxrtv.com/iptv/chcymdy.m3u8
 🇨🇳盖世豪侠,#genre#
 盖世豪侠国语_第01集,https://v.cdnlz19.com/20241016/50543_71a21da6/index.m3u8
 盖世豪侠国语_第02集,https://v.cdnlz19.com/20241016/50544_d6169bfe/index.m3u8
