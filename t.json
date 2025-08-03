@@ -9,7 +9,7 @@
             "name": "🤣豆瓣｜首页",
             "type": 3,
             "api": "csp_Douban",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "searchable": 0
         },
         {
@@ -17,7 +17,7 @@
             "name": "🤣新片｜预告",
             "type": 3,
             "api": "csp_DouBan",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 0
         },
         {
@@ -32,7 +32,7 @@
             "name": "🤣配置｜中心",
             "type": 3,
             "api": "csp_Config",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 0,
             "changeable": 0,
             "indexs": 0,
@@ -41,14 +41,14 @@
                 "ratio": 1.597
             }
         },
-{"key":"豆","name":"修复更新所有【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
+{"key":"豆","name":"修复926看球【神秘的哥哥们】","type":3,"api":"csp_DouDouGuard","indexs":1,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"玩偶","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGGGuard","timeout":30,"searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.com/","danMu":"弹"}},
 {"key":"YGP","name":"🚀叨观荐影┃预告片","type":3,"api":"csp_YGPGuard","searchable":0,"quickSearch":0,"changeable":0},
 {"key":"alllive","name":"📽️一直播┃直播","type":3,"api":"csp_AllliveGuard","playerType":2,"searchable":0,"quickSearch":0,"changeable":0},
-{"key":"seed","name":"💡聚剧剧┃三盘","type":3,"api":"csp_SeedhubGuard","changeable":0,"ext":"5++kwLhNYm9UrO9wh7Dl7eKamTee4s/5","searchable":1,"quickSearch":1,"indexs":0,"style":{"type":"list"}},
+{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"白白","name":"🐟白白┃秒播","type":3,"api":"csp_SbaibaiGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"厂长","name":"📔厂长┃不卡","type":3,"api":"csp_NewCzGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
-{"key":"南瓜","name":"🎃南瓜┃不卡","type":3,"api":"csp_NanGuaGuard","timeout":15,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"原创","name":"☀原创┃不卡","type":3,"api":"csp_YCyzGuard","timeout":30,"playerType":1,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"苹果","name":"🍎苹果┃不卡","type":3,"api":"csp_LiteAppleGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
 {"key":"糯米","name":"🍓糯米┃秒播","type":3,"api":"csp_NmyswvGuard","timeout":15,"searchable":1,"quickSearch":1,"changeable":1},
@@ -79,8 +79,7 @@
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js","style":{"type":"rect","ratio":1},
 "timeout":15,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAidGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"rect","ratio":3.8}},
-{"key":"抠搜","name":"🍄抠抠┃搜搜","type":3,"api":"csp_KkSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"UC","name":"🌈优汐┃搜搜","type":3,"api":"csp_UuSsGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
+{"key":"PanSso","name":"🐌盘他┃三盘","type":3,"api":"csp_PanSsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"YpanSo","name":"🐟盘她┃三盘","type":3,"api":"csp_YpanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"xzso","name":"👻盘它┃三盘","type":3,"api":"csp_XzsoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"米搜","name":"🦋米搜┃夸父","type":3,"api":"csp_MIPanSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
@@ -102,6 +101,7 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"}},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}},
+
   
         {
             "key": "看球",
@@ -135,7 +135,7 @@
             "name": "热播｜APP",
             "type": 3,
             "api": "csp_AppRJ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -148,7 +148,7 @@
             "name": "天天｜APP",
             "type": 3,
             "api": "csp_AppRJ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -161,7 +161,7 @@
             "name": "浪酷｜APP",
             "type": 3,
             "api": "csp_AppRJ",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
@@ -174,7 +174,7 @@
             "name": "移动｜APP",
             "type": 3,
             "api": "csp_YD",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1
         },
@@ -184,7 +184,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "ext": {
                 "url": "https://qjappcms.cs4k.top",
                 "dataKey": "Z98KXaLtO2wC1Pte",
@@ -199,7 +199,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
             "ext": {
                 "url": "https://qjappcms.jm4k.top",
                 "dataKey": "pBVmysmGX8TsgrQN",
@@ -214,7 +214,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
-   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://122.228.193.2:9988",
                 "dataKey": "ca94b06ca359d80e",
@@ -229,7 +229,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://qjappcms.ll4k.xyz",
                 "dataKey": "1yGA85sJ5STtE7uj",
@@ -244,7 +244,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://appcms.tzys.xyz",
                 "dataKey": "KL6vlZkw6WL5x90U",
@@ -258,7 +258,7 @@
             "name": "行动｜APP",
             "type": 3,
             "api": "csp_AppSy",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://160.202.246.9:2356",
                 "key1": "aassddwwxxllsx1x",
@@ -271,7 +271,7 @@
             "name": "斗量｜APP",
             "type": 3,
             "api": "csp_AppSy",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://app.ystva.com",
                 "key1": "hsZwQK5yrnefW7OJ",
@@ -284,7 +284,7 @@
             "name": "追忆｜APP",
             "type": 3,
             "api": "csp_AppSy",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://110.42.7.130:1866",
                 "key1": "aassddwwxxllsx1x",
@@ -298,7 +298,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://mfsp33.top",
                 "dataKey": "1234567887654321",
@@ -313,90 +313,11 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://appcms.htsp4k.top",
                 "dataKey": "7CYQQzwchRQpHCOj",
                 "dataIv": "7CYQQzwchRQpHCOj",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-  {
-            "key": "火猫",
-            "name": "火猫丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
-            "ext": {
-                "url": "",
-                "site": "https://cunchu8.obs.cn-north-4.myhuaweicloud.com/03.txt",
-                "dataKey": "J6AIORKJ3PQOJKM9",
-                "dataIv": "J6AIORKJ3PQOJKM9",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
-            "key": "若雪",
-            "name": "若雪丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
-            "ext": {
-                "url": "https://appcms.rx4k.top",
-                "site": "",
-                "dataKey": "ZX10ysTYZWtIJCTU",
-                "dataIv": "ZX10ysTYZWtIJCTU",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
-        {
-            "key": "海豚",
-            "name": "海豚丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
-            "ext": {
-                "url": "https://qjappcms.htsp4k.top",
-                "site": "",
-                "dataKey": "R69yVluzg6yLpjp0",
-                "dataIv": "R69yVluzg6yLpjp0",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
-            "key": "哔滴",
-            "name": "哔滴丨APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet2",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
-            "ext": {
-                "url": "",
-                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
-                "dataKey": "5ae8ee4bb95ea0ce",
-                "dataIv": "5ae8ee4bb95ea0ce",
-                "deviceId": "",
-                "version": "120"
-            }
-        },
-        {
-            "key": "丫丫",
-            "name": "丫丫｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
-            "ext": {
-                "url": "http://tv.yy-fun.cc",
-                "dataKey": "qkxnwkfjwpcnwycl",
-                "dataIv": "qkxnwkfjwpcnwycl",
                 "deviceId": "",
                 "version": ""
             }
@@ -407,7 +328,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://appcms.ll4k.xyz",
                 "dataKey": "NiDGaKiVnkO3QX1Q",
@@ -422,7 +343,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://ys.xiaoqi0.cn",
                 "dataKey": "jukayingshi88888",
@@ -437,7 +358,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://www.guahd.com",
                 "dataKey": "f2A7D4B9E8C16531",
@@ -452,7 +373,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://qjappcms.sun4k.top",
                 "dataKey": "sBxqXVF5pAHbGzrH",
@@ -467,7 +388,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://149.88.64.161:8627",
                 "dataKey": "123456789ABCDEFG",
@@ -482,7 +403,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "ext": {
                 "url": "https://api1.bffree.cn",
                 "dataKey": "2015692015692015",
@@ -497,7 +418,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://mfsp33.top",
                 "dataKey": "1234567887654321",
@@ -512,7 +433,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899",
                 "dataKey": "k9o3p2c8b7m3z0o8",
@@ -527,7 +448,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://apiapplbys.lbys.app:5678",
                 "dataKey": "apiapplbyskey168",
@@ -542,7 +463,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://v.tkbot.fun",
                 "dataKey": "d032c12876bc6848",
@@ -557,7 +478,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://www.xiaohys.com",
                 "dataKey": "ENonBHeVBoYZhVUV",
@@ -571,7 +492,7 @@
             "name": "行动｜APP",
             "type": 3,
             "api": "csp_AppSy",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://160.202.246.9:2356",
                 "key1": "aassddwwxxllsx1x",
@@ -584,7 +505,7 @@
             "name": "追忆｜APP",
             "type": 3,
             "api": "csp_AppSy",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://110.42.7.130:1866",
                 "key1": "aassddwwxxllsx1x",
@@ -598,7 +519,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://zzos.cc",
                 "dataKey": "zzoccc2025555555",
@@ -613,7 +534,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://59.153.167.186",
                 "dataKey": "SDSFET23215FDSF2",
@@ -628,7 +549,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "",
                 "site": "https://apicoss-alimama-com-1307821617.file.myqcloud.com/Uploadsget",
@@ -644,7 +565,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "",
                 "site": "https://vip.123pan.cn/1848451100/zl/xfdd.txt",
@@ -660,7 +581,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "",
                 "site": "https://bind.315999.xyz/89.txt",
@@ -676,7 +597,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://qjappcms.jm4k.top",
                 "dataKey": "pBVmysmGX8TsgrQN",
@@ -690,7 +611,7 @@
             "name": "码头｜APP",
             "type": 3,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://www.lgmt.cc",
                 "dataKey": "asfjaskasgggassf",
@@ -704,7 +625,7 @@
             "name": "米诺｜APP",
             "type": 3,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://www.milkidc.cn",
                 "dataKey": "20c79c979da8db0f",
@@ -719,7 +640,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://app.xifanys.com",
                 "dataKey": "HM6Ly9yeS4ya3dvL",
@@ -734,7 +655,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://119.13.88.18",
                 "dataKey": "xnybssspqtwotuwj",
@@ -749,7 +670,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "",
                 "site": "http://59.153.167.137:7788/1.json",
@@ -765,7 +686,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://appcms.tzys.xyz",
                 "dataKey": "KL6vlZkw6WL5x90U",
@@ -780,7 +701,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://apiapplbys.lbys.app:5678",
                 "dataKey": "apiapplbyskey168",
@@ -795,7 +716,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://new.tkbot.fun",
                 "dataKey": "d032c12876bc6848",
@@ -810,7 +731,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://www.xiaohys.com",
                 "dataKey": "ENonBHeVBoYZhVUV",
@@ -825,7 +746,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://guowaiju.com",
                 "dataKey": "7xv16h7qgkrs9b1p",
@@ -840,7 +761,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://www.noad.top",
                 "dataKey": "708FA298F0855840",
@@ -855,7 +776,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://sp.dxgsp.cc",
                 "dataKey": "25f9e794323b4538",
@@ -869,7 +790,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://xjuzi.top",
                 "dataKey": "6a482a70b80eefc9",
@@ -883,7 +804,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://154.12.22.168:14988",
                 "dataKey": "531f6082a43ac5d7",
@@ -897,7 +818,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://149.88.64.161:9525",
                 "dataKey": "123456789ABCDEFG",
@@ -912,7 +833,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "ext": {
                 "url": "http://121.62.22.204:9876",
                 "dataKey": "f5e2tx53ykp6s2c9",
@@ -927,7 +848,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://110.40.59.188:9527",
                 "dataKey": "ebad3f1a58b13933",
@@ -942,7 +863,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://guowaiju.com",
                 "dataKey": "7xv16h7qgkrs9b1p",
@@ -957,7 +878,6 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
             "ext": {
                 "url": "http://111.180.202.216:999",
                 "dataKey": "fjhndgbjidfhgjsd",
@@ -972,7 +892,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://www.noad.top",
                 "dataKey": "708FA298F0855840",
@@ -987,7 +907,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppMuou",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://xjuzi.top",
                 "dataKey": "6a482a70b80eefc9",
@@ -1001,7 +921,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://121.62.21.14:520",
                 "dataKey": "ca94b06ca3c7d80e",
@@ -1015,7 +935,6 @@
 	            "name": "行动｜APP",
             "type": 3,
             "api": "csp_AppSy",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://160.202.246.9:2356",
                 "key1": "aassddwwxxllsx1x",
@@ -1029,7 +948,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet2",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "",
                 "site": "https://cdn-tupic-duofun-neimenggu.56uxi.com/2.txt",
@@ -1046,7 +965,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "https://zzos.cc",
                 "dataKey": "zzoccc2025555555",
@@ -1061,7 +980,7 @@
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://59.153.167.186",
                 "dataKey": "SDSFET23215FDSF2",
@@ -1070,29 +989,13 @@
                 "version": "119"
             }
         },
- {
-            "key": "白蛇",
-            "name": "白蛇｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
-            "ext": {
-                "url": "",
-                "site": "http://tengxunyunaliyun.oss-cn-shanghai.aliyuncs.com/tengxunyun.txt",
-                "dataKey": "f5e2tx53ykp6s2c9",
-                "dataIv": "f5e2tx53ykp6s2c9",
-                "deviceId": "",
-                "version": "361"
-            }
-        },
         {
             "key": "麻花",
 	            "name": "麻花｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
                 "url": "http://124.223.27.166:130",
                 "site": "",
@@ -1108,7 +1011,7 @@
             "name": "哔哩｜视频",
             "type": 3,
             "api": "csp_BiliYS",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",     
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",      
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0,
@@ -1126,35 +1029,34 @@
             "key": "腾讯视频",
             "name": "腾讯｜视频",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/腾讯视频.js"
+            "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/腾讯视频.js"
         },
         {
             "key": "优酷视频",
             "name": "优酷｜视频",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/优酷视频.js"
+            "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/优酷视频.js"
         },
         {
             "key": "芒果视频",
             "name": "芒果｜视频",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/芒果视频.js"
+            "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/芒果视频.js"
         },
         {
             "key": "爱奇艺",
             "name": "爱奇异｜视频",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/爱奇艺.js"
+            "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/drpy2.min.js",
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/js/爱奇艺.js"
         },
         {
             "key": "三六零",
             "name": "三六零｜视频",
             "type": 3,
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "api": "csp_SP360"
         },
  {
@@ -1198,7 +1100,6 @@
             "type": 3,
             "playerType": "2",
             "api": "csp_Czsapp",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1208,14 +1109,12 @@
             "key": "云播影视",
             "name": "云播｜影视",
             "type": 3,
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "api": "csp_Tvyb"
         },
         {
             "key": "奇优影视",
             "name": "奇优｜影视",
             "type": 3,
-            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",    
             "api": "csp_Qiyou"
         },
         {
@@ -1223,7 +1122,6 @@
             "name": "苹果｜影视",
             "type": 3,
             "api": "csp_LiteApple",
-            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",         
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1233,7 +1131,6 @@
             "name": "全看｜影视",
             "type": 3,
             "api": "csp_Quanwk",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": "https://www.91qkw.com"
         },
         {
@@ -1241,7 +1138,6 @@
             "name": "饺子｜影视",
             "type": 3,
             "api": "csp_Jiaozi",
-            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "playerType": 2
         },
         {
@@ -1249,7 +1145,6 @@
             "name": "尘落｜影视",
             "type": 3,
             "api": "csp_Wetv",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",          
             "searchable": 1,
             "quickSearch": 1,
             "ext": "https://v.wetv.wang"
@@ -1258,7 +1153,6 @@
             "key": "鸭梨影视",
             "name": "鸭梨｜影视",
             "type": 3,
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
             "api": "csp_KmeiJu"
         },
         {
@@ -1266,7 +1160,6 @@
             "name": "绝对｜影视",
             "type": 3,
             "api": "csp_FourK",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",      
             "ext": "https://www.4kvm.tv"
         },
         {
@@ -1274,7 +1167,6 @@
             "name": "白白｜影视",
             "type": 3,
             "api": "csp_SuBaiBai",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",      
             "ext": "https://www.subaibai.com"
         },
         {
@@ -1282,7 +1174,6 @@
             "name": "低端｜影视",
             "type": 3,
             "api": "csp_Ddys",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1292,7 +1183,6 @@
             "name": "来看｜影视",
             "type": 3,
             "api": "csp_Lkdy",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1302,7 +1192,6 @@
             "name": "瓜子｜影视",
             "type": 3,
             "api": "csp_Gz360",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1312,7 +1201,6 @@
             "name": "快看｜影视",
             "type": 3,
             "api": "csp_Kuaikan",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1323,7 +1211,6 @@
             "name": "爱看｜影视",
             "type": 3,
             "api": "csp_Ikanbot",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1333,7 +1220,6 @@
             "name": "可可｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/可可影视.json"
         },
         {
@@ -1341,7 +1227,6 @@
             "name": "海纳｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/海纳影视.json"
         },
         {
@@ -1349,7 +1234,6 @@
             "name": "面包｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/面包影视.json"
         },
         {
@@ -1357,7 +1241,6 @@
             "name": "永乐｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/永乐影视.json"
         },
         {
@@ -1365,7 +1248,6 @@
             "name": "雪糕｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/雪糕影视.json"
         },
         {
@@ -1373,7 +1255,6 @@
             "name": "骚火｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/骚火影视.json"
         },
         {
@@ -1381,7 +1262,6 @@
             "name": "七点｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/七点影视.json"
         },
         {
@@ -1389,7 +1269,6 @@
             "name": "三九｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/三九影视.json"
         },
         {
@@ -1397,7 +1276,6 @@
             "name": "三四｜影视",
             "type": 3,
             "api": "csp_HBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/XBPQ/三四影视.json"
         },
         {
@@ -1405,7 +1283,6 @@
             "name": "耐看｜影视",
             "type": 3,
             "api": "csp_WebNK",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1437,7 +1314,6 @@
             "name": "农民｜影视",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1448,7 +1324,6 @@
             "name": "盒子｜影视",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1459,7 +1334,6 @@
             "name": "电影牛｜影视",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1484,7 +1358,6 @@
             "name": "1905｜影视",
             "type": 3,
             "api": "csp_Web1905",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 0,
             "filterable": 0
@@ -1494,7 +1367,6 @@
             "key": "荐片",
             "name": "荐片｜磁力",
             "api": "csp_Jianpian",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "type": 3,
             "playerType": 1,
             "ext": "http://api2.rinhome.com"
@@ -1504,7 +1376,6 @@
             "name": "修罗｜磁力",
             "type": 3,
             "api": "csp_HBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",      
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1515,7 +1386,6 @@
             "name": "七味｜磁力",
             "type": 3,
             "api": "csp_QnMp4",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1525,7 +1395,6 @@
             "name": "80S｜磁力",
             "type": 3,
             "api": "csp_BLSGod",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -1536,7 +1405,6 @@
             "name": "New6V｜磁力",
             "type": 3,
             "api": "csp_New6v",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1547,7 +1415,6 @@
             "name": "SeedHub｜磁力",
             "type": 3,
             "api": "csp_SeedHub",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1557,7 +1424,6 @@
             "name": "美剧迷｜磁力",
             "type": 3,
             "api": "csp_MeijuMi",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1567,7 +1433,6 @@
             "name": "迅雷吧｜磁力",
             "type": 3,
             "api": "csp_Xunlei8",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1577,7 +1442,6 @@
             "name": "电影港｜磁力",
             "type": 3,
             "api": "csp_XYQHiker",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1588,7 +1452,6 @@
             "name": "狐狸君｜磁力",
             "type": 3,
             "api": "csp_HBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "changeable": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -1600,7 +1463,6 @@
             "name": "布谷TV｜磁力",
             "type": 3,
             "api": "csp_HBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1611,7 +1473,6 @@
             "name": "BT天堂｜磁力",
             "type": 3,
             "api": "csp_XYQHiker",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1622,7 +1483,6 @@
             "name": "Mp4电影｜磁力",
             "type": 3,
             "api": "csp_Mp4Mov",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1632,7 +1492,6 @@
             "name": "酷吧电影｜磁力",
             "type": 3,
             "api": "csp_KubaCL",
-          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1642,7 +1501,6 @@
             "name": "美剧天堂｜磁力",
             "type": 3,
             "api": "csp_MeijuTT",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1652,7 +1510,6 @@
             "name": "电影天堂｜磁力",
             "type": 3,
             "api": "csp_DyGod",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
@@ -1877,7 +1734,7 @@
             "name": "✨阿里┃网盘",
             "type": 3,
             "api": "csp_AliShare",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1894,7 +1751,7 @@
             "name": "🪽189┃网盘",
             "type": 3,
             "api": "csp_P189Share",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1911,7 +1768,7 @@
             "name": "💠夸克┃网盘",
             "type": 3,
             "api": "csp_QuarkShare",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1928,7 +1785,7 @@
             "name": "🦊UC┃网盘",
             "type": 3,
             "api": "csp_UCShare",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1945,7 +1802,7 @@
             "name": "🎗︎123┃网盘",
             "type": 3,
             "api": "csp_P123Share",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1962,7 +1819,7 @@
             "name": "⚡迅雷┃网盘",
             "type": 3,
             "api": "csp_ThunderShare",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1979,7 +1836,7 @@
             "name": "🇲小米┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1992,7 +1849,7 @@
             "name": "🃏二小┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2018,7 +1875,7 @@
             "name": "👨‍🎤讴歌┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2031,7 +1888,7 @@
             "name": "🐅虎斑┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2044,7 +1901,7 @@
             "name": "⚜️百家┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2057,7 +1914,7 @@
             "name": "🍶清影┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2070,7 +1927,7 @@
             "name": "⚡闪电┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",  
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",  
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2083,7 +1940,7 @@
             "name": "🫧至臻┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2096,7 +1953,7 @@
             "name": "👽玩偶哥哥┃云盘",
             "type": 3,
             "api": "csp_Wogg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2109,7 +1966,7 @@
             "name": "☠️大玩偶┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2122,7 +1979,7 @@
             "name": "👻玩你老哥┃云盘",
             "type": 3,
             "api": "csp_Wobg",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -2182,86 +2039,6 @@
             "api": "https://git.acwing.com/gggwzj/dengdai/-/raw/main/LIBS/drpy2.min.js",
             "ext": "https://git.acwing.com/gggwzj/dengdai/-/raw/main/JS/mangguo.js"
         },
-{
-      "key": "傻样",
-      "name": "傻样|4k网盘",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Mogg",
-        "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",
-      "ext": {
-        "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-        "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-        "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-        "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-        "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-        "site": "http://xsayang.fun:12512/"
-      }
-    },
-    {
-      "key": "P123",
-      "name": "木偶|4k网盘",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Mogg",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",  
-      "ext": {
-        "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-        "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-        "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-        "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-        "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-        "site": "http://xsayang.fun:12512/"
-      }
-    },
-    {
-      "key": "至臻",
-      "name": "至臻|4k网盘",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_Mogg",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",
-      "ext": {
-        "tyitoken": "http://127.0.0.1:9978/file/TVBox/tyitoken.txt",
-        "dutoken": "http://127.0.0.1:9978/file/TVBox/dutoken.txt",
-        "p123token": "http://127.0.0.1:9978/file/TVBox/p123token.txt",
-        "token": "http://127.0.0.1:9978/file/TVBox/Altoken.txt",
-        "cookie": "http://127.0.0.1:9978/file/TVBox/qkcookie.txt",
-        "uccookie": "http://127.0.0.1:9978/file/TVBox/uccookie.txt",
-        "site": "http://xsayang.fun:12512/"
-      }
-    },
-{
-      "key": "盼盼",
-      "name": "海棉|盘搜",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_HBhaiM",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",
-      "ext": {
-        "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
-        "dutoken": "http://127.0.0.1:9978/file/HBTV/dutoken.txt",
-        "p123token": "http://127.0.0.1:9978/file/HBTV/p123token.txt",
-        "token": "http://127.0.0.1:9978/file/HBTV/Altoken.txt",
-        "cookie": "http://127.0.0.1:9978/file/HBTV/qkcookie.txt",
-        "uccookie": "http://127.0.0.1:9978/file/HBTV/uccookie.txt",
-        "hmianck": "",
-        "site": "https://www.haimianxz.com"
-      }
-    },
-    {
-      "key": "雷静",
-      "name": "雷静|盘搜",
-      "type": 3,
-      "playerType": 2,
-      "api": "csp_HBleiJing",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/custom_spider.jar",
-      "ext": {        "tyitoken": "http://127.0.0.1:9978/file/HBTV/tyitoken.txt",
-        "leijck": ""}
-    },
-
         {
             "key": "度度1",
             "name": "度度✨-4K-",
@@ -3639,162 +3416,6 @@
             "type": 3,
             "api": "csp_XBPQ",
            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar", 
-	    "searchable": 1,
-	    "quickSearch": 1,
-	    "changeable": 1,
-	    "filterable": 1,
-	    "timeout": 120,
-            "ext": {
-		      "作者": "🍊小橙子/250725",
-                      "站名": "快看影视", 
-                      "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I003DD Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
-                      "编码":"UTF-8",
-		      "图片代理": "0",
-                      "直接播放": "0",
-                      "播放请求头": "",
-		      "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
-                      "免嗅": "1",
-		      "过滤词": "",
-                      "主页url": "https://www.ojsjs.com/",
-		      "首页": "120",
-		      "起始页": "1",
-		      "分类url":"https://www.ojsjs.com/show/{cateId}--------{catePg}---.html",
-                      "分类":"电影$1#电视剧$2#综艺$3#动漫$4#短剧$33#",
-		      "二次截取": "",
-		      "数组":"lazyload&&</a>",
-		      "标题":"title=\"&&\"",
-		      "图片":"data-original=\"&&\"",
-	              "副标题":"<span class=\"pic-text text-right\">&&</span>", 
-	              "链接":"href=\"&&\"",
-		      "影片年代":"年份：&&</p>",
-		      "影片地区":"地区：&&</p>",
-                      "影片类型":"类型：&&</p>",
-		      "状态":"状态：&&</p>",
-		      "导演":"导演：&&</p>",
-		      "主演":"主演：&&</p>",
-                      "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+left text-muted\">&&</div>",
-		      "线路二次截取":"",
-		      "线路数组":"data-toggle&&</a>",
-                      "线路标题":">&&</a>",
-		      "播放二次截取":"",
-                      "播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
-		      "倒序":"0",
-                      "播放列表":"<a&&/a>",
-                      "播放标题":">&&</a>",
-                      "播放链接":"href=\"&&\"",
-		      "解析":"",
-		      "跳转播放链接": "var player_*\"url\":\"&&\"",
-		      "跳转解析":"",
-		      "搜索请求头":"User-Agent$MOBILE_UA",
-		      "搜索url":"https://www.ojsjs.com/search/{wd}----------{pg}---.html",
-                      "搜索模式":"1",
-		      "搜索后缀":"",
-		      "搜索二次截取":"",
-                      "搜索数组":"lazyload&&</a>",
-                      "搜索标题":"title=\"&&\"",
-                      "搜索图片":"data-original=\"&&\"",
-                      "搜索副标题":"<span class=\"pic-text text-right\">&&</span>", 
-                      "搜索链接":"href=\"&&\"",
-                      "筛选":"1",
-		      "类型":"",
-		      "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
-		      "剧情值": "*",
-		      "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
-		      "地区值": "*",
-                      "年份": "1950-2025",
-                      "年份值": "*",
-		      "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它",
-                      "语言值": "*",
-		      "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
-		      "字母值": "*",
-                      "排序": "时间&人气&评分",
-                      "排序值": "time&hits&score"
-                   }
-        },
-{
-            "key": "飞行影院",
-            "name": "🕊️飞行影院",
-            "type":3,
-            "api":"csp_XBPQ",
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar", 
-	    "searchable":1,
-	    "quickSearch":1,
-	    "changeable":1,
-	    "filterable":1,
-	    "timeout":120,
-            "ext": {
-		      "作者":"🍊小橙子/250725",
-                      "站名":"飞行影院", 
-                      "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I003DD Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
-                      "编码":"UTF-8",
-		      "图片代理": "0",
-                      "直接播放": "0",
-                      "播放请求头": "",
-		      "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
-                      "免嗅": "1",
-		      "过滤词": "",
-                      "主页url": "https://www.tomato-china.net/",
-		      "首页": "120",
-		      "起始页": "1",
-		      "分类url":"https://www.tomato-china.net/vodshow/{cateId}----{lang}----{catePg}---.html",
-                      "分类": "电影$1#电视剧$2#综艺$3#动漫$4#",
-		      "二次截取": "",
-		      "数组":"lazyload&&</a>",
-		      "标题":"title=\"&&\"",
-		      "图片":"data-original=\"&&\"",
-	              "副标题":"<span class=\"pic-text text-right\">&&</span>", 
-	              "链接":"href=\"&&\"",
-		      "影片年代":"年份：&&</p>",
-		      "影片地区":"地区：&&</p>",
-                      "影片类型":"类型：&&</p>",
-		      "状态":"状态：&&</p>",
-		      "导演":"导演：&&</p>",
-		      "主演":"主演：&&</p>",
-		      "简介":"🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+left text-muted\">&&</div>",
-		      "线路二次截取":"",
-		      "线路数组":"data-toggle&&</a>",
-	              "线路标题":"tab\">&&</a",
-		      "播放二次截取":"",
-                      "播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>",
-		      "倒序":"0",
-                      "播放列表":"<a&&/a>",
-                      "播放标题":">&&</a>",
-                      "播放链接":"href=\"&&\"",
-		      "解析":"",
-		      "跳转播放链接": "var player_*\"url\":\"&&\"",
-		      "跳转解析":"",
-		      "搜索请求头":"User-Agent$MOBILE_UA",
-		      "搜索url":"https://www.tomato-china.net/search/{wd}----------{pg}---.html",
-                      "搜索模式":"1",
-		      "搜索后缀":"",
-		      "搜索二次截取":"",
-                      "搜索数组":"lazyload&&</a>",
-                      "搜索标题":"title=\"&&\"",
-                      "搜索图片":"data-original=\"&&\"",
-                      "搜索副标题":"<span class=\"pic-text text-right\">&&</span>", 
-                      "搜索链接":"href=\"&&\"",
-                      "筛选":"1",
-		      "类型":"",
-		      "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
-		      "剧情值": "*",
-		      "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
-		      "地区值": "*",
-                      "年份": "1950-2025",
-                      "年份值": "*",
-		      "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它",
-                      "语言值": "*",
-		      "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
-		      "字母值": "*",
-                      "排序": "时间&人气&评分",
-                      "排序值": "time&hits&score"
-                   }
-        },
-	{
-            "key": "快看影视",
-            "name":"💡快看影视",
-            "type": 3,
-            "api": "csp_XBPQ",
-       "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar", 
 	    "searchable": 1,
 	    "quickSearch": 1,
 	    "changeable": 1,
@@ -6997,11 +6618,7 @@
 {"key":"py_派对_APP","name":"雷蒙影视 | 🧿派对(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://qjappcms.acg.party","api":"/api.php/getappapi","datakey":"AmtMYFCJDPoTlK7z","dataiv":"AmtMYFCJDPoTlK7z"}},
 {"key":"py_丫丫_APP","name":"雷蒙影视 | 🧿丫丫(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://tv.yy-fun.cc","api":"/api.php/getappapi","datakey":"qkxnwkfjwpcnwycl","dataiv":"qkxnwkfjwpcnwycl"}},
 {"key":"py_黑猫_APP","name":"雷蒙影视 | 🧿黑猫(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/get4.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://dm.xxdm123.top:9991","api":"/api.php/getappapi","datakey":"0fe3b5781782c621","dataiv":"0fe3b5781782c621"}},
-{"key":"py_蓝光_APP","name":"雷蒙影视 | 🧿蓝光(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://122.228.193.2:9654","api":"/api.php/getappapi","datakey":"ca94b06ca3c7d80e","dataiv":"ca94b06ca3c7d80e"}},
-{"key":"py_魔方_APP","name":"雷蒙影视 | 🧿魔方(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://www.snysw.xyz/mfys.txt","api":"/api.php/getappapi","datakey":"1234567887654321","dataiv":"1234567887654321"}},
-{"key":"py_小野_APP","name":"雷蒙影视 | 🧿小野(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://appcms.xy4k.com","api":"/api.php/getappapi","datakey":"7SDWjknU34zqFbVr","dataiv":"7SDWjknU34zqFbVr"}},
-{"key":"py_爱看_APP","name":"雷蒙影视 | 🧿爱看(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"http://154.37.220.65","api":"/api.php/getappapi","datakey":"uI1TkPJC8B46AyN3","dataiv":"uI1TkPJC8B46AyN3"}},
-{"key":"py_稀饭_APP","name":"雷蒙影视 | 🧿稀饭(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/getapp.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"host":"https://app.xifanys.com","api":"/api.php/getappapi","datakey":"HM6Ly9yeS4ya3dvL","dataiv":"HM6Ly9yeS4ya3dvL"}},
+
 {"key":"py_CliCli","name":"雷蒙影视 | 🧿CliCli(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/CliCli动漫APP.py"},
 {"key":"py_HiTV","name":"雷蒙影视 | 🧿HiTV(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/hitvAPP.py"},
 {"key":"py_MiFun","name":"雷蒙影视 | 🧿MiFun(PY)","type":3,"api":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/PY/app/MiFunAPP.py"},
@@ -7414,30 +7031,9 @@
         "分类ID":"/frim/&&.html"
       }},
 
-      {   
-            "key": "BadNews",
-            "name": "BadNews🔞",
-            "type": 4,
-            "api": "https://py.doube.eu.org/spider?site=BadNews",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0,
-            "changeable": 0,
-            "style": {
-                "type": "rect",
-                "ratio": 1.5
-            }
-        },
+     
 	 
-	 {
-            "key": "nunflix",
-            "name": "nunflix",
-            "type": 3,
-            "api": "https://cnb.cool/fish2018/lib/-/git/raw/main/nunflix.py",
-            "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
-        }, 
+	 
 	   {"key": "幸运机场","name": "幸运机场✈️视频",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
@@ -7501,58 +7097,91 @@
       "ext":"https://git.acwing.com/xcz/cc1/-/raw/master/%E6%8B%BE%E5%85%89/0831/含羞草.js"
     },
  {
-			"key": "csp_xBPQ_超清",
-			"name": "香蕉超清1",
-			"type": 3,
-			"api": "csp_xBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "{\"分类url\":\"https://avhh.vip/cq/{cateId}-{catePg}.html\", \"分类\":\"请勿外传$2k-yazhou#按主页切换源$2k-zipaitoupai#无分类切换VPN$2k-chaoqingchuanmei#或者其他网络$2k-3Ddongman#资源网络共享$2k-oumei#有倒卖贩卖纯属欺诈$2k-luanlunrenqi#请勿相信！$2k-siwazhifu#绝对禁止未成年人观看$2k-zhibolubo#SM另类$2k-SMlinglei#超清三级$2k-chaoqingsanji\",\"副标题\":\"duration\\\">&&</div\",\"链接\": \"href=\\\"/cq/Kplay&&.html\\\"\", \"链接前缀\": \"https://avhh.vip/cq/Kplay\", \"链接后缀\": \".html\", \"直接播放\": \"1\" }",
-			"jar": "https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL3UvcyFBb3d0QlVrR3NRUExsQzF4dE9XemY5dFFjYVIt.jar"
-		},
-             {"key":"爱妃","name":"🔞爱妃","type":0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-
-        {"key":"麻豆","name":"🔞麻豆","type":4,"api":"https://json.doube.eu.org/app/index.php?site=dbmadou",   "jar": "https://gitee.com/rrzt188/home/raw/master/jar/pg250212.jar","searchable":1,"quickSearch":1,"filterable":0,"changeable":0,"style":{"type":"rect","ratio":1.5}},
-        {
-            "key": "*麻豆视频",
-            "name": "麻豆资源",
-            "type": 0,
-            "api": "https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml",
-            "searchable": 1,
-            "quickSearch": 0
-        },
-      {
-            "key": "我爱AV",
-            "name": "🔞我爱AV社区|WOAV",
+            "key": "玉羞园③",
+            "name": "玉羞园③🔞",
             "type": 3,
             "api": "csp_XBPQ",
-             "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar", 
             "playerType": 2,
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/XBPQ.jar",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "作者": "男人",
+                "站名": "玉羞园",
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "二次截取": "mozaique cust-nb-cols&&pagination",
+                "数组": "thumb-inside&&</span></a></p>",
+                "标题": "title=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "搜索url": "https://s2.yxy57.icu/?k={wd}&p={pg}[https://s2.yxy57.icu/?k={wd}&top]",
+                "分类url": "https://s2.yxy57.icu/best/{cateId}/{catePg}[https://s2.yxy57.icu/best/{cateId}/];;z",
+                "分类": "2024-09&2024-08&2024-07&2024-06&2024-05&2024-04&2024-03&2024-02&2024-01&2023-12&2023-11&2023-10&2023-09&2023-08&2023-07&2023-06&2023-05&2023-04&2023-03&2023-02&2023-01&2022-12&2022-11&2022-10&2022-09&2022-08&2022-07&2022-06&2022-05&2022-04&2022-03&2022-02&2022-01&2021-12&2021-11&2021-10&2021-09&2021-08&2021-07&2021-06&2021-05&2021-04&2021-03&2021-02&2021-01&2020-12&2020-11&2020-10&2020-09&2020-08&2020-07&2020-06&2020-05&2020-04&2020-03&2020-02&2020-01&2019-12&2019-11&2019-10&2019-09&2019-08&2019-07&2019-06&2019-05&2019-04&2019-03&2019-02&2019-01&2018-12&2018-11&2018-10&2018-09&2018-08&2018-07&2018-06&2018-05&2018-04&2018-03&2018-02&2018-01&2017-12&2017-11&2017-10&2017-09&2017-08&2017-07&2017-06&2017-05&2017-04&2017-03&2017-02&2017-01&2016-12&2016-11&2016-10&2016-09&2016-08&2016-07&2016-06&2016-05&2016-04&2016-03&2016-02&2016-01&2015-12&2015-11&2015-10&2015-09&2015-08&2015-07&2015-06&2015-05&2015-04&2015-03&2015-02&2015-01&2014-12&2014-11&2014-10&2014-09&2014-08&2014-07&2014-06&2014-05&2014-04&2014-03&2014-02&2014-01&2013-12&2013-11&2013-10&2013-09&2013-08&2013-07&2013-06&2013-05&2013-04&2013-03&2013-02&2013-01&2012-12&2012-11&2012-10&2012-09&2012-08&2012-07&2012-06&2012-05&2012-04&2012-03&2012-02&2012-01&2011-12&2011-11&2011-10&2011-09&2011-08&2011-07&2011-06&2011-05&2011-04&2011-03&2011-02&2011-01&2010-12&2010-11&2010-10&2010-09&2010-08&2010-07&2010-06&2010-05&2010-04&2010-03&2010-02&2010-01&2009-12&2009-11&2009-10&2009-09&2009-08&2009-07&2009-06&2009-05&2009-04&2009-03&2009-02&2009-01&2008-12&2008-11&2008-10&2008-09&2008-08&2008-07&2008-06&2008-05&2008-04&2008-03&2008-02&2008-01&2007-12&2007-11&2007-10&2007-09&2007-08&2007-07&2007-06&2007-05&2007-04",
+                "分类值": "*"
+            }
+        },
+        {
+            "key": "玉羞园①",
+            "name": "玉羞园①🔞",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "playerType": 2,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/XBPQ.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
             "ext": {
-                "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
-                "副标题": "span class=\"pic-text text-right\">&&</p",
-                "线路数组": "<li&&</li>",
-                "线路标题": "✨PYLB专享✨+<h3> 私密专线 </h3> ",
-                "播放标题": ">&&</a",
-                "搜索模式": "1",
-                "搜索url": "/vodsearch/{wd}----------{pg}---.html",
-                "分类数组": "<li&&</li>",
-                "分类标题": ">&&</a",
-                "分类ID": "/vodtype/&&.html",
-                "分类链接": "https://vip.woaav.online:13097/vodshow/{cateId}--------{catePg}---.html"
+                "数组": "<div class=\"thumb\">&&</div>",
+                "链接": "href=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "标题": "id=\"&&\"",
+                "直接播放": "1",
+                "分类url": "https://tt.yxy66.icu/c/{cateId}/{catePg}",
+                "分类": "3D$3d#阿拉伯$Arab-159#成熟$Mature-38#出轨背叛/火辣妻子$Cuckold-237#美臀$Ass-14#喷出$Squirting-56#胖女$bbw-51#家庭乱搞$Fucked_Up_Family-81#辣妈$Latina-16#阿拉伯$Arab-159#摄像头$Cam_Porn-58#调教$Femdom-235#肛交$Anal-12#褐发$Brunette-25#黑人$Woman-30#红发$Redhead-31#家庭乱搞$Fucked_Up_Family-81#金发$Blonde-20#巨屌$Big_Cock-34#巨乳$Big_Tits-23#巨臀$Big_Ass-24#口交$Blowjob-15#拉丁裔$Latina-16#辣妈$Milf-19#裂开$Gapes-167#美臀$Ass-14#女同$Lesbian-26#胖女$bbw-51#喷出$Squirting-56#拳交$Fisting-165#少女$Teen-13#颜射$Cumshot-18#摄像头$am_Porn-58#兽性恋$Bi_Sexual-62#丝袜$Stockings-28#涂油$Oiled-22#性感内衣$ingerie-83#亚洲的$Asian_Woman-32#异族$nterracial-27#业余$Amateur-65#印度$ndian-89#中出$Creampie-40#自慰$Solo_and_Masturbation-33#AI$AI-243#ASMR$ASMR-229#CSDING$casting&top"
             }
         },
-{"key":"pgxdy","name":"🧿Pgx电影","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1},  
-{"key":"pwd_袜不会吧子","name":"🧿蜜蜂","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":1,"quickSearch":0},
+        {
+            "key": "玉羞园②",
+            "name": "😳玉羞②┃语种",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "searchable": 1,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            },
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "二次截取": "mozaique cust-nb-cols&&pagination",
+                "数组": "thumb-inside&&</span></a ></p >",
+                "标题": "title=\"&&\"",
+                "图片": "data-src=\"&&\"",
+                "链接": "href=\"&&\"",
+                "简介": "class=\"page-title\">&&<span class",
+                "搜索url": "https://s2.yxy57.icu/?k={wd}&p={pg}[https://s2.yxy57.icu/?k={wd}]",
+                "分类url": "https://s2.yxy57.icu/lang/{cateId}/{catePg}[https://s2.yxy57.icu/lang/{cateId}/];;z",
+                "分类": "🇦🇪阿拉伯语$arabic#🇧🇬保加利亚语$bulgarian#🇨🇳中国语$chinese#🇭🇷克罗地亚语$hrvatski#🇨🇿捷克语$cestina#🇩🇰丹麦语$dansk#🇳🇱荷兰语$nederlands#🇪🇪爱沙尼亚语$eesti#🇫🇮芬兰语$suomi#🇫🇷法语$francais#🇩🇪德语$deutsch#🇬🇷希腊语$greek#🇮🇱希伯来语$hebrew#🇮🇳印地语$hindi#🇭🇺匈牙利语$magyar#🇮🇩印度尼西亚语$indonesia#🇮🇹意大利语$italiano#🇯🇵日语$japanese#🇰🇷韩语$korean#🇱🇻拉脱维亚语$latviesu#🇱🇹立陶宛语$lietuviu#🇲🇾马来语$melayu#🇳🇴挪威语$norsk#🇮🇷波斯语$persian#🇵🇱波兰语$polski#🇵🇹葡萄牙语$portugues#🇷🇴罗马尼亚语$romana#🇷🇺俄语$russian#🇷🇸塞尔维亚语$srpski#🇸🇰斯洛伐克语$slovencina#🇸🇮斯洛文尼亚语$slovenscina#🇪🇸西班牙语$espanol#🇸🇪瑞典语$svenska#🇹🇭泰语$thai#🇹🇷土耳其语$turkce#🇺🇦乌克兰语$ukrainian#🇵🇰乌尔都语$urdu#🇻🇳越南语$viet_nam"
+            }
+        },
   {
             "key": "黄色仓库2",
             "name": "🔞黄色仓库2",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/XBPQ.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jiushizhe/Wangpanjiekou/main/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "playerType": 2,
             "searchable": 1,
@@ -7579,7 +7208,7 @@
             "name": "🔞黄色视频3",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/XBPQ.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.485
@@ -7636,7 +7265,7 @@
             },
             "quickSearch": 1,
             "filterable": 0,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": {
                 "站名": "黄仓库",
                 "主页url": "https://hsck3.26img.com/",
@@ -7692,7 +7321,23 @@
                 "分类": "短剧$20#电视剧$19#电影$18#动漫$13#综艺$12#国产剧$8#港台剧$9#欧美剧$10#日韩剧$11#海外剧$21#动作片$1#科幻片$2#爱情片$3#喜剧片$4#剧情片$5#恐怖片$6#战争片$7#纪录片$14"
             }
         },
-   {"key": "911爆料网","name": "911爆料网[XQ]","type": 3,"api": "csp_XBPQ","ext": {"作者": "✨集✨","发布地址": "https://hljdh.co/,https://bean.hbmkuelb.com/homeway.html","站名": "911爆料网","编码": "UTF-8","请求头": "User-Agent$MOBILE_UA","主页url": "https://argue.hbmkuelb.com","首页": "200","起始页": "1","分类url": "/category/{cateId}/{catePg}/;;mrcRA","分类": "最新爆料$jrgb#精选大瓜$rmgb#猎奇吃瓜$blqw#TOP5大瓜$rlph#社会热点$ssdbl#海角社区$hjsq#每日大赛$mrds#校园吃瓜$xyss#明星吃瓜$mxhl#网红爆料$whbl#反差爆料$bgzq#网黄福利$fljq#午夜剧场$crfys#探花经典$thjx#禁漫天堂$dmhv#吃瓜精选$slec#重口调教$zksr#精选连载$crlz","数组": "dateModified&&</a","图片": "https://v2.api-m.com/api/meinvpic?return=302","标题": "headline\">&&<","副标题": "datePublished*>&&<","链接": "href=\"&&\"","简介": "og:description\" content=\"&&\"","线路二次截取": "","线路数组": "data-config='&&</div","线路标题": "爆料","播放数组": "data-config='&&</div","播放列表": "{&&}}","播放标题": "\"&&\"","播放链接": "url\":\"&&\"","搜索url": "/search/{wd}/{pg}/","搜索模式": "1"},"jar":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/XBPQ.jar"},
+    {
+      "key": "夜色撩人",
+      "name": "🏆夜色撩人",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "filterable": 0,
+      "ext": {
+        "分类url": "https://www.ysyy2.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
+        "直接播放": "1",
+        "分类": "传媒&无码&欧美&制服&主播&明星&调教&萝莉&换脸",
+        "分类值": "1&6&2&3&4&5&23&24&25"
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.33
+      }
+    },
     {
       "key": "苹果影院",
       "name": "🏆苹果影院",
@@ -7968,7 +7613,7 @@
            "name": "🥕萝卜影视",
            "type": 3,
            "api": "csp_XBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar",  
+           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar",  
            "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -8026,7 +7671,7 @@
             "name": "🏖️海纳TV",
             "type": 3,
             "api": "csp_XBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar",   
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar",   
 	    "searchable": 1,
 	    "quickSearch": 1,
 	    "changeable": 1,
@@ -8104,7 +7749,7 @@
             "name": "🍨雪糕TV",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar", 
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar", 
 	    "searchable": 1,
 	    "quickSearch": 1,
 	    "changeable": 1,
@@ -8182,7 +7827,7 @@
       "name": "🐷🐷┃寻艳回首",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",     
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -8202,7 +7847,7 @@
       "name": "diy🐷┃🔞汇",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -8225,7 +7870,7 @@
       "name": "🔞学妹内衣",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8245,7 +7890,7 @@
       "name": "🔞乱伦秀",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8265,7 +7910,7 @@
       "name": "🔞权色事件",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8289,7 +7934,7 @@
       "name": "三级｜4K",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "ext": {
         "分类": "伦理片$1#电影$20#电视剧$21#动漫$40#综艺$44#短剧$50#体育$54#港台伦理$6#韩国伦理$7#日本伦理$8#欧美伦理$9#写真热舞$57#动作片$30#爱情片$32#科幻片$33#恐怖片$34#剧情片$35#战争片$36#纪录片$37#动画片$38",
         "分类url": "http://www.3jihome.com/show/{cateId}--------{catePg}---.html.html"
@@ -8300,7 +7945,7 @@
       "name": "🔞悟空伦理",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -8313,7 +7958,7 @@
       "name": "🔞极乐国产禁区",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8336,7 +7981,7 @@
       "name": "🔞房中秘术",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8359,7 +8004,7 @@
       "name": "🔞练精术士",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8382,7 +8027,7 @@
       "name": "🔞爸射进去了",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8405,7 +8050,7 @@
       "name": "🔞亚洲色吧",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8428,7 +8073,7 @@
       "name": "🔞工口姐姐",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8451,7 +8096,7 @@
       "name": "🔞大未久",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8476,7 +8121,7 @@
       "name": "🔞人兽小女",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8499,7 +8144,7 @@
       "name": "🔞NTR淫妻录",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8523,7 +8168,7 @@
       "name": "🔞91av",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8545,7 +8190,7 @@
       "name": "🔞精品mjav",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8568,7 +8213,7 @@
       "name": "🔞偷尝禁果",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8591,7 +8236,7 @@
       "name": "🔞独家完整版",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8614,7 +8259,7 @@
       "name": "🔞黑猫av",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8637,7 +8282,7 @@
       "name": "🔞avideo",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8660,7 +8305,7 @@
       "name": "🔞香蕉搞少女",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8682,7 +8327,7 @@
       "name": "🔞51青青",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8702,7 +8347,7 @@
       "name": "🔞撸久久",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",     
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",     
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8723,7 +8368,7 @@
       "name": "🔞19jooo",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8741,7 +8386,7 @@
       "name": "🔞乱伦伊甸园",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8765,7 +8410,7 @@
       "name": "🔞高清SEX国产",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "filterable": 1,
       "changeable": 1,
       "ext": {
@@ -8787,7 +8432,7 @@
       "name": "🔞淫乱师生",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8809,7 +8454,7 @@
       "name": "🔞小姨子的诱惑",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8830,7 +8475,7 @@
       "name": "🔞小鲍狗",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8848,7 +8493,7 @@
       "name": "🔞玉鲅含珠",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8870,7 +8515,7 @@
       "name": "🔞在线秒播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -8891,7 +8536,7 @@
       "name": "🔞顶级国产",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8914,7 +8559,7 @@
       "name": "🔞极上双穴",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -8936,7 +8581,7 @@
       "name": "🔞18超级直播",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "style": {
         "type": "rect",
         "ratio": 1.77
@@ -8959,7 +8604,7 @@
       "name": "🔞中学小处女",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -8975,7 +8620,7 @@
       "name": "🔞2048av",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -8996,7 +8641,7 @@
       "name": "🔞多多视频",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "ext": {
         "简介": "剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
         "分类url": "https://bdvofj.ddsp4.makeup/cn/home/web/index.php/vod/type/id/{cateId}/page/{catePg}.html",
@@ -9009,7 +8654,7 @@
       "name": "🔞涩涩之屋",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",   
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",   
       "ext": {
         "简介": "剧情介绍: +stui-content__desc col-pd clearfix\">&&</div>",
         "图片": "src=\"&&\"",
@@ -9024,7 +8669,7 @@
       "name": "🔞7部乱伦精选",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",      
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",      
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -9067,7 +8712,7 @@
       "name": "🔞52熟女重口",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "ext": {
         "请求头": "User-Agent$MOBILE_UA",
         "编码": "UTF-8",
@@ -9128,7 +8773,7 @@
       "name": "🔞X社区",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "filterable": 0,
       "style": {
         "type": "rect",
@@ -9146,7 +8791,7 @@
       "name": "🔞妹妹的",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",
       "filterable": 0,
       "style": {
         "type": "rect",
@@ -9166,7 +8811,7 @@
       "name": "🔞偷拍群视频",
       "type": 3,
       "api": "csp_XBPQ",
-        "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",
       "filterable": 1,
       "ext": {
         "分类url": "https://web.toupaiqun16.xyz/tpq/index.php/vod/show/id/{cateId}/page/{catePg}.html",
@@ -9181,7 +8826,7 @@
       "name": "🔞顶级网曝",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -9211,7 +8856,7 @@
       "name": "🔞色网┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",
+      "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -9233,7 +8878,7 @@
       "name": "激情",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "ext": {
         "主页url": "https://jud.jllth9.motorcycles/cn/home/web/",
         "直接播放": "1",
@@ -9254,7 +8899,7 @@
       "name": "涩涩",
       "type": 3,
       "api": "csp_XBPQ",
-         "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -9274,7 +8919,7 @@
       "name": "🔞成人┃奈飞",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -9299,7 +8944,7 @@
       "name": "🔞色网┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-       "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",    
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",    
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -9321,7 +8966,7 @@
       "name": "🔞背德┃人妻",
       "type": 3,
       "api": "csp_XBPQ",
-        "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -9352,7 +8997,7 @@
       "name": "🔞女仆┃公馆",
       "type": 3,
       "api": "csp_XBPQ",
-        "jar":"https://gitee.com/lwlxh/tvhome/raw/master/o.jar",  
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/xcz20250711/main/o.jar",  
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
@@ -9922,7 +9567,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/咪咪.json"
         },
         {
@@ -9933,7 +9578,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/24营业.json"
         },
         {
@@ -9952,7 +9597,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/私人福利.json"
         },
         {
@@ -9963,14 +9608,14 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/私拍曝光.json"
         },
 {
             "key": "arrav高清视频",
             "name": "🍻airav高清┃视频",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -10007,7 +9652,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/lc529180405/caicai/main/大猫咪/lib/麻花影视.json"
         },
         {
@@ -10018,7 +9663,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/一根卷毛.json"
         },
  {
@@ -10041,7 +9686,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/日B快线.json"
         },
         {
@@ -10052,7 +9697,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/鸡鸭放纵.json"
         },
         {
@@ -10063,7 +9708,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/诗和远方.json"
         },
         {
@@ -10074,7 +9719,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/以径封喉.json"
         },
         {
@@ -10085,7 +9730,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/玉蚌含珠.json"
         },
  {
@@ -10167,7 +9812,7 @@
             "name": "🐯色虎┃视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10191,7 +9836,7 @@
             "name": "🫣看片┃视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
@@ -10236,7 +9881,7 @@
       "name": "无限臀山",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -10304,7 +9949,7 @@
             "name": "🔞黄色视频",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar", 
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar", 
             "style": {
                 "ratio": 1.7
             },
@@ -10327,7 +9972,7 @@
             "name": "🈚无马┃抖音🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10351,7 +9996,7 @@
             "name": "🇰🇷高清色┃国产🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10394,7 +10039,7 @@
             "name": "4️⃣4K┃AV🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10424,7 +10069,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "https://git.acwing.com/gggwang/gggwang/-/raw/main/XBPQ/学妹.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
         },
     {
             "key": "csp_hs",
@@ -10568,7 +10213,7 @@
             "name": "☪女仆成人🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10600,7 +10245,7 @@
             "name": "☪学妹合集🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10626,7 +10271,7 @@
             "name": "☪网曝🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10655,7 +10300,7 @@
             "key": "91精品🔞",
             "name": "☪91精品🔞(XBPQ)",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -10678,7 +10323,7 @@
             "key": "飞机视频🔞",
             "name": "☪飞机影视🔞(XBPQ)",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -10834,7 +10479,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/perkan666/gggdeng/master/XBPQ/男人加油站.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
         },
         {
             "key": "csp_xBPQ_4k网av",
@@ -10844,8 +10489,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/json/4k网av.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/json/4k网av.json",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
         },
         {
             "key": "csp_xBPQ_东京淫朕",
@@ -10855,8 +10500,8 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/json/东京淫朕.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
+            "ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/lc529180405/caicai/main/cai/json/东京淫朕.json",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
         },
         {
             "key": "csp_xBPQ_1211AV",
@@ -10867,7 +10512,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/perkan666/gggdeng/master/XBPQ/1211AV.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
         },
         {
             "key": "csp_xBPQ_韩国伦理",
@@ -10878,7 +10523,7 @@
             "quickSearch": 1,
             "filterable": 0,
             "ext": "https://ghfast.top/https://raw.githubusercontent.com/perkan666/gggdeng/master/XBPQ/韩国伦理.json",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar"
         },
         {
             "key": "csp_xBPQ_油条视频",
@@ -10919,7 +10564,7 @@
             "name": "🇺Upi┃AV🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10945,7 +10590,7 @@
             "name": "🇷🇺俄罗斯┃妈妈🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10969,7 +10614,7 @@
             "name": "🎨色色┃王国🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -10994,7 +10639,7 @@
             "name": "9️⃣91┃扣扣🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11023,7 +10668,7 @@
             "name": "🥧白玉┃馒头🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11051,7 +10696,7 @@
             "changeable": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "ext": 
             {
                 "分类url": "https://hsds1.mom/index.php/vod/type/id/{cateId}/page/{catePg}.html",
@@ -11063,7 +10708,7 @@
       "name": "爱上AV",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/yilishawk/jar/main/19.jar",      
+      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/yilishawk/jar/main/19.jar",      
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -11109,7 +10754,7 @@
             "name": "🔞幼色┃视频",
             "type": 3,
             "api": "csp_XBPQ",
-                "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+                "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11143,7 +10788,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-          "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
+          "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/aliluya/main/spider.jar",
       "ext": {
       "数组": "\"item\"&&\"item\"",
      "图片":"src=\"&&\"",
@@ -11164,7 +10809,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
            "ext": {
              "图片": "src=\"&&\"",
              "线路标题": "title=\"&&\"",
@@ -11183,7 +10828,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",  
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",  
             "ext": {
                "图片": "data-original=\"&&\"",
                "数组": "<li class=\"content-item\">&&</li>",
@@ -11211,7 +10856,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
             "ext": {
                "发布地址": "https://hlwlw101yutll67.com",
  
@@ -11241,7 +10886,7 @@
             "quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-              "jar":"https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
             "ext": {
             "直接播放": "1",
             "分类url": "https://www.diysq53.buzz/index.php/vod/type/id/{cateId}/page/{catePg}.html",
@@ -11257,15 +10902,15 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"api": "csp_XBPQ",
-			"jar": "https://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/main/lib/XBPQ.jar",
-			"ext": "https://ghfast.top/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/花都.json"
+			"jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/cluntop/tvbox/main/lib/XBPQ.jar",
+			"ext": "https://gh.tryxd.cn/https://raw.githubusercontent.com/cluntop/tvbox/main/js/ss/花都.json"
 		},
 {
             "key":"纤纤",
             "name":"纤",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",   
+            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",   
             "playerType": 1,
             "searchable": 1,
             "quickSearch": 1,
@@ -11317,7 +10962,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
       "ext": {
             "发布地址": "https://luanlunqun.cc/",
             "主页url": "https://web.llq4.xyz/llq",
@@ -11341,7 +10986,7 @@
             "name": "🎗️黑丝┃少妇🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11365,7 +11010,7 @@
             "name": "1️⃣1色┃搜索🔞(XBPQ)",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11399,7 +11044,7 @@
             "name": "🔞熊猫┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",    
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11416,7 +11061,7 @@
             "name": "🔞熊猫①┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar", 
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11433,7 +11078,7 @@
             "name": "🔞熊猫②┃影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar", 
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/13174771/caicai/main/大猫咪/lib/xyqxbpq.jar", 
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -11578,7 +11223,7 @@
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
-       "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
+       "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
        "quickSearch":1,
        "filterable":1,
        "ext":{"数组":"stui-vodlist__thumb lazyload&&</a[不包含:米菲兔]",
@@ -11605,7 +11250,7 @@
        "type":3,
        "api":"csp_XBPQ",
        "searchable":1,
-       "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
+       "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
        "quickSearch":1,
        "filterable":1,
        "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
@@ -11631,7 +11276,7 @@
 	   {"name": "🔞|u9a9PQ",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/XBPQ.jar",
+            "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/XBPQ.jar",
             "style": {
                 "type": "list"
             },
@@ -11653,7 +11298,7 @@
       "name": "🍎色苹果┃影视🍎",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -11678,7 +11323,7 @@
       "name": "🎥125┃影视🎥",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -11706,7 +11351,7 @@
       "name": "🌠128┃影视🌠",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -11732,7 +11377,7 @@
       "name": "⛺️1av┃影视⛺️",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
+      "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/o.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -11756,7 +11401,7 @@
             "name": "🏃‍♀️Li🌍🌍",
             "type": 3,
             "api": "csp_XBPQ",
-           "jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/XBPQ.jar",
+           "jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/XBPQ.jar",
             "style": {
                 "type": "rect",
                 "ratio": 1.5
@@ -11784,7 +11429,7 @@
 	"name": "PGTG|群组女司机",
 	"type": 3,
 	"api": "csp_TGYunPan",
-        "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",    
+        "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",    
 	"timeout": 60,
 	"ext": {
 		"token": "https://4723.kstore.space/happybaihao/tokenm.json",
@@ -11802,7 +11447,7 @@
                 "name": "PGTG|频道涩涩",
 	"type": 3,
 	"api": "csp_TGYunPanLocal",
-        "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+        "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
 	"timeout": 60,
 	"ext": {
 		"token": "https://4723.kstore.space/happybaihao/tokenm.json",
@@ -11820,7 +11465,7 @@
 	"name": "磁力狗┃仅搜索",
 	"type": 3,
 	"api": "csp_Clg",
-        "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+        "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
 	"searchable": 1,
 	"quickSearch": 1,
 	"changeable": 1,
@@ -11833,7 +11478,7 @@
             "name": "🔞BtSearch搜",
             "type": 3,
             "api": "csp_BtSearch",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -11844,7 +11489,7 @@
             "name": "🔞BtSow磁力",
             "type": 3,
             "api": "csp_BtSow",
-            "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",
+            "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",
             "quickSearch": 1,
             "changeable": 1,
             "filterable": 1,
@@ -11961,7 +11606,6 @@
       {"key":"七色谷", "name":"🪣七色谷影院",
        "type":3,"api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
-     "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "ext":{"主页url": "https://o3p4q5r6.qisegu30.buzz/qs/",
 	  "数组":"<li class=\"content-item\">&&</li>",
 	  "图片": "<img class=\"content-img lazy\" data-original=\"&&\"",
@@ -11985,7 +11629,7 @@
 
   { "key": "家庭视频","name": "家庭🧍‍♂️视频",
        "type": 3,"api": "csp_XBPQ",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+      "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "ext": {
         "分类url": "https://www.jiatll9.sbs/vodtype/{cateId}-{catePg}/",
 	    "分类数组": "<a&&a>",
@@ -12013,7 +11657,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {
        "数组": "<li class=\"col-md-&&</li>",
        "标题": "title=\"&&\"",
@@ -12036,7 +11680,7 @@
    
      {"key": "猫咪视频 ","name": "猫咪🐱视频",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": {  
 	 "数组": "<a class=\"thumbnail-link&&</div></div>",
 	
@@ -12063,7 +11707,7 @@
             "searchable": 1,"quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext":{
             "直接播放":"1",
             "搜索模式":"1",
@@ -12088,7 +11732,7 @@
      {"key":"百花宫影院", "name":"🌸百花宫影院",
        "type":3,"api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
-         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "ext":{"主页url": "https://meihuago.cfd/",
 	  "数组":"<a class=\"thumbnail\"&&</li>",
 	  "图片": "src=\"&&\"",
@@ -15164,7 +14808,7 @@
 			"name": "🔞JavDb┃磁力",
 			"type": 3,
 			"api": "csp_JavDb",
-                        "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",  
+                        "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",  
                         "searchable": 1, 	
 			"quickSearch": 1,
 			"filterable": 1,
@@ -15180,7 +14824,7 @@
 			"name": "㊙️JavBus┃磁力",
 			"type": 3,
 			"api": "csp_JavBus",
-                         "jar":"https://cnb.cool/fish2018/pg/-/git/raw/master/pg.jar",  
+                         "jar":"https://git.acwing.com/oh/oh/-/raw/main/pg/jar/pg.jar",  
                         "searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
@@ -15411,121 +15055,15 @@
 {"key":"push_agent","name":"📎推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"https://gitlab.com/lemon52030/BOX/-/raw/main/lib/tokenm.jar","timeout":60}],
 
 "lives": [
-{"name": "🦸┃tangTV直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u","playerType":1},
-{"name": "🎲┃xTV直播","type":0,"url":https://ghfast.top/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/live_ipv4.m3u","playerType":1},
-{"name": "🐬┃SuperMAN直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u","playerType":1},
-{"name": "🏀┃广东移动源直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/playlist/广东移动.txt","playerType":1},	
-{"name": "🥬┃广东电信源直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/playlist/广东电信.txt","playerType":1},
+{"name": "🦸┃tangTV直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/result.m3u","playerType":1},
+{"name": "🎲┃xTV直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/X/refs/heads/main/live/live_ipv4.m3u","playerType":1},
+{"name": "🐬┃SuperMAN直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/result.m3u","playerType":1},
+{"name": "🏀┃广东移动源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/playlist/广东移动.txt","playerType":1},	
+{"name": "🥬┃广东电信源直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/jtv/refs/heads/main/playlist/广东电信.txt","playerType":1},
 {"name": "💄┃全网通tv","type": 0,"url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/全网通","playerType":1},	
 {"name": "🍿┃Webview直播","type": 0,"url": "https://cnb.cool/junchao.tang/llive/-/git/raw/main/webview.txt","playerType":1},	
-       {
-        "name": "天美传媒816",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/天美传媒816.txt"
-    },
-    {
-        "name": "果冻传媒816",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/果冻传媒816.txt"
-    },
-    {
-        "name": "麻豆传媒816",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/麻豆传媒816.txt"
-    },
-    {
-        "name": "星空传媒816",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/星空传媒816.txt"
-    },
-    {
-        "name": "精东影业816",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/精东影业816.txt"
-    },
-    {
-        "name": "至尊",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/至尊.m3u"
-    },
-    {
-        "name": "终极",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/终极.txt"
-    },
-    {
-        "name": "花活",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/花活.txt"
-    },
-    {
-        "name": "珍藏",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/珍藏.m3u"
-    },
-    {
-        "name": "绝品",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/绝品.txt"
-    },
-    {
-        "name": "全球",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/全球.txt"
-    },
-    {
-        "name": "无敌",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/无敌.m3u"
-    },
-    {
-        "name": "经典",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/经典.m3u"
-    },
-    {
-        "name": "pron",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/pron.m3u"
-    },
-    {
-        "name": "live18",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/live18.txt"
-    },
-    {
-        "name": "美腿丝袜",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/美腿丝袜.txt"
-    },
-    {
-        "name": "成人电影",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人电影.txt"
-    },
-    {
-        "name": "国产传媒",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/国产传媒.m3u"
-    },
-    {
-        "name": "几个传媒",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/几个传媒.txt"
-    },
-    {
-        "name": "成人传媒",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/成人传媒.txt"
-    },
-    {
-        "name": "18资源丰富",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/18资源丰富.txt"
-    },
-    {
-        "name": "Jable嗅探",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/Jable嗅探.txt"
-    },
-    {
-        "name": "维护成人",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/维护成人.txt"
-    },
-    {
-        "name": "vip源",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/vip源.txt"
-    },
-    {
-        "name": "181818",
-        "url": "https://slink.ltd/https://raw.githubusercontent.com/fish2018/lib/refs/heads/main/txt/181818.txt"
-    },
-    {
-        "name": "x315601",
-        "url": "http://x315601.serv00.net/10.php"
-    },
-    {
-        "name": "crzb",
-        "url": "http://bwind.fr.to/m3u/crzb.txt"},	
-{"name": "🥮┃aTV直播","type": 0,"url": "http://ox.my.to/8/3533495.txt","playerType":1},	
+	
+{"name": "🥮┃aTV直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/aTV/refs/heads/master/output/result.m3u","playerType":1},	
 {"name": "🛬┃iptv_api直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv_api/refs/heads/main/output/live_ipv4.m3u","playerType":1},
 {"name": "🛺┃港台秒播頻道","type":0,"url":"http://is.is-great.org/ii/1749383140.txt","playerType":1},
 {"name": "🚍┃港台秒播頻道","type":0,"url":"http://go8.myartsonline.com/zx/0/TVBTV28.txt","playerType":1},
@@ -15543,12 +15081,12 @@
 {"name": "🎣┃台湾直播","api":"csp_MQiTV","ext":"https://59.125.210.231:4433","jar":"./jar/custom_spider.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name": "🚌┃台湾直播","api":"csp_MQiTV","ext":"https://60.248.127.232:4433","jar":"./jar/custom_spider.jar","epg": "http://iptv.52sw.top:668/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 	
-{"name": "🤿┃IPTV_SuperA直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/refs/heads/main/output/result.m3u","playerType":1},	
-{"name": "🪂┃IPTV_SuperB直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/IPTV_SuperB/refs/heads/main/output/live_ipv4.m3u","playerType":1},
-{"name": "🥎┃IPTV_SuperD直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/iptv_SuperD/refs/heads/dist/live.m3u","playerType":1},
-{"name": "🍗️┃Part直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com//alantang1977/Part_1/refs/heads/main/output/live.m3u","playerType":1},
+{"name": "🤿┃IPTV_SuperA直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV_SuperA/refs/heads/main/output/result.m3u","playerType":1},	
+{"name": "🪂┃IPTV_SuperB直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/IPTV_SuperB/refs/heads/main/output/live_ipv4.m3u","playerType":1},
+{"name": "🥎┃IPTV_SuperD直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/iptv_SuperD/refs/heads/dist/live.m3u","playerType":1},
+{"name": "🍗️┃Part直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com//alantang1977/Part_1/refs/heads/main/output/live.m3u","playerType":1},
 
-{"name": "🐍┃girlTV直播","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/alantang1977/girl/refs/heads/master/tv/iptv4.m3u","playerType":1},	
+{"name": "🐍┃girlTV直播","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/girl/refs/heads/master/tv/iptv4.m3u","playerType":1},	
 {"name": "⚾┃WorkTV直播","type":0,"url":"https://cnb.cool/junchao.tang/llive/-/git/raw/main/电视.txt","playerType":1},		
 {"name": "🥩┃luck9V直播","type":0,"url":"https://cnb.cool/junchao.tang/llive/-/git/raw/main/luck9.txt","playerType":1},	
 {"name": "🏏┃assets直播","type":0,"url":"http://1.94.31.214/live/livelite.txt","playerType":1},	
@@ -15559,10 +15097,10 @@
 {"name": "📷┃蜜蜂直播","type" : 0,"url" : "https://iptv.catvod.com/tv.m3u","ua" : "okhttp/3.15","epg" : "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo" : "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},
 {"name": "🥓┃IPTV研究所直播源","type" : 0,"url" : "http://kkk.888.3116598.xyz/user/HKTV.txt","playerType":1},
 {"name": "🍔┃hostemail直播","type" : 0,"url" : "https://gh.tryxd.cn/https://raw.githubusercontent.com/hostemail/cdn/main/live/tv.txt","ua" : "okhttp/3.15","epg" : "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}","logo" : "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"},	
-{"name": "🎞️┃Rivens7頻道","type":0,"url":"https://ghfast.top/https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u","playerType":1},
+{"name": "🎞️┃Rivens7頻道","type":0,"url":"https://gh.tryxd.cn/https://raw.githubusercontent.com/Rivens7/Livelist/refs/heads/main/IPTV.m3u","playerType":1},
 
-{"name": "🗻┃SuperMAN直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/user_result.txt","playerType":1},
-{"name": "💤┃JunTV直播","type": 0,"url": "https://ghfast.top/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/user_result.txt","playerType":1},
+{"name": "🗻┃SuperMAN直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/SuperMAN/refs/heads/main/output/user_result.txt","playerType":1},
+{"name": "💤┃JunTV直播","type": 0,"url": "https://gh.tryxd.cn/https://raw.githubusercontent.com/alantang1977/JunTV/refs/heads/main/output/user_result.txt","playerType":1},
 
 {"name": "🍖️┃沐佬直播","type": 3,"api": "https://json.doube.eu.org/python/live_kzb.py","ext": "68747470733A2F2F6A7A623132332E7A68756261696368656E672E636F6D2F70726F642D6170692F697074762F676574497074764C697374"},
 {"name": "🌭️┃沐佬BeeSport","type": 3,"api": "https://json.doube.eu.org/python/live_beesport.py","ext": {},"header": {"Referer": "https://p.m82xg4z0cdbz7.com/"}},
@@ -15647,55 +15185,7 @@
 	
 "parses": [
 {"name":"自动解析","type":3,"url":"Demo"},
-{
-            "name": "无上",
-            "type": "1",
-            "url": "https://mfjx.iwsyy.xyz/?url=",
-            "ext": {
-                "flag": [
-                    "qq",
-                    "腾讯",
-                    "qiyi",
-                    "爱奇艺",
-                    "奇艺",
-                    "youku",
-                    "优酷",
-                    "sohu",
-                    "搜狐",
-                    "letv",
-                    "乐视",
-                    "mgtv",
-                    "芒果",
-                    "tnmb",
-                    "seven",
-                    "bilibili",
-                    "1905"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
-        {
-            "name": "巧计",
-            "type": 1,
-            "url": "https://zy.qiaoji8.com/xiafan.php?url=",
-            "ext": {
-                "flag": [
-                    "QD4K",
-                    "iyf",
-                    "duanju",
-                    "gzcj",
-                    "GTV",
-                    "GZYS",
-                    "weggz",
-                    "Ace"
-                ],
-                "header": {
-                    "User-Agent": "okhttp/4.9.1"
-                }
-            }
-        },
+
 {"name":"超人解析","type":3,"url":"Web"},
 {"name":"童趣","type":1,"url":"http://kmp.us.kg/api/?key=A2gODYCEHBd4tVLsbv&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"王","type":1,"url":"http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url="},
