@@ -102,14 +102,7 @@
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bb2d1289"}},
 {"key":"高中教育","name":"📚高中┃课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://im.feelec.com.cn/res/file.html?id=2c9a91099293dce401946513bd90128b"}},
-  {"key":"csp_Uvod","name":"雷蒙影视 | 💎优视频(SP)","type":3,"api":"csp_Uvod","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_PTT","name":"雷蒙影视 | 🎈PTT(SP)","type":3,"api":"csp_PTT","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w55xy.com/"},
-{"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_HkTv","name":"雷蒙影视 | 🌥TVB云播(SP)","type":3,"api":"csp_HkTv","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_XuanFeng","name":"雷蒙影视 | 🌀旋风影视(SP)","type":3,"api":"csp_XuanFeng","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"changeable":1,"ext":{}},
+ 
         {
             "key": "看球",
             "name": "⚽一起｜看球",
