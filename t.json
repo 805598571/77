@@ -105,9 +105,9 @@
   {"key":"csp_Uvod","name":"雷蒙影视 | 💎优视频(SP)","type":3,"api":"csp_Uvod","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_PTT","name":"雷蒙影视 | 🎈PTT(SP)","type":3,"api":"csp_PTT","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_NCat","name":"雷蒙影视 | 😻网飞猫(SP)","type":3,"api":"csp_NCat","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_TvDy","name":"雷蒙影视 | 👼电影天堂(SP)","type":3,"api":"csp_TvDy","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_W55Movie","name":"雷蒙影视 | 5️⃣555电影(SP)","type":3,"api":"csp_W55Movie","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://w55xy.com/"},
-{"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_DaGongRen","name":"雷蒙影视 | 👤打工人电影(SP)","type":3,"api":"csp_DaGongRen","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_HkTv","name":"雷蒙影视 | 🌥TVB云播(SP)","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","type":3,"api":"csp_HkTv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_XuanFeng","name":"雷蒙影视 | 🌀旋风影视(SP)","type":3,"api":"csp_XuanFeng","jar":"https://ghfast.top/https://raw.githubusercontent.com/n3rddd/N3RD/master/JN/N3RD/J/lem0730.jar;md5;9FCE4CE1E8DF9D051167F53D22DAF256","searchable":1,"changeable":1,"ext":{}},
         {
@@ -125,7 +125,7 @@
             "key": "hipy_js_看球",
             "name": "🌞看球┃解析",
             "type": 3,
-            "api": "https://gh.tryxd.cn/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
+            "api": "https://ghfast.top/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -1218,7 +1218,7 @@
                 "ratio": 1.433
             },
             "ext": {
-                "json": "https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/json/哔哩视频.json",
+                "json": "https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/json/哔哩视频.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             }
         },
@@ -1993,7 +1993,7 @@
             "changeable": 1,
             "filterable": 1,
             "timeout": 60,
-            "ext": https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$http://4kfox.com/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/4kfox.txt$$$4KFOX"
+            "ext":" https://pg.banye.tech:7777/pg/lib/tokenm?token=banye$$$http://4kfox.com/$$$noproxy$$$1$$$https://cnb.cool/fish2018/pg/-/git/raw/master/lib/4kfox.txt$$$4KFOX"
         },
         {
             "key": "FourKFM",
