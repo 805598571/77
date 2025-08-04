@@ -130,6 +130,53 @@
 {"key":"稀饭动漫","name":"🤣稀饭┃动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://pzoap.moedot.net","dataKey":"1yZ2Spn9krnzVKoC","dataIv":"1yZ2Spn9krnzVKoC","deviceId":"","version":""},"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;12a79291579f7816538de9049c46fb0f"},
 {"key":"咕咕动漫","name":"🤣咕咕┃动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://www.gugu3.com","dataKey":"nKfZ8KX6JTNWRzTD","dataIv":"nKfZ8KX6JTNWRzTD","deviceId":"","version":""},"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;12a79291579f7816538de9049c46fb0f"},
 {"key":"米饭动漫","name":"🤣米饭┃动漫","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://45.43.29.111:9527","dataKey":"GETMIFUNGEIMIFUN","dataIv":"GETMIFUNGEIMIFUN","deviceId":"","version":""},"jar":"https://jar.yy.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;12a79291579f7816538de9049c46fb0f"},
+{
+            "key": "哔滴",
+            "name": "哔滴丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
+                "dataKey": "5ae8ee4bb95ea0ce",
+                "dataIv": "5ae8ee4bb95ea0ce",
+                "deviceId": "",
+                "version": "120"
+            }
+        },
+        {
+            "key": "丫丫",
+	            "name": "丫丫｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "http://tv.yy-fun.cc",
+                "dataKey": "qkxnwkfjwpcnwycl",
+                "dataIv": "qkxnwkfjwpcnwycl",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+{
+            "key": "冬天",
+	            "name": "冬天｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "http://154.37.152.97:5211",
+                "dataKey": "685bf108bc47b67d",
+                "dataIv": "685bf108bc47b67d",
+                "deviceId": "685bf108bc47b67d",
+                "version": ""
+            }
+        },
+
  {
             "key": "热播影视",
             "name": "热播｜APP",
@@ -11761,6 +11808,7 @@
 
       {"key":"七色谷", "name":"🪣七色谷影院",
        "type":3,"api":"csp_XBPQ",
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"主页url": "https://o3p4q5r6.qisegu30.buzz/qs/",
 	  "数组":"<li class=\"content-item\">&&</li>",
@@ -12232,7 +12280,7 @@
 
      {"key": "兴趣院","name": "⚽️兴趣影视⚽️","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},
-       "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+       "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { "发布页url": "https://www.fxy222.top/index.html?timestamp=1748605011806
 	https://fxy333.top/index.html?timestamp=1748605063580  找回邮箱：qiqiwuqi7757@gmail.com",
     "主页url": "https://x1.xingqu6.top/",
@@ -12258,7 +12306,7 @@
        
    {"key": "桃源AV","name": "🍑桃源影视🍑","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": {"主页url": "https://tyav8.cfd/",
 	"数组二次截取": "<ul class=\"myui-vodlist clearfix\">&&</ul>",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -12288,7 +12336,7 @@
 	  {"key": "OWOAV视频","name": "🍂OWO🍂",
        "type": 3,"api": "csp_XBPQ",
        "searchable": 1,"quickSearch": 1,"filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://www.owo10.cc/",
 	   "发布页url": "https://github.com/owodz/owo-video/",
        "数组二次截取": "<div class=\"list-videos\">&&<div class=\"pagination\"[不包含:色情AV网站]",
@@ -12315,7 +12363,7 @@
       {"key": "亚洲AV攻略","name": "🌍亚洲攻略🌍",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1, "quickSearch": 1,"filterable": 1,
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://1wl6r2ky.ppbzhao.buzz/",
       "数组": "<div class=\"item\">&&</a>",
      "图片":"data-original=\"&&\"",
@@ -12341,7 +12389,7 @@
       {"key": "444.coffee","name": "444☕️咖啡",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1, "filterable": 1,
-            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://www.444.coffee/",
       "数组": "<li id=\"post-&&</li>",
      "图片":"data-src=\"&&\"",
@@ -12360,7 +12408,7 @@
        {"key": "极乐AV天堂","name": "😄极乐天堂😄",
 		   "type": 3,
 		   "api": "csp_XBPQ",
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext": {
            "主页url": "https://d8f7e76s.kpplarge.buzz/index.php/",
            "直接播放": "1",
@@ -12378,7 +12426,7 @@
 
     {"key": "纯欲女神","name": "纯欲🌡女神",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": {   "主页url": "https://cyns5.mom/",
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -12399,7 +12447,7 @@
     {"key":"javhuge.com","name":"🍄javhuge🍄",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{ 
    "主页url": "https://javhuge.com/",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -12430,7 +12478,7 @@
      {"key":"天天看AV","name":"天天📺看TV",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-    "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+    "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{ 
     "主页url": "https://ttav.pw/",
     "数组": "<article id=\"post&& </article>",
@@ -12450,7 +12498,7 @@
 	 {"key":"肚兜成人網","name":"肚兜影院🀄字",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{ 
     "主页url": "https://dudou.pw/",
     "数组": "<article id=\"post&& </article>",
@@ -12471,7 +12519,7 @@
      {"key":"tmav.art","name":"天美🌟影视🌟",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{ 
    "主页url": "https://tmav.art/",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -12502,7 +12550,7 @@
             "searchable": 1,"quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-               "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+               "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext":{
             "直接播放":"1",
             "搜索模式":"1",
@@ -12522,7 +12570,7 @@
     {"key":"艾薇影院","name":"艾薇🍈影院",
 	"type":3,"api":"csp_XBPQ",
      "searchable":1,"quickSearch":1,"filterable":1,
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{ 
     "主页url": "https://javroot.com/",
     "数组": "<article id=\"post&& </article>",
@@ -12545,7 +12593,7 @@
       {"key": "jvod.xyz","name": "京东➕影业",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://jvod.xyz/",
       "数组":"<div class=\"item\">&&</a>",
      "图片":"data-original=\"&&\"",
@@ -12574,7 +12622,7 @@
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://jvod.xyz/",
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "数组":"<div class=\"item\">&&</a>",
      "图片":"data-original=\"&&\"",
       "标题":"title=\"&&\"",
@@ -12602,7 +12650,7 @@
  
        {"key": "AV岛","name": "岛国🥭影业",
       "type": 3,"api": "csp_XBPQ",
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -12626,7 +12674,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"数组":"<posts class=\"posts-item&&</posts>",
      
      "图片":"data-src=\"&&\"",
@@ -12651,7 +12699,7 @@
 	
 	  {"key": "鲨鱼视频","name": "鲨鱼🦈影院B版",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",   
 	"ext": { 
 	"数组": "<li class=\"multi\">&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -12676,7 +12724,7 @@
 	  {"key": "niba.site","name": "泥巴🌰影院",
       "type": 3,"api": "csp_XBPQ","searchable": 1,
       "quickSearch": 1,"filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
       "ext": {"数组":"<div class=\"item-thumbnail\">&&</a>",
      "图片":"data-src=\"&&\"",
       "标题":"alt=\"&&\"",
@@ -12705,7 +12753,7 @@
 
       {"key": "蜜桃视频","name": "蜜桃🍑视频",
       "type": 3,"api": "csp_XBPQ",
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -12734,7 +12782,7 @@
             "searchable": 1,"quickSearch": 1,
             "filterable": 1,
             "api": "csp_XBPQ",
-              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext":{
             "直接播放":"1",
             "搜索模式":"1",
@@ -12759,7 +12807,7 @@
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1, "quickSearch": 1,
       "filterable": 1,
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {
       "数组":"<li><a class=\"thum&&</li>",
       "图片":"src=\"&&\"",
@@ -12782,7 +12830,7 @@
   
     { "key": "黑虎影院","name": "黑虎🐯影院",
       "type": 3,"api": "csp_XBPQ",
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -12805,7 +12853,7 @@
    
       {"key": "memojav.com","name": "memojav🉐com",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -12832,7 +12880,7 @@
      
      {"key": "国产x站","name": "国产❌站",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -12850,7 +12898,7 @@
         
      {"key": "麻豆传媒","name": "麻豆🥔传媒",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -12867,7 +12915,7 @@
 
      {"key": "花丛视频","name": "花丛🌸影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -12884,7 +12932,7 @@
 
      {"key": "国产老司机","name": "司机🔋影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"&&\"",
@@ -12897,7 +12945,7 @@
   
       {"key": "飞机吧","name": "飞机✈️影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
 	"ext": { 
 	"数组": "<li class=\"stui-vodlist__item\">&&</li>", 
 	"图片": "data-original=\"https://img.siwazywimg2.com:5278/&&",
@@ -12912,7 +12960,7 @@
        {"key": "蜜汁TV","name": "📺蜜汁TV📺",
       "type": 3,"api": "csp_XBPQ","searchable": 1,
       "quickSearch": 1,"filterable": 1,
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://mizhitv142.buzz/",
        "数组": "<figure class=\"figure\">&&</figure>",
        "标题": "title=\"&&\"",
@@ -12936,7 +12984,7 @@
 	   { "key": "帝国av","name": "帝国☀️影院",
        "type": 3,"api": "csp_XBPQ",
        "ext": {"主页url": "https://dd.diguo23.live/123/",
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
         "分类url": "https://dd.diguo23.live/123/index.php/vod/type/id/{cateId}/page/{catePg}.html",
 	    "分类":"国产精品$3#日本布兵$4#日本骑兵$5#探花寻花$7#不道德$8#传媒片商$9#网暴吃瓜$10",
         "搜索模式": "1",
@@ -12953,7 +13001,7 @@
   
       { "key": "快播AV","name": "快播🏃‍♀TV",
       "type": 3,"api": "csp_XBPQ",
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13019,7 +13067,7 @@
  
         {"key":"奈飞成人","name":"🍬小奈飞🍬",
        "type":3, "api":"csp_XBPQ",
-            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "searchable":1, "quickSearch":1, "filterable":1,
        "ext":{"数组":"column is-half-mobile is-one-quarter-desktop vod-item-box is-half-touch\">&&</div>",
 	   "发布页": "https://fuliwz.neocities.org/nfcrz/",
@@ -13038,7 +13086,7 @@
        {"key": "精品阁","name": "🚎精品阁影视🚎",
       "type": 3,"api": "csp_XBPQ","searchable": 1,
       "quickSearch": 1,"filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://jingpinge533.click/",
        "数组": "<figure class=\"figure\">&&</figure>",
        "标题": "title=\"&&\"",
@@ -13060,7 +13108,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {
       "数组": "\"item-img\"&&\"item-img\"",
       "图片":"src=\"&&\"",
@@ -13081,7 +13129,7 @@
   	
 	   {"key": "javopen.co","name": "javopen🌧️co",
       "type": 3,"api": "csp_XBPQ",
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13108,7 +13156,7 @@
 	 
 	 {"key": "javhd.today","name": "javhd🦊today",
       "type": 3,"api": "csp_XBPQ",
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13138,7 +13186,7 @@
   
        {"key": "小树AV","name": "小树🌳影视",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13167,7 +13215,7 @@
 	  
     {"key": "猫咪视频 ","name": "猫咪🐱视频",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": {  
 	 "数组": "<a class=\"thumbnail-link&&<a class=\"thumbnail-link",
 	 "图片": "src=\"&&\"",
@@ -13192,7 +13240,7 @@
       { "key": "javday.app","name": "javday💰app",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://javday.app/label/new/",
        "数组": "class=\"col-style d-4 m-2 lazy loaded\"&&</a>",
        "标题": "<span class=\"title\">&&</span>",
@@ -13217,7 +13265,7 @@
     { "key": "kiss99","name": "KISS99💋影视",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1, "filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://www.kiss99.cc",
        "数组": "\"post-container\"&&\"post-container\"",
        "标题": " rel=\"bookmark\">&&</a></h2>",
@@ -13234,7 +13282,7 @@
 	 
 	  { "key": "jav777","name": "JAV777👌字幕",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {"主页url": "https://www.jav777.cc",
        "数组": "\"post-container\"&&\"post-container\"",
@@ -13254,7 +13302,7 @@
      
        { "key": "qinav.com","name": "QINAV📚影视",
       "type": 3,"api": "csp_XBPQ",
-              "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+              "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13279,7 +13327,7 @@
   
       {"key": "Diva在线","name": "🪁Diva在线🪁",
       "type": 3,"api": "csp_XBPQ",
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13303,7 +13351,7 @@
       {"key": "好莱污A","name": "好莱坞🚽影院A版",
 		   "type": 3,
 		   "api": "csp_XBPQ",
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext": {
            "主页url": "https://boutiquefire.xyz/",
            "直接播放": "1",
@@ -13321,7 +13369,7 @@
  
  {"key": "爱优阁","name": "爱优阁😭视频",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
       "ext": {
        "数组":"<span class=\"img-box\">&&</li>",
@@ -13349,7 +13397,7 @@
     
       {"key": "好莱污B","name": "好莱坞🚽影院B版",
       "type": 3,"api": "csp_XBPQ",
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13376,7 +13424,7 @@
     {"key":"色女儿","name":"👧女儿国👧","type":3,
 	"api":"csp_XBPQ","searchable":1,
 	"quickSearch":1,"filterable":1,
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{
       "主页url":"https://wosesenvwo1.sbs/",
      "数组":"<li id=\"li1\"&&</li>",
@@ -13425,7 +13473,7 @@
      {"key":"视色","name":"⌛️视色（特殊）⌛️","type":3,"api":"csp_XBPQ",
 	 "playerType":"0","searchable":1,"quickSearch":1,
 	 "filterable":1,
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{"嗅探词":"https://s1.playhls.com/m3u8.php?",  
 	 "免嗅": "",
 	 "数组":"\"video\"&&\"video\"",
@@ -13454,7 +13502,7 @@
   
       {"key": "最新AV","name": "新新🆕️影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -13475,7 +13523,7 @@
 
    { "key": "橙子视频","name": "橙子🍊影视",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13501,7 +13549,7 @@
     
 	   {"key": "胖虎视频","name": "胖虎🐯影院",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {"主页url": "https://www.panghuhu.fun/",
 	    "备用1url": "https://hu.panghuhu.fun/",
 		"备用2url": "https://pang.panghu1.fun/",
@@ -13529,7 +13577,7 @@
 
      {"key": "爱奇遇","name": "🛏iqiyu爱奇遇🛏",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -13556,7 +13604,7 @@
 
    {"key": "国产视频站","name": "🪟91国产视频站🪟",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -13581,7 +13629,7 @@
 	
    {"key": "91在线","name": "🔔91在线🔔",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { 
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "src=\"&&\"", 
@@ -13606,7 +13654,7 @@
 	
 	{"key": "花都影视发布页地址：a.hdys.top a.hdys.xyz","name": "花都🌸影视",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { "主页url": "https://huaduys.com/", 
 	 "数组":"stui-vodlist__box\">&&</div></div>",
 	 "图片": "data-original=\"&&\"",
@@ -13629,7 +13677,7 @@
       {"key": "12av榴莲视频","name": "十二榴莲😭视频",
       "type": 3,"api": "csp_XBPQ",
       "searchable": 1,"quickSearch": 1,"filterable": 1,
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {
        "数组":"<div class=\"col-style d-4 m-2 lazy loaded\">&&</div></a></div>",
        "图片":"src=\"&&\"",
@@ -13654,7 +13702,7 @@
 	
 	    {"key": "光棍影院","name": "光棍🎦影院",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13688,7 +13736,7 @@
 	
 	 {"key": "125av","name": "🌁125┃影视🌁",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -13713,7 +13761,7 @@
 	
 	  { "key": "藏姬阁视频","name": "藏姬阁🧍‍♂️视频",
       "type": 3,"api": "csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {
         "分类url": "https://qrno013.cangjimv.xyz/cang/{cateId}-{catePg}/",
 	    "分类数组": "<a&&a>",
@@ -13734,7 +13782,7 @@
 
 	    { "key": "羞涩视频","name": "涩涩😍影视",
       "type": 3,"api": "csp_XBPQ",
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": {
         "分类url": "https://lvxssp.xiusese.fun/vod/{cateId}-{catePg}.html",
 	    
@@ -13756,7 +13804,7 @@
 	
 	 {"key":"樱桃影视","name":"樱桃🍒影视A版",
 	 "type":3,"api":"csp_XBPQ",
-            "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "数组": "class=\"grid_item&&</a>",
 	  "图片":"src=\"&&\"",
@@ -13778,7 +13826,7 @@
 	
 	 {"key":"樱桃视频","name":"樱桃🍒影视B版",
 	 "type":3,"api":"csp_XBPQ",
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "searchable":1,"quickSearch":1,"filterable":1,"ext":{ 
     "数组": "class=\"myui-vodlist__box&&</div>",
 	  "图片":"data-original=\"&&\"",
@@ -13804,7 +13852,7 @@
             "type": 3,"changeable": 1,
             "searchable": 1,"quickSearch": 1,
             "filterable": 1,"api": "csp_XBPQ",
-                "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+                "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext":{
             "直接播放":"1",
             "搜索模式":"1",
@@ -13827,7 +13875,7 @@
 	
 	{ "key": "地瓜", "name": "地瓜🍠视频", 
      "type":3,"api":"csp_XBPQ", 
-        "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
+        "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
      "searchable": 1,"quickSearch": 0,"filterable": 1,                                                                       
      "ext": {"播放数组":"v_con_box&&</div>",
      "搜索模式":"1",
@@ -13845,7 +13893,7 @@
        "name":"🎦韩情剧场🎦",
        "type":3,
        "api":"csp_XBPQ",
-           "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "searchable":1,
        "quickSearch":1,
        "filterable":1,
@@ -13865,7 +13913,7 @@
 	  	
     {"key": "探探视频","name": "探探⚡️影院",
 	"type": 3,"api": "csp_XBPQ","filterable": 1,
-             "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	"ext": { "主页url": "https://ttttav.tantan666.xyz/", 
 	"数组": "<a class=\"thumbnail&&</li>", 
 	"图片": "data-original=\"&&\"", 
@@ -13886,7 +13934,7 @@
 	  
       {"key":"茄子视频","name":"茄子🍆影视",
        "type":3,"api":"csp_XBPQ",
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "searchable":1,
        "quickSearch":1, "filterable":1,
        "ext":{"主页url": "https://qiezi.riben.baby/",
@@ -13911,7 +13959,7 @@
       {"key":"花花世界", "name":"花花🌸影视",
        "type":3,"api":"csp_XBPQ",
        "searchable":1, "quickSearch":1, "filterable":1,
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "ext":{"主页url": "https://lwj.hsyh7.monster/cn/home/web/",
 		   "数组":"<p class=\"img\">&&</li>",
 	  "图片": "src=\"&&\"",
@@ -13929,7 +13977,7 @@
     {"key":"avgle.pro","name":"🍍avgle.pro🍍",
        "type":3,"api":"csp_XBPQ",
       "searchable":1,"quickSearch":1,"filterable":1,
-          "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "ext":{"数组":"card\">&&</div></div>",
 	  "图片": "src=\"&&\"",
       "标题":"alt=\"&&\"",
@@ -13947,7 +13995,7 @@
   
     {"key":"韭菜视频", "name":"割韭🍺菜啦",
        "type":3,"api":"csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "searchable":1,"quickSearch":1,"filterable":1,
        "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
 	  "图片": "style=\"background: url(&&) no-repeat;",
@@ -13965,7 +14013,7 @@
   
      {"key":"媚人AV", "name":"媚人🥬影视",
        "type":3,"api":"csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "searchable":1,"quickSearch":1, "filterable":1,
        "ext":{"数组":"stui-vodlist__box\">&&</div></div>",
 	   "图片": "data-original=\"&&\"",
@@ -13983,7 +14031,7 @@
      {"key":"黄精影院", "name":"黄精🌼影院",
        "type":3,"api":"csp_XBPQ",
        "searchable":1, "quickSearch":1,"filterable":1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "ext":{"数组":"vid_thumbainl\">&&</div>",
 	   "图片": "src=\"&&\"",
       "标题":"title=\"&&\"",
@@ -13999,7 +14047,7 @@
    
      {"key":"品茶影院", "name":"品茶🍵影院",
        "type":3,"api":"csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "searchable":1, "quickSearch":1,"filterable":1,
        "ext":{"数组":"resent-grid-img recommended-grid-img\">&&</div>",
 	   "图片": "src=\"&&\"",
@@ -14018,7 +14066,7 @@
 	
 	 {"key":"javbus.sbs-","name":"🚌javbus🚌","type":3,"api":"csp_XBPQ",
       "searchable":1,"quickSearch":1,"filterable":1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{ 
      "主页url": "https://javbus.sbs/",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -14051,7 +14099,7 @@
 	
     {"key":"jav36","name":"JAV💤三十六",
 	 "type":3,"api":"csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
      "searchable":1,	"quickSearch":1,	"filterable":1,
 	"ext":{"数组":"<div class=\"item&&</a",
      "图片":"data-original=\"&&\"",
@@ -14069,7 +14117,7 @@
 
     { "key": "七色古","name": "🌧️七色影院🌧️",
       "type": 3,"api": "csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "ext": { "分类url": "https://q1r2s3t4.qisegu26.buzz/vodtype/{cateId}-{catePg}/",
         "分类": "中文字幕🆕$41#制服诱惑$47#日本🈚️🐎$44#强奸乱伦$46#日本🈶️🐎$43#中文字幕旧$15#🈚️🐎中文$144#巨乳中文$151#乱伦中文$146#人妻中文$147#调教中文$149#强奸中文$150#制服中文$145#无码中文$14",
         "搜索模式": "1",
@@ -14082,7 +14130,7 @@
 	
 	   {"key": "欢淫光临","name": "👏欢迎👏光临👏",
         "type": 3,"api": "csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
        "ext": { "分类url": "https://q1r2s3t4.huanygl22.buzz/vodtype/{cateId}-{catePg}/",
 	    "分类": "日本🈶️🐎$43#🀄️文字幕$41#强奸乱伦$46#日本🈚️🐎$44#制服诱惑$47#AV解说$55#网暴黑料$53#抖阴视频$51#女友明星$52#网红头条$60#极品媚黑$58#萝莉少女$57#VR视角$63#国产精品$71#华语AV$64#黑料吃瓜$69#学生集合$65#探花约炮$70",
         "搜索模式": "1",
@@ -14094,7 +14142,7 @@
 
      {"key":"暗网禁区","name":"🫂暗网禁区🫂",
 	 "type":3,"api":"csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
      "searchable":1,"quickSearch":1,"filterable":1,
 	 "ext":{ "数组": "class=\"myui-vodlist__box&&</div>",
     "图片": "style=\"background: url('&&')",
@@ -14114,7 +14162,7 @@
 	 
            {"key": "dabaobei","name": "🐚大宝贝🐚",
 			 "type": 3,"api": "csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 			 "style":{"type": "rect","ratio": 1.5},"ext": {
              "主页url": "https://ass.dabaobei.sbs/",
             "数组": "<div class=\"puremag-list-post-thumbnail\">&&</div></div>",
@@ -14136,7 +14184,7 @@
 				
       {"key":"javtree","name":"📀javtree📀",
 	  "type":3,"api":"csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
         "searchable":1,"quickSearch":1,
 		"filterable":1,"ext":{
         "主页url":"https://javtree.com/last.html",
@@ -14270,7 +14318,7 @@
      {"key": "农夫与少妇","name": "农夫👨‍🌾与少妇‍👩",
      "type": 3,"api": "csp_XBPQ","searchable": 1,
      "quickSearch": 1,"filterable": 1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{
     "二次截取": "<ul class=\"img-list-data&&</ul",
     "主页url": "https://nfsf8kj.nfsf-a2.buzz/go",
@@ -14292,7 +14340,7 @@
 
    {"key": "AV影视","name": "🎬AV影视🎬","type": 3,
    "api": "csp_XBPQ","style": {"type": "rect","ratio": 1.5},
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
    "ext": {  "图片": "data-src=\"&&\"",
       "直接播放": "1",
       "分类url":"https://wyaslcwgroup.cfd/index.php/vod/type/id/{cateId}/page/{catePg}.html",
@@ -14306,7 +14354,7 @@
 
       {"key": "JAVSB","name": "😄JAVSB😄","type": 3,
 	  "api": "csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext": {"主页url": "https://jav.sb/",
       "直接播放": "1",
      "数组": "class=\"relative aspect-w-16 aspect-h-9 rounded overflow-hidden shadow-lg\"&&</div>",
@@ -14320,7 +14368,7 @@
  
      {"key": "NiceAv1","name": "nicetv🐑820A",
      "type": 3,"api": "csp_XBPQ",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "style": {"type": "rect","ratio": 1.5}, 
 	  "ext": { "地址发布url": "https://fuliwz.neocities.org/niceav/",
         "主页url": "https://www.nicetv820.cyou/",
@@ -14351,7 +14399,7 @@
 		
 		{"key": "AVgle","name": "🚀AVgle🚀",
 			"type": 3,"api": "csp_XBPQ",
-			"jar": "https://gh.tryxd.cn/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
+			"jar": "https://ghfast.top/https://raw.githubusercontent.com/xwyjc/yuanwango/main/lib/xyqxbpq.jar",
 			"style": {"type": "rect","ratio": 1.5},
 			"ext": {
 			"主页url": "https://av.gl/",
@@ -14364,7 +14412,9 @@
 
 
   
-      {"key":"91黑料福利社","name":"🔥91高清黑料🔥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{
+      {"key":"91黑料福利社","name":"🔥91高清黑料🔥","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,
+ "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+"ext":{
             "发布地址":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
             "主页url":"https://fwir--mooghoiviequ.91gaoqingheiliao-0ddd000.click/map",
             "数组":"class=\"item-box\">&&</a",
@@ -14386,7 +14436,7 @@
       {"key":"高清sex国产","name":"👨高清国产👨",
 	     "type":3,"api":"csp_XBPQ","searchable":1,
 	     "quickSearch":1,"filterable":1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{
             "发布地址":"https://eitha--ytf.anyeav018.xyz/%E4%B8%96%E7%95%8C%E5%92%8C%E5%B9%B3/",
             "主页url":"https://ray-ship-toy.sexav-001.com/ssss",
@@ -14411,7 +14461,7 @@
       {"key":"高清xxxx黑料","name":"🍁高清xxxx黑料🍁",
 	   "type":3,"api":"csp_XBPQ","searchable":1,
       "quickSearch":1,"filterable":1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	  "ext":{"发布地址":"https://xxxxxxav3.com",
          "主页url":"https://zza.xxxxxxav1v123.com/xxxx",
          "数组":"class=\"item-box\">&&</a>",
@@ -14436,7 +14486,7 @@
 	{"key":"东京淫朕","name":"🏦京东银联🏦","type":3,
 	"api":"csp_XBPQ","searchable":1,
 	"quickSearch":1,"filterable":1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext":{
     "发布地址":"https://xn--di-wu2c.diwang02.top/123/?referrer=https%3A%2F%2Fyise23.xyz%2F",
     "请求头": "User-Agent$MOBILE_UA",
@@ -14471,7 +14521,7 @@
 	   {"key": "路透射","name": "📰路透社📰",
         "type": 3,"api": "csp_XBPQ", "playerType": 2,
         "searchable": 1, "quickSearch": 1, "filterable": 1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
         "ext": { "数组": "class=\"stui-vodlist__thumb lazyload\"&&</a",
         "副标题": "span class=\"pic-text text-right\">&&</p",
         "线路名二次截取":"class=\"nav&&</ul>",
@@ -14500,7 +14550,7 @@
     { "key": "多米尼奥", "name": "🌟多米尼奥🌟",
       "type": 3, "api": "csp_XBPQ","searchable": 1,
       "quickSearch": 1, "filterable": 1,
-         "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+         "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
       "ext": {"数组": "<div class=\"v-pic\">&&</li>",
         "图片": "data-src=\"&&\"",
         "标题": "title=\"&&\"",
@@ -14527,7 +14577,7 @@
 
    {"key": "暗网色库","name": "📚暗网📚","type": 3,
     "api": "csp_XBPQ","style": {"ratio": 1.7},
-   "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+   "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext": {
     "主页url": "https://awjqub.sbs/layout.html",
     "数组": "class=\"myui-vodlist__box&&</div>",
@@ -14549,7 +14599,7 @@
       {"key":"传媒二区","name":"🍁传媒二区🍁","type":3,
 	  "api":"csp_XBPQ","searchable":1,
 	  "quickSearch":1,"filterable":1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
      "ext":{"主页url":"https://www.34gaobk.com/index.html",
   "数组":"<div class=\"card mb-0\">&&</a",
   "标题":"atl=\"&&\"",
@@ -14577,7 +14627,7 @@
         {"key": "18j.tv","name": "🌳18j.tv🌳",
 		"type": 3,"api": "csp_XBPQ",
 		"ext": { "主页url": "https://18j.tv/",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
                 "直接播放": "1",
                 "嗅探词": "index.m3u8#.mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
                 "图片": "data-original=\"&&\"",
@@ -14591,7 +14641,7 @@
 		"type": 3,"api": "csp_XBPQ",
 		"style": {"type": "rect","ratio": 1.5},
 		"ext": { "直接播放": 1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
         "主页url": "https://airav.io/list",
         "数组": "div class=\"oneVideo-top\"&&</a>",
         "图片": "img src=\"&&\"",
@@ -14607,7 +14657,7 @@
 
      {"key": "19麻豆","name": "🐒台湾传媒全🐒",
 	 "type": 3,"api": "csp_XBPQ","ext": {"站名": "麻豆视频",
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
       "主页url": "https://19q.cc/",
       "分类url": "https://19q.cc/index.php/vod/type/id/{cateId}/page/{catePg}.html", 
       "分类":"麻豆视频&91制片厂&天美传媒&蜜桃传媒&皇家华人&星空传媒&精东影业&乐播传媒&成人头条&乌鸦传媒&兔子先生&杏吧原创&玩偶姐姐&mini传媒&大象传媒&开心鬼传媒&萝莉社&PsychoPorn&性世界&糖心Vlog&性视界",
@@ -14632,7 +14682,7 @@
 	   "searchable": 1,"quickSearch": 1,
 	  "filterable": 1,"api": "csp_XBPQ",
 	   "style": {"ratio": 1.7},
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 	   "ext": { "搜索url":"http://gcmd.cc/index.php/vod/search/page/{pg}/wd/{wd}.html",
 	    "搜索后缀":"/index.php/vod/play/id/",
         "搜索链接前缀":"http://gcmd.cc/",
@@ -14645,7 +14695,7 @@
     {"key": "csp_XYBQ","name": "🚛比卡|比卡🚛","type": 3,
 	"api": "csp_XBPQ","searchable": 1,"quickSearch": 
 	1,"filterable": 1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 "ext": {"请求头": "手机",
     "站名": "比卡比卡",
     "主页url": "https://pika.bikaq.cc/",
@@ -14669,7 +14719,7 @@
        {"key": "纤纤影视福利版","name": "©️纤纤影视H版©️",
 	    "type": 3,"api": "csp_XBPQ","playerType": 1,
 		"searchable": 1,"quickSearch": 1,"filterable": 1,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
 		"ext": {"主页url": "https://m.xian372.top/L/26.html",
                 "请求头": "手机",
                 "编码": "gb2312",
@@ -14702,7 +14752,7 @@
             "type": 3,"api": "csp_XBPQ",            
             "playerType": 2, "searchable": 1,
             "quickSearch": 1,"filterable": 0,
-  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {"请求头": "手机",
                 "站名": "顶级网曝",
                 "主页url": "https://www.xiaoyg3.sbs/",
@@ -14727,7 +14777,7 @@
  
 
      {"key":"色花堂","name":"🌸色花堂🌸A版","type":3,"api":"csp_XBPQ",
-  "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
+  "jar": "https://ghfast.top/https://raw.githubusercontent.com/guot55/yg/main/jar/hl.jar",
   "ext":{"数组":"\"img-box cover-md\"&&\"img-box cover-md\"",
   "图片": "data-original=\"&&\"",
   "标题": "<h6 class=\"title\"><a href=*>&&</a>",
@@ -14739,7 +14789,7 @@
 
 
 
-{"key":"csp_xBP色花堂","name":"🌸色花堂🌸B版","type":3,"api":"csp_XBPQ",  "jar":"https://gh.tryxd.cn/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":
+{"key":"csp_xBP色花堂","name":"🌸色花堂🌸B版","type":3,"api":"csp_XBPQ",  "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":
 {"站名":"色花堂",
 "主页url":"https://www.0dzm3d.com/index.html",
 //"数组":"<div class=\"img-box cover-md\">&&</h6>",
