@@ -3415,6 +3415,89 @@
 "type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/myhomebox/tv/main/json/nivod.json","jar":"https://ghfast.top/https://raw.githubusercontent.com/myhomebox/tv/main/JAR/xyqxbpq.jar"},
 {"key":"csp_XYQHiker_Bestpipe","name":"😎百思派","style":{"type":"rect","ratio":0.85},
 "type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghfast.top/https://raw.githubusercontent.com/myhomebox/tv/main/json/bestpipe.json","jar":"https://ghfast.top/https://raw.githubusercontent.com/myhomebox/tv/main/JAR/xyqxbpq.jar"},
+
+{
+			"key": "xbpq_2345",
+			"name": "2345💢影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+                        "jar":"https://git.acwing.com/6699/zjys/-/raw/main/jar/spider.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": "https://git.acwing.com/6699/zjys/-/raw/main/json/2345.json"
+		},
+		{
+			"key": "348电影网",
+			"name": "348💢电影",
+			"type": 3,
+			"api": "csp_XBPQ",
+                        "jar":"https://git.acwing.com/6699/zjys/-/raw/main/jar/spider.jar",   
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://git.acwing.com/6699/zjys/-/raw/main/json/348.json"
+		},
+		{
+			"key": "xbpq_608tv",
+			"name": "608💢影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+                        "jar":"https://git.acwing.com/6699/zjys/-/raw/main/jar/spider.jar",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"changeable": 1,
+			"ext": {
+				"主页url": "https://www.608tv.com/",
+				"搜索url": "/vodsearch/-------------.html?wd={wd}&submit=",
+				"分类url": "/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+				"分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$32",
+				"类型": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#悬疑片$35#动画片$36||国产剧$13#港剧$14#台剧$15#欧美剧$16#日剧$20#韩剧$21#海外剧$22#马泰剧$34||国内综艺$23#港台综艺$24#日韩综艺$25#欧美综艺$26#演唱会$37||国内动漫$27#日韩动漫$28#港台动漫$29#欧美动漫$30#海外动漫$31||空"
+			}
+		},
+		{
+			"key": "xbpq_818影视",
+			"name": "818💢影视",
+			"type": 3,
+			"api": "csp_XBPQ",
+                        "jar":"https://git.acwing.com/6699/zjys/-/raw/main/jar/spider.jar",
+			"searchable": 1,
+			"quickSearch": 0,
+			"filterable": 1,
+			"ext": {
+				"主页url": "https://www.qwqw818.sbs",
+				"简介": "class=\"detail-content*>&&</sp",
+				"分类url": "/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+				"分类": "电影$2#电视剧$1#综艺$4#动漫$3",
+				"类型": "恐怖片$13#动作片$14#科幻片$15#动画片$16#剧情片$21#喜剧片$22#爱情片$23#战争片$24#犯罪片$25#记录片$26#悬疑惊悚片$27#其他电影$28||内地剧$6#欧美剧$7#马泰剧$8#其他剧$9#日剧$10#韩剧$11#香港（地区）剧$12#台湾剧$20||内地综艺$33#日韩综艺$34#欧美综艺$35#港台综艺$36#其他综艺$37||中国动漫$29#日本动漫$30#欧美动漫$31#其他动漫$32"
+			}
+		},
+{
+			"key": "xbpq_VS影院",
+			"name": "VS💢影院",
+			"type": 3,
+			"api": "csp_XBPQ",
+                        "jar":"https://git.acwing.com/6699/zjys/-/raw/main/jar/spider.jar",  
+			"ext": "https://git.acwing.com/6699/zjys/-/raw/main/json/VS影院.json"
+		},
+		{
+			"key": "xbpq_idoltv爱豆电视",
+			"name": "爱豆💢韩剧",
+			"type": 3,
+			"api": "csp_XBPQ",
+                        "jar":"https://git.acwing.com/6699/zjys/-/raw/main/jar/spider.jar",
+			"ext": {
+				"主页url": "https://idoltv.tv",
+				"数组": "<li class=\"*list_item&&</li",
+				"分类url": "/vodshow/{cateId}-{by}-{class}-{catePg}-{year}.html",
+				"简介": "description\" content=\"&&\"",
+				"分类": "电影$movies#电视剧$drama#综艺$tvshow",
+				"类型": "韩国电影$kmovies#韩国网络电影$webmovie||韩剧$kdrama#韩国网剧$webdrama||韩综$variety+#韩国网综$webvariety"
+			}
+		},
+
 {
             "key": "影视森林XYQ",
             "name": "😎☪森林",
