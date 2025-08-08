@@ -16139,7 +16139,7 @@
 "timeout":10,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"push_agent","name":"😎手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
  {
-      "key": "配置中心",
+      "key": "ok配置中心",
       "name": "🌀ok网盘弹幕┃配置中心",
       "type": 3,
       "api": "csp_ConfigGuard",
