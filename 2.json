@@ -70,6 +70,52 @@
 	  "jar": "https://ncstatic.clewm.net/rsrc/2025/0718/09/bff9d4583388a55afb15a8e3c509af9b.png;md5;9ab53f593c034c2b80cdc9f4c785a6f3",
       "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
     },
+{
+      "key": "追剧",
+      "name": "☕️┃追剧┃秒播",
+      "type": 3,
+      "api": "csp_TianTian",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://v.lkuys.cn"
+    },	
+    {
+      "key": "橘皮",
+      "name": "🍊┃橘皮┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 1,
+	  "jar": "https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+    },
+    {
+      "key": "起点",
+      "name": "🏁┃起点┃超清",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "playerType": 2,
+	  "jar": "https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji"
+    },
+{
+      "key": "yizys",
+      "name": "🚚┃驿站┃影视",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+	  "jar": "https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i7942403h83i2h945858hljhji148i18k2837535112l2qiaojik9075l17028i49g192419i8g3245h3j1l9gi02h6k7732650h3h09jkg759j65hj39l50347k3gj97l4g12l7h6418h6k9j04l26i1glgj3631973hh280lkihjh"
+    },
+    {
+      "key": "竹子",
+      "name": "🎍┃竹子┃影视",
+      "type": 3,
+      "api": "csp_Muou",
+      "playerType": 2,
+	  "jar": "https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/jar/app.jar;md5;939FFBC2941A28CA533F2653FA4B449E",
+      "ext": "7lj763gg402i794247258k9jh6598585l3g6ij13il8g20g9qiaoji8j9i9k1g3k90h7i507i213k5j602"
+    },
  {
       "key": "360_spider",
       "name": "😎三六解析",
