@@ -4,9 +4,44 @@ CCTV-1 综合1,http://go.bkpcp.top/mg/cctv1
 CCTV 01 综合9,http://www.lizhinas.top:1009/rtp/239.252.219.200:5140
 CCTV 01 综合8,http://qjrhc.jydjd.top:2911/udp/225.1.101.138:11111
 CCTV 01,http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
+CCTV央1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1央,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
+央CCTV1,http://8.138.214.88:47681/mgtv/608807420.m3u8
 综合CCTV1,http://www.lizhinas.top:1009/rtp/239.252.219.200:5140
-CCTV1-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226638/1.m3u8
-CCTV1-2,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+CCTV1-11,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226638/1.m3u8
+CCTV1-21,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
+CCTV-12 综合,http://alist.xicp.fun:35455/mgtv/608807420.m3u8
+CCTV-2综合2,http://go.bkpcp.top/mg/cctv2
+CCTV2-1,http://221.193.168.54:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-2,http://221.199.193.26:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-3,http://117.141.162.238:8181/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-4,http://221.199.193.233:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-5,http://221.199.193.49:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-6,http://221.199.193.213:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-7,http://221.199.193.229:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-8,http://110.72.83.16:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-9,http://110.72.55.106:8181/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-10,http://180.165.20.37:7777/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV31,http://112.27.145.212:9901/tsfile/live/1502_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV32,http://221.193.168.54:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV33,http://221.199.193.26:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV34,http://117.141.162.238:8181/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV35,http://221.199.193.191:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV36,http://221.199.193.229:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV37,http://180.165.20.37:7777/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV38,http://221.199.193.39:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV39,http://221.199.193.195:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV93,http://221.199.193.49:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV41,http://221.193.168.54:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV42,http://221.199.193.26:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV43,http://117.141.162.238:8181/tsfile/live/1099_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV44,http://110.72.83.16:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV45,http://221.199.193.229:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV46,http://221.199.193.233:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV47,http://221.199.193.39:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV48,http://221.199.193.49:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV49,http://110.72.55.106:8181/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV34,http://221.199.193.50:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1-3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226736/1.m3u8
 CCTV1-4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV 01 综合2,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
@@ -25,9 +60,40 @@ CCTV-1- 综合,http://t.061899.xyz/tl/dq.php?id=cctv1
 CCTV-2 财经,http://t.061899.xyz/tl/dq.php?id=cctv2
 CCTV-3 综艺,http://t.061899.xyz/tl/dq.php?id=cctv3
 CCTV-4 国际,http://t.061899.xyz/tl/dq.php?id=cctv4
-CCTV-5 体育,http://t.061899.xyz/tl/dq.php?id=cctv5
+CCTV5,http://110.42.54.199:35455/mgtv/641886683.m3u8
+CCTV51,http://8.138.214.88:47681/mgtv/641886683.m3u8
+CCTV52,http://xc.mfykeke.top:35455/mgtv/641886683.m3u8
+CCTV53,http://8.138.7.223/tv/migu.php?id=cctv5
+CCTV54,http://www.cdnstv.com:6398/hls/5/index.m3u8
+CCTV56,http://221.199.193.49:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV57,http://180.165.20.37:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV58,http://221.199.193.213:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV59,http://221.199.193.229:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV599,http://171.124.180.202:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV565,http://221.199.193.191:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://221.199.193.187:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+1,http://180.165.20.37:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+2,http://171.124.180.202:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+3,http://117.141.162.238:8181/tsfile/live/faacts/1100_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+4,http://221.199.193.26:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+5,http://110.72.55.106:8181/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+6,http://221.199.193.39:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+7,http://221.199.193.191:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+8,http://222.218.158.110:8181/tsfile/live/faacts/1100_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+9,http://221.199.193.213:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-55 体育,http://t.061899.xyz/tl/dq.php?id=cctv5
 CCTV-5+赛事,http://t.061899.xyz/tl/dq.php?id=cctv5p
-CCTV-6 电影,http://t.061899.xyz/tl/dq.php?id=cctv6
+CCTV6,http://221.193.168.54:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV61,http://221.199.193.26:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV62,http://180.165.20.37:7777/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV63,http://221.199.193.187:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV64,http://221.199.193.233:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV65,http://221.199.193.229:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV66,http://171.124.180.202:8899/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV67,http://117.141.162.238:8181/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV68,http://221.199.193.191:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV69,http://221.199.193.213:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-67 电影,http://t.061899.xyz/tl/dq.php?id=cctv6
 CCTV-7 军事,http://t.061899.xyz/tl/dq.php?id=cctv7
 CCTV-8 电视剧,http://t.061899.xyz/tl/dq.php?id=cctv8
 CCTV-9 纪录,http://t.061899.xyz/tl/dq.php?id=cctv9
@@ -44,25 +110,7 @@ CCTV-16 奥运,http://t.061899.xyz/tl/dq.php?id=cctv16
 CCTV-17 农业农村,http://t.061899.xyz/tl/dq.php?id=cctv7
 CGTN-西班牙语,https://0472.org/hls/cgtnx.m3u8
 CGTN-阿拉伯语,https://0472.org/hls/cgtna.m3u8
-CCTV-1 综合,http://alist.xicp.fun:35455/mgtv/608807420.m3u8
-CCTV-2 财经,http://alist.xicp.fun:35455/mgtv/631780532.m3u8
-CCTV-3 综艺,http://alist.xicp.fun:35455/mgtv/624878271.m3u8
-CCTV-4 国际,http://alist.xicp.fun:35455/mgtv/631780421.m3u8
-CCTV-4 欧洲,http://alist.xicp.fun:35455/mgtv/608807419.m3u8
-CCTV-4 美洲,http://alist.xicp.fun:35455/mgtv/608807416.m3u8
-CCTV-5 体育,http://alist.xicp.fun:35455/mgtv/641886683.m3u8
-CCTV-5+赛事,http://alist.xicp.fun:35455/mgtv/641886773.m3u8
-CCTV-7 军事,http://alist.xicp.fun:35455/mgtv/673168121.m3u8
-CCTV-8 电视剧,http://alist.xicp.fun:35455/mgtv/624878356.m3u8
-CCTV-9 纪录,http://alist.xicp.fun:35455/mgtv/673168140.m3u8
-CCTV-10 科教,http://alist.xicp.fun:35455/mgtv/624878405.m3u8
-CCTV-11 戏曲,http://alist.xicp.fun:35455/mgtv/667987558.m3u8
-CCTV-12社会与法,http://alist.xicp.fun:35455/mgtv/673168185.m3u8
-CCTV-13 新闻,http://alist.xicp.fun:35455/mgtv/608807423.m3u8
-CCTV-14 少儿,http://alist.xicp.fun:35455/mgtv/624878440.m3u8
-CCTV-15 音乐,http://alist.xicp.fun:35455/mgtv/673168223.m3u8
-CCTV-16 奥运,http://alist.xicp.fun:35455/nptv/CCTV16.m3u8
-CCTV-17 农业农村,http://alist.xicp.fun:35455/mgtv/673168256.m3u8
+
 深圳卫视4k,http://t.061899.xyz/tl/dq.php?id=szws
 湖南卫视,http://t.061899.xyz/tl/dq.php?id=hunws
 东方卫视,http://t.061899.xyz/tl/dq.php?id=dfws
@@ -248,7 +296,7 @@ CCTV-01,http://tp88.cn/IPTV/fujian/pttv.php?id=cctv1
 CCTV-1,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
 CCTV1-03,http://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV1-04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1-05,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+CCTV1-05,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=3154e0aa1b802f813b92134f05da24764c34dccf231419f6e37d2e2efd665120c1119fec8d9c4e40130e19719be1d598b99f8bcd4208a152cf639f85cb84a30452e67a2215f00af9ebc31b310a
 
 CCTV1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
 CCTV-02,http://8.138.7.223/tv/cctv2.php
@@ -330,6 +378,16 @@ TVBS欢乐,http://122.117.71.103:8654/tvbs欢乐.m3u8
 民视,rtmp://f13h.mine.nu/sat/tv051
 台视,rtmp://f13h.mine.nu/sat/tv071
 中视,rtmp://f13h.mine.nu/sat/tv091
+中视HD,http://api.mytv666.top/api/hk.php?id=3735333965643234313330643235393236666134346364646139393065363839267469643d74762669643d3638
+台视HD,http://api.mytv666.top/api/hk.php?id=3837336464383036613733306162366165643731666434336664376263663166267469643d74762669643d3639
+民视HD,http://api.mytv666.top/api/hk.php?id=6361363033353131663530376266363361636334336333653632306432396439267469643d74762669643d3730
+华视HD,http://api.mytv666.top/api/hk.php?id=3365666436303335663238313031386236313534663061623262383237396633267469643d74762669643d3731
+爱尔达体育1台1,http://api.mytv666.top/api/hk.php?id=6539366165663464356333353065326136666264626134656661313536636166267469643d74762669643d3833
+爱尔达体育2台2,http://api.mytv666.top/api/hk.php?id=3232323063326432373966343263323330313330636461643933386238363034267469643d74762669643d3834
+爱尔达体育3台3,http://api.mytv666.top/api/hk.php?id=6638656562393265373935386161636631316132316566353837373133656161267469643d74762669643d3835
+爱尔达体育4台4,http://api.mytv666.top/api/hk.php?id=3536613431373665346133366337643737336535653030616332383839376666267469643d74762669643d3836
+大爱一台6,http://api.mytv666.top/api/hk.php?id=6362646634373632386563623362633136343831663030346666376561313165267469643d74762669643d3837
+大爱二台6,http://api.mytv666.top/api/hk.php?id=3562393833313136393864323964396231646531646262373330623138666163267469643d74762669643d3838
 华视,rtmp://f13h.mine.nu/sat/tv111
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -438,7 +496,7 @@ AMC电影3,http://61.221.215.25:8800/hls/43/index.m3u8
 中天新闻1,https://gdfire2.67890123.cn:8088/live/ztxw01.m3u8
 中天新闻2,https://live.iill.top/youtube/vr3XyVCR4T0
 中天新闻3,http://ali.hlspull.yximgs.com/live/167_ztxw.flv
-中天新闻4,rtmp://v3948069e.live.126.net/live/rN9gY7BW5dd2gO7zKoOV1tP8kU4cT8xH28/28
+中天新闻4,http://push-rtmp-hs-spe-f5.douyincdn.com/live/167ztyz.flv
 中天新闻5,https://vx65267199.18cn.dpdns.org/5.m3u8
 中天新闻6,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
 中天新闻7,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
@@ -462,7 +520,7 @@ AMC电影3,http://61.221.215.25:8800/hls/43/index.m3u8
 中天新闻25,http://50.7.234.10:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻26,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193&tsum=a8168b7967dda9bfebdd5b1403dc19b0
 中天新闻27,https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8
-中天新闻28,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新闻28,http://api.mytv666.top/api/hk.php?id=3639303839636238623433393637353530386234626331346161646239336166267469643d74762669643d3439
 中天新闻29,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 中天新闻30,https://tv.iill.top/litv/4gtv-4gtv009
 中天新闻3l,http://cdn.iptv8k.top/dl/jspd.php?id=1
@@ -515,7 +573,7 @@ AMC电影3,http://61.221.215.25:8800/hls/43/index.m3u8
 中天亚洲20,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3884&tk=e640d0a1bf70
 中视新闻1,https://live.iill.top/youtube/@twctvnews
 中视新闻2,https://live.iill.top/youtube/TCnaIE_SAtM
-中视新闻3,http://api.mytv666.top/api/qwt.php?t=台湾频道&id=中视新闻
+中视新闻3,http://api.mytv666.top/api/hk.php?id=3639313461653631653063653039636165353132386535623331623263316631267469643d74762669643d3532
 中视新闻4,https://www.youtube.com/watch?v=TCnaIE_SAtM
 中视新闻,http://198.16.100.186:8278/zhongshinews_twn/playlist.m3u8?tid=MD0D3377711133777111&ct=19249&tsum=ffaee3fe7040c96643b3c7f12bf2de8d
 中视新闻5,https://vx65267199.18cn.dpdns.org/27.m3u8
@@ -589,7 +647,7 @@ AMC电影3,http://61.221.215.25:8800/hls/43/index.m3u8
 民视新闻10,http://live4play.uk/livehttpplay?channel_id=20097
 民视新闻ll,http://122.117.71.103:8682/民视新闻.m3u8
 民视新闻l2,http://api.mytv666.top/api/fh6.php?t=台湾频道&id=民视新闻台
-民视新闻l3,https://stream1.freetv.fun/min-shi-xin-wen-2.ctv
+民视新闻l3,http://api.mytv666.top/api/hk.php?id=6333356235396430353565313132653234663436373463386363396139623936267469643d74762669643d313130
 民视新闻l4,https://stream1.freetv.fun/min-shi-xin-wen-14.m3u8
 民视新闻l5,https://stream1.freetv.fun/min-shi-xin-wen-11.m3u8
 民视新闻l6,https://stream1.freetv.fun/min-shi-xin-wen-2.m3u8
@@ -876,6 +934,50 @@ Y+ 剧 场,http://k.061899.xyz/m.php?id=yjjc
 新片放映厅,http://k.061899.xyz/m.php?id=xpfyt
 军事迷必看大片,http://k.061899.xyz/m.php?id=jsdp
 经典深圳旁边电影,http://k.061899.xyz/m.php?id=jddy
+📺央卫网络,#genre#
+CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
+CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
+CCTV3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
+CCTV4,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
+CCTV5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV5+,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV6,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
+CCTV7,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
+CCTV8,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
+CCTV9,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
+CCTV10,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
+CCTV11,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
+CCTV12,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
+CCTV13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
+CCTV14,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
+CCTV15,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
+CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV17,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
+湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
+江苏卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jsws
+浙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=zjws
+北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
+东方卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dfws
+深圳卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=szws
+广东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gdws
+天津卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=tjws
+安徽卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=ahws
+山东卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=sdws
+辽宁卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=lnws
+河北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hbws
+河南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hnws
+江西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jxws
+四川卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=scws
+重庆卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cqws
+贵州卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gzws
+湖北卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hubws
+广西卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=gxws
+东南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=dnws
+海南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hinws
+青海卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=qhws
+吉林卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
+黑龙江卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
+
 💝广东电信,#genre#
 
 CCTV1,http://n1.gzbody.com:85/rtp/239.77.0.86:5146
@@ -3332,373 +3434,14 @@ CCTV-17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.
 哒啵赛事,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226905/1.m3u8
  纪实人文,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226694/1.m3u8
  中国教育,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226673/1.m3u8
-凤凰中文,http://szx.putids.com/proxy/xgxg.php?id=1
-鳳凰資訊,http://szx.putids.com/proxy/xgxg.php?id=2
-鳳凰香港,http://szx.putids.com/proxy/xgxg.php?id=3
-TVB翡翠,http://szx.putids.com/proxy/xgxg.php?id=4
-TVB翡翠台4K,http://szx.putids.com/proxy/xgpd.php?id=253
-无线新闻,http://szx.putids.com/proxy/xgxg.php?id=5
-无线新闻,http://szx.putids.com/proxy/xgxg.php?id=35
-华丽翡翠,http://szx.putids.com/proxy/xgxg.php?id=6
-TVB明珠台Pearl,http://szx.putids.com/proxy/xgxg.php?id=7
-TVB明珠剧集,http://szx.putids.com/proxy/xgxg.php?id=144
-TVB翡翠一台,http://szx.putids.com/proxy/xgpd2.php?id=23
-TVB翡翠剧集台,http://szx.putids.com/proxy/xgpd2.php?id=25
-TVBJ1,http://szx.putids.com/proxy/xgpd2.php?id=27
-TVBPull,http://szx.putids.com/proxy/xgxg.php?id=8
-TVB黃金翡翠台,http://szx.putids.com/proxy/xgxg.php?id=9
-ViuTVCH099(HK),http://szx.putids.com/proxy/xgxg.php?id=10
-TVB黃金華劇台,http://szx.putids.com/proxy/xgxg.php?id=11
-TVB生活,http://szx.putids.com/proxy/xgxg.php?id=124
-TVB粵語片台,http://szx.putids.com/proxy/xgxg.php?id=22
-TVB亞洲劇台,http://szx.putids.com/proxy/xgxg.php?id=16
-TVBPopc,http://szx.putids.com/proxy/xgxg.php?id=38
-TVB星河粤语,http://szx.putids.com/proxy/xgxg.php?id=12
-TVB星河国语,http://szx.putids.com/proxy/xgxg.php?id=13
-TVBSUPER-FREE,http://szx.putids.com/proxy/xgxg.php?id=23
-TVBSUPER-FREEHK,http://szx.putids.com/proxy/xgxg.php?id=28
-TVB戲曲台,http://szx.putids.com/proxy/xgxg.php?id=30
-TVB千禧經典台,http://szx.putids.com/proxy/xgxg.php?id=31
-TVB娛樂新聞台,http://szx.putids.com/proxy/xgxg.php?id=32
-TVB華語劇台,http://szx.putids.com/proxy/xgxg.php?id=37
-RTHK31,http://szx.putids.com/proxy/xgxg.php?id=39
-RTHK32,http://szx.putids.com/proxy/xgxg.php?id=40
-美亚电影粤语,http://szx.putids.com/proxy/xgxg.php?id=33
-美亚电影国语,http://szx.putids.com/proxy/xgxg.php?id=17
-TVB功夫粤语,http://szx.putids.com/proxy/xgxg.php?id=18
-TVB功夫粤语,http://szx.putids.com/proxy/xgxg.php?id=20
-TVB功夫国语,http://szx.putids.com/proxy/xgxg.php?id=125
-88赛马,http://szx.putids.com/proxy/xgxg.php?id=21
-28AI智慧賽馬,http://szx.putids.com/proxy/xgxg.php?id=19
-HKC18,http://szx.putids.com/proxy/xgxg.php?id=46
-mytv18台,http://szx.putids.com/proxy/xgxg.php?id=29
-HOY77,http://szx.putids.com/proxy/xgxg.php?id=47
-HOY78,http://szx.putids.com/proxy/xgxg.php?id=48
-AnimaxH264(HK),http://szx.putids.com/proxy/xgxg.php?id=24
-ROCKEntertainment綜藝娛樂,http://szx.putids.com/proxy/xgxg.php?id=25
-ROCKAction,http://szx.putids.com/proxy/xgxg.php?id=26
-天映经典(HK),http://szx.putids.com/proxy/xgxg.php?id=27
-SUPERKidsHK(BG),http://szx.putids.com/proxy/xgxg.php?id=34
-tvN,http://szx.putids.com/proxy/xgxg.php?id=36
-Thrill,http://szx.putids.com/proxy/xgxg.php?id=15
-KIX,http://szx.putids.com/proxy/xgxg.php?id=41
-LoveNature4K,http://szx.putids.com/proxy/xgxg.php?id=45
-NowTV新闻台HD,http://szx.putids.com/proxy/xgxg.php?id=42
-NowTV财经台,http://szx.putids.com/proxy/xgxg.php?id=43
-NOW星影,http://szx.putids.com/proxy/xgxg.php?id=49
-NOW爆谷,http://szx.putids.com/proxy/xgxg.php?id=50
-NOW英超,http://szx.putids.com/proxy/xgxg.php?id=142
-马来千禧經典台,http://szx.putids.com/proxy/xgxg.php?id=129
-民視HD,http://szx.putids.com/proxy/xgxg.php?id=51
-台視HD,http://szx.putids.com/proxy/xgxg.php?id=52
-中視HD,http://szx.putids.com/proxy/xgxg.php?id=53
-華視HD,http://szx.putids.com/proxy/xgxg.php?id=54
-公視HD,http://szx.putids.com/proxy/xgxg.php?id=55
-三立綜合台,http://szx.putids.com/proxy/xgxg.php?id=57
-三立台灣台,http://szx.putids.com/proxy/xgxg.php?id=58
-八大綜合台,http://szx.putids.com/proxy/xgxg.php?id=60
-八大第一台,http://szx.putids.com/proxy/xgxg.php?id=61
-八大戲劇台,http://szx.putids.com/proxy/xgxg.php?id=62
-愛爾達綜合,http://szx.putids.com/proxy/xgxg.php?id=63
-愛爾達影劇,http://szx.putids.com/proxy/xgxg.php?id=64
-中天綜合台,http://szx.putids.com/proxy/xgxg.php?id=65
-中天亞洲台,http://szx.putids.com/proxy/xgxg.php?id=146
-中天娛樂台,http://szx.putids.com/proxy/xgxg.php?id=147
-CN卡通,http://szx.putids.com/proxy/xgxg.php?id=66
-東森綜合台,http://szx.putids.com/proxy/xgxg.php?id=67
-東森戲劇台,http://szx.putids.com/proxy/xgxg.php?id=68
-美食星球檯,http://szx.putids.com/proxy/xgxg.php?id=69
-亞洲美食台,http://szx.putids.com/proxy/xgxg.php?id=70
-亞洲旅遊台,http://szx.putids.com/proxy/xgxg.php?id=71
-爱尔达体育1,http://szx.putids.com/proxy/xgxg.php?id=72
-爱尔达体育2,http://szx.putids.com/proxy/xgxg.php?id=73
-爱尔达体育3,http://szx.putids.com/proxy/xgxg.php?id=74
-爱尔达体育4,http://szx.putids.com/proxy/xgxg.php?id=75
-探索台灣,http://szx.putids.com/proxy/xgxg.php?id=76
-Discovery HD,http://szx.putids.com/proxy/xgxg.php?id=77
-东森新闻,http://szx.putids.com/proxy/xgxg.php?id=78
-寰宇新闻,http://szx.putids.com/proxy/xgxg.php?id=131
-TVBSa,http://szx.putids.com/proxy/xgxg.php?id=153
-TVBSHD,http://szx.putids.com/proxy/xgxg.php?id=79
-TVBS新闻,http://szx.putids.com/proxy/xgxg.php?id=80
-中视新闻,http://szx.putids.com/proxy/xgxg.php?id=82
-台视新闻,http://szx.putids.com/proxy/xgxg.php?id=83
-中天新闻,http://szx.putids.com/proxy/xgxg.php?id=84
-中天新闻2,http://szx.putids.com/proxy/xgxg.php?id=85
-龍詳時代台,http://szx.putids.com/proxy/xgxg.php?id=86
-東森電影台,http://szx.putids.com/proxy/xgxg.php?id=87
-東森洋片台,http://szx.putids.com/proxy/xgxg.php?id=88
-好萊塢電影,http://szx.putids.com/proxy/xgxg.php?id=89
-緯來電影台,http://szx.putids.com/proxy/xgxg.php?id=90
-龍華戲劇台,http://szx.putids.com/proxy/xgxg.php?id=91
-龍華偶像台,http://szx.putids.com/proxy/xgxg.php?id=92
-龍華洋片台,http://szx.putids.com/proxy/xgxg.php?id=93
-龍華電影台,http://szx.putids.com/proxy/xgxg.php?id=94
-美亞電影台,http://szx.putids.com/proxy/xgxg.php?id=95
-HBO HD,http://szx.putids.com/proxy/xgxg.php?id=96
-HBO_HITS,http://szx.putids.com/proxy/xgxg.php?id=97
-HBO 溫馨家庭,http://szx.putids.com/proxy/xgxg.php?id=98
-CINEMAX,http://szx.putids.com/proxy/xgxg.php?id=99
-AXN HD,http://szx.putids.com/proxy/xgxg.php?id=100
-華納電影台,http://szx.putids.com/proxy/xgxg.php?id=101
-Movies Now HD,http://szx.putids.com/proxy/xgxg.php?id=102
-Star Movies HD,http://szx.putids.com/proxy/xgxg.php?id=103
-天映频道,http://szx.putids.com/proxy/xgxg.php?id=104
-ABC news,http://szx.putids.com/proxy/xgxg.php?id=105
-CBSN HD News,http://szx.putids.com/proxy/xgxg.php?id=133
-FOX新闻,http://szx.putids.com/proxy/xgxg.php?id=134
-动物星球,http://szx.putids.com/proxy/xgxg.php?id=108
-国家地理,http://szx.putids.com/proxy/xgxg.php?id=109
-国家地理野生,http://szx.putids.com/proxy/xgxg.php?id=110
-法国时尚,http://szx.putids.com/proxy/xgxg.php?id=127
-BBC Earth HD,http://szx.putids.com/proxy/xgxg.php?id=111
-MTV Live,http://szx.putids.com/proxy/xgxg.php?id=112
-BOO,http://szx.putids.com/proxy/xgxg.php?id=113
-欢喜HD,http://szx.putids.com/proxy/xgxg.php?id=114
-爱奇艺 iQiyi,http://szx.putids.com/proxy/xgxg.php?id=115
-WWE,http://szx.putids.com/proxy/xgxg.php?id=116
-88赛马,http://szx.putids.com/proxy/xgxg.php?id=21
-28AI智慧賽馬,http://szx.putids.com/proxy/xgxg.php?id=19
-mytv18台,http://szx.putids.com/proxy/xgxg.php?id=29
-TVB PLUS1,http://szx.putids.com/proxy/guonei.php?id=TVB2
-TVB PLUS2,http://szx.putids.com/proxy/guonei.php?id=TVB3
-TVB PLUS3,http://szx.putids.com/proxy/guonei.php?id=TVB1
-18台1,http://szx.putids.com/proxy/guonei.php?id=18台4
-18台2,http://szx.putids.com/proxy/guonei.php?id=18台5
-18台3,http://szx.putids.com/proxy/guonei.php?id=18台6
-18台4,http://szx.putids.com/proxy/guonei.php?id=18台7
-18台HD1,http://szx.putids.com/proxy/guonei.php?id=18台3
-18台HD2,http://szx.putids.com/proxy/guonei.php?id=18台2
-18台HD3,http://szx.putids.com/proxy/guonei.php?id=18台1
-雷霆881,http://szx.putids.com/proxy/guonei.php?id=881
-CCTV13,http://szx.putids.com/proxy/guonei.php?id=cctv13
-无线新闻,http://szx.putids.com/proxy/xgxg.php?id=5
-无线新闻,http://szx.putids.com/proxy/xgxg.php?id=35
-HOY78,http://szx.putids.com/proxy/xgxg.php?id=48
-东森新闻,http://szx.putids.com/proxy/xgxg.php?id=78
-寰宇新闻,http://szx.putids.com/proxy/xgxg.php?id=131
-TVBSHD,http://szx.putids.com/proxy/xgxg.php?id=79
-TVBS新闻,http://szx.putids.com/proxy/xgxg.php?id=80
-中视新闻,http://szx.putids.com/proxy/xgxg.php?id=82
-台视新闻,http://szx.putids.com/proxy/xgxg.php?id=83
-中天新闻,http://szx.putids.com/proxy/xgxg.php?id=84
-中天新闻2,http://szx.putids.com/proxy/xgxg.php?id=85
-壹新闻,http://szx.putids.com/proxy/xgxg.php?id=152
-年代新闻,http://szx.putids.com/proxy/xgxg.php?id=143
-民视新闻,http://szx.putids.com/proxy/xgxg.php?id=141
-CBSN  News,http://szx.putids.com/proxy/xgxg.php?id=133
-FOX News,http://szx.putids.com/proxy/xgxg.php?id=134
-Bloomberg News,http://szx.putids.com/proxy/xgxg.php?id=135
-CNN News,http://szx.putids.com/proxy/xgxg.php?id=139
-BBC News,http://szx.putids.com/proxy/xgxg.php?id=140
-CCTV5,http://szx.putids.com/proxy/guonei.php?id=cctv5
-CCTV5+,http://szx.putids.com/proxy/guonei.php?id=cctv5j
-爱尔达体育1,http://szx.putids.com/proxy/xgxg.php?id=72
-爱尔达体育2,http://szx.putids.com/proxy/xgxg.php?id=73
-爱尔达体育3,http://szx.putids.com/proxy/xgxg.php?id=74
-爱尔达体育4,http://szx.putids.com/proxy/xgxg.php?id=75
-博斯高球1,http://szx.putids.com/proxy/xgpd.php?id=186
-博斯高球2,http://szx.putids.com/proxy/xgpd.php?id=187
-博斯运动1,http://szx.putids.com/proxy/xgpd.php?id=188
-博斯运动2,http://szx.putids.com/proxy/xgpd.php?id=189
-博斯无限,http://szx.putids.com/proxy/xgpd.php?id=190
-博斯无限2,http://szx.putids.com/proxy/xgpd.php?id=191
-博斯网球,http://szx.putids.com/proxy/xgpd.php?id=192
-博斯魅力,http://szx.putids.com/proxy/xgpd.php?id=193
-AstroPremierLeague2,http://szx.putids.com/proxy/riben.php?id=47
-AstroFootball,http://szx.putids.com/proxy/riben.php?id=49
-AstroPremierLeague1,http://szx.putids.com/proxy/riben.php?id=50
-AstroPremierLeague1,http://szx.putids.com/proxy/riben.php?id=68
-FightSports,http://szx.putids.com/proxy/riben.php?id=51
-TNTSports1,http://szx.putids.com/proxy/riben.php?id=52
-TNTSports2,http://szx.putids.com/proxy/riben.php?id=53
-TNTSports3,http://szx.putids.com/proxy/riben.php?id=54
-SonyTen1,http://szx.putids.com/proxy/riben.php?id=55
-SonyTen2,http://szx.putids.com/proxy/riben.php?id=56
-SonyTen3,http://szx.putids.com/proxy/riben.php?id=57
-SPOTV1HD,http://szx.putids.com/proxy/riben.php?id=58
-SPOTV2,http://szx.putids.com/proxy/riben.php?id=59
-SkysportsF1,http://szx.putids.com/proxy/riben.php?id=60
-SkysportsGolf,http://szx.putids.com/proxy/riben.php?id=62
-AstroBeinsports1,http://szx.putids.com/proxy/riben.php?id=63
-AstroBeinsports2,http://szx.putids.com/proxy/riben.php?id=64
-AstroBeinsports3,http://szx.putids.com/proxy/riben.php?id=65
-BolaArena1,http://szx.putids.com/proxy/riben.php?id=66
-NBATV,http://szx.putids.com/proxy/riben.php?id=67
-龍詳時代台,http://szx.putids.com/proxy/xgxg.php?id=86
-東森電影台,http://szx.putids.com/proxy/xgxg.php?id=87
-東森洋片台,http://szx.putids.com/proxy/xgxg.php?id=88
-好萊塢電影,http://szx.putids.com/proxy/xgxg.php?id=89
-緯來電影台,http://szx.putids.com/proxy/xgxg.php?id=90
-龍華戲劇台,http://szx.putids.com/proxy/xgxg.php?id=91
-龍華偶像台,http://szx.putids.com/proxy/xgxg.php?id=92
-龍華洋片台,http://szx.putids.com/proxy/xgxg.php?id=93
-龍華電影台,http://szx.putids.com/proxy/xgxg.php?id=94
-美亞電影台,http://szx.putids.com/proxy/xgxg.php?id=95
-HBO HD,http://szx.putids.com/proxy/xgxg.php?id=96
-HBO_HITS,http://szx.putids.com/proxy/xgxg.php?id=97
-HBO 溫馨家庭,http://szx.putids.com/proxy/xgxg.php?id=98
-CINEMAX,http://szx.putids.com/proxy/xgxg.php?id=99
-AXN HD,http://szx.putids.com/proxy/xgxg.php?id=100
-華納電影台,http://szx.putids.com/proxy/xgxg.php?id=101
-Movies Now HD,http://szx.putids.com/proxy/xgxg.php?id=102
-Star Movies HD,http://szx.putids.com/proxy/xgxg.php?id=103
-天映频道,http://szx.putids.com/proxy/xgxg.php?id=104
-美食星球台,http://szx.putids.com/proxy/xgxg.php?id=69
-亞洲美食台,http://szx.putids.com/proxy/xgxg.php?id=70
-亞洲旅遊台,http://szx.putids.com/proxy/xgxg.php?id=71
-探索台灣,http://szx.putids.com/proxy/xgxg.php?id=76
-动物星球,http://szx.putids.com/proxy/xgxg.php?id=108
-国家地理,http://szx.putids.com/proxy/xgxg.php?id=109
-国家地理野生,http://szx.putids.com/proxy/xgxg.php?id=110
-法国时尚,http://szx.putids.com/proxy/xgxg.php?id=127
-BBC Earth HD,http://szx.putids.com/proxy/xgxg.php?id=111
-MTV Live,http://szx.putids.com/proxy/xgxg.php?id=112
-NHK総合?東京,http://szx.putids.com/proxy/xgxg.php?id=117
-ＮＨＫ　ＢＳＰ,http://szx.putids.com/proxy/xgxg.php?id=149
-ＮＨＫＥテレ,http://szx.putids.com/proxy/xgxg.php?id=150
-NHKBS1,http://szx.putids.com/proxy/xgxg.php?id=121
-ＢＳ日テレ,http://szx.putids.com/proxy/riben.php?id=2
-ＢＳ朝日,http://szx.putids.com/proxy/riben.php?id=3
-BSテレ東,http://szx.putids.com/proxy/xgxg.php?id=122
-ＢＳ－ＴＢＳ,http://szx.putids.com/proxy/riben.php?id=4
-ＢＳフジ,http://szx.putids.com/proxy/riben.php?id=6
-テレビ朝日,http://szx.putids.com/proxy/xgxg.php?id=118
-日本テレビ,http://szx.putids.com/proxy/xgxg.php?id=119
-日テレNEWS24,http://szx.putids.com/proxy/xgxg.php?id=120
-ＷＯＷＯＷプライム,http://szx.putids.com/proxy/riben.php?id=7
-ＷＯＷＯＷライブ,http://szx.putids.com/proxy/riben.php?id=8
-ＷＯＷＯＷシネマ,http://szx.putids.com/proxy/riben.php?id=9
-スターチャンネル,http://szx.putids.com/proxy/riben.php?id=10
-スターチャンネル2,http://szx.putids.com/proxy/riben.php?id=11
-スターチャンネル3,http://szx.putids.com/proxy/riben.php?id=12
-ＢＳアニマックス,http://szx.putids.com/proxy/riben.php?id=13
-Ｍｎｅｔ,http://szx.putids.com/proxy/riben.php?id=14
-日本映画専門チャンネル,http://szx.putids.com/proxy/xgxg.php?id=123
-映画チャンネルNECO,http://szx.putids.com/proxy/xgxg.php?id=126
-Ｊ　ＳＰＯＲＴＳ　１,http://szx.putids.com/proxy/riben.php?id=15
-Ｊ　ＳＰＯＲＴＳ　２,http://szx.putids.com/proxy/riben.php?id=16
-Ｊ　ＳＰＯＲＴＳ　３,http://szx.putids.com/proxy/riben.php?id=17
-Ｊ　ＳＰＯＲＴＳ　４,http://szx.putids.com/proxy/riben.php?id=18
-ＢＳ釣りビジョン,http://szx.putids.com/proxy/riben.php?id=19
-ＢＳＪａｐａｎｅｘｔ,http://szx.putids.com/proxy/riben.php?id=20
-日テレ,http://szx.putids.com/proxy/riben.php?id=21
-ＴＢＳ,http://szx.putids.com/proxy/riben.php?id=22
-テレ東,http://szx.putids.com/proxy/riben.php?id=23
-フジテレビ,http://szx.putids.com/proxy/riben.php?id=24
-東映チャンネル,http://szx.putids.com/proxy/riben.php?id=25
-ムービープラス,http://szx.putids.com/proxy/riben.php?id=27
-スカイＡ,http://szx.putids.com/proxy/riben.php?id=28
-日テレジータス,http://szx.putids.com/proxy/riben.php?id=30
-ゴルフネットワーク,http://szx.putids.com/proxy/riben.php?id=31
-時代劇専門ｃｈ,http://szx.putids.com/proxy/riben.php?id=32
-ホームドラマＣＨ,http://szx.putids.com/proxy/riben.php?id=34
-チャンネル銀河,http://szx.putids.com/proxy/riben.php?id=35
-スーパー！ドラマＴＶ,http://szx.putids.com/proxy/riben.php?id=36
-アクションチャンネル,http://szx.putids.com/proxy/riben.php?id=37
-Ｄｌｉｆｅ,http://szx.putids.com/proxy/riben.php?id=38
-ＬａＬａＴＶ,http://szx.putids.com/proxy/riben.php?id=39
-エムオン！,http://szx.putids.com/proxy/riben.php?id=40
-歌謡ポップス,http://szx.putids.com/proxy/riben.php?id=41
-キッズステーション,http://szx.putids.com/proxy/riben.php?id=42
-ＣＮＮｊ,http://szx.putids.com/proxy/riben.php?id=44
-TV1,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/TV1_backup/playlist.m3u8
-TV2,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/TV2/playlist.m3u8
-TV3,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/TV3/playlist.m3u8
-TV8,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/TV8/playlist.m3u8
-TV9,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/TV9/playlist.m3u8
-Ria,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Ria-0/playlist.m3u8
-Ria-3,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Ria_backup/playlist.m3u8
-Al-Hijrah backup,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Alhijrah_backup/playlist.m3u8&token=f072e7d1ff688bd68ffeff0c284d9973
-Awani,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Awani/playlist.m3u8
-Bernama,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Bernama/playlist.m3u8
-Prima,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Prima-0/playlist.m3u8
-Prima backup 2,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/AAprima/playlist.m3u8
-Ceria,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Ceria/playlist.m3u8
-Astro MTV,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/AstroMTV/playlist.m3u8
-Oasis,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Oasis/playlist.m3u8
-HBO HD,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Hbo/playlist.m3u8
-NatGeo Wild HD,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Natgeowild/playlist.m3u8
-Cartoon Network,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Cn/playlist.m3u8
-Nickelodeon,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Nickelodeon/playlist.m3u8
-Nick Jr,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Nickjr/playlist.m3u8&token=f072e7d1ff688bd68ffeff0c284d9973
-Dreamworks,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Dreamworks/playlist.m3u8
-Siar,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Siar/playlist.m3u8
-Citra,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/AAcitra/playlist.m3u8
-Citra backup,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/AAcitra1/playlist.m3u8
-Sensasi,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Sensasi/playlist.m3u8
-Aura,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Aura/playlist.m3u8
-Rania,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Rania/playlist.m3u8
-KBS World,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/KBS/playlist.m3u8
-Awesome TV,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Dsangat/playlist.m3u8
-Astro Sonypix,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Asonypix/playlist.m3u8
-Sony HD,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/SetOne/playlist.m3u8
-TvN,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/TVN/playlist.m3u8
-AEC,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/AEC/playlist.m3u8
-华丽台 HD （Wah Lai Toi）,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Wlt/playlist.m3u8
-欢喜台 HD （Hua Hee Tai）,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Huahee/playlist.m3u8
-Astro QJ,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Quanjia/playlist.m3u8
-TVB Jade,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Tvbjade/playlist.m3u8
-TVB Entertainment,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Tvbentertainment/playlist.m3u8
-TVB Asia,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Tvbasia/playlist.m3u8
-TVB Classic,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Tvbclassic/playlist.m3u8
-AOD,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Aodhd/playlist.m3u8
-One,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/One/playlist.m3u8
-TVB 星河台 Xing He,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Xinhe/playlist.m3u8
-爱奇艺 iQiyi,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Qiyi/playlist.m3u8
-Animal Planet (Eng),http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/AnimalPlanet/playlist.m3u8
-tvN Movie,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Tvnmovie/playlist.m3u8
-Celestial Classic,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Celestial2/playlist.m3u8
-CNBC,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/cnbc_twn/playlist.m3u8
-CNA,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/cna/playlist.m3u8
-Foodnetwork Hd,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Foodnetwork/playlist.m3u8
-HGTV,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/HGTV/playlist.m3u8
-Goshop,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Goshop/playlist.m3u8
-Celestial Movies HD,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Celestial/playlist.m3u8
-Axn HD,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Axn/playlist.m3u8
-Paramount Network,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Paramountnetwork/playlist.m3u8
-Astrol Kplus,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Kplus/playlist.m3u8
-Al-Jazeera,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/aljazeera_twn/playlist.m3u8
-RTM Sports HD,http://szx.putids.com/proxy/smt.php?playurl=http://50.7.234.10:8278/Rtmsport/playlist.m3u8
-CM+,http://szx.putids.com/proxy/xgpd2.php?id=84
-E乐,http://szx.putids.com/proxy/xgpd2.php?id=77
-佳乐,http://szx.putids.com/proxy/xgpd2.php?id=92
-新加坡U5,http://szx.putids.com/proxy/xgpd2.php?id=95
-新加坡U8,http://szx.putids.com/proxy/xgpd2.php?id=96
-Animax(HD)SG,http://szx.putids.com/proxy/xgpd2.php?id=78
-AstroPrimaHD,http://szx.putids.com/proxy/xgpd2.php?id=79
-AstroRiaHD,http://szx.putids.com/proxy/xgpd2.php?id=80
-BBCLifestyle(HD),http://szx.putids.com/proxy/xgpd2.php?id=81
-Cartoonito(HD),http://szx.putids.com/proxy/xgpd2.php?id=82
-CBeebies,http://szx.putids.com/proxy/xgpd2.php?id=83
-CN卡通频道（SG）,http://szx.putids.com/proxy/xgpd2.php?id=85
-FoodNetwork(HD),http://szx.putids.com/proxy/xgpd2.php?id=86
-MediaCorpU,http://szx.putids.com/proxy/xgpd2.php?id=87
-MTVLIVEHD,http://szx.putids.com/proxy/xgpd2.php?id=88
-NHKWorld-JapanSG,http://szx.putids.com/proxy/xgpd2.php?id=89
-TLC(HD),http://szx.putids.com/proxy/xgpd2.php?id=90
-东森亚洲HD,http://szx.putids.com/proxy/xgpd2.php?id=91
-尼克儿童,http://szx.putids.com/proxy/xgpd2.php?id=93
-尼克动画,http://szx.putids.com/proxy/xgpd2.php?id=94
-湖南国际,http://szx.putids.com/proxy/xgpd2.php?id=97
-LiveStreaming1,http://szx.putids.com/proxy/xgpd2.php?id=98
-DensPlay,http://szx.putids.com/proxy/xgpd2.php?id=99
-DensLife&Style,http://szx.putids.com/proxy/xgpd2.php?id=100
-DensFoodChannel,http://szx.putids.com/proxy/xgpd2.php?id=101
-DensShowBiz,http://szx.putids.com/proxy/xgpd2.php?id=102
-DensKnowledge,http://szx.putids.com/proxy/xgpd2.php?id=103
-ChannelJowo,http://szx.putids.com/proxy/xgpd2.php?id=104
-MetroTV,http://szx.putids.com/proxy/xgpd2.php?id=105
-tvOne,http://szx.putids.com/proxy/xgpd2.php?id=106
-KompasTV,http://szx.putids.com/proxy/xgpd2.php?id=107
-BTV,http://szx.putids.com/proxy/xgpd2.php?id=108
-BeritaSatu,http://szx.putids.com/proxy/xgpd2.php?id=109
-antv,http://szx.putids.com/proxy/xgpd2.php?id=110
-MDTV,http://szx.putids.com/proxy/xgpd2.php?id=111
-RTV,http://szx.putids.com/proxy/xgpd2.php?id=112
-MagnaChannel,http://szx.putids.com/proxy/xgpd2.php?id=113
-NusantaraTV(NTV),http://szx.putids.com/proxy/xgpd2.php?id=114
-ANIPLUSHD,http://szx.putids.com/proxy/xgpd2.php?id=115
+龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
+龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
+龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
+龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
+龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
+无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn
+翡 翠 台,https://cdn3.163189.xyz/live/fct/stream.m3u8
 📺TLTV,#genre#
 
 
@@ -11473,51 +11216,36 @@ CETV2,http://8.138.7.223/tv/migu2.php?id=89
 CETV4,http://8.138.7.223/tv/migu2.php?id=90
 
 💝🏆體育專線,#genre#
-广东体育HD,http://szx.putids.com/proxy/guonei.php?id=广东体育
-魅力足球HD,http://szx.putids.com/proxy/guonei.php?id=魅力足球
-劲爆体育HD,http://szx.putids.com/proxy/guonei.php?id=劲爆体育
-新视觉高清,http://szx.putids.com/proxy/guonei.php?id=新视觉高清
-緯來體育,http://1.o0o0o0o0o0o.top/smt/smart8.php?id=videolandsport
-緯來體育1,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
-緯來體育2,http://000.hfr1107.top/tv/smt.php?id=videolandsport
-緯來體育3,rtmp://f13h.mine.nu/sat/tv721
-緯來體育4,mitv://66.42.60.221:6001/68541c28000d1305052fa044933683cd.ts
-緯來體育5,http://211.23.95.147:18881/live/72_h265.ts
-緯來體育6,http://125.227.210.55:8155/VideoInput/play.ts
-
-
-緯來體育(網頁)7,video://http://m.jrskan8.com/wlty.html
-爱尔达体育1,http://szx.putids.com/proxy/xgxg.php?id=72
-爱尔达体育2,http://szx.putids.com/proxy/xgxg.php?id=73
-爱尔达体育3,http://szx.putids.com/proxy/xgxg.php?id=74
-爱尔达体育4,http://szx.putids.com/proxy/xgxg.php?id=75
-爱尔达体育1,http://szx.putids.com/proxy/xgxg.php?id=72
-爱尔达体育2,http://szx.putids.com/proxy/xgxg.php?id=73
-爱尔达体育3,http://szx.putids.com/proxy/xgxg.php?id=74
-爱尔达体育4,http://szx.putids.com/proxy/xgxg.php?id=75
-博斯高球1,http://szx.putids.com/proxy/xgpd.php?id=186
-博斯高球2,http://szx.putids.com/proxy/xgpd.php?id=187
-博斯运动1,http://szx.putids.com/proxy/xgpd.php?id=188
-博斯运动2,http://szx.putids.com/proxy/xgpd.php?id=189
-博斯无限,http://szx.putids.com/proxy/xgpd.php?id=190
-博斯无限2,http://szx.putids.com/proxy/xgpd.php?id=191
-博斯网球,http://szx.putids.com/proxy/xgpd.php?id=192
-博斯魅力,http://szx.putids.com/proxy/xgpd.php?id=193
-
-
-ELTA體育1台,http://1.o0o0o0o0o0o.top/smt/smart8.php?id=eltasport1_twn
-ELTA體育2台,http://1.o0o0o0o0o0o.top/smt/smart8.php?id=eltasport2_twn
-ELTA體育3台,http://1.o0o0o0o0o0o.top/smt/smart8.php?id=eltasport3_twn
-ELTA體育4台,http://1.o0o0o0o0o0o.top/smt/smart8.php?id=natgeowild_twn
-
-
-
-
-NBA TV,http://1.o0o0o0o0o0o.top/smt/smart8.php?id=Nba
-NBA TV,mitv://66.42.60.221:6001/685420bf000af96e05418d937e5d0f38.ts
-WWE,http://1.o0o0o0o0o0o.top/smt/smart8.php?id=Wwe
-WWE,mitv://66.42.60.221:6001/685c8327000f2f1d03cfc8fbc7708a60.ts
-Z頻道,mitv://66.42.60.221:6001/685c99c80002d49004282aba7a33d98d.ts
+CCTV 05 体育,http://www.lizhinas.top:1009/rtp/239.252.219.236:5140
+CCTV 5+ 赛事,http://www.lizhinas.top:1009/rtp/239.252.219.72:5140
+CCTV 05 体育1,http://go.061899.xyz/mg/cctv5
+CCTV 5+ 赛事1,http://go.061899.xyz/mg/cctv5p
+CCTV 05 体育2,http://t.061899.xyz/tl/tl.php?id=cctv5
+CCTV 5+ 赛事2,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV 05 体育3,http://go.bkpcp.top/mg/cctv5
+CCTV 5+ 赛事3,http://go.bkpcp.top/mg/cctv5p
+CCTV 05 体育4,http://qjrhc.jydjd.top:2911/udp/225.1.101.187:7523
+CCTV 5+ 赛事4,http://qjrhc.jydjd.top:2911/udp/225.1.101.124:7523
+CCTV 05 体育6,http://221.205.204.69:9003/hls/5/index.m3u8
+CCTV 5+ 赛事6,http://221.205.204.69:9003/hls/6/index.m3u8
+CCTV 05 体育7,http://hbhyjq.ufyct.com:1088/hls/13/index.m3u8
+CCTV 5+ 赛事7,http://221.205.204.69:9003/hls/6/index.m3u8
+CCTV 05 体育8,http://live.sxrtv.com/iptv/cctv5.m3u8
+CCTV 5+ 赛事8,http://live.sxrtv.com/iptv/cctv5p.m3u8
+CCTV 05 体育9,http://59.39.89.130:60901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 5+ 赛事9,http://59.39.89.130:60901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV 05 体育10,http://ylt.7766.org:333/hls/5/index.m3u8
+CCTV 5+ 赛事10,http://ylt.7766.org:333/hls/21/index.m3u8
+CCTV 05 体育11,http://k.061899.xyz/m.php?id=cctv5
+CCTV 5+ 赛事11,http://k.061899.xyz/m.php?id=cctv5p
+CCTV 05 体育12,http://ylt.7766.org:333/hls/5/index.m3u8
+CCTV 5+ 赛事12,http://ylt.7766.org:333/hls/21/index.m3u8
+CCTV 05 体育,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
+CCTV 5+ 赛事13,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
+CCTV 16 奥运,http://219.135.180.210:18888/hls/31/index.m3u8
+CCTV 16 奥运1,http://183.11.239.36:808/hls/169/index.m3u8
+CCTV 16 奥运2,http://gmxw.7766.org:808/hls/169/index.m3u8
+CCTV 16 奥运3,http://221.226.51.220:50081/newlive/live/hls/1/live.m3u8
 
 CCTV-5體育頻道,http://39.134.24.24/PLTV/88888888/224/3221226025/index.m3u8
 CCTV-5體育頻道1,http://111.20.33.70/PLTV/88888893/224/3221226395/index.m3u8
@@ -12527,13 +12255,13 @@ AXN Taiwan,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_t
 ⚽️SPORTS🏆️,#genre#
 CCTV5-01,http://106.53.99.30/tv/20250717.php?id=0005
 CCTV5-02,http://106.53.99.30/tv/jzb.php?id=cctv5
-CCTV5-03,http://39.164.174.139:5000/nl.m3u8?id=CCTV-5HD
-CCTV5-04,http://8.138.7.223/tv/migu2.php?id=5
-CCTV5+-01,http://8.138.7.223/tv/migu2.php?id=6
-CCTV5+-02,https://live.catvod.com/smart.php?id=cctv5plus
-CCTV5+-03,http://171.15.18.199:8180/TV00000000000000000005@HHZT
-CCTV5+-04,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV5+
-CCTV5+5,http://8.138.7.223/tv/migu3.php?id=cctv5p
+CCTV5-03,http://www.lizhinas.top:1009/rtp/239.252.219.236:5140
+CCTV5-04,http://go.061899.xyz/mg/cctv5
+CCTV5+-01,http://m.061899.xyz/mg/cctv5
+CCTV5+-02,http://m.061899.xyz/mg/cctv5
+CCTV5+-03,http://t.061899.xyz/tl/tl.php?id=cctv5p
+CCTV5+-04,http://go.bkpcp.top/mg/cctv5p
+CCTV5+5,http://go.bkpcp.top/mg/cctv5p
 緯來體育台,http://s1.an94tv.cfd/aktv2/CH-0/AKTV.m3u8
 緯來體育,http://122.117.71.103:8692/纬来体育.m3u8
 緯來體育1,rtmp://60.248.77.83/sat/tv721
@@ -13551,87 +13279,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 赵四 宋小宝看病,http://gcw.bdcdn.shoujiduoduo.com/v/201126/9eea53d9a1aee763c853560dc35b2c1f.mp4
 赵丽蓉人民战争,http://gcw.bdcdn.shoujiduoduo.com/v/191212/705b3904da37837b6eecd5168063e654.mp4
 搞笑_宋小宝小品合集,http://120.78.6.151:8968/yy.php?id=1354931577
-💚电影5,#genre#
-电影_周星驰,http://szx.putids.com/proxy/huya.php?id=11342412&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_林正英,http://szx.putids.com/proxy/huya.php?id=11342421&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_周润发,http://szx.putids.com/proxy/huya.php?id=11342387&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_成龙,http://szx.putids.com/proxy/huya.php?id=11342386&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_王晶,http://szx.putids.com/proxy/huya.php?id=11602058&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_沈腾,http://szx.putids.com/proxy/huya.php?id=11601968&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_黄渤,http://szx.putids.com/proxy/huya.php?id=11352876&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_强森,http://szx.putids.com/proxy/huya.php?id=21059581&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_漫威,http://szx.putids.com/proxy/huya.php?id=11602034&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_宇宙,http://szx.putids.com/proxy/huya.php?id=11342428&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_怪兽,http://szx.putids.com/proxy/huya.php?id=21059577&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_武侠,http://szx.putids.com/proxy/huya.php?id=11342427&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_警匪,http://szx.putids.com/proxy/huya.php?id=11352886&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_犯罪,http://szx.putids.com/proxy/huya.php?id=11352962&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_枪战,http://szx.putids.com/proxy/huya.php?id=21059579&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_塞车,http://szx.putids.com/proxy/huya.php?id=11279247&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_推荐,http://szx.putids.com/proxy/huya.php?id=11602041&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_热血,http://szx.putids.com/proxy/huya.php?id=11352934&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_盗墓,http://szx.putids.com/proxy/huya.php?id=21059552&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_贺岁,http://szx.putids.com/proxy/huya.php?id=11601971&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_玄幻,http://szx.putids.com/proxy/huya.php?id=11342414&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_谍战,http://szx.putids.com/proxy/huya.php?id=21059585&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_喜剧,http://szx.putids.com/proxy/huya.php?id=11352877&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_港剧,http://szx.putids.com/proxy/huya.php?id=11602043&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_国产,http://szx.putids.com/proxy/huya.php?id=11352973&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_周星驰2,http://szx.putids.com/proxy/huya.php?id=11336587&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_李连杰,http://szx.putids.com/proxy/huya.php?id=11342390&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_洪金宝,http://szx.putids.com/proxy/huya.php?id=11279251&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_梁家辉,http://szx.putids.com/proxy/huya.php?id=11342429&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_许冠英,http://szx.putids.com/proxy/huya.php?id=11601972&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_李德华,http://szx.putids.com/proxy/huya.php?id=11342424&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_斯坦森,http://szx.putids.com/proxy/huya.php?id=21059588&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_小鬼头,http://szx.putids.com/proxy/huya.php?id=11352963&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_八点档,http://szx.putids.com/proxy/huya.php?id=880261&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_贺岁片,http://szx.putids.com/proxy/huya.php?id=11601986&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_功夫片,http://szx.putids.com/proxy/huya.php?id=11352941&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_黑帮片,http://szx.putids.com/proxy/huya.php?id=11336719&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_丧尸片,http://szx.putids.com/proxy/huya.php?id=21059578&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_灾难片,http://szx.putids.com/proxy/huya.php?id=11602075&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_战争片,http://szx.putids.com/proxy/huya.php?id=21059574&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_犯罪片,http://szx.putids.com/proxy/huya.php?id=11352974&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_古装片,http://szx.putids.com/proxy/huya.php?id=11336590&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_高分动作,http://szx.putids.com/proxy/huya.php?id=11352884&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_动作电影,http://szx.putids.com/proxy/huya.php?id=11602077&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_搞笑喜剧,http://szx.putids.com/proxy/huya.php?id=11342423&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_喜剧专场,http://szx.putids.com/proxy/huya.php?id=11602044&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_欢笑影院,http://szx.putids.com/proxy/huya.php?id=11352894&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_不挤影院,http://szx.putids.com/proxy/huya.php?id=11352897&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_国产悬疑,http://szx.putids.com/proxy/huya.php?id=11342395&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_快意江湖,http://szx.putids.com/proxy/huya.php?id=11342435&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_黑帮斗争,http://szx.putids.com/proxy/huya.php?id=11342419&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_古墓系列,http://szx.putids.com/proxy/huya.php?id=11352913&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_嫣然影厅,http://szx.putids.com/proxy/huya.php?id=11601977&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_女神系列,http://szx.putids.com/proxy/huya.php?id=11336571&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_经典女神,http://szx.putids.com/proxy/huya.php?id=11352909&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_许氏三杰,http://szx.putids.com/proxy/huya.php?id=11602033&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_经典港片,http://szx.putids.com/proxy/huya.php?id=11352965&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_镖行天下,http://szx.putids.com/proxy/huya.php?id=11352969&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_喜乐影院,http://szx.putids.com/proxy/huya.php?id=21059580&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_蘑菇影厅,http://szx.putids.com/proxy/huya.php?id=11601981&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_搞笑恐怖,http://szx.putids.com/proxy/huya.php?id=11601960&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_死神来了,http://szx.putids.com/proxy/huya.php?id=11352903&token=f072e7d1ff688bd68ffeff0c284d9973
-电影_怪兽系列,http://szx.putids.com/proxy/huya.php?id=21059554&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_老三国,http://szx.putids.com/proxy/huya.php?id=11602081&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_新三国,http://szx.putids.com/proxy/huya.php?id=11352944&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_新水浒,http://szx.putids.com/proxy/huya.php?id=11342384&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_纪晓岚,http://szx.putids.com/proxy/huya.php?id=11342396&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_庆余年,http://szx.putids.com/proxy/huya.php?id=11352960&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_雍正王朝,http://szx.putids.com/proxy/huya.php?id=11342439&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_士兵突袭,http://szx.putids.com/proxy/huya.php?id=11342430&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_爱情公寓,http://szx.putids.com/proxy/huya.php?id=11336726&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_地下交通站,http://szx.putids.com/proxy/huya.php?id=11342433&token=f072e7d1ff688bd68ffeff0c284d9973
-邻里一家亲,http://szx.putids.com/proxy/huya.php?id=11342426&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集-康熙,http://szx.putids.com/proxy/huya.php?id=11352940&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_神探狄仁杰,http://szx.putids.com/proxy/huya.php?id=11352958&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_神探狄仁杰3,http://szx.putids.com/proxy/huya.php?id=11342425&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_康熙微服私访记,http://szx.putids.com/proxy/huya.php?id=11342418&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_倚天屠龙记,http://szx.putids.com/proxy/huya.php?id=11342403&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_神医喜来乐,http://szx.putids.com/proxy/huya.php?id=11601978&token=f072e7d1ff688bd68ffeff0c284d9973
-剧集_勇敢的心,http://szx.putids.com/proxy/huya.php?id=11602037&token=f072e7d1ff688bd68ffeff0c284d9973
+
 💚电影轮播5,#genre#
 
 豆瓣_高分系列,http://huanqiuzhibo.cn/manifest/douyu.php?id=8770422#https://live.metshop.top/douyu/8770422
@@ -18733,6 +18381,83 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 七只狐狸,https://vip.ffzy-play6.com/20221117/7433_03cf2e94/3000k/hls/mixed.m3u8
 金盏花,https://vip.ffzy-play6.com/20221116/7249_0db8982b/3000k/hls/mixed.m3u8
 我们的那时·此刻,https://vip.ffzy-play7.com/20230422/22710_c553fdb8/2000k/hls/mixed.m3u8
+🙏甄嬛传,#genre#
+甄嬛传,https://cdn3.ryplay3.com/20240801/8_9a67615c/index.m3u8$第1集
+甄嬛传,https://cdn3.ryplay3.com/20240801/9_fff4dfd8/index.m3u8$第2集
+甄嬛传,https://cdn3.ryplay3.com/20240801/10_f1cab0a5/index.m3u8$第3集
+甄嬛传,https://cdn3.ryplay3.com/20240801/11_4b172f8a/index.m3u8$第4集
+甄嬛传,https://cdn3.ryplay3.com/20240801/12_763a7b72/index.m3u8$第5集
+甄嬛传,https://cdn3.ryplay3.com/20240801/13_9ae610a6/index.m3u8$第6集
+甄嬛传,https://cdn3.ryplay3.com/20240801/14_118c0b4e/index.m3u8$第7集
+甄嬛传,https://cdn3.ryplay3.com/20240801/15_87e06773/index.m3u8$第8集
+甄嬛传,https://cdn3.ryplay3.com/20240801/16_1c92155c/index.m3u8$第9集
+甄嬛传,https://cdn3.ryplay3.com/20240801/17_65c23709/index.m3u8$第10集
+甄嬛传,https://cdn3.ryplay3.com/20240801/18_6f1342aa/index.m3u8$第11集
+甄嬛传,https://cdn3.ryplay3.com/20240801/19_6d36a9d5/index.m3u8$第12集
+甄嬛传,https://cdn3.ryplay3.com/20240801/20_a9216c29/index.m3u8$第13集
+甄嬛传,https://cdn3.ryplay3.com/20240801/21_f8fee16b/index.m3u8$第14集
+甄嬛传,https://cdn3.ryplay3.com/20240801/22_b775b0d1/index.m3u8$第15集
+甄嬛传,https://cdn3.ryplay3.com/20240801/23_dce3ca04/index.m3u8$第16集
+甄嬛传,https://cdn3.ryplay3.com/20240801/24_a1c34036/index.m3u8$第17集
+甄嬛传,https://cdn3.ryplay3.com/20240801/25_0aa26a06/index.m3u8$第18集
+甄嬛传,https://cdn3.ryplay3.com/20240801/26_155879ec/index.m3u8$第19集
+甄嬛传,https://cdn3.ryplay3.com/20240801/27_b730d230/index.m3u8$第20集
+甄嬛传,https://cdn3.ryplay3.com/20240801/28_fbc0aa71/index.m3u8$第21集
+甄嬛传,https://cdn3.ryplay3.com/20240801/29_8f47ee08/index.m3u8$第22集
+甄嬛传,https://cdn3.ryplay3.com/20240801/30_e0dda774/index.m3u8$第23集
+甄嬛传,https://cdn3.ryplay3.com/20240801/31_7e7a157e/index.m3u8$第24集
+甄嬛传,https://cdn3.ryplay3.com/20240801/33_b2844da1/index.m3u8$第25集
+甄嬛传,https://cdn3.ryplay3.com/20240801/32_86c596e7/index.m3u8$第26集
+甄嬛传,https://cdn3.ryplay3.com/20240801/34_175a5eba/index.m3u8$第27集
+甄嬛传,https://cdn3.ryplay3.com/20240801/35_61abf0b6/index.m3u8$第28集
+甄嬛传,https://cdn3.ryplay3.com/20240801/37_cdc9bec6/index.m3u8$第29集
+甄嬛传,https://cdn3.ryplay3.com/20240801/38_b2ed6df7/index.m3u8$第30集
+甄嬛传,https://cdn3.ryplay3.com/20240801/36_b392ae39/index.m3u8$第31集
+甄嬛传,https://cdn3.ryplay3.com/20240801/39_31e6b01c/index.m3u8$第32集
+甄嬛传,https://cdn3.ryplay3.com/20240801/40_0d8f54c7/index.m3u8$第33集
+甄嬛传,https://cdn3.ryplay3.com/20240801/41_d38e7cf7/index.m3u8$第34集
+甄嬛传,https://cdn3.ryplay3.com/20240801/43_c19dd09b/index.m3u8$第35集
+甄嬛传,https://cdn3.ryplay3.com/20240801/44_170e801c/index.m3u8$第36集
+甄嬛传,https://cdn3.ryplay3.com/20240801/42_0640d182/index.m3u8$第37集
+甄嬛传,https://cdn3.ryplay3.com/20240801/45_dfd3dff1/index.m3u8$第38集
+甄嬛传,https://cdn3.ryplay3.com/20240801/47_5f12cd15/index.m3u8$第39集
+甄嬛传,https://cdn3.ryplay3.com/20240801/46_c8a64ead/index.m3u8$第40集
+甄嬛传,https://cdn3.ryplay3.com/20240801/49_5663d245/index.m3u8$第41集
+甄嬛传,https://cdn3.ryplay3.com/20240801/50_9b7048da/index.m3u8$第42集
+甄嬛传,https://cdn3.ryplay3.com/20240801/48_ea328036/index.m3u8$第43集
+甄嬛传,https://cdn3.ryplay3.com/20240801/51_ccbabee4/index.m3u8$第44集
+甄嬛传,https://cdn3.ryplay3.com/20240801/52_0fa0beba/index.m3u8$第45集
+甄嬛传,https://cdn3.ryplay3.com/20240801/53_042c7998/index.m3u8$第46集
+甄嬛传,https://cdn3.ryplay3.com/20240801/59_be36da5c/index.m3u8$第47集
+甄嬛传,https://cdn3.ryplay3.com/20240801/55_6a59d6e0/index.m3u8$第48集
+甄嬛传,https://cdn3.ryplay3.com/20240801/58_30465e5e/index.m3u8$第49集
+甄嬛传,https://cdn3.ryplay3.com/20240801/54_aa786a8b/index.m3u8$第50集
+甄嬛传,https://cdn3.ryplay3.com/20240801/57_9c2a4b73/index.m3u8$第51集
+甄嬛传,https://cdn3.ryplay3.com/20240801/56_9bfbc733/index.m3u8$第52集
+甄嬛传,https://cdn3.ryplay3.com/20240801/63_49631ab1/index.m3u8$第53集
+甄嬛传,https://cdn3.ryplay3.com/20240801/64_6f92c181/index.m3u8$第54集
+甄嬛传,https://cdn3.ryplay3.com/20240801/60_1c924f88/index.m3u8$第55集
+甄嬛传,https://cdn3.ryplay3.com/20240801/67_b2807d8b/index.m3u8$第56集
+甄嬛传,https://cdn3.ryplay3.com/20240801/62_b863d1bd/index.m3u8$第57集
+甄嬛传,https://cdn3.ryplay3.com/20240801/61_e516a8dc/index.m3u8$第58集
+甄嬛传,https://cdn3.ryplay3.com/20240801/66_f55f18af/index.m3u8$第59集
+甄嬛传,https://cdn3.ryplay3.com/20240801/65_5cc59ce1/index.m3u8$第60集
+甄嬛传,https://cdn3.ryplay3.com/20240801/69_d1ccc473/index.m3u8$第61集
+甄嬛传,https://cdn3.ryplay3.com/20240801/68_50c1d8cb/index.m3u8$第62集
+甄嬛传,https://cdn3.ryplay3.com/20240801/74_6f26e8a0/index.m3u8$第63集
+甄嬛传,https://cdn3.ryplay3.com/20240801/75_e893b0e6/index.m3u8$第64集
+甄嬛传,https://cdn3.ryplay3.com/20240801/72_8a7fb0ba/index.m3u8$第65集
+甄嬛传,https://cdn3.ryplay3.com/20240801/71_fd830f3b/index.m3u8$第66集
+甄嬛传,https://cdn3.ryplay3.com/20240801/73_9a72e782/index.m3u8$第67集
+甄嬛传,https://cdn3.ryplay3.com/20240801/70_184df3a4/index.m3u8$第68集
+甄嬛传,https://cdn3.ryplay3.com/20240801/76_ca923578/index.m3u8$第69集
+甄嬛传,https://cdn3.ryplay3.com/20240801/79_0c10d1ce/index.m3u8$第70集
+甄嬛传,https://cdn3.ryplay3.com/20240801/78_f19e9ec3/index.m3u8$第71集
+甄嬛传,https://cdn3.ryplay3.com/20240801/80_cfa00aae/index.m3u8$第72集
+甄嬛传,https://cdn3.ryplay3.com/20240801/77_dc5d1fc2/index.m3u8$第73集
+甄嬛传,https://cdn3.ryplay3.com/20240801/81_fade8a3e/index.m3u8$第74集
+甄嬛传,https://cdn3.ryplay3.com/20240801/83_25d48c98/index.m3u8$第75集
+甄嬛传,https://cdn3.ryplay3.com/20240801/82_51a06a04/index.m3u8$第76集
 🇨🇳梅花三弄之梅花烙,#genre#
 第一集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC01%E9%9B%86/index.m3u8
 第二集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC02%E9%9B%86/index.m3u8
