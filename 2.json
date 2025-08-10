@@ -1,5 +1,5 @@
 ﻿{
-"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/336c8cfd8f9a73ac/f0729.jpg;md5;2452e3a72453e1e2305e9b66eae38fe5",
+"spider":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/66dbb74d6a08782b/f0808.jpg;md5;018da6256f0aad4c040ad0e7ed4194fd",
 "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
 "wallpaper":"https://深色壁纸.xxooo.cf/",
 
@@ -16080,7 +16080,20 @@
 {"key":"夸搜弹幕","name":"🐟夸搜┃弹幕┃搜索","type":3,"api":"csp_Qkso","jar":"https://codeberg.org/diangu/gxtv/raw/branch/main/jar/spider.jar","searchable":1,"filterable":1,"changeable":0,"ext":{"cookie":"https://git.acwing.com/805598571/666/-/raw/main/file/TVBox/quark.txt","danmu":true}},
 {"key":"Aliso","name":"🙀饭太硬盘搜┃阿狸","type":3,"api":"csp_PanSearchGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/json/token.txt","from":"4k|auto"}},
 {"key":"YiSo","name":"😹饭太硬易搜┃阿狸","type":3,"api":"csp_YiSoGuard","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/main/json/token.txt","from":"4k|auto"}},
-
+ {
+  "key":"体育直播",
+  "name":"⚽️体育直播┃综合全部",
+  "type":3,
+  "api":"csp_SportsLive",
+  "searchable":0,
+  "changeable":0,
+  "style":{"type":"list"},
+  "ext":{
+  "jrkan":"http://m.jrkan2023.com",
+  "88kanqiu":"http://www.88kanqiu.bar"
+  },
+  "jar":"https://jihulab.com/ss3234741/sj/-/raw/main/jar/tzzb.jar"
+  },
 {
       "key":"csp_Kanqiu",
       "name":"😎球赛直播",
