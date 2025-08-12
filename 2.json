@@ -2806,6 +2806,240 @@
     "ext":"https://d.kstore.dev/download/12194/TV/兄弟.js"
 },
 {
+            "key": "鲨鱼影视",
+            "name": "🦈鲨鱼影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+                "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar",   
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
+            "ext": {
+                "作者": "🍊小橙子/250811",
+                "站名": "鲨鱼影视",
+                "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I003DD Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@PHPSESSID=vast4ejgtad1hbg04k70kdg1m0；； _ym_uid=1754879876708577104；； _ym_d=1754879876；； _ym_isad=2&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
+                "编码":"UTF-8",
+                "图片代理": "0",
+                "直接播放": "0",
+                "播放请求头": "",
+                "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
+                "免嗅": "1",
+                "过滤词": "",
+                "主页url": "https://www.hxhzh.com/",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "https://www.hxhzh.com/show/{cateId}--------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$36#",
+                "二次截取": "",
+                "数组": "lazyload&&</a>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<span class=\"pic-text text-right\">&&</span>",
+                "链接": "href=\"&&\"",
+                "影片年代": "年份：&&</p>",
+                "影片地区": "地区：&&</p>",
+                "影片类型": "类型：&&</p>",
+                "状态": "状态：&&</p>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+简介：&&</div",
+                "线路二次截取": "",
+                "线路数组": "\\#playlist&&</a>",
+                "线路标题": "tab\">&&<",
+                "播放二次截取": "",
+                "播放数组": "<ul class=\"myui-content__list sort-list clearfix&&</ul>",
+                "倒序": "0",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&<",
+                "播放链接": "href=\"&&\"",
+                "解析": "",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "跳转解析": "",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索url": "https://www.hxhzh.com/search/{wd}----------{pg}---.html",
+                "搜索模式": "1",
+                "搜索后缀": "",
+                "搜索二次截取": "",
+                "搜索数组": "lazyload&&</a>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "<span class=\"pic-text text-right\">&&</span>",
+                "搜索链接": "href=\"&&\"",
+                "筛选": "1",
+                "类型": "",
+                "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
+                "剧情值": "*",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
+                "地区值": "*",
+                "年份": "1950-2025",
+                "年份值": "*",
+                "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它",
+                "语言值": "*",
+                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+                "字母值": "*",
+                "排序": "时间&人气&评分",
+                "排序值": "time&hits&score"
+            }
+        },
+        {
+            "key": "娃娃影院",
+            "name": "👶娃娃影院",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
+            "ext": {
+                "作者": "🍊小橙子/250811",
+                "站名": "娃娃影院",
+                "请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I003DD Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
+                "编码":"UTF-8",
+                "图片代理": "0",
+                "直接播放": "0",
+                "播放请求头": "",
+                "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
+                "免嗅": "1",
+                "过滤词": "",
+                "主页url": "https://m.greatdoll.com.cn/",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "https://m.greatdoll.com.cn/vodshow/{cateId}--------{catePg}---{year}.html",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$29#",
+                "二次截取": "",
+                "数组": "lazyload&&</div>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<span class=\"score pull-right\">&&</span>",
+                "链接": "href=\"&&\"",
+                "影片年代": "年份：&&</p>",
+                "影片地区": "地区：&&</p>",
+                "影片类型": "类型：&&</p>",
+                "状态": "状态：&&</p>",
+                "导演": "导演：&&</p>",
+                "主演": "主演：&&</p>",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+left data2\">&&</div>",
+                "线路二次截取": "",
+                "线路数组": "stui-vodlist__head&&</div>",
+                "线路标题": ">&&</span>",
+                "播放二次截取": "",
+                "播放数组": "<ul class=\"stui-content__playlist clearfix&&</ul>",
+                "倒序": "0",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "解析": "",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "跳转解析": "",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索url": "",
+                "搜索模式": "1",
+                "搜索后缀": "",
+                "搜索二次截取": "",
+                "搜索数组": "",
+                "搜索标题": "",
+                "搜索图片": "",
+                "搜索副标题": "",
+                "搜索链接": "",
+                "筛选": "1",
+                "类型": "",
+                "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
+                "剧情值": "*",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
+                "地区值": "*",
+                "年份": "1950-2025",
+                "年份值": "*",
+                "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它",
+                "语言值": "*",
+                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+                "字母值": "*",
+                "排序": "时间&人气&评分",
+                "排序值": "time&hits&score"
+            }
+        },
+        {
+            "key": "简单观影",
+            "name": "🍔简单观影",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/wzxxcz/wzxxcz/maing/xcz.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "timeout": 120,
+            "ext": {
+                "作者": "🍊小橙子/250811",
+                "站名": "简单观影",
+                "请求头": "User-Agent@Mozilla/5.0 (Linux；； Android 9；； ASUS_I005DA Build/PI；； wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/68.0.3440.70 Mobile Safari/537.36&&Cookie@__gads=ID=a191c7deef3a47d2:T=1754914371:RT=1754916160:S=ALNI_Ma56N8yqhb1q-4fTslE9oY1sQOCTw；； __gpi=UID=0000117e6d514dbc:T=1754914371:RT=1754916160:S=ALNI_MYQcpBb3876pNyClM42ysfcPfTmEQ；； __eoi=ID=fefdb975c92b8b19:T=1754914371:RT=1754916160:S=AA-AfjYr7GyuYISK1zy9yqb8lNEc&&Accept@text/html,application/xhtml+xml,application/xml；；q=0.9,image/avif,image/webp,image/apng,*/*；；q=0.8,application/signed-exchange；；v=b3；；q=0.7&&Accept-Language@zh-CN,zh；；q=0.9",
+                "编码": "UTF-8",
+                "图片代理": "0",
+                "直接播放": "0",
+                "播放请求头": "",
+                "嗅探词": ".mp4#.m3u8#.flv#hcts-m3u8#index.m3u8",
+                "免嗅": "1",
+                "过滤词": "",
+                "主页url": "https://easysvip.com/",
+                "首页": "120",
+                "起始页": "1",
+                "分类url": "https://easysvip.com/vod/type/id/{cateId}/page/{catePg}/",
+                "分类": "电影$1#电视剧$2#综艺$3#动漫$4#短剧$5#体育赛事$37#",
+                "二次截取": "",
+                "数组": "/vod/detail&&</li>",
+                "标题": "title=\"&&\"",
+                "图片": "data-original=\"&&\"",
+                "副标题": "<p class=\"item-status text-overflow\">&&</p>",
+                "链接": "/vod/detail/id/+/id/&&\"",
+                "影片年代": "",
+                "影片地区": "",
+                "影片类型": "",
+                "状态": "",
+                "导演": "",
+                "主演": "",
+                "简介": "🍊小橙子为您介绍剧情👉请不要相信视频中的广告，以免上当受骗！+text text-row text-row-2\">&&</div>",
+                "线路二次截取": "",
+                "线路数组": "#ewave-playlist&&</li",
+                "线路标题": ">&&<",
+                "播放二次截取": "",
+                "播放数组": "<ul class=\"row ewave-tab-content ewave-playlist-content&&</ul>",
+                "倒序": "0",
+                "播放列表": "<a&&</a>",
+                "播放标题": ">&&</a>",
+                "播放链接": "href=\"&&\"",
+                "解析": "",
+                "跳转播放链接": "var player_*\"url\":\"&&\"",
+                "跳转解析": "",
+                "搜索请求头": "User-Agent$MOBILE_UA",
+                "搜索url": "https://easysvip.com/vod/search/page/{pg}/wd/{wd}/",
+                "搜索模式": "1",
+                "搜索后缀": "",
+                "搜索二次截取": "",
+                "搜索数组": "/vod/detail&&</li>",
+                "搜索标题": "title=\"&&\"",
+                "搜索图片": "data-original=\"&&\"",
+                "搜索副标题": "<p class=\"item-status text-overflow\">&&</p>",
+                "搜索链接": "/vod/detail/id/+/id/&&\"",
+                "筛选": "1",
+                "类型": "",
+                "剧情": "喜剧&爱情&恐怖&动作&科幻&剧情&战争&警匪&犯罪&动画&奇幻&武侠&冒险&枪战&恐怖&悬疑&惊悚&经典&青春&文艺&微电影&古装&历史&运动&农村&儿童&网络电影",
+                "剧情值": "*",
+                "地区": "大陆&香港&台湾&美国&法国&英国&日本&韩国&德国&泰国&印度&意大利&西班牙&加拿大&其他",
+                "地区值": "*",
+                "年份": "1950-2025",
+                "年份值": "*",
+                "语言": "国语&英语&粤语&闽南语&韩语&日语&法语&德语&其它",
+                "语言值": "*",
+                "字母": "A&B&C&D&E&F&G&H&I&J&K&L&M&N&O&P&Q&R&S&T&U&V&W&X&Y&Z&0-9",
+                "字母值": "*",
+                "排序": "时间&人气&评分",
+                "排序值": "time&hits&score"
+            }
+        },
+{
             "key":"iYSDQ影视",
             "name":"🦁iYSDQ影视",
             "type": 3,
@@ -16197,438 +16431,7 @@
 {"key":"有声小说js","name":"🎧有声┃小说","type":3,"api":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/drpy2.min.js","ext":"https://gh-proxy.net/https://raw.githubusercontent.com/fantaiying7/EXT/refs/heads/main/有声小说吧.js","style":{"type":"rect","ratio":1},
 "timeout":10,"searchable":0,"quickSearch":0,"changeable":0},
 {"key":"push_agent","name":"😎手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
- {
-      "key": "ok配置中心",
-      "name": "🌀ok网盘弹幕┃配置中心",
-      "type": 3,
-      "api": "csp_ConfigGuard",
-     "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.43
-      }
-    },
-{
-      "key": "玩偶哥哥",
-      "name": "🌀玩偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_WoggGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",   
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 30
-    },
-    {
-      "key": "木偶哥哥",
-      "name": "🌀木偶哥哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_MuouGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "多多资源",
-      "name": "🌀多多资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_DuoDuoGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "二小资源",
-      "name": "🌀二小资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_ErXiaoGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "蜡笔小新",
-      "name": "🌀蜡笔小新┃4K弹幕",
-      "type": 3,
-      "api": "csp_LabiGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",     
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "玩偶表哥",
-      "name": "🌀玩偶表哥┃4K弹幕",
-      "type": 3,
-      "api": "csp_DbgGuard",
-     "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",    
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "至臻资源",
-      "name": "🌀至臻资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_ZhiZhenGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "闪电资源",
-      "name": "🌀闪电资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_ShanDianGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "虎斑资源",
-      "name": "🌀虎斑资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_HuBanGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",      
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "百家资源",
-      "name": "🌀百家资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_BaijiaGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1, 
-      "changeable": 1, 
-      "filterable": 1, 
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "立播资源",
-      "name": "🌀立播资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_LibvioGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 30
-    },
-    {
-      "key": "校长资源",
-      "name": "🌀校长资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_XiaoZhangGuard",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 30
-    },
-    {
-      "key": "百度趣盘",
-      "name": "🌀百度趣盘┃4K弹幕",
-      "type": 3,
-      "api": "csp_BaiduQuPanGuard",
-        "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "双星资源",
-      "name": "🌀双星资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_Star2Guard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "光影资源",
-      "name": "🌀光影资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_GuanyingGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",    
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 30
-    },
-    {
-      "key": "云集资源",
-      "name": "🌀云集资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_YunJiGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "移动盘他",
-      "name": "🌀移动盘他┃4K弹幕",
-      "type": 3,
-      "api": "csp_PantaGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "海绵资源",
-      "name": "🌀海绵资源┃4K弹幕",
-      "type": 3,
-      "api": "csp_HaiMianGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "雷鲸天翼",
-      "name": "🌀雷鲸天翼┃4K弹幕",
-      "type": 3,
-      "api": "csp_LeiJingGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-   
-    {
-      "key": "csp_QuPanSouGuard",
-      "name": "🌀夸克趣盘┃4k搜索",
-      "type": 3,
-      "api": "csp_QuPanSouGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "太极",
-      "name": "🌀太极网盘┃4k搜索",
-      "type": 3,
-      "api": "csp_TaiChiGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "taichi": 1
-      },
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "糖果搜",
-      "name": "🌀糖果网盘┃4k搜索",
-      "type": 3,
-      "api": "csp_TaiChiGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "taichi": 2
-      },
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "爱盘",
-      "name": "🌀阿里爱盘┃4k搜索",
-      "type": 3,
-      "api": "csp_AiPanGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "盘搜",
-      "name": "🌀网盘盘搜┃4k搜索",
-      "type": 3,
-      "api": "csp_PanSoGuard",
-     "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "影搜",
-      "name": "🌀影子影搜┃4k搜索",
-      "type": 3,
-      "api": "csp_YingSoGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "聚盘",
-      "name": "🌀盘库聚盘┃4k搜索",
-      "type": 3,
-      "api": "csp_PankuGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",   
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "云搜",
-      "name": "🌀云盘云搜┃4k搜索",
-      "type": 3,
-      "api": "csp_YunPanPanGuard",
-    "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "度搜",
-      "name": "🌀百度度搜┃4k搜索",
-      "type": 3,
-      "api": "csp_BdxdGuard",
-      "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },
-    {
-      "key": "逸搜",
-      "name": "🌀天翼逸搜┃4k搜索",
-      "type": 3,
-      "api": "csp_TianYiSoGuard",
-       "jar":"https://ghfast.top/https://raw.githubusercontent.com/805598571/77/refs/heads/main/jar/ok.jar",  
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-                "danmu": true
-            },
-      "timeout": 25
-    },  
+ 
 
 {"key":"cc","name":"😎请勿相信视频中广告","type":3,"api":"csp_XPath","searchable":1,"quickSearch":0,"changeable":0}
 ],
