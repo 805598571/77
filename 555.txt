@@ -13,7 +13,7 @@ CCTV1-21,http://60.174.40.117:85/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV-12 综合,http://alist.xicp.fun:35455/mgtv/608807420.m3u8
 CCTV-2综合2,http://go.bkpcp.top/mg/cctv2
 CCTV2-1,http://000.hfr1107.top/tv/smt.php?id=cctv2
-CCTV2-2,http://221.199.193.26:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-2,http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
 CCTV2-3,http://117.141.162.238:8181/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-4,http://221.199.193.233:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-5,http://221.199.193.49:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -439,7 +439,7 @@ AMC电影3,http://61.221.215.25:8800/hls/43/index.m3u8
 美亚电影2,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 美亚电影3,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 美亚电影4,http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-美亚电影5,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
+美亚电影5,mitv://66.42.60.221:6001/685e19210004f0d2028e01cce14c49f9.ts
 美亚电影6,https://live.tvfix.org/live/mydy/index.m3u8
 美亚电影7,http://ali.hlspull.yximgs.com/live/awei_mydy.flv
 美亚电影8,http://223.18.103.169:8277/meiyamovie_twn/playlist.m3u8
@@ -455,7 +455,7 @@ AMC电影3,http://61.221.215.25:8800/hls/43/index.m3u8
 美亚电影l8,https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
 美亚电影l9,http://aktv-stream.m16tv.cfd/stream/aktv/hk-1/AKTV.m3u8
 美亚电影20,http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-美亚电影2l,http://t.061899.xyz/tl/js/tw.php?id=hdmydy
+美亚电影2l,mitv://66.42.60.221:6001/685419de00068a9b0526ad8869f869b3
 美亚电影22,http://go1.bkpcp.top/tl/null-5
 美亚电影23,http://t.061899.xyz/tl/js/tw.php?id=mydyyy
 美亚电影24,http://bxtv.3a.ink/api.php?id=twmeiya
@@ -517,7 +517,7 @@ AMC电影3,http://61.221.215.25:8800/hls/43/index.m3u8
 中天新闻7,https://s1.m16tv.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻8,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8
 中天新闻9,http://122.117.71.103:8661/中天新闻.m3u8
-中天新闻,video://http://99754106633f94d350db34d548d6091a.everydaytv.top/play-2-20-0.html
+中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
 中天新闻10,http://211.72.65.236:8541/.m3u8
 中天新闻11,https://hls-gateway.vpstv.net/streams/477695.m3u8
 中天新闻l2,http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8
@@ -10649,7 +10649,7 @@ Smart知,http://api.mytv666.top/api/hk.php?id=6661353865643032303666663930396536
 TRACEU,http://api.mytv666.top/api/hk.php?id=3763363134386234363661313032356535343065616461326236356664386638267469643d74762669643d313933
 MEZZO-,http://api.mytv666.top/api/hk.php?id=6337376162663362623736626239333832343737666464333931646364623062267469643d74762669643d313934
 GINX-TV,http://api.mytv666.top/api/hk.php?id=6535383532333535373462306237656133323063613337336366323139633166267469643d74762669643d313936
-肥羊ITV央视,#genre#
+🇲🇴肥羊ITV央视,#genre#
 
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226638/1.m3u8
@@ -10677,7 +10677,7 @@ CCTV16,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226825/1.m
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.m3u8
 CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m3u8
 
-肥羊ITV卫视,#genre#
+🇲🇴肥羊ITV卫视,#genre#
 
 北京卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226719/1.m3u8
 湖南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
@@ -10702,7 +10702,7 @@ CCTV17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226727/1.m
 天津卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226686/1.m3u8
 重庆卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226680/1.m3u8
 
-央视(小飞),#genre#
+🇲🇴央视(小飞),#genre#
 
 CCTV1,http://171.124.45.162:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://183.186.91.132:8899/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -10863,7 +10863,7 @@ CCTV17,http://221.2.148.205:8154/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&a
 CCTV17,http://119.125.134.209:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV17,http://171.14.89.243:9901/tsfile/live/1027_1.m3u8?key=txiptv&playlive=1&authid=0
 
-卫视(小飞),#genre#
+🇲🇴卫视(小飞),#genre#
 
 北京卫视,http://183.186.91.132:8899/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 北京卫视1,http://110.72.69.8:8181/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -11138,7 +11138,7 @@ CINEMAX,http://free.cnlive.club/channel/7c7a1311/index.m3u8?q=1752629214236
 博斯网球,http://free.cnlive.club/channel/4838e3b3/index.m3u8?q=1752629214236
 博斯无限,http://free.cnlive.club/channel/47dd89d5/index.m3u8?q=1752629214236
 好消息 2,http://free.cnlive.club/channel/n5e3decc0/index.m3u8?q=1752629214236
-央视(咕咪),#genre#
+🇲🇴央视(咕咪),#genre#
 
 CCTV1,http://ss.baihuan.online:35455/mgtv/608807420.m3u8
 CCTV2,http://ss.baihuan.online:35455/mgtv/631780532.m3u8
@@ -12199,7 +12199,7 @@ CGTN主频,http://aiony.top:35455/nptv/cgtn.m3u8
 陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8
 陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
 陇川综合,https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
-AKTV频道,#genre#
+🇲🇴AKTV频道,#genre#
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
@@ -12395,7 +12395,7 @@ AXN Taiwan,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/axn_t
 美食星球,http://148.135.34.95/mn.php?playurl=http://www.pelotas.org:8278/foodplanet_twn/playlist.m3u8&token=c4ad6000c428286853b39a209ccae08b
 美食星球,http://50.7.238.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353&token=c4ad6000c428286853b39a209ccae08b
 
-明星电影,#genre#
+🇲🇴明星电影,#genre#
 电影_星爷,http://cfss.cc/cdn/hy/11342412.flv
 电影_星爷l,http://cdn.jdshipin.com:8880/huya.php?id=11342412
 电影_星爷2,https://live.metshop.top/huya/11342412
@@ -13728,7 +13728,7 @@ TFgirls-贾玲张小斐,https://vd3.bdstatic.com/mda-qc64dz3a7dai9wmn/576p/h264/
 港片-电影系列,https://lunbo.freetv.top/huya/11602043#https://fmbox.cc/huya.php?id=11602043#http://live.iill.top/huya/11602043
 解说电影-谍影特工,https://lunbo.freetv.top/huya/16144175#https://fmbox.cc/huya.php?id=16144175#http://live.iill.top/huya/16144175
 
-剧集轮播5,#genre#
+🇲🇴剧集轮播5,#genre#
 
 古装_新水浒传A,https://lunbo.freetv.top/huya/30204448
 古装_新水浒传C,https://lunbo.freetv.top/huya/11342384#https://fmbox.cc/huya.php?id=11342384#http://live.iill.top/huya/11342384#http://live.metshop.top/huya/11342384#https://www.goodiptv.club/huya/11342384
@@ -14111,7 +14111,7 @@ _blue胖,https://lunbo.freetv.top/huya/11601963
 红娘妖狐,https://lunbo.freetv.top/huya/11352967  
 灵界侦探浦饭幽助,https://lunbo.freetv.top/huya/11602034  
 假面骑士龙骑,https://lunbo.freetv.top/huya/11352918
-虎牙轮播,#genre#
+🇲🇴虎牙轮播,#genre#
 虎-阿斗解说fmbox.cc,https://fmbox.cc/huya.php?id=13303478
 虎-三国fmbox.cc,https://fmbox.cc/huya.php?id=11352944
 虎-三国演义(1),https://lunbo.freetv.top/huya/11352944#https://fmbox.cc/huya.php?id=11352944#http://live.iill.top/huya/11352944#http://live.metshop.top/huya/11352944#https://www.goodiptv.club/huya/11352944
@@ -14235,7 +14235,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 陈浩民活佛济公,http://121.51.249.99/tx.hls.huya.com/src/1394565208-1394565208-5989611960499437568-2789253872-10057-A-0-1.m3u8 
 铁齿铜牙纪晓岚,http://121.51.249.99/tx.hls.huya.com/src/1394565204-1394565204-5989611943319568384-2789253864-10057-A-0-1.m3u8 
 神医喜来乐,http://121.51.249.99/tx.hls.huya.com/src/1524418104-1524418104-6547325902110326784-3048959664-10057-A-0-1.m3u8 
-水浒传1998,#genre#
+🇲🇴水浒传1998,#genre#
 第01集,https://cdn3.ryplay3.com/20240805/3354_90708ee3/index.m3u8
 第02集,https://cdn6.ryplay6.com/20240813/4013_431033a9/index.m3u8
 第03集,https://cdn6.ryplay6.com/20240813/4014_4195faba/index.m3u8
@@ -14279,7 +14279,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第41集,https://cdn3.ryplay3.com/20240805/3533_be74b8f7/index.m3u8
 第42集,https://cdn3.ryplay3.com/20240805/3536_ee4944dc/index.m3u8
 第43集,https://cdn3.ryplay3.com/20240805/3539_8f38508b/index.m3u8
-水浒传2011,#genre#
+🇲🇴水浒传2011,#genre#
 第01集,https://cdn9.ryplay9.com/20240929/16102_e648f7e2/index.m3u8
 第02集,https://cdn9.ryplay9.com/20240929/16103_e640777b/index.m3u8
 第03集,https://cdn9.ryplay9.com/20240929/16116_1398ef2a/index.m3u8
@@ -14366,7 +14366,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第84集,https://cdn9.ryplay9.com/20240929/16495_519059b8/index.m3u8
 第85集,https://cdn9.ryplay9.com/20240929/16496_a24e69d7/index.m3u8
 第86集,https://cdn9.ryplay9.com/20240929/16497_cd84d354/index.m3u8
-三国演义1994,#genre#
+🇲🇴三国演义1994,#genre#
 第01集,https://cdn.ryplay12.com/20241017/286_0c26aee8/index.m3u8
 第02集,https://cdn9.ryplay9.com/20240921/5210_66902d42/index.m3u8
 第03集,https://cdn9.ryplay9.com/20240921/5221_1c7351bf/index.m3u8
@@ -14451,7 +14451,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第82集,https://cdn9.ryplay9.com/20240921/5390_17ad332c/index.m3u8
 第83集,https://cdn9.ryplay9.com/20240921/5394_32a6312d/index.m3u8
 第84集,https://cdn9.ryplay9.com/20240921/5393_afdd3e9a/index.m3u8
-三国演义2010,#genre#
+🇲🇴三国演义2010,#genre#
 第01集,https://cdn9.ryplay9.com/20241009/24371_c8c0bfd8/index.m3u8
 第02集,https://cdn9.ryplay9.com/20241009/24372_5b436074/index.m3u8
 第03集,https://cdn9.ryplay9.com/20241009/24387_90468b3f/index.m3u8
@@ -14547,7 +14547,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第93集,https://cdn9.ryplay9.com/20241009/24580_2ac3b31e/index.m3u8
 第94集,https://cdn9.ryplay9.com/20241009/24578_fb859e49/index.m3u8
 第95集,https://cdn9.ryplay9.com/20241009/24579_c286dd83/index.m3u8
-红楼梦1987,#genre#
+🇲🇴红楼梦1987,#genre#
 第1集,https://cdn3.ryplay3.com/20240804/2385_9c8bb1e5/index.m3u8
 第2集,https://cdn3.ryplay3.com/20240804/2388_4ea3a639/index.m3u8
 第3集,https://cdn3.ryplay3.com/20240804/2391_32dcde2a/index.m3u8
@@ -14585,7 +14585,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第35集,https://cdn3.ryplay3.com/20240804/2488_17847ac8/index.m3u8
 第36集,https://cdn3.ryplay3.com/20240804/2491_72bae033/index.m3u8
 
-红楼梦2010,#genre#
+🇲🇴红楼梦2010,#genre#
 第01集,https://cdn9.ryplay9.com/20240924/11073_0592ab20/index.m3u8
 第02集,https://cdn9.ryplay9.com/20240924/11074_2177d902/index.m3u8
 第03集,https://cdn9.ryplay9.com/20240924/11080_9dd6801c/index.m3u8
@@ -14636,7 +14636,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第48集,https://cdn9.ryplay9.com/20240924/11438_a912e16a/index.m3u8
 第49集,https://cdn9.ryplay9.com/20240924/11446_f2de880e/index.m3u8
 第50集,https://cdn9.ryplay9.com/20240924/11445_4e1e007c/index.m3u8
-西游记,#genre#
+🇲🇴西游记,#genre#
 第1集猴王初问世,https://cdn3.ryplay3.com/20240913/45447_00a9fbc4/index.m3u8#https://vip.lz-cdn8.com/20220407/1055_8ebea3e0/index.m3u8
 第2集官封弼马温,https://cdn3.ryplay3.com/20240913/45461_de69b81f/index.m3u8#https://vip.lz-cdn8.com/20220407/1067_79a864ea/index.m3u8
 第3集大圣闹天宫,https://cdn3.ryplay3.com/20240913/45462_10b52c0f/index.m3u8
@@ -14678,7 +14678,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 续集第14集,https://cdn3.ryplay3.com/20240913/45545_8d0098ae/index.m3u8
 续集第15集,https://cdn3.ryplay3.com/20240913/45544_d27a6303/index.m3u8
 
-西游记☘️☘️💝,#genre#
+🇲🇴西游记☘️☘️💝,#genre#
 第01集,https://vip.lz-cdn8.com/20220407/1055_8ebea3e0/index.m3u8
 第02集,https://vip.lz-cdn8.com/20220407/1067_79a864ea/index.m3u8
 第03集,https://vip.lz-cdn8.com/20220407/1083_9e20dd96/index.m3u8
@@ -14704,7 +14704,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第23集,https://vip.lz-cdn8.com/20220408/1515_eda8d7d1/index.m3u8
 第24集,https://vip.lz-cdn8.com/20220408/1527_70660a94/index.m3u8
 第25集,https://vip.lz-cdn8.com/20220408/1540_5c775112/index.m3u8
-新白娘子传奇,#genre#,
+🇲🇴新白娘子传奇,#genre#,
 第01集,https://vip.ffzy-online.com/20221207/29683_1338bd77/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online.com/20221207/29684_3dab2eb4/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-online.com/20221207/29685_3aa793d0/2000k/hls/mixed.m3u8
@@ -14756,7 +14756,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第49集,https://vip.ffzy-online.com/20221207/29732_fa83b88d/2000k/hls/mixed.m3u8
 第50集,https://vip.ffzy-online.com/20221207/29731_1cea3325/2000k/hls/mixed.m3u8
 
-射雕英雄传,#genre#
+🇲🇴射雕英雄传,#genre#
 第01集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第01集/index.m3u8
 第02集,https://s2.bfengbf.com/video/shediaoyingxiongchuan1983/第02集/index.m3u8
 第03集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第03集/index.m3u8
@@ -14817,7 +14817,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第58集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第58集/index.m3u8
 第59集,https://s5.bfengbf.com/video/shediaoyingxiongchuan1983/第59集/index.m3u8
 
-大侠霍元甲,#genre#
+🇲🇴大侠霍元甲,#genre#
 第01集,https://c1.rrcdnbf3.com/video/daxiahuoyuanjiaguoyu/%E7%AC%AC01%E9%9B%86/index.m3u8
 第02集,https://c1.rrcdnbf3.com/video/daxiahuoyuanjiaguoyu/%E7%AC%AC02%E9%9B%86/index.m3u8
 第03集,https://c1.rrcdnbf3.com/video/daxiahuoyuanjiaguoyu/%E7%AC%AC03%E9%9B%86/index.m3u8
@@ -14838,7 +14838,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第18集,https://c1.rrcdnbf3.com/video/daxiahuoyuanjiaguoyu/%E7%AC%AC18%E9%9B%86/index.m3u8
 第19集,https://c1.rrcdnbf3.com/video/daxiahuoyuanjiaguoyu/%E7%AC%AC19%E9%9B%86/index.m3u8
 第20集,https://c1.rrcdnbf3.com/video/daxiahuoyuanjiaguoyu/%E7%AC%AC20%E9%9B%86/index.m3u8
-流星花园,#genre#
+🇲🇴流星花园,#genre#
 
 流星花园壹01,https://v.cdnlz20.com/20241121/20985_9d08aaaf/index.m3u8
 流星花园壹02,https://v.cdnlz20.com/20241121/20987_7f22ee90/index.m3u8
@@ -14869,7 +14869,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 流星花园壹27,https://v.cdnlz20.com/20241121/21012_d36a1fb8/index.m3u8
 流星花园壹28,https://v.cdnlz20.com/20241121/21013_0a152d5b/index.m3u8
 流星花园壹29,https://v.cdnlz20.com/20241121/21014_0a149cb5/index.m3u8
-还珠格格,#genre#
+🇲🇴还珠格格,#genre#
 ⬇️还珠第一部⬇️,http://rihou.cc:555/mp4?id=lndjj.mp4
 还珠格格壹01,https://yzzy.play-cdn8.com/20220710/3671_314a6b1b/index.m3u8
 还珠格格壹02,https://yzzy.play-cdn8.com/20220710/3670_cdafc23f/index.m3u8
@@ -15206,7 +15206,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 楚汉传奇-56,https://yzzy.play-cdn7.com/20220831/15024_87b2487c/index.m3u8
 楚汉传奇-57,https://yzzy.play-cdn7.com/20220831/15028_78661aed/index.m3u8
 楚留香,https://vip.ffzy-play7.com/20230215/14808_0ccf3503/2000k/hls/mixed.m3u8
-戏说乾隆,#genre#
+🇲🇴戏说乾隆,#genre#
 第01集,https://vip.ffzy-online1.com/20230604/40564_b8a902f1/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online1.com/20230604/40565_65f44e25/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-online1.com/20230604/40566_cbecdda6/2000k/hls/mixed.m3u8
@@ -15248,7 +15248,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第39集,https://vip.ffzy-online1.com/20230604/40606_8a9e5cb8/2000k/hls/mixed.m3u8
 第40集,https://vip.ffzy-online1.com/20230604/40607_b665123c/2000k/hls/mixed.m3u8
 
-三朵花,#genre#
+🇲🇴三朵花,#genre#
 第一集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC01%E9%9B%86/index.m3u8
 第二集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC02%E9%9B%86/index.m3u8
 第三集,https://s3.bfengbf.com/video/sanduohua/%E7%AC%AC03%E9%9B%86/index.m3u8
@@ -15309,7 +15309,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第46集,https://yzzy.play-cdn19.com/20240331/27976_6a3b9200/2000k/hls/mixed.m3u8
 第47集,https://yzzy.play-cdn19.com/20240331/27977_2542584c/2000k/hls/mixed.m3u8
 
-哑女情深,#genre#
+🇲🇴哑女情深,#genre#
 第01集,https://vip.ffzy-online4.com/20230304/13391_7dc84ce1/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online4.com/20230304/13393_0bef3877/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-online4.com/20230304/13392_72819d78/2000k/hls/mixed.m3u8
@@ -15339,7 +15339,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第27集,https://vip.ffzy-online4.com/20230304/13415_5fa4770f/2000k/hls/mixed.m3u8
 第28集,https://vip.ffzy-online4.com/20230304/13416_c4fb00af/2000k/hls/mixed.m3u8
 第29集,https://vip.ffzy-online4.com/20230304/13419_ec01cb77/2000k/hls/mixed.m3u8
-苍天有泪,#genre#
+🇲🇴苍天有泪,#genre#
 第01集,https://yzzy1.play-cdn20.com/20240405/31540_94358ed1/2000k/hls/mixed.m3u8
 第02集,https://yzzy1.play-cdn20.com/20240405/31541_96d45b50/2000k/hls/mixed.m3u8
 第03集,https://yzzy1.play-cdn20.com/20240405/31542_69a0e80f/2000k/hls/mixed.m3u8
@@ -15365,7 +15365,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第23集,https://yzzy1.play-cdn20.com/20240405/31563_58832a04/2000k/hls/mixed.m3u8
 第24集,https://yzzy1.play-cdn20.com/20240405/31561_8777843b/2000k/hls/mixed.m3u8
 
-烟锁重楼
+🇲🇴烟锁重楼,#genre#
 第01集,https://vip.lz-cdn.com/20220521/14708_58f48f39/1000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn.com/20220521/14709_03292d53/1000k/hls/mixed.m3u8
 第03集,https://vip.lz-cdn.com/20220521/14710_3c418d38/1000k/hls/mixed.m3u8
@@ -15390,7 +15390,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第22集,https://vip.lz-cdn.com/20220521/14729_1c856086/1000k/hls/mixed.m3u8
 第23集,https://vip.lz-cdn.com/20220521/14730_1c89dde9/1000k/hls/mixed.m3u8
 第24集,https://vip.lz-cdn.com/20220521/14731_b4ef0b4e/1000k/hls/mixed.m3u8
-明月格格
+🇲🇴明月格格,#genre#
 第01集,https://v.cdnlz19.com/20240215/16013_9d1cdffc/2000k/hls/mixed.m3u8
 第02集,https://v.cdnlz19.com/20240215/16014_069f2dea/2000k/hls/mixed.m3u8
 第03集,https://v.cdnlz19.com/20240215/16015_550076b7/2000k/hls/mixed.m3u8
@@ -15417,7 +15417,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第24集,https://v.cdnlz19.com/20240215/16036_58ae2f27/2000k/hls/mixed.m3u8
 第25集,https://v.cdnlz19.com/20240215/16037_1aa69569/2000k/hls/mixed.m3u8
 第26集,https://v.cdnlz19.com/20240215/16038_fd4d9181/2000k/hls/mixed.m3u8
-哑巴新娘
+🇲🇴哑巴新娘,#genre#
 第一集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC01%E9%9B%86/index.m3u8
 第二集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC02%E9%9B%86/index.m3u8
 第三集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC03%E9%9B%86/index.m3u8
@@ -15454,7 +15454,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第三十四集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC34%E9%9B%86/index.m3u8
 第三十五集,https://c1.rrcdnbf3.com/video/yabaxinniang/%E7%AC%AC35%E9%9B%86/index.m3u8
 
-庭院深深,#genre#
+🇲🇴庭院深深,#genre#
 第01集,https://vip.lz-cdn16.com/20230812/34871_67dfe6fe/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn16.com/20230812/34872_10a29d43/2000k/hls/mixed.m3u8
 第03集,https://vip.lz-cdn16.com/20230812/34873_8a12c8ed/2000k/hls/mixed.m3u8
@@ -15495,7 +15495,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第38集,https://vip.lz-cdn16.com/20230812/34907_d3c366f3/2000k/hls/mixed.m3u8
 第39集,https://vip.lz-cdn16.com/20230812/34908_a150af22/2000k/hls/mixed.m3u8
 第40集,https://vip.lz-cdn16.com/20230812/34912_9a3fa6fd/2000k/hls/mixed.m3u8
-在水一方,#genre#
+🇲🇴在水一方,#genre#
 第01集,https://vip.lz-cdn16.com/20230812/35032_a2b143c9/2000k/hls/mixed.m3u8
 第02集,https://vip.lz-cdn16.com/20230812/35031_2c6c8f40/2000k/hls/mixed.m3u8
 第03集,https://vip.lz-cdn16.com/20230812/35035_796c7990/2000k/hls/mixed.m3u8
@@ -15537,7 +15537,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第39集,https://vip.lz-cdn16.com/20230812/35068_7f032ebc/2000k/hls/mixed.m3u8
 第40集,https://vip.lz-cdn16.com/20230812/35071_09cc8bc9/2000k/hls/mixed.m3u8
 
-几度夕阳红,#genre#
+🇲🇴几度夕阳红,#genre#
 第01集,https://vip1.lz-cdn6.com/20220921/28126_2eddf24f/1000k/hls/mixed.m3u8
 第02集,https://vip1.lz-cdn6.com/20220921/28127_54485eaf/1000k/hls/mixed.m3u8
 第03集,https://vip1.lz-cdn6.com/20220921/28128_46d29024/1000k/hls/mixed.m3u8
@@ -15568,7 +15568,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第28集,https://vip1.lz-cdn6.com/20220921/28153_cbc48b63/1000k/hls/mixed.m3u8
 第29集,https://vip1.lz-cdn6.com/20220921/28154_d21b0871/1000k/hls/mixed.m3u8
 第30集,https://vip1.lz-cdn6.com/20220921/28155_0321984a/1000k/hls/mixed.m3u8
-青青河边草,#genre#
+🇲🇴青青河边草,#genre#
 第01集,https://vip.ffzy-play10.com/20230117/12034_8c90be87/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play10.com/20230117/12033_40616205/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-play10.com/20230117/12035_a400bf1d/2000k/hls/mixed.m3u8
@@ -15612,7 +15612,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第41集,https://vip.ffzy-play10.com/20230117/12075_2ab53fec/2000k/hls/mixed.m3u8
 第42集,https://vip.ffzy-play10.com/20230117/12070_64945be3/2000k/hls/mixed.m3u8
 
-亮剑️️,#genre#
+🇲🇴亮剑️️,#genre#
 第01集,https://vip.ffzy-play1.com/20230113/51806_72d20784/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-play1.com/20230113/51805_af533edb/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-play1.com/20230113/51807_0da1f48c/2000k/hls/mixed.m3u8
@@ -15644,7 +15644,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第29集,https://vip.ffzy-play1.com/20230113/51832_54e2177f/2000k/hls/mixed.m3u8
 第30集,https://vip.ffzy-play1.com/20230113/51835_4bda68e3/2000k/hls/mixed.m3u8
 
-走向共和,#genre#
+🇲🇴走向共和,#genre#
 第1集,https://yzzy.play-cdn11.com/20221026/946_db791fff/index.m3u8
 第2集,https://yzzy.play-cdn11.com/20221026/947_f36dfaac/index.m3u8
 第3集,https://yzzy.play-cdn11.com/20221026/948_62e73f63/index.m3u8
@@ -15713,7 +15713,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第66集,https://yzzy.play-cdn11.com/20221026/1011_f8a97af1/index.m3u8
 第67集,https://yzzy.play-cdn11.com/20221026/1013_b5ce27e4/index.m3u8
 第68集,https://yzzy.play-cdn11.com/20221026/1012_579b2ee9/index.m3u8
-大明王朝1566,#genre#
+🇲🇴大明王朝1566,#genre#
 第01集,https://vip.ffzy-online.com/20221127/25865_dca33440/index.m3u8
 第02集,https://vip.ffzy-online.com/20221127/25867_41ca27c3/index.m3u8
 第03集,https://vip.ffzy-online.com/20221127/25866_ed6f22e0/index.m3u8
@@ -15761,7 +15761,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第45集,https://vip.ffzy-online.com/20221127/25909_032b9fb6/index.m3u8
 第46集,https://vip.ffzy-online.com/20221127/25912_46342a67/index.m3u8
 
-情深深雨蒙蒙,#genre#
+🇲🇴情深深雨蒙蒙,#genre#
 第01集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC01%E9%9B%86/index.m3u8
 第02集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC02%E9%9B%86/index.m3u8
 第03集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC03%E9%9B%86/index.m3u8
@@ -15811,7 +15811,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第47集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC47%E9%9B%86/index.m3u8
 第48集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC48%E9%9B%86/index.m3u8
 第49集,https://s3.bfzycdn.com/video/qingshenshenyumengmeng/%E7%AC%AC49%E9%9B%86/index.m3u8
-还珠格格第一部,#genre#
+🇲🇴还珠格格第一部,#genre#
 第1集,https://yzzy.play-cdn8.com/20220710/3671_314a6b1b/index.m3u8
 第2集,https://yzzy.play-cdn8.com/20220710/3670_cdafc23f/index.m3u8
 第3集,https://yzzy.play-cdn8.com/20220710/3669_9b81e5f9/index.m3u8
@@ -15836,7 +15836,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第22集,https://yzzy.play-cdn8.com/20220710/3650_bde9774f/index.m3u8
 第23集,https://yzzy.play-cdn8.com/20220710/3649_95656d66/index.m3u8
 第24集,https://yzzy.play-cdn8.com/20220710/3648_29d10de2/index.m3u8
-还珠格格第二部,#genre#
+🇲🇴还珠格格第二部,#genre#
 第1集,https://yzzy.play-cdn8.com/20220710/3647_728f0513/index.m3u8
 第2集,https://yzzy.play-cdn8.com/20220710/3646_f9026ae9/index.m3u8
 第3集,https://yzzy.play-cdn8.com/20220710/3645_3082ea33/index.m3u8
@@ -15886,7 +15886,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 第47集,https://yzzy.play-cdn8.com/20220710/3601_071cd762/index.m3u8
 第48集,https://yzzy.play-cdn8.com/20220710/3600_ea939ce8/index.m3u8
 
-新白娘子传奇,#genre#,
+🇲🇴🇲🇴新白娘子传奇,#genre#,
 第01集,https://vip.ffzy-online.com/20221207/29683_1338bd77/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online.com/20221207/29684_3dab2eb4/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-online.com/20221207/29685_3aa793d0/2000k/hls/mixed.m3u8
@@ -16175,7 +16175,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 包青天1993第235集,https://vip.lz-cdn8.com/20220718/18811_f4d87f2d/index.m3u8
 包青天1993第236集,https://vip.lz-cdn8.com/20220718/18812_e2b0947f/index.m3u8
 
-﻿绝密543,#genre#
+﻿🇲🇴绝密543,#genre#
 第01集,https://vip.ffzy-online1.com/20240302/44711_0bdef9cf/2000k/hls/mixed.m3u8
 第02集,https://vip.ffzy-online1.com/20240302/44712_38a6c756/2000k/hls/mixed.m3u8
 第03集,https://vip.ffzy-online1.com/20240302/44713_4864ac1f/2000k/hls/mixed.m3u8
@@ -16292,7 +16292,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 津门飞鹰_第34集,https://vip.lz-cdn16.com/20230315/12804_5833e70d/index.m3u8
 津门飞鹰_第35集,https://vip.lz-cdn16.com/20230315/12809_f38b83c7/index.m3u8
 
-天涯明月刀,#genre#
+🇲🇴天涯明月刀,#genre#
 天涯明月刀钟汉良版_第01集,https://vip1.lz-cdn.com/20220718/24865_9924f2bb/index.m3u8
 天涯明月刀钟汉良版_第02集,https://vip1.lz-cdn.com/20220718/24866_653fc704/index.m3u8
 天涯明月刀钟汉良版_第03集,https://vip1.lz-cdn.com/20220718/24867_3731a5d2/index.m3u8
@@ -16894,70 +16894,7 @@ lxajh.top解析YY测试,http://lxajh.top/tv/yy.php?id=1382749950
 如来神掌再战江湖国语_第19集,https://vip.lz-cdn16.com/20230603/25891_eb16aae1/index.m3u8
 如来神掌再战江湖国语_第20集,https://vip.lz-cdn16.com/20230603/25893_240d8b2c/index.m3u8
 大侠沈胜衣电影解说_第01集,https://v.cdnlz18.com/20231214/8024_dad981a4/index.m3u8
-山西广电cs源,#genre#
-CCTV-01（山西广电cs源）,http://live.sxrtv.com/iptv/cctv1.m3u8
-CCTV-02（山西广电cs源）,http://live.sxrtv.com/iptv/cctv2.m3u8
-CCTV-03（山西广电cs源）,http://live.sxrtv.com/iptv/cctv3.m3u8
-CCTV-04（山西广电cs源）,http://live.sxrtv.com/iptv/cctv4.m3u8
-CCTV-05（山西广电cs源）,http://live.sxrtv.com/iptv/cctv5.m3u8
-CCTV-5+（山西广电cs源）,http://live.sxrtv.com/iptv/cctv5p.m3u8
-CCTV-06（山西广电cs源）,http://live.sxrtv.com/iptv/cctv6.m3u8
-CCTV-07（山西广电cs源）,http://live.sxrtv.com/iptv/cctv7.m3u8
-CCTV-08（山西广电cs源）,http://live.sxrtv.com/iptv/cctv8.m3u8
-CCTV-09（山西广电cs源）,http://live.sxrtv.com/iptv/cctv9.m3u8
-CCTV-10（山西广电cs源）,http://live.sxrtv.com/iptv/cctv10.m3u8
-CCTV-11（山西广电cs源）,http://live.sxrtv.com/iptv/cctv11.m3u8
-CCTV-12（山西广电cs源）,http://live.sxrtv.com/iptv/cctv12.m3u8
-CCTV-13（山西广电cs源）,http://live.sxrtv.com/iptv/cctv13.m3u8
-CCTV-14（山西广电cs源）,http://live.sxrtv.com/iptv/cctv14.m3u8
-CCTV-15（山西广电cs源）,http://live.sxrtv.com/iptv/cctv15.m3u8
-CCTV-16（山西广电cs源）,http://live.sxrtv.com/iptv/cctv16.m3u8
-CCTV-17（山西广电cs源）,http://live.sxrtv.com/iptv/cctv17.m3u8
-北京卫视（山西广电cs源）,http://live.sxrtv.com/iptv/bjws.m3u8
-东方卫视（山西广电cs源）,http://live.sxrtv.com/iptv/dfws.m3u8
-浙江卫视（山西广电cs源）,http://live.sxrtv.com/iptv/zjws.m3u8
-江苏卫视（山西广电cs源）,http://live.sxrtv.com/iptv/jsws.m3u8
-湖南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hunws.m3u8
-广东卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gdws.m3u8
-深圳卫视（山西广电cs源）,http://live.sxrtv.com/iptv/szws.m3u8
-天津卫视（山西广电cs源）,http://live.sxrtv.com/iptv/tjws.m3u8
-安徽卫视（山西广电cs源）,http://live.sxrtv.com/iptv/ahws.m3u8
-山东卫视（山西广电cs源）,http://live.sxrtv.com/iptv/sdws.m3u8
-山西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/sxws.m3u8
-辽宁卫视（山西广电cs源）,http://live.sxrtv.com/iptv/lnws.m3u8
-河北卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hbws.m3u8
-河南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hnws.m3u8
-江西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/jxws.m3u8
-四川卫视（山西广电cs源）,http://live.sxrtv.com/iptv/scws.m3u8
-重庆卫视（山西广电cs源）,http://live.sxrtv.com/iptv/cqws.m3u8
-贵州卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gzws.m3u8
-湖北卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hubws.m3u8
-广西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gxws.m3u8
-云南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/ynws.m3u8
-东南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/dnws.m3u8
-海南卫视（山西广电cs源）,http://live.sxrtv.com/iptv/hinws.m3u8
-陕西卫视（山西广电cs源）,http://live.sxrtv.com/iptv/shxws.m3u8
-甘肃卫视（山西广电cs源）,http://live.sxrtv.com/iptv/gsws.m3u8
-宁夏卫视（山西广电cs源）,http://live.sxrtv.com/iptv/nxws.m3u8
-新疆卫视（山西广电cs源）,http://live.sxrtv.com/iptv/xjws.m3u8
-西藏卫视（山西广电cs源）,http://live.sxrtv.com/iptv/xzws.m3u8
-吉林卫视（山西广电cs源）,http://live.sxrtv.com/iptv/jlws.m3u8
-内蒙古视（山西广电cs源）,http://live.sxrtv.com/iptv/nmgws.m3u8
-黑龙江视（山西广电cs源）,http://live.sxrtv.com/iptv/hljws.m3u8
-山东教育（山西广电cs源）,http://live.sxrtv.com/iptv/sdce.m3u8
-CETV-01（山西广电cs源）,http://live.sxrtv.com/iptv/cetv1.m3u8
-CETV-02（山西广电cs源）,http://live.sxrtv.com/iptv/cetv2.m3u8
-CETV-04（山西广电cs源）,http://live.sxrtv.com/iptv/cetv4.m3u8
-金鹰卡通（山西广电cs源）,http://live.sxrtv.com/iptv/jykt.m3u8
-优漫卡通（山西广电cs源）,http://live.sxrtv.com/iptv/ymkt.m3u8
-卡酷少儿（山西广电cs源）,http://live.sxrtv.com/iptv/kkse.m3u8
-哈哈炫动（山西广电cs源）,http://live.sxrtv.com/iptv/hhxd.m3u8
-凤凰中文（山西广电cs源）,http://live.sxrtv.com/iptv/fhzw.m3u8
-凤凰资讯（山西广电cs源）,http://live.sxrtv.com/iptv/fhzx.m3u8
-凤凰香港（山西广电cs源）,http://live.sxrtv.com/iptv/fhhk.m3u8
-家庭影院（山西广电cs源）,http://live.sxrtv.com/iptv/chcjtyy.m3u8
-动作电影（山西广电cs源）,http://live.sxrtv.com/iptv/chcdzdy.m3u8
-影迷电影（山西广电cs源）,http://live.sxrtv.com/iptv/chcymdy.m3u8
+
 🇨🇳盖世豪侠,#genre#
 盖世豪侠国语_第01集,https://v.cdnlz19.com/20241016/50543_71a21da6/index.m3u8
 盖世豪侠国语_第02集,https://v.cdnlz19.com/20241016/50544_d6169bfe/index.m3u8
@@ -17346,7 +17283,7 @@ CETV-04（山西广电cs源）,http://live.sxrtv.com/iptv/cetv4.m3u8
 开心鬼救开心鬼,https://bfikuncdn.com/20221209/o9DBsTnx/index.m3u8
 
 
-洪金宝,#genre#
+🇲🇴洪金宝,#genre#
 九龙城寨之围城,https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/3000k/hls/mixed.m3u8
 东方秃鹰,https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/2000k/hls/mixed.m3u8
 王牌替身,https://super.ffzy-online6.com/20230526/12448_af49c23a/2000k/hls/mixed.m3u8
@@ -17419,7 +17356,7 @@ A计划,https://vip.ffzy-play7.com/20221115/4631_7c6bb09a/2000k/hls/mixed.m3u8
 铁金刚大破紫阳观,https://v.cdnlz17.com/20231009/28713_5531c328/2000k/hls/mixed.m3u8
 金装武术电影大全,https://vip.ffzy-play7.com/20230512/24614_d66a3f5d/2000k/hls/mixed.m3u8
 
-成龙,#genre#
+🇲🇴成龙,#genre#
 醉拳,https://vip.lzcdn2.com/20220407/2609_2d217427/1200k/hls/mixed.m3u8
 醉拳,https://vip.ffzy-play7.com/20230202/13070_b42acba9/2000k/hls/mixed.m3u8
 警察故事,https://vip.lz-cdn1.com/20220404/878_6675a846/1200k/hls/mixed.m3u8
@@ -17464,7 +17401,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 地球：神奇的一天,https://vip.lz-cdn3.com/20221114/15887_b3b2f329/1200k/hls/mixed.m3u8
 特务迷城,https://vip.lz-cdn1.com/20220411/1661_39b86486/1200k/hls/mixed.m3u8
 
-周润发,#genre#
+🇲🇴周润发,#genre#
 等待黎明,https://vip.ffzy-play7.com/20221115/4651_c81075c1/2000k/hls/mixed.m3u8
 老虎出更,https://vip.ffzy-play7.com/20221115/4695_1a19e77a/2000k/hls/mixed.m3u8
 我在黑社会的日子,https://vip.ffzy-play7.com/20221208/8724_89db1c6d/2000k/hls/mixed.m3u8
@@ -17475,7 +17412,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 小生梦惊魂,https://vip.ffzy-play2.com/20221129/1755_b054155e/2000k/hls/mixed.m3u8
 仙人掌,https://vip.ffzy-online2.com/20230328/28662_df61ac17/2000k/hls/mixed.m3u8
 
-李连杰,#genre#
+🇲🇴李连杰,#genre#
 黄飞鸿之铁鸡斗蜈蚣,https://vip.ffzy-play6.com/20221112/6386_1c2673b1/index.m3u8
 中南海保镖,https://vip.ffzy-play9.com/20221209/19580_e3bd0850/2000k/hls/mixed.m3u8
 太极张三丰,https://vip.ffzy-play7.com/20230117/11858_f034f8d4/2000k/hls/mixed.m3u8
@@ -17490,7 +17427,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 宇宙追缉令,https://vip.ffzy-play2.com/20221127/1642_8135c057/2000k/hls/mixed.m3u8
 致命罗密欧,https://vip.ffzy-play2.com/20221127/1665_72d39043/2000k/hls/mixed.m3u8
 
-张学友,#genre#
+🇲🇴张学友,#genre#
 旺角卡门,https://vip.ffzy-play1.com/20221018/469_ab458c38/2000k/hls/mixed.m3u8
 男人四十,https://vip.ffzy-play7.com/20230329/20280_b36587c6/2000k/hls/mixed.m3u8
 海关战线,https://svipsvip.ffzy-online5.com/20240809/31216_c17d923e/2000k/hls/mixed.m3u8
@@ -17517,7 +17454,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 南北妈打,https://yzzy.play-cdn2.com/20220428/16622_606ede4b/1000k/hls/index.m3u8
 都市煞星,https://vip.ffzy-play7.com/20221113/3885_a461edd6/2000k/hls/mixed.m3u8
 
-甄子丹,#genre#
+🇲🇴甄子丹,#genre#
 少年黄飞鸿之铁马骝,https://vip.ffzy-play7.com/20221227/9985_e1befb18/2000k/hls/mixed.m3u8
 肥龙过江,https://vip.ffzy-online.com/20221017/910_1576b6c4/2000k/hls/mixed.m3u8
 追龙,https://vip.ffzy-play7.com/20221104/1464_ed9d6c5d/2000k/hls/mixed.m3u8
@@ -17540,7 +17477,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 新流星蝴蝶剑,https://vip.ffzy-play7.com/20230205/13377_4d26288e/2000k/hls/mixed.m3u8
 亚洲警察之高压线,https://vip.lz-cdn1.com/20230807/21671_3906db69/2000k/hls/mixed.m3u8
 
-任达华,#genre#
+🇲🇴任达华,#genre#
 灯火阑珊,https://vip.ffzy-play7.com/20230307/17494_ed5b0578/2000k/hls/mixed.m3u8
 源生罪,https://svipsvip.ffzyread1.com/20240511/27066_d7a813a1/2000k/hls/mixed.m3u8
 枪火,https://vip.ffzy-play7.com/20221227/10065_b09200bc/2000k/hls/mixed.m3u8
@@ -17622,7 +17559,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 李小龙我的兄弟,https://vip.ffzy-online1.com/20230701/41980_07daaffe/2000k/hls/mixed.m3u8
 李小龙 勇士的旅程,https://v.cdnlz1.com/20231006/22447_ec6e96c8/2000k/hls/index.m3u8
 
-吴京,#genre#
+🇲🇴吴京,#genre#
 长津湖之水门桥,https://vip.ffzy-play7.com/20221125/7026_1ecb0db7/2000k/hls/mixed.m3u8
 龙马精神,https://vip.lz-cdn3.com/20230601/19230_cc788705/2000k/hls/mixed.m3u8
 杀破狼,https://vip.ffzy-play.com/20221018/1977_3ef7fe7e/2000k/hls/mixed.m3u8
@@ -17640,7 +17577,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 一百零八,https://vip.ffzy-play7.com/20221118/5714_0fec7a2b/2000k/hls/mixed.m3u8
 功夫小子闯情关,https://vip.ffzy-play7.com/20221228/10094_3e5fa330/2000k/hls/mixed.m3u8
 
-李小龙,#genre#
+🇲🇴李小龙,#genre#
 猛龙过江,https://vip.ffzy-play7.com/20221208/8881_22a8bff4/2000k/hls/mixed.m3u8
 唐山大兄,https://vip.ffzy-play7.com/20221208/8715_94658327/2000k/hls/mixed.m3u8
 死亡塔,https://vip.ffzy-play7.com/20221117/5079_56e2cb5b/2000k/hls/mixed.m3u8
@@ -17650,7 +17587,7 @@ A计划续集,https://vip1.lz-cdn10.com/20221012/2732_9fd148be/1200k/hls/mixed.m
 李小龙我的兄弟,https://vip.ffzy-online1.com/20230701/41980_07daaffe/2000k/hls/mixed.m3u8
 李小龙 勇士的旅程,https://v.cdnlz1.com/20231006/22447_ec6e96c8/2000k/hls/index.m3u8
 
-曾志伟,#genre#
+🇲🇴曾志伟,#genre#
 扫黑行动,https://vip.ffzy-play5.com/20221223/4516_35d91fad/2000k/hls/mixed.m3u8
 运财五福星,https://vip.ffzy-play7.com/20221208/8988_21580eb4/2000k/hls/mixed.m3u8
 不夜城,https://vip.ffzy-play7.com/20221117/4982_a11714a4/2000k/hls/mixed.m3u8
@@ -17721,7 +17658,7 @@ Laughing Gor之变节,https://vip.ffzy-play7.com/20221223/9358_12f199fb/2000k/hl
 奖门人Ladies First感谢祭,https://vip.lz-cdn5.com/20230417/50107_1f318169/2000k/hls/mixed.m3u8
 老少五个半,https://vip.lz-cdn3.com/20230711/20166_d2e21c20/2000k/hls/mixed.m3u8
 
-古天乐,#genre#
+🇲🇴古天乐,#genre#
 九龙城寨之围城（TC国语）,https://vip.ffzy-online1.com/20240503/48816_8ae8767f/2000k/hls/mixed.m3u8
 九龙城寨之围城,https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/3000k/hls/mixed.m3u8
 杀破狼·贪狼,https://vip.ffzy-play.com/20221018/1978_1c69325c/2000k/hls/mixed.m3u8
@@ -17757,7 +17694,7 @@ Laughing Gor之变节,https://vip.ffzy-play7.com/20221223/9358_12f199fb/2000k/hl
 当男人变成女人,https://vip.ffzy-play7.com/20221126/7171_0454943d/2000k/hls/mixed.m3u8
 脱皮爸爸,https://vip.ffzy-play7.com/20221106/1936_1bb0ddf1/2000k/hls/mixed.m3u8
 
-梁朝伟,#genre#
+🇲🇴梁朝伟,#genre#
 金手指,https://svipsvip.ffzyread1.com/20240213/24278_dc4a204f/2000k/hls/mixed.m3u8
 2046,https://vip.ffzy-play7.com/20221126/7051_2bcc22e4/2000k/hls/mixed.m3u8
 重庆森林,https://vip.ffzy-online1.com/20230711/42267_332d6423/2000k/hls/mixed.m3u8
@@ -17796,7 +17733,7 @@ Laughing Gor之变节,https://vip.ffzy-play7.com/20221223/9358_12f199fb/2000k/hl
 沙滩仔与周师奶,https://vip.ffzy-play7.com/20221113/4164_31b04baf/2000k/hls/mixed.m3u8
 人民英雄,https://vip.ffzy-play7.com/20230425/23122_ce832adb/2000k/hls/mixed.m3u8
 
-张柏芝,#genre#
+🇲🇴张柏芝,#genre#
 无极,https://vip.ffzy-play2.com/20221127/1566_f84cbddb/2000k/hls/mixed.m3u8
 喜剧之王,https://vip.ffzy-play1.com/20221128/25292_30a89f19/2000k/hls/mixed.m3u8
 白兰,https://v.cdnlz11.com/20231008/17707_7027886a/2000k/hls/mixed.m3u8
@@ -17805,7 +17742,7 @@ Laughing Gor之变节,https://vip.ffzy-play7.com/20221223/9358_12f199fb/2000k/hl
 第601个电话,https://vip.ffzy-online1.com/20231119/44355_9c06c1f7/2000k/hls/mixed.m3u8
 烈火战车2：极速传说,https://vip.ffzy-play7.com/20221112/3546_d05aafba/2000k/hls/mixed.m3u8
 
-王祖贤,#genre#
+🇲🇴王祖贤,#genre#
 青蛇,https://vip.ffzy-play7.com/20221129/7682_4b332ba7/2000k/hls/mixed.m3u8
 潘金莲之前世今生,https://vip.ffzy-play.com/20221012/111_d693496d/2000k/hls/mixed.m3u8
 赌神,https://vip.ffzy-online.com/20221017/865_74da177a/2000k/hls/mixed.m3u8
@@ -17840,7 +17777,7 @@ Laughing Gor之变节,https://vip.ffzy-play7.com/20221223/9358_12f199fb/2000k/hl
 绝桥智多星,https://vip.ffzy-play7.com/20221129/7664_2249081a/2000k/hls/mixed.m3u8
 中日南北和,https://vip.ffzy-play7.com/20230213/14647_bdbe50f4/2000k/hls/mixed.m3u8
 
-张曼玉,#genre#
+🇲🇴张曼玉,#genre#
 青蛇,https://vip.ffzy-play7.com/20221129/7682_4b332ba7/2000k/hls/mixed.m3u8
 旺角卡门,https://vip.ffzy-play1.com/20221018/469_ab458c38/2000k/hls/mixed.m3u8
 阮玲玉,https://vip.ffzy-play7.com/20221112/3683_1a5e9dde/2000k/hls/mixed.m3u8
@@ -17878,7 +17815,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/2000k/hls/mixed.
 南北妈打,https://yzzy.play-cdn2.com/20220428/16622_606ede4b/1000k/hls/index.m3u8
 再见王老五,https://vip.ffzy-play7.com/20221115/4821_f4c55cb2/2000k/hls/mixed.m3u8
 
-舒祺,#genre#
+🇲🇴舒祺,#genre#
 非诚勿扰,https://vip.ffzy-play2.com/20221021/162_cb2bb175/2000k/hls/mixed.m3u8
 非诚勿扰2,https://vip.ffzy-play2.com/20221021/163_a55441c0/2000k/hls/mixed.m3u8
 非诚勿扰3,https://svipsvip.ffzy-online5.com/20240210/23322_b4dde191/3000k/hls/mixed.m3u8
@@ -17892,7 +17829,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/2000k/hls/mixed.
 太极1：从零开始,https://vip.ffzy-play6.com/20221021/552_cf09a977/3000k/hls/mixed.m3u8
 赌圣3：无名小子,https://vip.ffzy-online.com/20221017/868_2102a61b/2000k/hls/mixed.m3u8
 
-梁永祺,#genre#
+🇲🇴梁永祺,#genre#
 绝世好宾,https://vip.ffzy-play7.com/20221127/7220_49bdbd9e/2000k/hls/mixed.m3u8
 向左走·向右走,https://vip.ffzy-play2.com/20221127/1595_61a4a45b/2000k/hls/mixed.m3u8
 烈火战车,https://vip.ffzy-play7.com/20221112/3545_a78b4310/2000k/hls/mixed.m3u8
@@ -17916,7 +17853,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/2000k/hls/mixed.
 初恋无限Touch,https://vip.ffzy-play7.com/20230101/10676_ff90dfa0/2000k/hls/mixed.m3u8
 爱与诚,https://vip.ffzy-play7.com/20221126/7074_1aa23884/2000k/hls/mixed.m3u8
 
-郭富城,#genre#
+🇲🇴郭富城,#genre#
 断网,https://vip.ffzy-play5.com/20230331/9556_1493c10d/2000k/hls/mixed.m3u8
 秘密访客,https://vip.ffzy-play.com/20221017/1806_53af7beb/2000k/hls/mixed.m3u8
 麦路人,https://vip.ffzy-play.com/20221017/1769_f64c061b/2000k/hls/mixed.m3u8
@@ -17943,7 +17880,7 @@ C+侦探,https://vip.ffzy-play7.com/20221126/7053_ebda59c5/2000k/hls/mixed.m3u8
 同谋,https://vip.ffzy-play7.com/20221026/164_f19562e7/2000k/hls/mixed.m3u8
 飞越危墙,https://vip.ffzy-play7.com/20221208/8581_acf1c717/2000k/hls/mixed.m3u8
 
-古天乐,#genre#
+🇲🇴古天乐,#genre#
 九龙城寨之围城（TC国语）,https://vip.ffzy-online1.com/20240503/48816_8ae8767f/2000k/hls/mixed.m3u8
 九龙城寨之围城,https://svipsvip.ffzy-online5.com/20240621/28901_46307ada/3000k/hls/mixed.m3u8
 杀破狼·贪狼,https://vip.ffzy-play.com/20221018/1978_1c69325c/2000k/hls/mixed.m3u8
@@ -17980,7 +17917,7 @@ C+侦探,https://vip.ffzy-play7.com/20221126/7053_ebda59c5/2000k/hls/mixed.m3u8
 当男人变成女人,https://vip.ffzy-play7.com/20221126/7171_0454943d/2000k/hls/mixed.m3u8
 脱皮爸爸,https://vip.ffzy-play7.com/20221106/1936_1bb0ddf1/2000k/hls/mixed.m3u8
 
-周迅,#genre#
+🇲🇴周迅,#genre#
 涉过愤怒的海,https://svipsvip.ffzy-online5.com/20240112/22044_85a08c7f/3000k/hls/mixed.m3u8
 画皮,https://vip.lzcdn2.com/20220326/639_8d96cc9f/1200k/hls/mixed.m3u8
 无名,https://vip.ffzy-online5.com/20230408/10322_2c83b46e/3000k/hls/mixed.m3u8
@@ -17991,7 +17928,7 @@ C+侦探,https://vip.ffzy-play7.com/20221126/7053_ebda59c5/2000k/hls/mixed.m3u8
 第十一回,https://vip.ffzy-online.com/20221017/831_38e2daca/2000k/hls/mixed.m3u8
 保持沉默,https://vip.ffzy-online.com/20221015/611_f8738b1f/2000k/hls/mixed.m3u8
 指甲刀人魔,https://vip.ffzy-play.com/20221015/1083_b0ccc089/2000k/hls/mixed.m3u8
-电影轮番,#genre#
+🇲🇴电影轮番,#genre#
 邵氏影院@代,http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
 绍兴影院频道,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 重温经典台,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
@@ -18463,7 +18400,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 白蛇浮生,https://svip.high21-playback.com/20241012/39356_3a2d9855/index.m3u8
 
 
-香港恐怖电影,#genre#
+🇲🇴香港恐怖电影,#genre#
 阴阳路,https://vip.ffzy-play7.com/20221112/3394_e69765a7/2000k/hls/mixed.m3u8
 阴阳路2我在你左右,https://vip.ffzy-play7.com/20221112/3396_ac1e1f2a/2000k/hls/mixed.m3u8
 阴阳路5一见发财,https://vip.ffzy-play7.com/20221209/9207_53b60760/2000k/hls/mixed.m3u8
@@ -18477,7 +18414,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 阴阳路14双鬼拍门,https://vip.ffzy-play7.com/20230509/24383_431edd0f/2000k/hls/mixed.m3u8
 阴阳路16回到武侠时代,https://vip.ffzy-play7.com/20230509/24385_b6da2f98/2000k/hls/mixed.m3u8
 
-武侠电影,#genre#
+🇲🇴武侠电影,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/2000k/hls/mixed.m3u8
 大唐妖物志杀人凤凰,https://vip1.lz-cdn1.com/20230805/21647_7091c87c/2000k/hls/mixed.m3u8
 东方三侠,https://vip1.lz-cdn1.com/20220522/6316_039c6a60/1200k/hls/mixed.m3u8
@@ -18541,7 +18478,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 少林寺,https://txmov2.a.kwimgs.com/bs3/video-hls/5224738611461369159_hlsb.m3u8
 黑帮战将,https://txmov2.a.kwimgs.com/upic/2023/02/10/16/BMjAyMzAyMTAxNjQ4MDlfNzM5MzQzNzIyXzk1ODkyNDQ4MjU2XzBfMw==_b_B1ae1380c0741f774b8e8c4da7275a154.mp4
 
-香港电影,#genre#
+🇲🇴香港电影,#genre#
 笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/2000k/hls/mixed.m3u8
 大唐妖物志杀人凤凰,https://vip1.lz-cdn1.com/20230805/21647_7091c87c/2000k/hls/mixed.m3u8
 东方三侠,https://vip1.lz-cdn1.com/20220522/6316_039c6a60/1200k/hls/mixed.m3u8
@@ -18605,7 +18542,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 少林寺,https://txmov2.a.kwimgs.com/bs3/video-hls/5224738611461369159_hlsb.m3u8
 黑帮战将,https://txmov2.a.kwimgs.com/upic/2023/02/10/16/BMjAyMzAyMTAxNjQ4MDlfNzM5MzQzNzIyXzk1ODkyNDQ4MjU2XzBfMw==_b_B1ae1380c0741f774b8e8c4da7275a154.mp4
 
-邵氏电影,#genre#
+🇲🇴邵氏电影,#genre#
 马永贞,https://vip.ffzy-play7.com/20221206/8109_3c4ca01d/2000k/hls/mixed.m3u8
 流星蝴蝶剑,https://s3.bfzycdn.com/video/liuxinghudiejian/HD%E5%9B%BD%E8%AF%AD/index.m3u8
 江湖三女侠,https://vip.ffzy-play7.com/20221128/7573_ff6822fe/2000k/hls/mixed.m3u8
@@ -18645,7 +18582,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 星际钝胎,https://vip.ffzy-play7.com/20230202/13049_4266dd5a/2000k/hls/mixed.m3u8
 金玉良缘红楼梦,https://vip.ffzy-play7.com/20230205/13338_f240f890/2000k/hls/mixed.m3u8
 今夜星光灿烂,https://vip.ffzy-play7.com/20230209/14006_fa53cdf0/2000k/hls/mixed.m3u8
-香港警花,#genre#
+🇲🇴香港警花,#genre#
 皇家保镖,https://vip.ffzy-play7.com/20221118/5513_264e5b29/2000k/hls/mixed.m3u8
 皇家战士,https://vip.ffzy-play7.com/20221115/4499_7199f462/2000k/hls/mixed.m3u8
 皇家师姐4直击证人,https://vip.ffzy-play7.com/20221115/4672_a1ac54d0/2000k/hls/mixed.m3u8
@@ -18653,7 +18590,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 92霸王花与霸王花,https://vip.lz-cdn3.com/20230712/20188_fbb24111/2000k/hls/mixed.m3u8
 城市女猎人,https://yzzy.play-cdn17.com/20230728/13536_a3ecdb22/2000k/hls/index.m3u8
 积奇玛莉,https://vip.ffzy-play7.com/20221113/4120_ca4b6aa5/2000k/hls/mixed.m3u8
-鬼片点播,#genre#
+🇲🇴鬼片点播,#genre#
 笔仙大战贞子2,https://v.cdnlz19.com/20240528/34941_6e16bb95/index.m3u8
 笔仙大战贞子,https://v.cdnlz19.com/20240528/34938_b3f1c6ba/index.m3u8
 阴阳界1974,https://v.cdnlz19.com/20240423/30922_846a2982/index.m3u8
@@ -18852,7 +18789,7 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 第十九集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC19%E9%9B%86/index.m3u8
 第二十集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC20%E9%9B%86/index.m3u8
 第二十一集,https://s2.bfengbf.com/video/meihuasannongzhimeihualao/%E7%AC%AC21%E9%9B%86/index.m3u8
-猫影🌸TV,#genre#
+🇲🇴猫影🌸TV,#genre#
 
 天龙八部之乔峰传,https://vip.ffzy-play5.com/20230121/6052_87b1c663/2000k/hls/mixed.m3u8?txiptv&playlive
 第二十条TH,https://vip.ffzy-play2.com/20240215/59562_169d8bd2/2000k/hls/mixed.m3u8
@@ -19886,3 +19823,331 @@ offer1,http://dns.yiandrive.com:13571/huya/30080237
 剧集_地下交通站,http://dns.yiandrive.com:13571/huya/11342433
 剧集_邻里一家亲,http://dns.yiandrive.com:13571/huya/11342426
 搞笑_陈翔六点半,http://dns.yiandrive.com:13571/huya/11274154
+🇲🇴速度与激情系列(11部),#genre#
+速度与激情1HD中字,https://yzzy.play-cdn17.com/20230724/12450_b1d2b665/index.m3u8
+速度与激情2HD中字,https://yzzy.play-cdn17.com/20230724/12451_fb4ec5d1/index.m3u8
+速度与激情3HD中字,https://yzzy.play-cdn17.com/20230724/12452_4d526498/index.m3u8
+速度与激情4HD中字,https://yzzy.play-cdn17.com/20230724/12453_99d3215f/index.m3u8
+速度与激情5HD中字,https://yzzy.play-cdn17.com/20230724/12454_6a3326e4/index.m3u8
+速度与激情6HD中字,https://yzzy.play-cdn17.com/20230724/12455_87ccb231/index.m3u8
+速度与激情7HD中字,https://yzzy.play-cdn17.com/20230724/12456_499857b7/index.m3u8
+速度与激情7HD国语,https://yzzy21.playback-speed.com/20250320/42090_04ac4332/index.m3u8
+速度与激情8HD中字,https://yzzy.play-cdn17.com/20230731/14019_354d43e9/index.m3u8
+速度与激情9HD中字,https://yzzy.play-cdn12.com/20221229/12848_19dd3dd1/index.m3u8
+速度与激情9HD国语,https://svip.yyzy-play.vip/20250119/21453_eb12b2db/index.m3u8
+速度与激情10HD中字,https://vip15.play-cdn15.com/20230610/15338_08b48b5a/index.m3u8
+速度与激情:特别行动HD中字,https://yzzy.play-cdn10.com/20221215/19023_4e42ecd6/index.m3u8
+速度与激情:特别行动HD国语,https://yzzy.play-cdn10.com/20221215/19022_20e56aa9/index.m3u8
+🇲🇴007系列(27部),#genre#
+(1962)007:诺博士HD中字,https://yzzy.play-cdn4.com/20220615/20480_12c0bb06/index.m3u8
+(1963)007:俄罗斯之恋HD中字,https://yzzy.play-cdn2.com/20220504/18490_5527b4c7/index.m3u8
+(1964)007:金手指HD中字,https://vvip.high26-playback.com/20250612/10729_f9b9f0fe/index.m3u8
+(1965)007:霹雳弹HD中字,https://yzzy.play-cdn2.com/20220504/18497_438df417/index.m3u8
+*(1967)007:雷霆谷HD中字,https://vip.ffzy-online2.com/20230519/37605_17098b84/index.m3u8
+*(1967)007别传:皇家夜总会HD中字,https://vip.ffzy-online2.com/20230518/37600_af383445/index.m3u8
+(1969)007:女王密使HD中字,https://yzzy.play-cdn2.com/20220504/18496_841eaac0/index.m3u8
+(1971)007:金刚钻HD中字,https://yzzy.play-cdn2.com/20220504/18493_e1e6b7a4/index.m3u8
+(1973)007:你死我活HD中字,https://yzzy.play-cdn2.com/20220503/17874_158ee7fa/index.m3u8
+(1974)007:金枪人HD中字,https://yzzy.play-cdn2.com/20220504/18494_7efb497d/index.m3u8
+(1977)007:海底城HD中字,https://yzzy.play-cdn2.com/20220504/18491_684e11c5/index.m3u8
+(1979)007:太空城HD中字,https://yzzy.play-cdn2.com/20220504/18498_0f3ff018/index.m3u8
+(1981)007:最高机密HD中字,https://yzzy.play-cdn2.com/20220504/18500_6c713bc6/index.m3u8
+*(1983)007外传:之巡弋飞弹HD中字,https://vip.ffzy-play7.com/20221224/9546_aa79da60/index.m3u8
+*(1983)007:八爪女HD中字,https://vip.ffzy-play7.com/20221224/9547_99185294/index.m3u8
+(1985)007:雷霆杀机HD中字,https://yzzy.play-cdn17.com/20230825/17096_a94ac250/index.m3u8
+(1987)007:黎明生机HD中字,https://yzzy.play-cdn2.com/20220504/18495_3795f9f7/index.m3u8
+(1989)007:杀人执照HD中字,https://yzzy.play-cdn2.com/20220504/18499_39bdf9c7/index.m3u8
+(1995)007:黄金眼HD中字,https://v2.yzzy5-play.com/20220519/16824_ea966a00/index.m3u8
+*(1997)007:明日帝国HD中字,https://vip.ffzy-play7.com/20221224/9556_b3acc075/index.m3u8
+(1999)007:黑日危机HD中字,https://yzzy.play-cdn2.com/20220504/18492_40495627/index.m3u8
+(2002)007:择日而亡HD中字,https://vip.ffzy-play7.com/20221224/9562_82951080/index.m3u8
+(2006)007:大战皇家赌场HD中字,https://yzzy.play-cdn2.com/20220504/18487_de6f47d1/index.m3u8
+*(2006)007:大战皇家赌场HD国语,https://vip.ffzy-play7.com/20221126/7040_c99863fb/index.m3u8
+(2008)007:大破量子危机HD中字,https://yzzy.play-cdn2.com/20220504/18485_eff49624/index.m3u8
+(2008)007:大破量子危机HD国语,https://yzzy.play-cdn10.com/20221122/13889_5ddec193/index.m3u8
+(2012)007:大破天幕杀机HD中字,https://yzzy.play-cdn2.com/20220504/18486_dd7ea533/index.m3u8
+(2015)007:幽灵党HD中字,https://yzzy.play-cdn2.com/20220504/18488_4386d5f8/index.m3u8
+(2021)007:无暇赴死HD中字,https://yzzy.play-cdn17.com/20230730/13750_9133dcbc/index.m3u8
+(1981)007:最高机密HD中字,https://yzzy.play-cdn2.com/20220504/18500_6c713bc6/index.m3u8
+*(1983)007外传:之巡弋飞弹HD中字,https://vip.ffzy-play7.com/20221224/9546_aa79da60/index.m3u8
+*(1983)007:八爪女HD中字,https://vip.ffzy-play7.com/20221224/9547_99185294/index.m3u8
+(1985)007:雷霆杀机HD中字,https://yzzy.play-cdn17.com/20230825/17096_a94ac250/index.m3u8
+(1987)007:黎明生机HD中字,https://yzzy.play-cdn2.com/20220504/18495_3795f9f7/index.m3u8
+(1989)007:杀人执照HD中字,https://yzzy.play-cdn2.com/20220504/18499_39bdf9c7/index.m3u8
+(1995)007:黄金眼HD中字,https://v2.yzzy5-play.com/20220519/16824_ea966a00/index.m3u8
+*(1997)007:明日帝国HD中字,https://vip.ffzy-play7.com/20221224/9556_b3acc075/index.m3u8
+(1999)007:黑日危机HD中字,https://yzzy.play-cdn2.com/20220504/18492_40495627/index.m3u8
+(2002)007:择日而亡HD中字,https://vip.ffzy-play7.com/20221224/9562_82951080/index.m3u8
+(2006)007:大战皇家赌场HD中字,https://yzzy.play-cdn2.com/20220504/18487_de6f47d1/index.m3u8
+*(2006)007:大战皇家赌场HD国语,https://vip.ffzy-play7.com/20221126/7040_c99863fb/index.m3u8
+(2008)007:大破量子危机HD中字,https://yzzy.play-cdn2.com/20220504/18485_eff49624/index.m3u8
+(2008)007:大破量子危机HD国语,https://yzzy.play-cdn10.com/20221122/13889_5ddec193/index.m3u8
+(2012)007:大破天幕杀机HD中字,https://yzzy.play-cdn2.com/20220504/18486_dd7ea533/index.m3u8
+(2015)007:幽灵党HD中字,https://yzzy.play-cdn2.com/20220504/18488_4386d5f8/index.m3u8
+(2021)007:无暇赴死HD中字,https://yzzy.play-cdn17.com/20230730/13750_9133dcbc/index.m3u8
+🇲🇴林正英合辑(89部),#genre#
+败家仔,https://vip.ffzy-play7.com/20221207/8332_71c25e63/2000k/hls/mixed.m3u8
+蝙蝠传奇,https://vip.ffzy-play7.com/20221206/8033_f037643b/2000k/hls/mixed.m3u8
+搏命单刀夺命枪,https://vip.ffzy-play7.com/20221208/8546_fa0622b4/2000k/hls/mixed.m3u8
+大内高手,https://vip.lzcdn2.com/20221112/22453_c40f2866/1200k/hls/mixed.m3u8
+东方秃鹰,https://vip.ffzy-play7.com/20221209/9044_d3e0dbd4/2000k/hls/mixed.m3u8
+多情剑客无情剑,https://vip.ffzy-play6.com/20221206/10288_62ea15ab/3000k/hls/mixed.m3u8
+发钱寒,https://vip.ffzy-play7.com/20221224/9575_be9276d1/2000k/hls/mixed.m3u8
+非洲和尚,https://vip.ffzy-play6.com/20221129/9317_8c6065f3/3000k/hls/mixed.m3u8
+福星高照,https://vip.ffzy-play6.com/20221128/8904_328483ba/3000k/hls/mixed.m3u8
+富贵列车,https://vip.ffzy-play7.com/20221206/8232_7462fce8/2000k/hls/mixed.m3u8
+鬼打鬼,https://vip.ffzy-play7.com/20221115/4476_05997c13/2000k/hls/mixed.m3u8
+鬼打鬼之黄金道士,https://vip.ffzy-play6.com/20221112/6296_32b14901/3000k/hls/mixed.m3u8
+鬼打鬼之灵幻天师,https://vip.ffzy-play6.com/20221117/7433_03cf2e94/3000k/hls/mixed.m3u8
+鬼干部,https://vip.ffzy-play6.com/20221112/6298_1dd44909/3000k/hls/mixed.m3u8
+鬼咬鬼,https://vip.ffzy-play7.com/20221208/8822_26a70529/2000k/hls/mixed.m3u8
+合气道,https://yzzy.play-cdn6.com/20220625/1515_8bf6c42a/1000k/hls/mixed.m3u8
+洪福齐天,https://v5.fentvoss.com/yyv5/202504/05/g6byETNzAK23/video/2000k_1080/hls/index.m3u8
+洪熙官,https://vip.ffzy-play7.com/20221223/9381_0fb84a1d/2000k/hls/mixed.m3u8
+哗鬼旅行团,https://vip.ffzy-play6.com/20221129/9331_792c1e13/3000k/hls/mixed.m3u8
+画皮之阴阳法王,https://vip.ffzy-play6.com/20221112/6372_478fbcc6/3000k/hls/mixed.m3u8
+黄大仙,https://vip.ffzy-play6.com/20221129/9334_1b618e68/3000k/hls/mixed.m3u8
+黄飞鸿少林拳,https://vip.ffzy-play7.com/20221128/7561_64e57fa4/2000k/hls/mixed.m3u8
+黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/3000k/hls/mixed.m3u8
+黄面老虎,https://vip.ffzy-play7.com/20221128/7563_962c84dc/2000k/hls/mixed.m3u8
+僵尸叔叔,https://vip.ffzy-play6.com/20221205/9855_c705b6ee/3000k/hls/mixed.m3u8
+僵尸至尊,https://vip.ffzy-play6.com/20221129/9344_44b64a1a/3000k/hls/mixed.m3u8
+精灵变,https://vip.ffzy-play6.com/20221129/9345_57e7db60/3000k/hls/mixed.m3u8
+老虎田鸡,https://vip.ffzy-play7.com/20221224/9583_f95a6383/2000k/hls/mixed.m3u8
+李小龙的生与死,https://vip.ffzy-play7.com/20221128/7616_58d018a9/2000k/hls/mixed.m3u8
+林世荣,https://vip.ffzy-play7.com/20221209/9096_70ae66c7/2000k/hls/mixed.m3u8
+灵幻先生,https://vip.ffzy-play7.com/20221115/4538_ddf6020e/2000k/hls/mixed.m3u8
+灵幻至尊,https://vip.ffzy-play7.com/20221112/3550_cbc3226a/2000k/hls/mixed.m3u8
+六刺客,https://vip.ffzy-play6.com/20221207/10729_e7511f80/3000k/hls/mixed.m3u8
+龙的心,https://vip.ffzy-play7.com/20221115/4539_8b9150f6/2000k/hls/mixed.m3u8
+龙门秘指,https://vip.ffzy-play7.com/20221226/9856_9ba5efe5/2000k/hls/mixed.m3u8
+龙争虎斗,https://vip.ffzy-play7.com/20221228/10118_7f88f7bd/2000k/hls/mixed.m3u8
+陆小凤传奇之绣花大盗,https://vip.ffzy-online4.com/20230410/19075_6d68c802/2000k/hls/mixed.m3u8
+猛龙过江,https://vip.ffzy-play7.com/20221208/8881_22a8bff4/2000k/hls/mixed.m3u8
+密宗威龙,https://vip.ffzy-play7.com/20221112/3607_e49d9e93/2000k/hls/mixed.m3u8
+霹雳大喇叭,https://vip.ffzy-play6.com/20221116/7273_4a3cfe1f/3000k/hls/mixed.m3u8
+破戒,https://vip.ffzy-play6.com/20221128/9079_00447336/3000k/hls/mixed.m3u8
+七小福,https://vip.ffzy-play6.com/20221117/7398_2ddb4dac/3000k/hls/mixed.m3u8
+奇妙的家族,https://vip.ffzy-play7.com/20230117/11759_452a52a8/2000k/hls/mixed.m3u8
+奇谋妙计五福星,https://vip.ffzy-play7.com/20221115/4730_a7515224/2000k/hls/mixed.m3u8
+钱作怪,https://vip.ffzy-play7.com/20230204/13185_290d13f1/2000k/hls/mixed.m3u8
+青蜂侠,https://vip.ffzy-play7.com/20221228/10200_d6cc00ae/2000k/hls/mixed.m3u8
+驱魔道长,https://vip.ffzy-play7.com/20221112/3670_136b232e/2000k/hls/mixed.m3u8
+驱魔警察,https://vip.ffzy-play6.com/20221205/9856_18a53055/3000k/hls/mixed.m3u8
+群龙戏凤,https://vip.ffzy-play7.com/20230423/22931_b2b1c621/2000k/hls/mixed.m3u8
+人吓鬼,https://vip.ffzy-play7.com/20221115/4745_3dce763c/2000k/hls/mixed.m3u8
+人吓人,https://super.ffzy-online6.com/20230714/14967_5820b006/2000k/hls/mixed.m3u8
+三德和尚与舂米六,https://vip.ffzy-play6.com/20221128/9099_38718b59/3000k/hls/mixed.m3u8
+三勇士蛮荒救美,https://vip.lz-cdn16.com/20230630/29748_e678ba6d/2000k/hls/mixed.m3u8
+少林英雄之方世玉洪熙官,https://vip.ffzy-play6.com/20221129/9401_ce41b202/3000k/hls/mixed.m3u8
+身不由己,https://vip.ffzy-play6.com/20221128/8989_246e279f/3000k/hls/mixed.m3u8
+神枪手与咖喱鸡,https://vip.ffzy-play7.com/20221129/7684_7ac9e104/2000k/hls/mixed.m3u8
+神勇双响炮,https://vip.ffzy-play6.com/20221128/8991_916bbcd1/3000k/hls/mixed.m3u8
+时来运转,https://vip.ffzy-play7.com/20221209/9156_396eac04/2000k/hls/mixed.m3u8
+甩皮鬼,https://vip.ffzy-play6.com/20221112/6431_ce84a705/3000k/hls/mixed.m3u8
+双龙出海,https://vip.ffzy-play6.com/20221128/8994_10fc14d3/3000k/hls/mixed.m3u8
+死亡游戏,https://vip.ffzy-play6.com/20221128/9133_9ec7be0f/3000k/hls/mixed.m3u8
+四大门派,https://vip.ffzy-play6.com/20221128/9134_0b15a161/3000k/hls/mixed.m3u8
+跆拳震九州,https://yzzy.play-cdn7.com/20220625/514_a24ba1dc/1000k/hls/mixed.m3u8
+太阳之子,https://vip.ffzy-play6.com/20221129/9413_5606ff04/3000k/hls/mixed.m3u8
+唐山大兄,https://vip.ffzy-play7.com/20221208/8715_94658327/2000k/hls/mixed.m3u8
+天地玄门,https://vip.ffzy-play6.com/20221112/6127_d615f342/3000k/hls/mixed.m3u8
+铁甲无敌玛利亚,https://vip.ffzy-play6.com/20221128/9003_3adc165f/3000k/hls/mixed.m3u8
+舞台姐妹,https://vip.ffzy-play6.com/20221128/9190_67fbf67d/3000k/hls/mixed.m3u8
+舞台姊妹,https://vip.ffzy-play6.com/20221113/6760_3854605e/3000k/hls/mixed.m3u8
+侠女,https://vip.ffzy-play6.com/20221207/10660_5351d881/3000k/hls/mixed.m3u8
+咸鱼翻生,https://vip.ffzy-play6.com/20221116/7303_5bfc21ee/3000k/hls/mixed.m3u8
+笑傲江湖,https://vip.ffzy-play7.com/20221129/7696_58fbd289/2000k/hls/mixed.m3u8
+新僵尸先生,https://vip.ffzy-play6.com/20221129/9451_47cd067c/3000k/hls/mixed.m3u8
+醒目仔蛊惑招,https://vip.ffzy-play7.com/20221227/10014_ac5cb8a8/2000k/hls/mixed.m3u8
+羞羞鬼,https://vip.ffzy-play7.com/20221112/3366_3a1a794c/2000k/hls/mixed.m3u8
+学校风云,https://vip.ffzy-play7.com/20221209/9201_9f4d986a/2000k/hls/mixed.m3u8
+血符门,https://vip.ffzy-play6.com/20221128/9225_3ae2ace7/3000k/hls/mixed.m3u8
+血玫瑰,https://vip.ffzy-play6.com/20221116/7310_02f7420d/3000k/hls/mixed.m3u8
+妖怪都市,https://vip.ffzy-play6.com/20221129/9462_bbbcc871/3000k/hls/mixed.m3u8
+一眉道人,https://vip.ffzy-play7.com/20221115/4803_1731be32/2000k/hls/mixed.m3u8
+音乐僵尸,https://vip.ffzy-play6.com/20221207/10627_09b3f2e5/3000k/hls/mixed.m3u8
+英雄无泪,https://vip.ffzy-play6.com/20221207/10694_f9088e66/3000k/hls/mixed.m3u8
+赢钱专家,https://vip.ffzy-play6.com/20221113/6794_d514b390/3000k/hls/mixed.m3u8
+杂家小子,https://vip.ffzy-play6.com/20221128/9261_f18e5614/3000k/hls/mixed.m3u8
+赞先生与找钱华,https://vip.ffzy-play6.com/20221207/10710_1642c7db/3000k/hls/mixed.m3u8
+直捣黄龙,https://vip.lz-cdn3.com/20230623/19785_d14d1e58/2000k/hls/mixed.m3u8
+中国最后一个太监,https://vip.ffzy-play6.com/20221128/9044_42d732f5/3000k/hls/mixed.m3u8
+钟馗嫁妹,https://vip.ffzy-play7.com/20221129/7746_6b5ae2e8/2000k/hls/mixed.m3u8
+追魂伞,https://vip.ffzy-play7.com/20221129/7753_bd15d501/2000k/hls/mixed.m3u8
+🇲🇴周星驰合辑(51部),#genre#
+伴我纵横,https://vip.ffzy-play7.com/20221126/7087_cafd78d5/2000k/hls/mixed.m3u8
+暴风眼,https://vip.ffzy-play7.com/20230213/14539_252712d5/2000k/hls/mixed.m3u8
+迟到的钢琴,https://vip.ffzy-play6.com/20221127/8752_554f93c9/3000k/hls/mixed.m3u8
+第六感,https://vip.ffzy-play7.com/20230325/19608_e95a3a84/2000k/hls/mixed.m3u8
+赌豪,https://vip.ffzy-play7.com/20221113/3889_e13fa0f9/2000k/hls/mixed.m3u8
+赌神,https://vip.ffzy-online.com/20221017/865_74da177a/2000k/hls/mixed.m3u8
+赌神2,https://vip.ffzy-play7.com/20230116/11633_72296dc8/2000k/hls/mixed.m3u8
+赌圣,https://vip.ffzy-play7.com/20230118/11963_d17bc05a/2000k/hls/mixed.m3u8
+赌侠,https://vip.ffzy-online.com/20221017/869_4ed0959f/2000k/hls/mixed.m3u8
+赌侠2：上海滩赌圣,https://vip.ffzy-online.com/20221017/870_24fd00ae/2000k/hls/mixed.m3u8
+飞狐外传,https://vip.lz-cdn.com/20220731/26529_5862e7cc/1000k/hls/mixed.m3u8
+飞女正传,https://vip.ffzy-play7.com/20221113/4102_e33b4c49/2000k/hls/mixed.m3u8
+花心梦里人,https://vip.ffzy-play7.com/20221117/5144_8902cf15/2000k/hls/mixed.m3u8
+黄飞鸿之铁鸡斗蜈蚣,https://vip.ffzy-play6.com/20221112/6386_1c2673b1/3000k/hls/mixed.m3u8
+火舞风云,https://vip.ffzy-play7.com/20221117/5035_7a0d5a2c/2000k/hls/mixed.m3u8
+精装追女仔之3狼之一族,https://vip.ffzy-play6.com/20221129/9346_67ee848d/3000k/hls/mixed.m3u8
+九品芝麻官,https://vip.ffzy-play6.com/20221205/9996_68ad8079/3000k/hls/mixed.m3u8
+绝代双骄,https://vip.ffzy-play6.com/20221129/9355_e351af0a/3000k/hls/mixed.m3u8
+冷面狙击手,https://vip.ffzy-play7.com/20221207/8414_998951ce/2000k/hls/mixed.m3u8
+两个独立包装的女人,https://vip.ffzy-play7.com/20230208/13843_637c62ad/2000k/hls/mixed.m3u8
+鹿鼎记,https://vip.ffzy-online2.com/20230403/30732_157cb8d7/2000k/hls/mixed.m3u8
+鹿鼎记2：神龙教,https://vip.ffzy-play7.com/20230101/10739_492582b8/2000k/hls/mixed.m3u8
+漫画威龙,https://vip.ffzy-play.com/20221204/29460_10c83a7c/2000k/hls/mixed.m3u8
+猛鬼大厦,https://vip.ffzy-play7.com/20230417/22513_80b3e3ec/2000k/hls/mixed.m3u8
+魔翡翠,https://vip.ffzy-play6.com/20221116/7271_d99e19b6/3000k/hls/mixed.m3u8
+女黑侠黄莺,https://vip.ffzy-play7.com/20221112/3630_03f13a25/2000k/hls/mixed.m3u8
+神经刀与飞天猫,https://cos.m3u8hw8.com/share/9da67bf46a124f5e8189204bdab2d000.m3u8
+十兄弟,https://vip.ffzy-play6.com/20221112/6056_8848a0e8/3000k/hls/mixed.m3u8
+逃学外传,https://vip.ffzy-play6.com/20221112/6098_d8697665/3000k/hls/mixed.m3u8
+逃学威龙,https://vip.ffzy-play6.com/20221112/6099_f4649b91/3000k/hls/mixed.m3u8
+逃学威龙2,https://vip.ffzy-play6.com/20221112/6101_3ea56df6/3000k/hls/mixed.m3u8
+逃学威龙3之龙过鸡年,https://vip.ffzy-play6.com/20221112/6103_d6c1afdb/3000k/hls/mixed.m3u8
+逃学英雄传,https://vip.ffzy-play7.com/20221209/9162_6cf398aa/2000k/hls/mixed.m3u8
+五亿探长雷洛传1：雷老虎,https://vip.ffzy-online.com/20221015/672_cd3f2629/2000k/hls/mixed.m3u8
+五亿探长雷洛传2：父子情仇,https://vip.ffzy-online.com/20221015/676_0dc45896/2000k/hls/mixed.m3u8
+武侠七公主,https://vip.ffzy-play7.com/20230423/22946_f55e7919/2000k/hls/mixed.m3u8
+武状元苏乞儿,https://vip.ffzy-play7.com/20221112/3309_a8fac958/2000k/hls/mixed.m3u8
+西环的故事,https://vip.ffzy-play7.com/20221112/3312_5634eb79/2000k/hls/mixed.m3u8
+小小小警察,https://vip.ffzy-play7.com/20230131/12926_ddf93907/2000k/hls/mixed.m3u8
+新碧血剑,https://vip.ffzy-play6.com/20221129/9447_854e400a/3000k/hls/mixed.m3u8
+新精武门1991,https://vip.ffzy-play6.com/20221206/10147_2266b628/3000k/hls/mixed.m3u8
+新天龙八部之天山童姥,https://vip.ffzy-play7.com/20221112/3355_8fe53bcd/2000k/hls/mixed.m3u8
+妖魔道,https://vip.ffzy-play7.com/20221112/3373_6cc5dc0c/2000k/hls/mixed.m3u8
+一屋哨牙鬼,https://vip.ffzy-play7.com/20230129/12728_f8fc1a8f/2000k/hls/mixed.m3u8
+倚天屠龙记之魔教教主,https://vip.ffzy-online1.com/20230622/41615_05003dd5/2000k/hls/mixed.m3u8
+有鬼住在隔壁,https://vip.lz-cdn1.com/20230809/21713_b9ce36a6/2000k/hls/mixed.m3u8
+与龙共舞,https://vip.ffzy-play6.com/20221207/10859_1b02d27c/3000k/hls/mixed.m3u8
+芝士火腿,https://vip.ffzy-play6.com/20221113/6820_edb7dd0d/3000k/hls/mixed.m3u8
+至尊无上,https://vip.ffzy-play.com/20221015/1086_9576a463/2000k/hls/mixed.m3u8
+追日,https://vip.ffzy-play7.com/20221129/7755_3a0215ed/2000k/hls/mixed.m3u8
+最佳女婿,https://vip.ffzy-play7.com/20221116/4842_087288a0/2000k/hls/mixed.m3u8
+🇲🇴科幻片,#genre#
+神奇4侠：初露锋芒2025TS中字科幻片美国,https://cdn.yzzy29-play.com/20250811/558_1bb91f73/index.m3u8
+引力弹弓2024HD中字科幻片,https://cdn.yzzy29-play.com/20250811/550_01f78be6/index.m3u8
+同甘共苦2025HD中字科幻片美国,https://cdn.yzzy29-play.com/20250809/541_16c222aa/index.m3u8
+侏罗纪世界：重生2025(HD中字),https://cdn.yzzy29-play.com/20250805/498_05f971b5/index.m3u8
+异形大灾难1985(HD中字),https://cdn.yzzy29-play.com/20250803/481_9461cce2/index.m3u8
+惊变28年2025(HD中字)2025,https://cdn.yzzy29-play.com/20250731/452_9431c87f/index.m3u8
+发条橙1971(HD中字),https://cdn.yzzy27-play.com/20250726/11672_2e23b644/index.m3u8
+火线1984(HD中字),https://cdn.yzzy27-play.com/20250726/11671_9274eae5/index.m3u8
+第五元素1997(HD中字),https://cdn.yzzy28-play.com/20250724/9545_83a70336/index.m3u8
+梅根2.02025(HD中字),https://cdn.yzzy29-play.com/20250715/340_40008b9a/index.m3u8
+血偿2025(HD中字),https://cdn.yzzy29-play.com/20250712/307_8e98d81f/index.m3u8
+砖墙谜攻2025(HD中字),https://cdn.yzzy29-play.com/20250712/311_9dfcd5e5/index.m3u8
+禁忌地带2025(HD国语),https://cdn.yzzy29-play.com/20250704/246_38db3aed/index.m3u8
+浩劫后1983(HD中字),https://cdn.yzzy27-play.com/20250704/9087_a2b15837/index.m3u8
+开心超人之逆世营救2025(HD国语),https://cdn.yzzy29-play.com/20250702/223_115f8950/index.m3u8
+谎花2024(HD中字),https://cdn.yzzy29-play.com/20250701/203_e2c0be24/index.m3u8
+红土地2025(HD国语),https://cdn.yzzy29-play.com/20250627/163_0777d5c1/index.m3u8
+捕梦网2003(HD中字版),https://vvip.high26-playback.com/20250625/12165_2b1a9e41/index.m3u8
+人类终结(HD中字),https://cdn.yzzy29-play.com/20250619/113_73278a4a/index.m3u8
+拦截终结者2009(HD中字),https://cdn.yzzy29-play.com/20250619/112_7f6ffaa6/index.m3u8
+终结者2018(HD国语),https://cdn.yzzy28-play.com/20250619/5542_bd4d08cd/index.m3u8
+终结者2018(HD中字),https://cdn.yzzy28-play.com/20250619/5543_a10a2663/index.m3u8
+终结者3/2003(HD国语),https://cdn.yzzy27-play.com/20250620/7385_ce1aad92/index.m3u8
+终结者3/2003(HD中字),https://cdn.yzzy27-play.com/20250620/7386_5735c3a7/index.m3u8
+极寒潜袭2025(HD中字),https://cdn.yzzy29-play.com/20250618/96_26657d5f/index.m3u8
+如何破获自己的谋杀案2024(HD中字),https://cdn.yzzy29-play.com/20250615/69_14bfa6bb/index.m3u8
+终结者1984(HD国语),https://vvip.high26-playback.com/20250614/10847_b460cf6b/index.m3u8
+终结者1984(HD中字),https://vvip.high26-playback.com/20250614/10848_0e44b9ca/index.m3u8
+梦魇2024(HD中字),https://cdn.yzzy29-play.com/20250612/46_d9d4f495/index.m3u8
+预言1979(HD中字),https://cdn.yzzy29-play.com/20250611/42_a1d0c6e8/index.m3u8
+人间大浩劫1971(HD中字),https://cdn.yzzy29-play.com/20250608/11_6512bd43/index.m3u8
+杰森在太空2001(HD中字),https://cdn.yzzy29-play.com/20250608/7_8f14e45f/index.m3u8
+星际监狱2025(HD中字),https://yzzy21.playback-speed.com/20250528/43102_0c958f74/index.m3u8
+北海巨妖2006(HD中字),https://yzzy21.playback-speed.com/20250524/43064_b5f15297/index.m3u8
+蛇鱼怪2012(HD中字),https://yzzy21.playback-speed.com/20250524/43062_e60f9011/index.m3u8
+黑洞时间2024(HD中字),https://yzzy21.playback-speed.com/20250522/43044_5015c83b/index.m3u8
+盖·曼利：一部真正的电影2023(HD中字),https://yzzy21.playback-speed.com/20250521/43036_bf7526b5/index.m3u8
+X档案：我要相信2008(HD中字),https://vvip.high26-playback.com/20250521/7843_8d917ee2/index.m3u8
+X档案：征服未来1998(HD中字),https://vvip.high26-playback.com/20250521/7842_881cb553/index.m3u8
+异星入侵：凤凰出山2025(HD中字),https://yzzy21.playback-speed.com/20250520/43028_8935ea08/index.m3u8
+龙黄蜂2012(HD中字),https://yzzy21.playback-speed.com/20250517/42995_80584c1c/index.m3u8
+月球陨落2022(HD中字),https://yzzy.play-cdn17.com/20230801/14243_0582c2dd/index.m3u8
+月球陨落2022(HD国语),https://yzzy21.playback-speed.com/20250516/42973_bce59b83/index.m3u8
+烈日风暴2013(HD中字),https://yzzy21.playback-speed.com/20250514/42969_b275aac1/index.m3u8
+人类冬眠计划2024(HD中字),https://yzzy21.playback-speed.com/20250512/42939_359353cc/index.m3u8
+我能有个见证人吗2024(HD中字),https://yzzy21.playback-speed.com/20250507/42894_607ad71b/index.m3u8
+机械杀娃2025(HD中字),https://yzzy21.playback-speed.com/20250507/42877_dcae1274/index.m3u8
+B星球2024(HD中字),https://yzzy21.playback-speed.com/20250507/42872_849db8ef/index.m3u8
+危险古迹2010(HD中字),https://yzzy21.playback-speed.com/20250503/42795_11350c3a/index.m3u8
+裹尸布2024(HD中字),https://cdn.yzzy27-play.com/20250428/1118_c60d060b/index.m3u8
+机器战警2/1990(HD中字),https://v2.yzzy5-play.com/20220528/20765_c2e5e8b3/index.m3u8
+机器战警2/1990(HD国语),https://yzzy21.playback-speed.com/20250424/42686_bbadbbe2/index.m3u8
+机器战警1987(HD中字),https://v2.yzzy5-play.com/20220528/20763_e7554981/index.m3u8
+机器战警1987(HD国语),https://yzzy21.playback-speed.com/20250424/42684_e6d13316/index.m3u8
+恐龙鳄鱼2024(HD中字),https://yzzy21.playback-speed.com/20250423/42671_85a3e572/index.m3u8
+异世降临2025(HD中字),https://yzzy21.playback-speed.com/20250423/42656_39f28409/index.m3u8
+再造战士2：反攻时刻1999(HD中字),https://yzzy21.playback-speed.com/20250421/42649_40ead786/index.m3u8
+再造战士2：反攻时刻1999(HD国语),https://yzzy21.playback-speed.com/20250421/42650_e812db5b/index.m3u8
+防空洞2024(HD中字),https://yzzy21.playback-speed.com/20250416/42603_170c68ab/index.m3u8
+超现实危机2017(HD中字),https://yzzy21.playback-speed.com/20250416/42599_02280017/index.m3u8
+柯拉2023(HD中字),https://yzzy21.playback-speed.com/20250416/42598_f783291f/index.m3u8
+甜蜜之家：重生2025(HD中字),https://yzzy21.playback-speed.com/20250412/42542_3e1d9bee/index.m3u8
+特种部队的崛起2013(HD中字),https://yzzy21.playback-speed.com/20250412/42541_abf138e3/index.m3u8
+回到未来3/1990(HD中字),https://v2.yzzy5-play.com/20220519/16887_76501ace/index.m3u8
+回到未来3/1990(HD国语),https://yzzy21.playback-speed.com/20250412/42530_3ede8eb2/index.m3u8
+回到未来1/1985(HD中字),https://v2.yzzy5-play.com/20220519/16888_8572b1e5/index.m3u8
+回到未来1/1985(HD国语),https://yzzy21.playback-speed.com/20250412/42528_bcf08b7e/index.m3u8
+回到未来2017(HD中字),https://yzzy21.playback-speed.com/20250412/42527_2f6abd81/index.m3u8
+新星种子2016(HD中字),https://yzzy21.playback-speed.com/20250412/42522_ab116216/index.m3u8
+巴贝西拉大战赛博妖女：机械巴贝西拉崛起2024(HD中字),https://yzzy21.playback-speed.com/20250409/42482_2c980058/index.m3u8
+全球风暴2017(HD中字),https://yzzy.play-cdn2.com/20220504/18524_27afa608/index.m3u8
+全球风暴2017(HD国语),https://yzzy21.playback-speed.com/20250406/42442_3d0376e4/index.m3u8
+编号17/2025(HD中字),https://yzzy21.playback-speed.com/20250406/42424_1166db2e/index.m3u8
+蝙蝠侠与罗宾1997(HD国语),https://yzzy.play-cdn3.com/20220508/17950_8baa7924/index.m3u8
+蝙蝠侠与罗宾1997(HD中字),https://vvip.high26-playback.com/20250406/3398_384babc3/index.m3u8
+尖叫的额头2007(HD中字),https://yzzy21.playback-speed.com/20250403/42394_df3a0438/index.m3u8
+最后的肉2009(HD中字),https://yzzy21.playback-speed.com/20250403/42392_11ae9d2f/index.m3u8
+杀神色魔医生1963(HD中字),https://yzzy21.playback-speed.com/20250403/42386_0d4fb35d/index.m3u8
+深夜书店42025(HD国语),https://svip.high24-playback.com/20250404/23433_67d01a0c/index.m3u8
+阿波罗18号2011(HD中字),https://svip.high25-playback.com/20250402/22789_44f2e250/index.m3u8
+似人非人2014(HD中字),https://svip.high25-playback.com/20250402/22794_f2f1b76b/index.m3u8
+星际迷航2009(HD中字),https://yzzy.play-cdn3.com/20220510/18446_51f884f4/index.m3u8
+星际迷航2009(HD国语),https://yzzy21.playback-speed.com/20250401/42353_1d11fefd/index.m3u8
+星际迷航3：超越星辰2016(HD中字),https://yzzy.play-cdn3.com/20220511/19523_48485102/index.m3u8
+星际迷航3：超越星辰2016(HD国语),https://yzzy21.playback-speed.com/20250401/42352_f8e64e82/index.m3u8
+星际迷航2：暗黑无界2013(HD中字),https://yzzy.play-cdn3.com/20220510/18445_94f3b5a2/index.m3u8
+星际迷航2：暗黑无界2013(HD国语),https://yzzy21.playback-speed.com/20250401/42349_ed838a48/index.m3u8
+母亲的AI2025(HD中字),https://yzzy21.playback-speed.com/20250329/42302_7f93745f/index.m3u8
+怪体1982(HD中字),https://yzzy21.playback-speed.com/20250329/42293_7c64fbce/index.m3u8
+穿越之门2024(HD中字),https://yzzy21.playback-speed.com/20250329/42287_4577b2a5/index.m3u8
+嗜血1979(HD中字),https://yzzy21.playback-speed.com/20250327/42261_d9ab8d8d/index.m3u8
+飞天怪侠1968(HD国语),https://yzzy21.playback-speed.com/20250324/42178_8b50e5c1/index.m3u8
+阿亚兰2024(HD中字),https://yzzy21.playback-speed.com/20250316/42032_e8577de4/index.m3u8
+无人之地2024(HD中字),https://yzzy21.playback-speed.com/20250315/42005_7d8ffa39/index.m3u8
+校园实验风云1987(HD中字),https://yzzy21.playback-speed.com/20250316/42008_5bc08feb/index.m3u8
+复仇者联盟2012(HD中字),https://yzzy.play-cdn2.com/20220504/18509_7b4ae890/index.m3u8
+复仇者联盟2012(HD国语),https://yzzy21.playback-speed.com/20250315/42000_8dba2a86/index.m3u8
+复仇者联盟2：奥创纪元2015(HD中字),https://svip.high20-playback.com/20231128/6347_aa72110c/index.m3u8
+复仇者联盟2：奥创纪元2015(HD国语),https://yzzy21.playback-speed.com/20250315/41993_0577d6a4/index.m3u8
+复仇者联盟3：无限战争2018(HD中字),https://yzzy.play-cdn7.com/20220907/16209_8c81c8df/index.m3u8
+复仇者联盟3：无限战争2018(HD国语),https://yzzy21.playback-speed.com/20250315/41992_508201a8/index.m3u8
+复仇者联盟4：终局之战2019(HD中字),https://yzzy.play-cdn2.com/20220504/18508_ec69943b/index.m3u8
+复仇者联盟4：终局之战2019(HD国语),https://yzzy21.playback-speed.com/20250315/41991_cc36d3f2/index.m3u8
+外星降落2024(HD中字),https://yzzy21.playback-speed.com/20250314/41985_73163da2/index.m3u8
+吸血鬼的星球2019(HD中字),https://yzzy21.playback-speed.com/20250311/41922_6dc15695/index.m3u8
+天体2024(HD中字),https://yzzy21.playback-speed.com/20250310/41908_7abf9999/index.m3u8
+蝙蝠侠归来1992(HD国语),https://yzzy.play-cdn6.com/20220912/14484_1b2015ac/index.m3u8
+蝙蝠侠归来1992(HD中字),https://svip.yyzy-play.vip/20250310/26362_9d2362f8/index.m3u8
+寂静星球2024(HD中字),https://yzzy21.playback-speed.com/20250310/41896_6e579764/index.m3u8
+怪兽2018(HD国语),https://yzzy21.playback-speed.com/20250309/41889_7444aff7/index.m3u8
+美国队长42025(HD中字),https://yzzy21.playback-speed.com/20250307/41863_8b5411c5/index.m3u8
+千年虫2024(HD中字),https://yzzy21.playback-speed.com/20250304/41819_d8623a03/index.m3u8
+怪物大乱捣2024(HD中字),https://yzzy21.playback-speed.com/20250224/41721_dcfb8049/index.m3u8
+亚刻奥特曼大电影：超次元大决战！光与暗的亚刻2025(HD国语),https://yzzy21.playback-speed.com/20250222/41686_53c608f7/index.m3u8
+亚刻奥特曼大电影：超次元大决战！光与暗的亚刻2025(HD中字),https://yzzy21.playback-speed.com/20250222/41687_16b93f04/index.m3u8
+永葆青春2023(HD中字),https://yzzy21.playback-speed.com/20250222/41684_5cf3c59b/index.m3u8
+爱我2024(HD中字),https://yzzy21.playback-speed.com/20250220/41657_2514bf49/index.m3u8
+绑架科学家1967(HD中字),https://yzzy21.playback-speed.com/20250218/41630_fa676858/index.m3u8
+最终一夜2024(HD中字),https://yzzy21.playback-speed.com/20250214/41570_4a66fe2e/index.m3u8
+反抗女孩2021(HD中字),https://yzzy21.playback-speed.com/20250211/41524_40f7d745/index.m3u8
+正义的子弹2019(HD中字),https://yzzy21.playback-speed.com/20250204/41388_952f44d3/index.m3u8
+巨物2022(HD中字),https://svip.high24-playback.com/20250201/17332_b51ab262/index.m3u8
+亡后世界2023(HD中字),https://yzzy21.playback-speed.com/20250125/41252_13de49e9/index.m3u8
