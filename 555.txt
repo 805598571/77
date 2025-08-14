@@ -14,7 +14,7 @@ CCTV-12 综合,http://alist.xicp.fun:35455/mgtv/608807420.m3u8
 CCTV-2综合2,http://go.bkpcp.top/mg/cctv2
 CCTV2-1,http://000.hfr1107.top/tv/smt.php?id=cctv2
 CCTV2-2,http://183.207.248.71:80/cntv/live1/CCTV-2/cctv-2
-CCTV2-3,http://117.141.162.238:8181/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2-3,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 CCTV2-4,http://221.199.193.233:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-5,http://221.199.193.49:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2-6,http://221.199.193.213:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -47,7 +47,7 @@ CCTV1-4,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.
 CCTV 01 综合2,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
 CCTV 01 综合3,http://cdn5.163189.xyz/live/cctv1/stream.m3u8
 CCTV 01 综合4,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV 01 综合5,http://8.138.7.223/tv/cctv7.m3u8
+CCTV 01 综合5,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV1-6,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1-7,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
 CCTV1-8,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
@@ -65,10 +65,10 @@ CCTV51,http://8.138.214.88:47681/mgtv/641886683.m3u8
 CCTV52,http://xc.mfykeke.top:35455/mgtv/641886683.m3u8
 CCTV53,http://8.138.7.223/tv/migu.php?id=cctv5
 CCTV54,http://www.cdnstv.com:6398/hls/5/index.m3u8
-CCTV56,http://221.199.193.49:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV56,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
 CCTV57,http://180.165.20.37:7777/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV58,http://m.061899.xyz/mg/cctv5
-CCTV59,http://221.199.193.229:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV59,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV599,http://171.124.180.202:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV565,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV5+,http://221.199.193.187:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -1042,101 +1042,7 @@ NHK Word Premium(日本放送協會國際收費頻道),http://117.114.153.18:818
 TV5(法國國際廣播電視5台),http://117.114.153.18:8182/hls/TV00000000000000000162@HHZT.m3u8
 彭博財經,http://117.114.153.18:8182/hls/TV00000000000000000163@HHZT.m3u8
 KBS Word(韓國放送公社國際頻道),http://117.114.153.18:8182/hls/TV00000000000000000166@HHZT.m3u8
-📺Smart台湾,#genre#
-公视,http://47.91.17.126:20002/Smartv.php?id=ctv_taiwan
-台视,http://47.91.17.126:20002/Smartv.php?id=ttv_taiwan
-中视,http://47.91.17.126:20002/Smartv.php?id=zhongshihd_twn
-民视,http://47.91.17.126:20002/Smartv.php?id=ftvhd_taiwan
-华视,http://47.91.17.126:20002/Smartv.php?id=ctshd_twn
-大爱2台,http://47.91.17.126:20002/Smartv.php?id=catchplay_twn
-TVBS,http://47.91.17.126:20002/Smartv.php?id=tvbs
-TVBS新闻,http://47.91.17.126:20002/Smartv.php?id=tvbs_n
-TVBS欢乐,http://47.91.17.126:20002/Smartv.php?id=tvbshuanle_twn
-年代新闻,http://47.91.17.126:20002/Smartv.php?id=niandainews_twn
-中天新闻,http://47.91.17.126:20002/Smartv.php?id=ctinews
-中天娱乐 ,http://47.91.17.126:20002/Smartv.php?id=ctient
-中天综合,http://47.91.17.126:20002/Smartv.php?id=ctizhonghe
-中天亚洲,http://47.91.17.126:20002/Smartv.php?id=ctiasia_twn
-台视新闻,http://47.91.17.126:20002/Smartv.php?id=ttvnews_twn
-台视综合,http://47.91.17.126:20002/Smartv.php?id=ttvzhonghe_twn
-中视经典,http://47.91.17.126:20002/Smartv.php?id=zhongshi_twn
-中视新闻,http://47.91.17.126:20002/Smartv.php?id=zhongshinews_twn
-非凡新闻,http://47.91.17.126:20002/Smartv.php?id=feifannews_twn
-民视新闻,http://47.91.17.126:20002/Smartv.php?id=ftvnew_taiwan
-民视台湾,http://47.91.17.126:20002/Smartv.php?id=ftvtaiwan_twn
-八大第一,http://47.91.17.126:20002/Smartv.php?id=badafirst
-八大综合,http://47.91.17.126:20002/Smartv.php?id=badazhonghe
-八大戏剧,http://47.91.17.126:20002/Smartv.php?id=badadrama
-八大娱乐,http://47.91.17.126:20002/Smartv.php?id=badaentertain
-三立台湾,http://47.91.17.126:20002/Smartv.php?id=sanlitaiwan
-三立综合,http://47.91.17.126:20002/Smartv.php?id=sanlizhonghe
-三立戏剧,http://47.91.17.126:20002/Smartv.php?id=sanlixiju_twn
-三立都会,http://47.91.17.126:20002/Smartv.php?id=sanlidouhui_twn
-纬来日本,http://47.91.17.126:20002/Smartv.php?id=videolandjapan
-纬来电影,http://47.91.17.126:20002/Smartv.php?id=videolandmovie
-纬来体育,http://47.91.17.126:20002/Smartv.php?id=videolandsport
-纬来综合,http://47.91.17.126:20002/Smartv.php?id=videolandzonghe
-纬来育乐,http://47.91.17.126:20002/Smartv.php?id=videolandyule
-纬来精彩,http://47.91.17.126:20002/Smartv.php?id=videolandspecial_twn
-东森综合,http://47.91.17.126:20002/Smartv.php?id=ettvzhonghe
-东森超视,http://47.91.17.126:20002/Smartv.php?id=ettvsuper
-东森戏剧,http://47.91.17.126:20002/Smartv.php?id=ettvdrama
-东森财经,http://47.91.17.126:20002/Smartv.php?id=ettvcaijing_twn
-东森电影,http://47.91.17.126:20002/Smartv.php?id=ettvmovie
-东森洋片,http://47.91.17.126:20002/Smartv.php?id=ettvwestern
-东森幼幼,http://47.91.17.126:20002/Smartv.php?id=yoyo_twn
-龙华洋片,http://47.91.17.126:20002/Smartv.php?id=lunghuawestern_twn
-龙祥时代,http://47.91.17.126:20002/Smartv.php?id=lungxiangtime_twn
-宝盒没宝,https://gitee.com/baohe2025/bh/raw/master/bh.mp4
-龙华经典,http://47.91.17.126:20002/Smartv.php?id=lunghuajingdian_twn
-龙华戏剧,http://47.91.17.126:20002/Smartv.php?id=lunghuaxiju_twn
-龙华偶像,http://47.91.17.126:20002/Smartv.php?id=lunghuaidol_twn
-龙华卡通,http://47.91.17.126:20002/Smartv.php?id=jingtiancartoon_twn
-靖天卡通,http://47.91.17.126:20002/Smartv.php?id=jingtiancartoon_twn
-靖天国际,http://47.91.17.126:20002/Smartv.php?id=jingtianintl_twn
-探索亚洲,http://47.91.17.126:20002/Smartv.php?id=discoverytwn_twn
-卫视中文,http://47.91.17.126:20002/Smartv.php?id=weishichinese_twn
-卫视电影,http://47.91.17.126:20002/Smartv.php?id=weishimovie_twn
-美亚电影,http://47.91.17.126:20002/Smartv.php?id=meiyamovie_twn
-星卫电影,http://47.91.17.126:20002/Smartv.php?id=xingwei_movie
-旅游生活,http://47.91.17.126:20002/Smartv.php?id=tlc_twn
-亚洲旅游,http://47.91.17.126:20002/Smartv.php?id=asiatravel_twn
-亚洲美食,http://47.91.17.126:20002/Smartv.php?id=afc_twn
-美食星球,http://47.91.17.126:20002/Smartv.php?id=foodplanet_twn
-动物星球,http://47.91.17.126:20002/Smartv.php?id=AnimalPlanet
-动物星球1,http://47.91.17.126:20002/Smartv.php?id=animalplanet_twn
-博斯网球,http://47.91.17.126:20002/Smartv.php?id=bositennis_twn
-博斯运动1,http://47.91.17.126:20002/Smartv.php?id=bosisport1_twn
-博斯高球2,http://47.91.17.126:20002/Smartv.php?id=bosigolf2_twn
-博斯运动2,http://47.91.17.126:20002/Smartv.php?id=bosisport2_twn
-国家地理,http://47.91.17.126:20002/Smartv.php?id=natgeohd_twn
-野生动物,http://47.91.17.126:20002/Smartv.php?id=natgeowild_twn
-地理野生,http://47.91.17.126:20002/Smartv.php?id=natgeowildtamil_raj
-EYETV戏剧,http://47.91.17.126:20002/Smartv.php?id=eyetvxiju_twn
-EYETV旅游,http://47.91.17.126:20002/Smartv.php?id=?id=eyetvtravel_twn
-好莱坞电影,http://47.91.17.126:20002/Smartv.php?id=hollywoodmovies_twn
-爱尔达影剧,http://47.91.17.126:20002/Smartv.php?id=eltayingju_twn
-爱尔达综合,http://47.91.17.126:20002/Smartv.php?id=eltazonghe_twn
-爱尔达体育2,http://47.91.17.126:20002/Smartv.php?id=eltasport2_twn
-爱尔达体育3,http://47.91.17.126:20002/Smartv.php?id=eltasport3_twn
-GOODTV真理,http://47.91.17.126:20002/Smartv.php?id=good2_twn
-Natgeo_HD,http://47.91.17.126:20002/Smartv.php?id=natgeohd_twn
-NatGeo_Wild,http://47.91.17.126:20002/Smartv.php?id=natgeowild_twn
-Animal_Planet,http://47.91.17.126:20002/Smartv.php?id=animalplanet_twn
-Discovery Asia,http://47.91.17.126:20002/Smartv.php?id=discoverytwn_twn
-CI,http://47.91.17.126:20002/Smartv.php?id=ci_twn
-Asia Travel,http://47.91.17.126:20002/Smartv.php?id=asiatravel_twn
-Discovery,http://47.91.17.126:20002/Smartv.php?id=discoveryhd_twn
-NatGeo,http://47.91.17.126:20002/Smartv.php?id=Natgeo
-Fashion TV,http://47.91.17.126:20002/Smartv.php?id=fashiontv_twn
-History,http://47.91.17.126:20002/Smartv.php?id=History
-BBC Earth,http://47.91.17.126:20002/Smartv.php?id=bbcearth_twn
-BBC Earth Lifestyle,http://47.91.17.126:20002/Smartv.php?id=bbclifestyle_twn
-MTV Live,http://47.91.17.126:20002/Smartv.php?id=mtvhd_twn
-NatGeo Wild,http://47.91.17.126:20002/Smartv.php?id=Natgeowild
-Animal Planet (Eng),http://47.91.17.126:20002/Smartv.php?id=AnimalPlanet
-TLC,http://47.91.17.126:20002/Smartv.php?id=Tlc
-Foodnetwork,http://47.91.17.126:20002/Smartv.php?id=Foodnetwork_mega
+
 📺央卫网络,#genre#
 CCTV1,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 CCTV2,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
@@ -4606,92 +4512,7 @@ PopC电影,http://bxtv.3a.ink/api.php?id=popc
 东森洋片,https://smt.520761.xyz/Smart.php?id=ettvwestern
 天映频道,https://smt.520761.xyz/Smart.php?id=ctv18_twn
 AXN,https://smt.520761.xyz/Smart.php?id=axn_twn
-🐻台灣(立視一線雷鋒),#genre#
-
-台視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv066
-中視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv040
-華視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv041
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv002
-民視,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv155
-客家電視台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv043
-TVBS,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv073
-TVBS歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv068
-TVBS精采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv067
-民視台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv001
-民視第一台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv003
-中視菁采台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv064
-中視經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv080
-公視戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv042
-八大精彩台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv034
-中天亞洲台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv109
-中天新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv009
-TVBS新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv072
-東森新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv152
-民視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv13
-鏡電視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv075
-非凡新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv010
-台視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv051
-華視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv052
-中視新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv074
-寰宇新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn14
-寰宇新聞台灣台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv156
-東森財經新聞台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv153
-非凡商業,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv048
-台視財經台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv056
-第1商業台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv104
-采昌影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv049
-靖天綜合台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv046
-靖天國際台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv063
-靖天資訊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv065
-靖天歡樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv054
-靖天育樂台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv062
-靖天電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv061
-靖天映畫台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
-靖天日本台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv047
-靖天戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
-靖天卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv044
-靖洋戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv045
-靖洋卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv057
-龍華卡通台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn01
-龍華戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn18
-龍華日韓台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn11
-龍華偶像台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn12
-龍華經典台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn21
-龍華電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn03
-龍華洋片台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn02
-台灣戲劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn22
-ARIRANG,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv079
-國會頻道1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv084
-國會頻道2,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv085
-ELTV娛樂,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv070
-影迷數位電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv011
-amc電影台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv017
-半島國際新聞,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv10
-美國之音,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv03
-視納華仁紀實,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv013
-亞洲旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv076
-Globetrotter,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv016
-達文西頻道,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv018
-Smart知識台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn19
-CLASSICA古典樂,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv059
-TraceUrban,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv082
-MezzoLiveHD,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv083
-民視旅遊台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv07
-民視綜藝台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv004
-民視影劇台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-ftv09
-八大綜藝,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv039
-豬哥亮歌廳秀,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv006
-時尚運動X,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv014
-GINXEsportsTV,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv053
-智林體育台,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv101
-博斯魅力,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn04
-博斯高球1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn05
-博斯高球2,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn06
-博斯運動1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn07
-博斯運動2,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn08
-博斯網球1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn09
-博斯無限1,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn10
-博斯無限2,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=litv-longturn13
+🐻
 
 
 
@@ -20151,3 +19972,17 @@ B星球2024(HD中字),https://yzzy21.playback-speed.com/20250507/42872_849db8ef/
 正义的子弹2019(HD中字),https://yzzy21.playback-speed.com/20250204/41388_952f44d3/index.m3u8
 巨物2022(HD中字),https://svip.high24-playback.com/20250201/17332_b51ab262/index.m3u8
 亡后世界2023(HD中字),https://yzzy21.playback-speed.com/20250125/41252_13de49e9/index.m3u8
+🎬⒈动作片,#genre#
+封神第二部：战火西岐HD国语动作片大陆,https://cdn.yzzy29-play.com/20250806/509_e2230b85/index.m3u8
+神探飞机头3(HD中字)2009,https://cdn.yzzy29-play.com/20250727/428_8d7d8ee0/index.m3u8
+虎胆龙威3HD国语动作片美国,https://cdn.yzzy28-play.com/20250724/9550_32b9e74c/index.m3u8
+虎胆龙威3HD中字动作片美国,https://cdn.yzzy28-play.com/20250724/9551_67ad4113/index.m3u8
+虎胆龙威2(HD国语),https://cdn.yzzy28-play.com/20250724/9548_f812291e/index.m3u8
+虎胆龙威2(HD中字),https://cdn.yzzy28-play.com/20250724/9549_6a21bd02/index.m3u8
+虎胆龙威(HD国语),https://cdn.yzzy28-play.com/20250724/9546_4845b84d/index.m3u8
+虎胆龙威(HD中字),https://cdn.yzzy28-play.com/20250724/9547_5f25fbe1/index.m3u8
+谢谢你爱我(HD国语),https://cdn.yzzy29-play.com/20250704/248_621bf66d/index.m3u8
+龙卷风2025(HD中字),https://cdn.yzzy29-play.com/20250703/240_335f5352/index.m3u8
+原子风暴(HD中字),https://cdn.yzzy29-play.com/20250703/235_577ef115/index.m3u8
+射雕英雄传：侠之大者 2025(HD国语),https://yzzy21.playback-speed.com/20250411/42510_e89ef5ea/index.m3u8
+绣衣使·西汉迷案 2025(HD国语),https://yzzy21.playback-speed.com/20250410/42496_6618db57/index.m3u8
