@@ -71,7 +71,7 @@ CCTV58,http://m.061899.xyz/mg/cctv5
 CCTV59,http://t.061899.xyz/tl/tl.php?id=cctv5
 CCTV599,http://171.124.180.202:8899/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV565,http://t.061899.xyz/tl/tl.php?id=cctv5
-CCTV5+,http://221.199.193.187:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$咪咕直播
 CCTV5+1,http://180.165.20.37:7777/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+2,http://171.124.180.202:8899/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV5+3,http://117.141.162.238:8181/tsfile/live/faacts/1100_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -292,13 +292,22 @@ cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
 虎-goodiptv星爷,https://www.goodiptv.club/huya/11342412
 
 🇳央卫港台2,#genre#
-CCTV-01,http://tp88.cn/IPTV/fujian/pttv.php?id=cctv1
-CCTV-1,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
-CCTV1-03,http://cdn5.163189.xyz/live/cctv1/stream.m3u8
+CCTV-1,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8 
+CCTV-1,http://120.192.226.35:8009/hls/501/index.m3u8 
+CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8? 
+CCTV-1,http://123.182.60.29:9002/hls/1/index.m3u8 
+CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8 
+CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 
+CCTV-1,http://36.105.100.208:35455/gaoma/cctv1.m3u8 
+CCTV-1, http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-1, http://mh0.asia:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV-1, http://3501776.xyz:35455/gaoma/cctv1.m3u8
+CCTV-1,http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1-03,http://mh0.asia:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV1-04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-CCTV1-05,https://mursor.ottiptv.cc/migu/641886683.m3u8?migutoken=3154e0aa1b802f813b92134f05da24764c34dccf231419f6e37d2e2efd665120c1119fec8d9c4e40130e19719be1d598b99f8bcd4208a152cf639f85cb84a30452e67a2215f00af9ebc31b310a
 
-CCTV1综合,https://www.freetv.top/migu/608807420.m3u8?migutoken=5b04cf0d91179ab2d3d71703f0a8bc3d32dd02f7d8fb55ee70e05c216b8a9d1a73d911fbde798459fb66d94934157c996f8306c0dd37917775f2ed73dcc22cf84b25ca500bff5c636ff48d6344
+
+CCTV1综合,http://119.131.24.84:9003/udp/239.77.1.17:5146
 CCTV-02,http://8.138.7.223/tv/cctv2.php
 CCTV-1 综合,http://go.bkpcp.top/mg/cctv1
 CCTV-2 财经,http://go.bkpcp.top/mg/cctv2
@@ -2411,257 +2420,231 @@ CHANNEL[V],https://tv.sd.cn/sichuan?id=239.93.0.157:2194
 年代新聞,http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8
 🇲🇴飞哥极速,#genre#
 
-CCTV1,https://hyf000.eu.org/FG/1
-CCTV2,https://hyf000.eu.org/FG/2
-CCTV3,https://hyf000.eu.org/FG/3
-CCTV4,https://hyf000.eu.org/FG/4
-CCTV4,https://hyf000.eu.org/FG/5
-CCTV4,https://hyf000.eu.org/FG/6
-CCTV5,https://hyf000.eu.org/FG/7
-CCTV5+,https://hyf000.eu.org/FG/8
-CCTV6,https://hyf000.eu.org/FG/9
-CCTV7,https://hyf000.eu.org/FG/10
-CCTV8,https://hyf000.eu.org/FG/11
-CCTV9,https://hyf000.eu.org/FG/12
-CCTV10,https://hyf000.eu.org/FG/13
-CCTV11,https://hyf000.eu.org/FG/14
-CCTV12,https://hyf000.eu.org/FG/15
-CCTV13,https://hyf000.eu.org/FG/16
-CCTV14,https://hyf000.eu.org/FG/17
-CCTV15,https://hyf000.eu.org/FG/18
-CCTV16,https://hyf000.eu.org/FG/19
-CCTV17,https://hyf000.eu.org/FG/20
-CETV1,https://hyf000.eu.org/FG/21
-CETV2,https://hyf000.eu.org/FG/22
-CETV4,https://hyf000.eu.org/FG/23
-CCTV4K,https://hyf000.eu.org/FG/24
-CCTV8K,https://hyf000.eu.org/FG/25
-风云剧场,https://hyf000.eu.org/FG/26
-第一剧场,https://hyf000.eu.org/FG/27
-怀旧剧场,https://hyf000.eu.org/FG/28
-老故事,https://hyf000.eu.org/FG/29
-发现之旅,https://hyf000.eu.org/FG/30
-中学生,https://hyf000.eu.org/FG/31
-CETV1,https://hyf000.eu.org/FG/32
-CGTN,https://hyf000.eu.org/FG/33
-CGTN记录,https://hyf000.eu.org/FG/34
-CGTN阿语,https://hyf000.eu.org/FG/35
-CGTN西语,https://hyf000.eu.org/FG/36
-CGTN法语,https://hyf000.eu.org/FG/37
-CGTN俄语,https://hyf000.eu.org/FG/38
-CGTN阿语,https://hyf000.eu.org/FG/39
-CGTN纪录,https://hyf000.eu.org/FG/40
-CGTN,https://hyf000.eu.org/FG/41
-CGTN法语,https://hyf000.eu.org/FG/42
-CGTN俄语,https://hyf000.eu.org/FG/43
-CGTN西语,https://hyf000.eu.org/FG/44
-东方卫视,https://hyf000.eu.org/FG/45
-江苏卫视,https://hyf000.eu.org/FG/46
-广东卫视,https://hyf000.eu.org/FG/47
-江西卫视,https://hyf000.eu.org/FG/48
-河南卫视,https://hyf000.eu.org/FG/49
-陕西卫视,https://hyf000.eu.org/FG/50
-大湾区卫视,https://hyf000.eu.org/FG/51
-湖北卫视,https://hyf000.eu.org/FG/52
-吉林卫视,https://hyf000.eu.org/FG/53
-青海卫视,https://hyf000.eu.org/FG/54
-东南卫视,https://hyf000.eu.org/FG/55
-海南卫视,https://hyf000.eu.org/FG/56
-海峡卫视,https://hyf000.eu.org/FG/57
-北京卫视,https://hyf000.eu.org/FG/58
-湖南卫视,https://hyf000.eu.org/FG/59
-江苏卫视,https://hyf000.eu.org/FG/60
-东方卫视,https://hyf000.eu.org/FG/61
-浙江卫视,https://hyf000.eu.org/FG/62
-湖北卫视,https://hyf000.eu.org/FG/63
-天津卫视,https://hyf000.eu.org/FG/64
-山东卫视,https://hyf000.eu.org/FG/65
-辽宁卫视,https://hyf000.eu.org/FG/66
-安徽卫视,https://hyf000.eu.org/FG/67
-黑龙江卫视,https://hyf000.eu.org/FG/68
-贵州卫视,https://hyf000.eu.org/FG/69
-东南卫视,https://hyf000.eu.org/FG/70
-重庆卫视,https://hyf000.eu.org/FG/71
-江西卫视,https://hyf000.eu.org/FG/72
-广东卫视,https://hyf000.eu.org/FG/73
-河北卫视,https://hyf000.eu.org/FG/74
-深圳卫视,https://hyf000.eu.org/FG/75
-吉林卫视,https://hyf000.eu.org/FG/76
-河南卫视,https://hyf000.eu.org/FG/77
-四川卫视,https://hyf000.eu.org/FG/78
-广西卫视,https://hyf000.eu.org/FG/79
-陕西卫视,https://hyf000.eu.org/FG/80
-山西卫视,https://hyf000.eu.org/FG/81
-内蒙古卫视,https://hyf000.eu.org/FG/82
-青海卫视,https://hyf000.eu.org/FG/83
-海南卫视,https://hyf000.eu.org/FG/84
-宁夏卫视,https://hyf000.eu.org/FG/85
-西藏卫视,https://hyf000.eu.org/FG/86
-新疆卫视,https://hyf000.eu.org/FG/87
-甘肃卫视,https://hyf000.eu.org/FG/88
-云南卫视,https://hyf000.eu.org/FG/89
-兵团卫视,https://hyf000.eu.org/FG/90
-重温经典,https://hyf000.eu.org/FG/91
-CHC影迷电影,https://hyf000.eu.org/FG/92
-CHC动作电影,https://hyf000.eu.org/FG/93
-CHC家庭影院,https://hyf000.eu.org/FG/94
-上海新闻综合,https://hyf000.eu.org/FG/95
-上视东方影视,https://hyf000.eu.org/FG/96
-上海第一财经,https://hyf000.eu.org/FG/97
-南京新闻综合频道,https://hyf000.eu.org/FG/98
-南京教科频道,https://hyf000.eu.org/FG/99
-南京十八频道,https://hyf000.eu.org/FG/100
-体育休闲频道,https://hyf000.eu.org/FG/101
-江苏城市频道,https://hyf000.eu.org/FG/102
-江苏国际,https://hyf000.eu.org/FG/103
-江苏教育,https://hyf000.eu.org/FG/104
-江苏影视频道,https://hyf000.eu.org/FG/105
-江苏综艺频道,https://hyf000.eu.org/FG/106
-公共新闻频道,https://hyf000.eu.org/FG/107
-淮安新闻综合,https://hyf000.eu.org/FG/108
-泰州新闻综合,https://hyf000.eu.org/FG/109
-连云港新闻综合,https://hyf000.eu.org/FG/110
-宿迁新闻综合,https://hyf000.eu.org/FG/111
-徐州新闻综合,https://hyf000.eu.org/FG/112
-优漫卡通频道,https://hyf000.eu.org/FG/113
-中国航天“逆袭”之路,https://hyf000.eu.org/FG/114
-新片放映厅,https://hyf000.eu.org/FG/115
-和美乡途轮播台,https://hyf000.eu.org/FG/116
-大片,https://hyf000.eu.org/FG/117
-南方影视,https://hyf000.eu.org/FG/118
-红色轮播台,https://hyf000.eu.org/FG/119
-深度对话,https://hyf000.eu.org/FG/120
-熊猫频道1,https://hyf000.eu.org/FG/121
-熊猫频道2,https://hyf000.eu.org/FG/122
-熊猫频道3,https://hyf000.eu.org/FG/123
-熊猫频道4,https://hyf000.eu.org/FG/124
-熊猫频道5,https://hyf000.eu.org/FG/125
-熊猫频道6,https://hyf000.eu.org/FG/126
-熊猫频道7,https://hyf000.eu.org/FG/127
-熊猫频道8,https://hyf000.eu.org/FG/128
-熊猫频道9,https://hyf000.eu.org/FG/129
-熊猫频道10,https://hyf000.eu.org/FG/130
-华语乐坛最强音,https://hyf000.eu.org/FG/131
-周杰伦现场,https://hyf000.eu.org/FG/132
-最强综艺趴,https://hyf000.eu.org/FG/133
-嘉佳卡通,https://hyf000.eu.org/FG/134
-经典动画大集合,https://hyf000.eu.org/FG/135
-新动力量创一流,https://hyf000.eu.org/FG/136
-开封鼓楼,https://hyf000.eu.org/FG/137
-钱塘江,https://hyf000.eu.org/FG/138
-赛事最经典,https://hyf000.eu.org/FG/139
-掼蛋精英赛,https://hyf000.eu.org/FG/140
-体坛名栏汇,https://hyf000.eu.org/FG/141
-咪咕24小时体育台,https://hyf000.eu.org/FG/142
-北京纪实科教8K,https://hyf000.eu.org/FG/143
-LOVENATURE,https://hyf000.eu.org/FG/144
-LOUPE4K,https://hyf000.eu.org/FG/145
-FASHIONONE,https://hyf000.eu.org/FG/146
-咪咕4K,https://hyf000.eu.org/FG/147
-咪咕4K,https://hyf000.eu.org/FG/148
-咪咕体育1,https://hyf000.eu.org/FG/149
-咪咕体育2,https://hyf000.eu.org/FG/150
-咪咕体育3,https://hyf000.eu.org/FG/151
-咪咕体育4,https://hyf000.eu.org/FG/152
-咪咕体育5,https://hyf000.eu.org/FG/153
-咪咕体育6,https://hyf000.eu.org/FG/154
-咪咕体育7,https://hyf000.eu.org/FG/155
-咪咕体育8,https://hyf000.eu.org/FG/156
-咪咕体育9,https://hyf000.eu.org/FG/157
-咪咕体育10,https://hyf000.eu.org/FG/158
-咪咕体育11,https://hyf000.eu.org/FG/159
-咪咕体育12,https://hyf000.eu.org/FG/160
-咪咕体育13,https://hyf000.eu.org/FG/161
-咪咕体育14,https://hyf000.eu.org/FG/162
-咪咕体育15,https://hyf000.eu.org/FG/163
-咪咕体育16,https://hyf000.eu.org/FG/164
-咪咕体育17,https://hyf000.eu.org/FG/165
-咪咕体育18,https://hyf000.eu.org/FG/166
-咪咕体育19,https://hyf000.eu.org/FG/167
-咪咕体育20,https://hyf000.eu.org/FG/168
-咪咕体育21,https://hyf000.eu.org/FG/169
-咪咕体育22,https://hyf000.eu.org/FG/170
-咪咕体育23,https://hyf000.eu.org/FG/171
-咪咕体育24,https://hyf000.eu.org/FG/172
-咪咕体育25,https://hyf000.eu.org/FG/173
-咪咕体育26,https://hyf000.eu.org/FG/174
-咪咕体育27,https://hyf000.eu.org/FG/175
-咪咕体育28,https://hyf000.eu.org/FG/176
-咪咕体育29,https://hyf000.eu.org/FG/177
-咪咕体育30,https://hyf000.eu.org/FG/178
-咪咕体育31,https://hyf000.eu.org/FG/179
-咪咕体育32,https://hyf000.eu.org/FG/180
-咪咕体育33,https://hyf000.eu.org/FG/181
-咪咕体育34,https://hyf000.eu.org/FG/182
-咪咕体育35,https://hyf000.eu.org/FG/183
-咪咕体育36,https://hyf000.eu.org/FG/184
-咪咕体育37,https://hyf000.eu.org/FG/185
-咪咕体育38,https://hyf000.eu.org/FG/186
-咪咕体育39,https://hyf000.eu.org/FG/187
-咪咕体育40,https://hyf000.eu.org/FG/188
-咪咕体育41,https://hyf000.eu.org/FG/189
-咪咕体育42,https://hyf000.eu.org/FG/190
-咪咕体育43,https://hyf000.eu.org/FG/191
-咪咕体育44,https://hyf000.eu.org/FG/192
-咪咕体育45,https://hyf000.eu.org/FG/193
-
-
-CCTV1,https://hyf000.eu.org/80947108/JD1-1
-CCTV2,https://hyf000.eu.org/80947108/JD1-2
-CCTV3,https://hyf000.eu.org/80947108/JD1-3
-CCTV4,https://hyf000.eu.org/80947108/JD1-4
-CCTV5,https://hyf000.eu.org/80947108/JD1-5
-CCTV6,https://hyf000.eu.org/80947108/JD1-6
-CCTV7,https://hyf000.eu.org/80947108/JD1-7
-CCTV8,https://hyf000.eu.org/80947108/JD1-8
-CCTV9,https://hyf000.eu.org/80947108/JD1-9
-CCTV10,https://hyf000.eu.org/80947108/JD1-10
-CCTV11,https://hyf000.eu.org/80947108/JD1-11
-CCTV12,https://hyf000.eu.org/80947108/JD1-12
-CCTV13,https://hyf000.eu.org/80947108/JD1-13
-CCTV14,https://hyf000.eu.org/80947108/JD1-14
-CCTV15,https://hyf000.eu.org/80947108/JD1-15
-浙江卫视,https://hyf000.eu.org/80947108/JD1-16
-吉林卫视,https://hyf000.eu.org/80947108/JD1-17
-辽宁卫视,https://hyf000.eu.org/80947108/JD1-18
-黑龙江卫视,https://hyf000.eu.org/80947108/JD1-19
-河南卫视,https://hyf000.eu.org/80947108/JD1-20
-内蒙古卫视,https://hyf000.eu.org/80947108/JD1-21
-海南卫视,https://hyf000.eu.org/80947108/JD1-22
-广东体育,https://hyf000.eu.org/80947108/JD1-23
-广西卫视,https://hyf000.eu.org/80947108/JD1-24
-云南卫视,https://hyf000.eu.org/80947108/JD1-25
-江西卫视,https://hyf000.eu.org/80947108/JD1-26
-山西卫视,https://hyf000.eu.org/80947108/JD1-27
-河北卫视,https://hyf000.eu.org/80947108/JD1-28
-青海卫视,https://hyf000.eu.org/80947108/JD1-29
-甘肃卫视,https://hyf000.eu.org/80947108/JD1-30
-陕西卫视,https://hyf000.eu.org/80947108/JD1-31
-广东影视,https://hyf000.eu.org/80947108/JD1-32
-广东珠江,https://hyf000.eu.org/80947108/JD1-33
-广东卫视,https://hyf000.eu.org/80947108/JD1-34
-深圳都市,https://hyf000.eu.org/80947108/JD1-35
-北京卫视,https://hyf000.eu.org/80947108/JD1-36
-上海卫视,https://hyf000.eu.org/80947108/JD1-37
-天津卫视,https://hyf000.eu.org/80947108/JD1-38
-重庆卫视,https://hyf000.eu.org/80947108/JD1-39
-江苏卫视,https://hyf000.eu.org/80947108/JD1-40
-湖南卫视,https://hyf000.eu.org/80947108/JD1-41
-贵州卫视,https://hyf000.eu.org/80947108/JD1-42
-安徽卫视,https://hyf000.eu.org/80947108/JD1-43
-四川卫视,https://hyf000.eu.org/80947108/JD1-44
-广东少儿,https://hyf000.eu.org/80947108/JD1-45
-山东卫视,https://hyf000.eu.org/80947108/JD1-46
-湖北卫视,https://hyf000.eu.org/80947108/JD1-47
-深圳卫视,https://hyf000.eu.org/80947108/JD1-48
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20060
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20061
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20062
+凤凰中文,http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰资讯,http://iptv.4666888.xyz/iptv.php?id=20064
+凤凰香港,http://iptv.4666888.xyz/iptv.php?id=20065
+TVB翡翠,http://iptv.4666888.xyz/iptv.php?id=20066
+TVB翡翠(新加坡),http://iptv.4666888.xyz/iptv.php?id=20067
+TVB翡翠(马来),http://iptv.4666888.xyz/iptv.php?id=20068
+TVB无线新闻,http://iptv.4666888.xyz/iptv.php?id=20069
+TVB无线新闻(北美),http://iptv.4666888.xyz/iptv.php?id=20070
+TVB明珠,http://iptv.4666888.xyz/iptv.php?id=20071
+TVB_Plus,http://iptv.4666888.xyz/iptv.php?id=20072
+TVB娱乐新闻,http://iptv.4666888.xyz/iptv.php?id=20073
+TVB生活,http://iptv.4666888.xyz/iptv.php?id=20074
+ViuTV,http://iptv.4666888.xyz/iptv.php?id=20075
+ViuTV6,http://iptv.4666888.xyz/iptv.php?id=20076
+HOY76,http://iptv.4666888.xyz/iptv.php?id=20077
+HOY77,http://iptv.4666888.xyz/iptv.php?id=20078
+HOY78,http://iptv.4666888.xyz/iptv.php?id=20079
+RTHK31,http://iptv.4666888.xyz/iptv.php?id=20080
+RTHK32,http://iptv.4666888.xyz/iptv.php?id=20081
+Now新闻,http://iptv.4666888.xyz/iptv.php?id=20082
+Now新闻,http://iptv.4666888.xyz/iptv.php?id=20083
+Now新闻,http://iptv.4666888.xyz/iptv.php?id=20084
+Now财经,http://iptv.4666888.xyz/iptv.php?id=20085
+Now星影(粤),http://iptv.4666888.xyz/iptv.php?id=20086
+Now爆谷(粤),http://iptv.4666888.xyz/iptv.php?id=20087
+Now星影(国),http://iptv.4666888.xyz/iptv.php?id=20088
+Now爆谷(国),http://iptv.4666888.xyz/iptv.php?id=20089
+Now紫金国际,http://iptv.4666888.xyz/iptv.php?id=20090
+Now剧集,http://iptv.4666888.xyz/iptv.php?id=20091
+Now直播,http://iptv.4666888.xyz/iptv.php?id=20093
+Now英超1,http://iptv.4666888.xyz/iptv.php?id=20092
+Now668赛马,http://iptv.4666888.xyz/iptv.php?id=20094
+TVB1,http://iptv.4666888.xyz/iptv.php?id=20095
+TVBJ1,http://iptv.4666888.xyz/iptv.php?id=20096
+TVBE,http://iptv.4666888.xyz/iptv.php?id=20097
+TVB明珠剧集,http://iptv.4666888.xyz/iptv.php?id=20098
+TVB翡翠剧集,http://iptv.4666888.xyz/iptv.php?id=20099
+TVB黄金华剧,http://iptv.4666888.xyz/iptv.php?id=20100
+TVB星河(粤),http://iptv.4666888.xyz/iptv.php?id=20101
+TVB星河(国),http://iptv.4666888.xyz/iptv.php?id=20102
+TVB武侠(粤),http://iptv.4666888.xyz/iptv.php?id=20103
+TVB武侠(国),http://iptv.4666888.xyz/iptv.php?id=20104
+TVB千禧经典,http://iptv.4666888.xyz/iptv.php?id=20105
+MYTV_SUPER黄金翡翠,http://iptv.4666888.xyz/iptv.php?id=20106
+MYTV_SUPER经典,http://iptv.4666888.xyz/iptv.php?id=20107
+MYTV_SUPER黄金华剧,http://iptv.4666888.xyz/iptv.php?id=20108
+MYTV_SUPER亚洲剧,http://iptv.4666888.xyz/iptv.php?id=20109
+MYTV_SUPER少儿,http://iptv.4666888.xyz/iptv.php?id=20110
+MYTV_SUPER_FREE,http://iptv.4666888.xyz/iptv.php?id=20111
+MYTV_SUPER粤语片,http://iptv.4666888.xyz/iptv.php?id=20112
+MYTV_SUPER戏曲,http://iptv.4666888.xyz/iptv.php?id=20113
+天映经典,http://iptv.4666888.xyz/iptv.php?id=20114
+天映经典2,http://iptv.4666888.xyz/iptv.php?id=20115
+天映频道,http://iptv.4666888.xyz/iptv.php?id=20116
+天映频道2,http://iptv.4666888.xyz/iptv.php?id=20117
+PopC电影,http://iptv.4666888.xyz/iptv.php?id=20118
+创世电视,http://iptv.4666888.xyz/iptv.php?id=20119
+美亚电影(港),http://iptv.4666888.xyz/iptv.php?id=20120
+星光视界,http://iptv.4666888.xyz/iptv.php?id=20121
+重温经典,http://iptv.4666888.xyz/iptv.php?id=20122
+88赛马,http://iptv.4666888.xyz/iptv.php?id=20123
+有线18赛马,http://iptv.4666888.xyz/iptv.php?id=20124
+无线18赛马,http://iptv.4666888.xyz/iptv.php?id=20125
+28AI赛马,http://iptv.4666888.xyz/iptv.php?id=20126
+澳视澳门,http://iptv.4666888.xyz/iptv.php?id=20127
+澳门Macau,http://iptv.4666888.xyz/iptv.php?id=20128
+澳门资讯,http://iptv.4666888.xyz/iptv.php?id=20129
+澳门莲花,http://iptv.4666888.xyz/iptv.php?id=20130
+澳门体育,http://iptv.4666888.xyz/iptv.php?id=20131
+天映CM+,http://iptv.4666888.xyz/iptv.php?id=20132
+TVB-EYT,http://iptv.4666888.xyz/iptv.php?id=20133
+TVB-Music,http://iptv.4666888.xyz/iptv.php?id=20134
+TVB-Sports,http://iptv.4666888.xyz/iptv.php?id=20135
+TVB-劇場,http://iptv.4666888.xyz/iptv.php?id=20136
+TVB-煲劇,http://iptv.4666888.xyz/iptv.php?id=20137
+TVB-獎門人,http://iptv.4666888.xyz/iptv.php?id=20138
+TVB-話當年,http://iptv.4666888.xyz/iptv.php?id=20139
+TVB-識嘆,http://iptv.4666888.xyz/iptv.php?id=20140
+TVB-識食,http://iptv.4666888.xyz/iptv.php?id=20141
+TVB-金曲,http://iptv.4666888.xyz/iptv.php?id=20142
+新加坡MU,http://iptv.4666888.xyz/iptv.php?id=20284
+新加坡M5,http://iptv.4666888.xyz/iptv.php?id=20285
+新加坡M8,http://iptv.4666888.xyz/iptv.php?id=20286
+Hub娱家,http://iptv.4666888.xyz/iptv.php?id=20287
+Hub都会,http://iptv.4666888.xyz/iptv.php?id=20288
+TVBS新闻,http://iptv.4666888.xyz/iptv.php?id=20168
+三立新闻,http://iptv.4666888.xyz/iptv.php?id=20169
+三立iNEWS,http://iptv.4666888.xyz/iptv.php?id=20170
+中视新闻,http://iptv.4666888.xyz/iptv.php?id=20171
+台视新闻,http://iptv.4666888.xyz/iptv.php?id=20172
+中天新闻,http://iptv.4666888.xyz/iptv.php?id=20173
+东森新闻,http://iptv.4666888.xyz/iptv.php?id=20174
+东森新闻(美),http://iptv.4666888.xyz/iptv.php?id=20175
+寰宇新闻,http://iptv.4666888.xyz/iptv.php?id=20176
+寰宇新闻台湾,http://iptv.4666888.xyz/iptv.php?id=20293
+民视新闻,http://iptv.4666888.xyz/iptv.php?id=20177
+年代新闻,http://iptv.4666888.xyz/iptv.php?id=20178
+非凡新闻,http://iptv.4666888.xyz/iptv.php?id=20179
+摬新闻,http://iptv.4666888.xyz/iptv.php?id=20180
+中天CTI+,http://iptv.4666888.xyz/iptv.php?id=20181
+民视,http://iptv.4666888.xyz/iptv.php?id=20182
+中视,http://iptv.4666888.xyz/iptv.php?id=20183
+华视,http://iptv.4666888.xyz/iptv.php?id=20184
+公视,http://iptv.4666888.xyz/iptv.php?id=20185
+台视,http://iptv.4666888.xyz/iptv.php?id=20186
+中旺电视,http://iptv.4666888.xyz/iptv.php?id=20187
+TVBS HD,http://iptv.4666888.xyz/iptv.php?id=20188
+TVBS欢乐,http://iptv.4666888.xyz/iptv.php?id=20189
+TVBS亚洲,http://iptv.4666888.xyz/iptv.php?id=20190
+TVBS精采,http://iptv.4666888.xyz/iptv.php?id=20191
+TVBS综艺,http://iptv.4666888.xyz/iptv.php?id=20192
+TVBS台剧,http://iptv.4666888.xyz/iptv.php?id=20193
+中天娱乐,http://iptv.4666888.xyz/iptv.php?id=20194
+中天综合,http://iptv.4666888.xyz/iptv.php?id=20195
+中天亚洲,http://iptv.4666888.xyz/iptv.php?id=20196
+八大第一,http://iptv.4666888.xyz/iptv.php?id=20197
+八大综合,http://iptv.4666888.xyz/iptv.php?id=20198
+八大戏剧,http://iptv.4666888.xyz/iptv.php?id=20199
+八大娱乐,http://iptv.4666888.xyz/iptv.php?id=20200
+八大精采,http://iptv.4666888.xyz/iptv.php?id=20201
+三立台湾,http://iptv.4666888.xyz/iptv.php?id=20202
+三立戏剧,http://iptv.4666888.xyz/iptv.php?id=20203
+三立综合,http://iptv.4666888.xyz/iptv.php?id=20204
+三立都会,http://iptv.4666888.xyz/iptv.php?id=20205
+东森综合,http://iptv.4666888.xyz/iptv.php?id=20206
+东森戏剧,http://iptv.4666888.xyz/iptv.php?id=20207
+东森超视34.5,http://iptv.4666888.xyz/iptv.php?id=20208
+华视新闻,http://iptv.4666888.xyz/iptv.php?id=20209
+东森美洲,http://iptv.4666888.xyz/iptv.php?id=20210
+东森电影,http://iptv.4666888.xyz/iptv.php?id=20211
+东森洋片,http://iptv.4666888.xyz/iptv.php?id=20212
+东森Yoyo,http://iptv.4666888.xyz/iptv.php?id=20213
+民事第一,http://iptv.4666888.xyz/iptv.php?id=20214
+民事第一,http://iptv.4666888.xyz/iptv.php?id=20215
+民视台湾,http://iptv.4666888.xyz/iptv.php?id=20216
+民事综艺,http://iptv.4666888.xyz/iptv.php?id=20217
+民视旅遊,http://iptv.4666888.xyz/iptv.php?id=20218
+民视戏剧,http://iptv.4666888.xyz/iptv.php?id=20219
+台视综合,http://iptv.4666888.xyz/iptv.php?id=20220
+中视经典,http://iptv.4666888.xyz/iptv.php?id=20221
+中视菁采,http://iptv.4666888.xyz/iptv.php?id=20222
+华艺中文,http://iptv.4666888.xyz/iptv.php?id=20223
+智林体育,http://iptv.4666888.xyz/iptv.php?id=20224
+纬来体育,http://iptv.4666888.xyz/iptv.php?id=20225
+纬来日本,http://iptv.4666888.xyz/iptv.php?id=20226
+纬来电影,http://iptv.4666888.xyz/iptv.php?id=20227
+纬来综合,http://iptv.4666888.xyz/iptv.php?id=20228
+纬来精采,http://iptv.4666888.xyz/iptv.php?id=20229
+爱尔达影剧,http://iptv.4666888.xyz/iptv.php?id=20230
+爱尔达综合,http://iptv.4666888.xyz/iptv.php?id=20231
+爱尔达体育1,http://iptv.4666888.xyz/iptv.php?id=20232
+爱尔达体育2,http://iptv.4666888.xyz/iptv.php?id=20233
+爱尔达体育3,http://iptv.4666888.xyz/iptv.php?id=20234
+爱尔达体育4,http://iptv.4666888.xyz/iptv.php?id=20235
+靖天国际台,http://iptv.4666888.xyz/iptv.php?id=20236
+靖天卡通,http://iptv.4666888.xyz/iptv.php?id=20237
+爱奇艺,http://iptv.4666888.xyz/iptv.php?id=20238
+美亚电影,http://iptv.4666888.xyz/iptv.php?id=20239
+龙华电影,http://iptv.4666888.xyz/iptv.php?id=20240
+龙华戏剧,http://iptv.4666888.xyz/iptv.php?id=20241
+龙华洋片,http://iptv.4666888.xyz/iptv.php?id=20242
+龙华偶像,http://iptv.4666888.xyz/iptv.php?id=20243
+龙华日韩,http://iptv.4666888.xyz/iptv.php?id=20244
+龙华经典,http://iptv.4666888.xyz/iptv.php?id=20245
+龙华卡通,http://iptv.4666888.xyz/iptv.php?id=20246
+龙祥时代,http://iptv.4666888.xyz/iptv.php?id=20247
+好莱乌电影,http://iptv.4666888.xyz/iptv.php?id=20248
+HBO,http://iptv.4666888.xyz/iptv.php?id=20249
+HBO_HD,http://iptv.4666888.xyz/iptv.php?id=20250
+HBO_Family,http://iptv.4666888.xyz/iptv.php?id=20251
+HBO_HITS,http://iptv.4666888.xyz/iptv.php?id=20252
+HBO-Ignature,http://iptv.4666888.xyz/iptv.php?id=20253
+AXN电影,http://iptv.4666888.xyz/iptv.php?id=20254
+ONE电影,http://iptv.4666888.xyz/iptv.php?id=20255
+爱尔达娱乐,http://iptv.4666888.xyz/iptv.php?id=20303
+CINEMAX,http://iptv.4666888.xyz/iptv.php?id=20256
+Star Movies,http://iptv.4666888.xyz/iptv.php?id=20257
+Animaxa动漫,http://iptv.4666888.xyz/iptv.php?id=20258
+Thrill,http://iptv.4666888.xyz/iptv.php?id=20259
+欢喜台,http://iptv.4666888.xyz/iptv.php?id=20260
+MDAX,http://iptv.4666888.xyz/iptv.php?id=20261
+CN卡通,http://iptv.4666888.xyz/iptv.php?id=20262
+博斯运动1,http://iptv.4666888.xyz/iptv.php?id=20263
+博斯运动2,http://iptv.4666888.xyz/iptv.php?id=20264
+博斯高球2,http://iptv.4666888.xyz/iptv.php?id=20265
+博斯高球1,http://iptv.4666888.xyz/iptv.php?id=20266
+博斯网球,http://iptv.4666888.xyz/iptv.php?id=20267
+博斯无限,http://iptv.4666888.xyz/iptv.php?id=20268
+WWE摔胶,http://iptv.4666888.xyz/iptv.php?id=20269
+亚洲美食,http://iptv.4666888.xyz/iptv.php?id=20270
+美食星球,http://iptv.4666888.xyz/iptv.php?id=20271
+TLC亚洲旅游,http://iptv.4666888.xyz/iptv.php?id=20272
+ASIA亚洲旅游,http://iptv.4666888.xyz/iptv.php?id=20273
+阿里郎Ariranga,http://iptv.4666888.xyz/iptv.php?id=20274
+ROCK Entertainment,http://iptv.4666888.xyz/iptv.php?id=20275
+MTV_Livea,http://iptv.4666888.xyz/iptv.php?id=20276
+动物星球,http://iptv.4666888.xyz/iptv.php?id=20277
+新加坡CM+,http://iptv.4666888.xyz/iptv.php?id=20278
+BBC_Earth,http://iptv.4666888.xyz/iptv.php?id=20279
+BBC_Lifestyle,http://iptv.4666888.xyz/iptv.php?id=20280
+新加坡剧乐酷,http://iptv.4666888.xyz/iptv.php?id=20281
+新加坡e乐,http://iptv.4666888.xyz/iptv.php?id=20282
+History,http://iptv.4666888.xyz/iptv.php?id=20283
+新加坡佳乐,http://iptv.4666888.xyz/iptv.php?id=20289
+KTSF26(美),http://iptv.4666888.xyz/iptv.php?id=20290
+公视戏剧,http://iptv.4666888.xyz/iptv.php?id=20292
+靖洋戏剧,http://iptv.4666888.xyz/iptv.php?id=20294
+靖洋卡通,http://iptv.4666888.xyz/iptv.php?id=20295
+靖天综合,http://iptv.4666888.xyz/iptv.php?id=20296
+靖天欢乐,http://iptv.4666888.xyz/iptv.php?id=20297
+靖天映画,http://iptv.4666888.xyz/iptv.php?id=20298
+靖天戏剧,http://iptv.4666888.xyz/iptv.php?id=20299
+靖天电影,http://iptv.4666888.xyz/iptv.php?id=20300
+靖天育乐,http://iptv.4666888.xyz/iptv.php?id=20301
+靖天资讯,http://iptv.4666888.xyz/iptv.php?id=20302
 
 
 
 
 
 
-
-飞哥FM,#genre#
+🇲🇴飞哥FM,#genre#
 
 广东音乐,https://hyf000.eu.org/80947108/YY1
 广东音乐1,https://hyf000.eu.org/80947108/YY2
@@ -20271,7 +20254,17 @@ B星球2024(HD中字),https://yzzy21.playback-speed.com/20250507/42872_849db8ef/
 射雕英雄传：侠之大者 2025(HD国语),https://yzzy21.playback-speed.com/20250411/42510_e89ef5ea/index.m3u8
 绣衣使·西汉迷案 2025(HD国语),https://yzzy21.playback-speed.com/20250410/42496_6618db57/index.m3u8
 🇲🇴体育赛事列表,#genre#
-008-15 20:00_中超联赛_云南玉昆 vs 武汉三镇_鲁靖明 雷腾龙,https://migu.188766.xyz/play?migutoken=1e703f0bb9c3c727ee7db0c49907f89e&id=ESZo8FvVOXrzvcTrP8gcJVib%2BgQIwvGJV7k6aLcmWXe22Ee2mGfnT6coc1A8%2FPlZIKX7MHPBJOSrao9X7L6ethnXIQIxXKwRsoyQEdqSpprUAV5kUdLvZKL%2BhbZY9H6bytOV8pFFalGdaX1goDWIZg2ZxtGlS6ZelowOm3nlAn674nHj5EZkp2PnL4AtjWrs8HFpm1FNDlqfj2tgodyx9rehDKsIu0FYEc9oWzZGUWw%3D&name=aKvgerFGSrZ4mN1v3EdH%2B8CkDWMTt7gv4wo7F3mT3WPonP2%2FWSzXCIq4euO824%2BYFibKbMOA655JcyvepVJioYG7fN408Sd0y8zRa1QsSK2DHzTqr6RBoSdZCyrP340H
-08-15 19:00_斯诺克沙特大师赛 半决赛_斯诺克沙特大师赛 半决赛_秦正,http://one.loiey.top:55488/migu/957172180.m3u8?migutoken=bc1b1c1c042774ae769c47b369f1d49b5488d014bfbcc6c4b5f89c50fbdc886f1d8e4317dfb63a60f2fb8e00513818c2b82f66c9c9efaace7e2a9947acf35016a403cc9f7197ff477c08f23c
-08-15 17:00_亚冠精英_亚冠精英联赛阶段抽签仪式_涂远,https://migu.188766.xyz/play?migutoken=42fff35a2cce0ce8e433e64ce410a4b3&id=SJxw9TQg1PRQRTb6innVwZ0V%2BowPlOMWT3cHpHBaN7JyDhml0%2BHfNodgkbgV1DeZBuXJEMOMYJGHQNgfW3g9TpetHZYxR0kY56S53Zno%2BVu3zNDIw340hf%2BHSCX6RUvzvGtp8WemMlK7vQ3zTgjKWPXOQeTUX8C6I7uVKwenHu637eCD7cjzTCkVoNj5FudN6CyxMXtz0mgpU23KayYTpBtHzDcSRL5K2DSBFT4mjto%3D&name=UWglwH4mUReAQwl7v0tgshmaHv95xYj%2B3gsFGV8XI0nz8yk98d9s27yCI4Z1B4ETbycGPzyI%2BZyBgqG%2BoWH%2Ft8%2BuoGB9p8RPnYsHATDt%2FIxQhFz1H8oSwnKOWh04IKh9
-08-15 19:35_中超联赛_上海海港 vs 河南_苏东 徐阳 林梦鸽,https://migu.188766.xyz/play?migutoken=870230686f334d7107aa72ebe09a56aa&id=zH64PnFofeJADgD5TmnqpQWr5NiMI6m2ryx3w52KWWpxggmZ4RLcp34GJtoxAwF07CueYzeUWb1Ze7k4oEPjanfvGhKFirForVXP9Wu%2B8ieqYvuMZhsj5vm7cX8b58jGCjo9Cf0Cu%2F4Kh2KuusEIC7xADkSlQXtSAoep2B%2Baw505Oe3NZrT%2Fj67ieMONItb1sPvvp%2BT%2FtekkRoqgJ%2FwIwtqvk7%2BcK6jP1AMRBY01Lp8%3D&name=FsnMPvw5bIxpJLVPU3p8TAbwgVGNxcrOkNHApb5PkvWkazD%2Fp78aYrjmgMBk9gbGRC2PL%2FOgAwKQYy4JLg%2FFI%2BzS79q9NJ4tuMIuEBYf3zZaeNlTlvsiXoixFumMImsi
+虎牙斯诺克,https://live.iill.top/huya/880214%2B8CkDWMTt7gv4wo7F3mT3WPonP2%2FWSzXCIq4euO824%2BYFibKbMOA655JcyvepVJioYG7fN408Sd0y8zRa1QsSK2DHzTqr6RBoSdZCyrP340H
+成都蓉城 vs 青岛海牛_袁甲 杨晨,http://one.loiey.top:55488/migu/957163209.m3u8?migutoken=866ff9ed3b96da772d8e8a6cc6bdc8b8d063824851d77fec967d63404a170ef9af70a4ea9c155bb5b13a737ad2753f121a42dec0c2baae8b047463d11b9efd6898153772c20b30c44be7e1d4
+成都蓉城 vs 青岛海牛_ 杨晨,http://hmjnas.drdjhmj.top:35455/migu/957163209.m3u8?migutoken=42ea2640a2907fd3bee99fd4c67d3df92945f3345370db957e6e6db3c89ed550650aa1e763149c8e2ed4cc5f5769e63b56de731c82b9b639da2c8f59f836b40646e314fcd8b6d03a39eb2994e0
+英超联赛_阿斯顿维拉 vs 纽卡斯尔联_苏东 刘建宏,http://one.loiey.top:55488/migu/957172380.m3u8?migutoken=72d565da7dc5dc4219dbcce9696e307cdd1a947f4336af4909a3be712313e2a36f68b48dd9bf7bb0658e8c34580135e291ebd50bfffeb226e24791f456532aadeb4a77c9f37b79ae45c4d79b
+阿斯顿维拉 vs 纽卡斯尔联,http://hmjnas.drdjhmj.top:35455/migu/957172380.m3u8?migutoken=188cca6420090458c0533b9f5d4370a8eae734a8d59f50a75f697032be64dea9e5407f49dd654bcf462cc5e28a1c8dd1471674a93d2b5425ae51265f5477edad1df1ff7094ad367712050b3ec8
+男篮亚洲杯半决赛_中国vs新西兰_杨健 周琦 李根,https://migu.188766.xyz/play?migutoken=21eef6465536961c42d4b76f444f49b4&id=MZZtZLPc5zTTOTefYC40Cmb0XufnHE0lV6z1XyNa7XplJZmLqj9SVfsH6QvaIxc3arv0FI3gdyVNaNATv15kvAbUlME4muUcODcBHWOXychtSlJ2ImEfiP2DzgrOSXSS0efTGlgte3%2BH03AhVx9TpY15eDOToD5Qy1uf3rzTuxw2fn8c%2BKiLqWoh5ibt6dD7RTXGMwNsMNzsfSk0VkwlqsvGK0%2FWMFqPJfyKT2jtoeg%3D&name=J8iPAuWJNtAkVRsg5UNqUep8VVaogm0E6xLSLO50jWtpEUsBk3vVE5aSpqwTldz4UUWND9HOaZaK0dTV25I6OcmULVoyYz8%2Fs9%2BrJNa1ajISUtu4QjcWeLe15lfNBydD
+19:00_男篮亚洲杯半决赛_中国vs新西兰 王嘉琦 管维佳 王仕鹏 辰辰,https://migu.188766.xyz/play?migutoken=1b496099999ea704950aad7aa7812c35&id=n38FLOjFR71Ql6%2BbWxVVebiJN4mtLocmnCHpRY4BaF0p3MF5znw8tJOZfLxBlT8yW%2BihnP%2BytONP9lYW5nr%2F6q2SK9hPBCv8DPjHUB72%2Fgvz5BqVyYjLQrWifDHQumrWV2fmASqhalUT%2FGy1H9CHsvCR4LU9xK9REHjNyru9uYAdO6yBZzfdHOKvACYjC48Nl3sR2ETJ2KQ%2FR%2F8KMOQKOJDwsFecr2Ml6mjSTzM8Jgrkzf7Us9Mvxk8B7LXkq1Fv8V1DONsMfZ3OGswstwqFvld0dX1k3VafmM7Z2L9I6OnWmdp8Z718SQkLl1Z7J7il&name=jXgVNxKpFNCfc1hVvM%2FoCv89%2Bony4i2AGQDUzpQr7zloLcM%2BHxCTjdncFdaDjxrT5rDmUpWY%2BxCpIWt2RpTXVUuVg6%2B3t0guUqiFT2JD38eZQsl2mjRzFIDa36bmojC3FaTx8ZBTigaGWJCPc1Ci9Q%3D%3D
+中超联赛_青岛西海岸 vs 北京国安_李欣 董路 李子琪,https://migu.188766.xyz/play?migutoken=5b5d5c6bd1161616d111c5cafa13ac63&id=IKlzK3lUipzAlWiSEgxF8Z90moKrZ28GjrbC44664%2FQHn12aucQWAi%2FXP4JTWtCU%2Fl9UwGQtxF9tMYeLenQrCOt9S00%2FdWfp8nnRQWWYLB0Hslyxw7wTl5CxKamtFdTca9nD3GnbT5qrJcWbKYliuUA3nz0Eg3pSiq4aj5vOZ4LnXBwDiObktPG6%2FLVZLnh5PiC8Tm8iAigxV9Gfh9GflTwW8AfSUwkf2BHc2HohfSs%3D&name=uAdO1h56tlMGHsrva%2B7tdY81Jg%2FuajcNFVtfNbTS%2FHwWbP8cWERakKsenJyfd6ncfL7WHwXOdwjvVT2UOTJCO8TNzNp8jumj1D%2B6otFAl9l%2F%2F2R%2FzAoxE9GKkWjWjO10uhhTJIkSgvCB4EEIRUgA3Q%3D%3D
+中超联赛_浙江 vs 上海申花,https://migu.188766.xyz/play?migutoken=daf8baeca43735dceffd328c14938cd1&id=DMvG9hHHH%2FR3fOuurlTCtX6O1TIZCCE19mT%2FC3fmh2sCw24lhqvAi%2FIHpmTMpzxdbQXO%2FCAcRZcrWf4A8%2FMsUYxR9ZPSmNeGozIyzRQsijTYCmwVIowSBTLzUP2iBfq1lXWMGtQH46mQ1g%2FXP282ZgpkD6hMV2Ap7hlfWf75GAATSPAk4Qqo82ujpMfeHgcCX3gG6A5FqJE32OC09a%2FNRKMLJRSWzCL6ILH%2FiqfSGAI%3D&name=tlghPnxeVg8jHZ4%2FnxbWeWpsSaWfjcAGYRKTSvcNIdq5IDRLQXMjoSsSX8ehixKMYzlH9b6tkIfgYJU3g%2BIvgBV4O8SZIKWE%2FbO%2FiGIvqZUDD36lpj%2BsuxY0nSQ2xVtx
+英超联赛_托特纳姆热刺 vs 伯恩利,http://one.loiey.top:55488/migu/957172245.m3u8?migutoken=a39a8e841b4986ae0c471efb84d2d5371417de1f044453528654b7bb85024f50e4b07b85f9ca78fc7dd271c05e2933024738ab9fd583da32bec92143f0aa57122108b58db796a997a00d6123
+托特纳姆热刺 vs 伯恩利,http://hmjnas.drdjhmj.top:35455/migu/957172245.m3u8?migutoken=54cc5d9e299cd6943d7db89af95ef8a483dbb11673199bdf60d4c398976442c8a70b4c97945482fd49bc526048f3543b8abf5cb6b89ffef2f0d3aa5cd17914ea465fb2771410353127f56aa81a
+08-16 21:45_英超联赛_布莱顿 vs 富勒姆_苗锟,http://one.loiey.top:55488/migu/957172426.m3u8?migutoken=f8f13603c0d577d16e70ac896961294004e8e202bb5b74f3aaebd956114e50731181ff89c30212716088239112fcda3c409a3c55bba57f10d3f3d35678788c7e67d99eae7f660057d21d0906
+英超联赛_布莱顿 vs 富勒姆,http://hmjnas.drdjhmj.top:35455/migu/957172426.m3u8?migutoken=09a3c240fbf48fd157a768bcd7688a46c719f0754d7b74458d10a8b98b6a3985b1a7361430c8068e932b900a61c4b9103918e87eb44da2ad9d8e8607853460ae7edb38ddfd47a6e06b4b3ebf56
+桑德兰 vs 西汉姆联_郭灿亮,http://one.loiey.top:55488/migu/957172845.m3u8?migutoken=24d666161899468b87aac7781fec8bfd4aac5b47fb9bdd8360e1311c43c2bbcdc0b54a02bdba0718c376929eac1acbcc7d5d7c4cb2a8dda4a7c32b4850efc33d2f7f2c97ef5298b27410bdf5
