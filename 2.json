@@ -664,18 +664,51 @@
             }
         },
  {
-            "key": "客星",
-            "name": "😎客星｜APP",
+            "key": "爱影",
+	            "name": "😎爱影｜APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+            "api": "csp_AppSy",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
             "ext": {
-                "url": "https://api.hiapp.com.cn",
-                "dataKey": "2268331221bobobo",
-                "dataIv": "2268331221bobobo",
+                "url": "http://110.42.7.59:11822",
+                "key1": "aassddwwxxllsx1x",
+                "key2": "1e765e9b09b4dbba",
+                "key3": "1e765e9b09b4dbba"
+            }
+        },
+        {
+            "key": "加菲",
+            "name": "😎加菲丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+          "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar", 
+            "ext": {
+                "url": "",
+                "site": "https://aysappto.oss-cn-chengdu.aliyuncs.com/qj1.txt",
+                "dataKey": "dksvndkaAjekakcE",
+                "dataIv": "dksvndkaAjekakcE",
                 "deviceId": "",
-                "version": "105"
+                "version": "",
+                "ua": ""
+            }
+        },
+        {
+            "key": "咖啡",
+            "name": "😎咖啡丨APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppQi",
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",
+            "ext": {
+                "url": "",
+                "site": "https://daen-1256234123.cos.ap-shanghai.myqcloud.com/MuQi/mqxh.txt",
+                "dataKey": "37kj83zs1q16jk6t",
+                "dataIv": "37kj83zs1q16jk6t",
+                "deviceId": "",
+                "version": "101",
+                "ua": ""
             }
         },
 {
@@ -683,15 +716,45 @@
             "name": "😎哔滴丨APP",
             "type": 3,
             "quickSearch": 1,
-            "api": "csp_AppGet2",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
+            "api": "csp_AppQi",
+             "jar":"https://ghfast.top/https://raw.githubusercontent.com/ls125781003/tvboxtg/main/潇洒/spider.jar",  
             "ext": {
                 "url": "",
                 "site": "https://ooxooxooxooxoo-1259561579.cos.ap-chengdu.myqcloud.com/ip.json",
                 "dataKey": "5ae8ee4bb95ea0ce",
                 "dataIv": "5ae8ee4bb95ea0ce",
                 "deviceId": "",
-                "version": "120"
+                "version": "120",
+                "ua": "okhttp/3.10.0 BDYS/109.0.0.8"
+            }
+        },
+{
+            "key": "狂人",
+            "name": "😎狂人 I APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://www.zjkrmv.vip",
+                "dataKey": "vXeyuJFqTKqWUtWU",
+                "dataIv": "vXeyuJFqTKqWUtWU",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "莱米",
+	            "name": "😎莱米｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "",
+                "site": "http://laiget-1313189639.cos.ap-guangzhou.myqcloud.com/laimi.txt",
+                "dataKey": "ce032244d093b3e2",
+                "dataIv": "ce032244d093b3e2",
+                "deviceId": "",
+                "version": ""
             }
         },
         {
