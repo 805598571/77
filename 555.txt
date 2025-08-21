@@ -6,7 +6,7 @@ CCTV 01 综合8,http://qjrhc.jydjd.top:2911/udp/225.1.101.138:11111
 CCTV 01,http://hbhyjq.ufyct.com:1088/hls/9/index.m3u8
 CCTV央1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1央,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
-央CCTV1,http://106.53.99.30/tv/jzb.php?id=cctv1$雷蒙影视•IPV4『线路1』
+央CCTV1,http://live.jnjyapp.cn/live/cctv1.flv
 综合CCTV1,http://www.lizhinas.top:1009/rtp/239.252.219.200:5140
 CCTV1-11,http://go.061899.xyz/mg/cctv1
 CCTV1-21,http://60.174.40.117:85/tsfile/live/0001_1.m3u8?key=txiptv
@@ -292,23 +292,23 @@ cNN新闻,http://61.216.11.93:49981/stream/channelid/881277234.m3u8
 虎-goodiptv星爷,https://www.goodiptv.club/huya/11342412
 
 🇳央卫港台2,#genre#
-CCTV-1,http://183.94.1.118:8801/tsfile/live/0001_1.m3u8 
-CCTV-1,http://120.192.226.35:8009/hls/501/index.m3u8 
-CCTV-1,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8? 
-CCTV-1,http://123.182.60.29:9002/hls/1/index.m3u8 
-CCTV-1,http://112.123.206.32:808/hls/1/index.m3u8 
-CCTV-1,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 
-CCTV-1,http://36.105.100.208:35455/gaoma/cctv1.m3u8 
-CCTV-1, http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
-CCTV-1, http://mh0.asia:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
-CCTV-1, http://3501776.xyz:35455/gaoma/cctv1.m3u8
-CCTV-1,http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1-1,http://www.dsk.cc/php/bfgd.php?id=cctv1&m.m3u8
+CCTV1-2,http://live.jnjyapp.cn/live/cctv1.flv 
+CCTV1-3,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8? 
+CCTV1-4,http://123.182.60.29:9002/hls/1/index.m3u8 
+CCTV1-5,http://112.123.206.32:808/hls/1/index.m3u8 
+CCTV1-6,http://61.138.128.226:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0 
+CCTV1-7,http://36.105.100.208:35455/gaoma/cctv1.m3u8 
+CCTV1-8, http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1-9,http://mh0.asia:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
+CCTV1-10,http://3501776.xyz:35455/gaoma/cctv1.m3u8
+CCTV1-11,http://iptv.0564.org:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV1-03,http://mh0.asia:35455/itv/1000000005000265001.m3u8?cdn=ystenlive
 CCTV1-04,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 
 
 CCTV1综合,http://119.131.24.84:9003/udp/239.77.1.17:5146
-CCTV-02,http://8.138.7.223/tv/cctv2.php
+CCTV-02,http://www.dsk.cc/php/bfgd.php?id=cctv2&m.m3u8
 CCTV-1 综合,http://go.bkpcp.top/mg/cctv1
 CCTV-2 财经,http://go.bkpcp.top/mg/cctv2
 CCTV-3 综艺,http://go.bkpcp.top/mg/cctv3
@@ -752,6 +752,10 @@ ELTA体育4,http://j.s.bkpcp.top/jj/aedty4
 林正英4,http://43.138.170.29:35455/yy/1353685311
 林正英5,http://43.138.170.29:35455/yy/34229877
 🇨🇳┃央卫港台3,#genre#
+凤凰中文台,http://iptv.4666888.xyz/iptv.php?id=20060
+凤凰中文台1,http://iptv.4666888.xyz/iptv.php?id=20063
+凤凰资讯台,http://iptv.4666888.xyz/iptv.php?id=20061
+凤凰资讯台1,http://iptv.4666888.xyz/iptv.php?id=20064
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰中文1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
@@ -1506,7 +1510,7 @@ TVB星河,http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 朝鲜恩情台,http://s1.an94tv.cfd/aktv3/CH-0/AKTV.m3u8
 民視第一台,http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 日テレNEWSLIVE,http://s1.an94tv.cfd/aktvjp/ntv/AKTV.m3u8
-//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
 TVBS,http://api.mytv666.top/api/hk.php?id=3530393233353135316139356235363965653137653863353561653864336263267469643d77696e74763132332669643d3730
 TVBS欢乐台,http://api.mytv666.top/api/hk.php?id=3762336166623866323763356361653833376266313161666333646136363637267469643d74762669643d313538
 TVBS欢乐台,http://api.mytv666.top/api/hk.php?id=6236616334353366303862316264353063653232626338383639306330623231267469643d77696e74763132332669643d3731
@@ -3058,36 +3062,138 @@ KTSF26(美),http://iptv.4666888.xyz/iptv.php?id=20290
 
 🇲🇴飞哥FM,#genre#
 
-广东音乐,https://hyf000.eu.org/80947108/YY1
-广东音乐1,https://hyf000.eu.org/80947108/YY2
-广东音乐2,https://hyf000.eu.org/80947108/YY3
-广东汽车,https://hyf000.eu.org/80947108/YY4
-广东音乐3,https://hyf000.eu.org/80947108/YY5
-香港第三,https://hyf000.eu.org/80947108/YY6
-亚洲经典,https://hyf000.eu.org/80947108/YY7
-亚洲热歌,https://hyf000.eu.org/80947108/YY8
-HD音乐,https://hyf000.eu.org/80947108/YY9
-亚洲粤语,https://hyf000.eu.org/80947108/YY10
-亚洲天空,https://hyf000.eu.org/80947108/YY11
-亚洲音乐,https://hyf000.eu.org/80947108/YY12
-澳门绿坉,https://hyf000.eu.org/80947108/YY13
-重庆音乐,https://hyf000.eu.org/80947108/YY14
-江苏音乐,https://hyf000.eu.org/80947108/YY15
-广西音乐,https://hyf000.eu.org/80947108/YY16
-陕西音乐,https://hyf000.eu.org/80947108/YY17
-河南音乐,https://hyf000.eu.org/80947108/YY18
-河南音乐2,https://hyf000.eu.org/80947108/YY19
-香港古典,https://hyf000.eu.org/80947108/YY20
-四川音乐,https://hyf000.eu.org/80947108/YY21
-贵州音乐,https://hyf000.eu.org/80947108/YY22
-湖北音乐,https://hyf000.eu.org/80947108/YY23
-湖南音乐,https://hyf000.eu.org/80947108/YY24
-吉林音乐,https://hyf000.eu.org/80947108/YY25
-江西音乐,https://hyf000.eu.org/80947108/YY26
-山西音乐,https://hyf000.eu.org/80947108/YY27
-福建音乐,https://hyf000.eu.org/80947108/YY28
-河北音乐,https://hyf000.eu.org/80947108/YY29
-浙江音乐,https://hyf000.eu.org/80947108/YY30
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港,http://dns.yiandrive.com:15907/phenix/fhhk#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
+翡翠台4K,https://cdn.163189.xyz/live/fct4k/stream.m3u8
+J2,http://php.jdshipin.com/TVOD/iptv.php?id=j2
+TVB Plus,https://cdn.163189.xyz/live/tvbp/stream.m3u8
+TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+明珠台,http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
+无线娱乐新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
+美亚C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
+美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+MOMOTV,rtmp://f13h.mine.nu/sat/tv761
+TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+东森超视,rtmp://f13h.mine.nu/sat/tv331
+八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
+八大第1台,http://61.221.215.25:8800/hls/55/index.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大立,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+Eleven体育,rtmp://f13h.mine.nu/sat/tv731
+Eleven体育1,rtmp://f13h.mine.nu/sat/tv741
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+华视,rtmp://f13h.mine.nu/sat/tv111
+寰宇新闻台,http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+靖天电影台,https://aktv.top/AKTV/live/aktv/null6/AKTV.m3u8
+民视,rtmp://f13h.mine.nu/sat/tv051
+民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+三立综合台,https://aktv.top/AKTV/live/aktv/null13/AKTV.m3u8
+台视,rtmp://f13h.mine.nu/sat/tv071
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+纬来精采,http://61.221.215.25:8800/hls/48/index.m3u8
+纬来日本,rtmp://f13h.mine.nu/sat/tv771
+纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纬来体育,rtmp://f13h.mine.nu/sat/tv721
+星光综合台,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+中视,rtmp://f13h.mine.nu/sat/tv091
+中天新闻,https://aktv.top/AKTV/live/aktv/null8/AKTV.m3u8
+中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
+中天亚洲台,https://aktv.top/AKTV/live/aktv/null12/AKTV.m3u8
+美国新闻,https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+韩国阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+💝稳定港澳,#genre#
+
+凤凰资讯,http://m.061899.xyz/mg/fhzx
+凤凰中文,http://m.061899.xyz/mg/fhzw
+凤凰香港,http://m.061899.xyz/mg/fhhk
+翡翠台,http://j.s.bkpcp.top/jj/fct
+无线新聞台,http://j.s.bkpcp.top/js/wxxw
+无线新聞台,http://j.s.bkpcp.top/jj/wxxwt
+明珠台,http://j.s.bkpcp.top/jj/zzt
+TVB 星河台,http://j.s.bkpcp.top/jj/tvbxht
+TVB Plus,http://j.s.bkpcp.top/jj/2j
+TVB千禧经典台,http://j.s.bkpcp.top/jj/tvbqxjd
+天映经典,http://j.s.bkpcp.top/jj/tyjd
+天映频道HD,http://j.s.bkpcp.top/jj/celestialmovieshd
+天映频道,http://j.s.bkpcp.top/jj/typd
+HOY78,http://j.s.bkpcp.top/jj/hoy78
+RTHK31,http://j.s.bkpcp.top/jj/rthk31
+RTHK32,http://j.s.bkpcp.top/jj/rthk32
+RTHK33,http://j.s.bkpcp.top/jj/rthk33
+RTHK34,http://j.s.bkpcp.top/jj/rthk34
+RTHK35,http://j.s.bkpcp.top/jj/rthk35
+RHK 31,http://j.s.bkpcp.top/jj/31rhk
+RHK 32,http://j.s.bkpcp.top/jj/32rhk
+VIUTV1,http://j.s.bkpcp.top/jj/1viutv
+Viu6,http://j.s.bkpcp.top/jj/6viu
+中天新闻,http://j.s.bkpcp.top/jj/ztxw
+寰宇新闻,http://j.s.bkpcp.top/jj/hyxw
+HBO,http://j.s.bkpcp.top/jj/hbo
+HBO Family,http://j.s.bkpcp.top/jj/hbofamily
+HBO HD,http://j.s.bkpcp.top/jj/hbohd
+HBO Family,http://j.s.bkpcp.top/jj/hbofamily1
+HBO_HITS,http://j.s.bkpcp.top/jj/hbohits
+AMC電影台,http://j.s.bkpcp.top/jj/amcdyt
+美亞電影,http://j.s.bkpcp.top/jj/mydy1
+美亞電影,http://j.s.bkpcp.top/jj/mydy
+好萊塢電影台,http://j.s.bkpcp.top/jj/hlwdyt
+國家地理,http://j.s.bkpcp.top/jj/gjdl
+動物星球,http://j.s.bkpcp.top/jj/dwxq
+東森戲劇,http://j.s.bkpcp.top/jj/dsxj
+東森洋片,http://j.s.bkpcp.top/jj/dsyp
+東森電影,http://j.s.bkpcp.top/jj/dsdy
+東森幼幼 Yoyo TV,http://j.s.bkpcp.top/jj/yoyotvdsyy
+緯來體育台,http://j.s.bkpcp.top/jj/wltyt
+纬来电影台,http://j.s.bkpcp.top/jj/wldy
+CN卡通,http://j.s.bkpcp.top/jj/cnkt
+靖天卡通台,http://j.s.bkpcp.top/jj/jtktt
+龍祥時代,http://j.s.bkpcp.top/jj/lxsd
+龍華偶像,http://j.s.bkpcp.top/jj/lhox
+龍華戲劇,http://j.s.bkpcp.top/jj/lhxj
+龍華洋片,http://j.s.bkpcp.top/jj/lhyp
+龍華經典,http://j.s.bkpcp.top/jj/lhjd
+龍華電影,http://j.s.bkpcp.top/jj/lhdy
+Movies Now HD,http://j.s.bkpcp.top/jj/moviesnow
+Star Movies HD,http://j.s.bkpcp.top/jj/starmovies
+AXN,http://j.s.bkpcp.top/jj/axn
+壹电影,http://j.s.bkpcp.top/jj/ydy
+ELTA影剧,http://j.s.bkpcp.top/jj/aedyjt
+ELTA体育1,http://j.s.bkpcp.top/jj/aedty1
+ELTA体育2,http://j.s.bkpcp.top/jj/aedty2
+ELTA体育3,http://j.s.bkpcp.top/jj/aedty3
+ELTA体育4,http://j.s.bkpcp.top/jj/aedty4
+博斯網球,http://j.s.bkpcp.top/jj/bswq
+博斯无限,http://j.s.bkpcp.top/jj/bswx
+博斯運動1,http://j.s.bkpcp.top/jj/bsyd1
+博斯運動2,http://j.s.bkpcp.top/jj/bsyd2
+博斯高球1,http://j.s.bkpcp.top/jj/bsgq1
+博斯高球2,http://j.s.bkpcp.top/jj/bsgq2
+NBA,http://j.s.bkpcp.top/jj/nba
+AEC,http://j.s.bkpcp.top/jj/aec
+華麗台 HD,http://j.s.bkpcp.top/jj/hdhlt
+歡喜台 HD,http://j.s.bkpcp.top/jj/hdhxt
+歡喜台(備用),http://j.s.bkpcp.top/jj/hxtby
+Astro QJ,http://j.s.bkpcp.top/jj/astroqj
+AOD,http://j.s.bkpcp.top/jj/aod
+愛奇藝,http://j.s.bkpcp.top/jj/aqy
+Animax,http://j.s.bkpcp.top/jj/animax
+Rock Actions,http://j.s.bkpcp.top/jj/rockactions
+Rock Entertainment,http://j.s.bkpcp.top/jj/rockentertainment
+Astrol Kplus,http://j.s.bkpcp.top/jj/astrolkplus
+CINEMAX,http://j.s.bkpcp.top/jj/cinemax
+Nick Jr,http://j.s.bkpcp.top/jj/nickjr
+Nickelodeon,http://j.s.bkpcp.top/jj/nickelodeon
+莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
+莲花卫视,http://live-hdl.macaulotustv.com/lotustv/macaulotustv.m3u8
 💝咪咕高清6,#genre#
 
 CCTV1,http://8.138.7.223/tv/migu2.php?id=1
@@ -4377,7 +4483,47 @@ CCTV-17,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226660/1.
 📺TLTV,#genre#
 
 
-
+北京卫视,http://219.157.60.114:7001/rtp/225.1.4.81:1110
+东方卫视,hhttp://219.157.60.114:7001/rtp/225.1.4.85:1114
+天津卫视,http://219.157.60.114:7001/rtp/225.1.4.86:1115
+重庆卫视,http://219.157.60.114:7001/rtp/225.1.4.157:1308
+黑龙江卫视,http://219.157.60.114:7001/rtp/225.1.4.91:1120
+辽宁卫视,http://219.157.60.114:7001/rtp/225.1.4.167:1208
+吉林卫视,http://219.157.60.114:7001/rtp/225.1.4.174:1309
+延边卫视,http://live.ybtvyun.com/video/s10006-d48b8590849c/index.m3u8
+内蒙古卫视,http://219.157.60.114:7001/rtp/225.1.4.45:1074
+河北卫视,http://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=2510710360&k=fe44b6c42c2e7065c441a28de6f13955
+河南卫视,http://219.157.60.114:7001/rtp/225.1.4.98:1127
+山东卫视,http://219.157.60.114:7001/rtp/225.1.4.88:1117
+山东教育卫视,http://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8
+山西卫视,http://219.157.60.114:7001/rtp/225.1.4.38:1067
+湖南卫视,http://219.157.60.114:7001/rtp/225.1.4.82:1111
+湖北卫视,http://219.157.60.114:7001/rtp/225.1.4.89:1118
+广东卫视,http://219.157.60.114:7001/rtp/225.1.4.166:1207
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+深圳卫视,http://219.157.60.114:7001/rtp/225.1.4.90:1119
+大湾区卫视,http://z.b.bkpcp.top/m.php?id=dwqws
+广西卫视,http://219.157.60.114:7001/rtp/225.1.4.31:1060
+海南卫视,http://219.157.60.114:7001/rtp/225.1.4.195:1310
+三沙卫视,http://219.157.60.114:7001/rtp/225.1.4.234:1280
+安徽卫视,http://219.157.60.114:7001/rtp/225.1.4.87:1116
+浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
+江苏卫视,http://www.dsk.cc/jstv/jstv.php?id=jsws&m.m3u8
+江西卫视,http://219.157.60.114:7001/rtp/225.1.4.139:1305
+福建东南卫视,http://219.157.60.114:7001/rtp/225.1.4.228:1274
+厦门卫视,http://219.157.60.114:7001/rtp/225.1.4.95:1124
+海峡卫视,http://goo.bkpcp.top/mg/hxws
+云南卫视,http://219.157.60.114:7001/rtp/225.1.4.152:1307
+贵州卫视,http://219.157.60.114:7001/rtp/225.1.4.122:1302
+四川卫视,http://219.157.60.114:7001/rtp/225.1.4.151:1306
+陕西卫视,http://zb.5kds.com/sx.php
+农林卫视,http://gxlive.snrtv.com/nlws-SD.m3u8
+甘肃卫视,http://219.157.60.114:7001/rtp/225.1.4.42:1071
+宁夏卫视,http://219.157.60.114:7001/rtp/225.1.4.43:1072
+青海卫视,http://219.157.60.114:7001/rtp/225.1.4.44:1073
+新疆卫视,http://219.157.60.114:7001/rtp/225.1.4.47:1076
+兵团卫视,https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 翡翠台,http://t.061899.xyz/tl/168.php?id=fct
 无线新聞台,http://t.061899.xyz/tl/168.php?id=wxxwt
 明珠台,http://t.061899.xyz/tl/168.php?id=zzt
