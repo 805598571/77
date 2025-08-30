@@ -17102,11 +17102,11 @@
             "name": "✨网飞啦✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",     
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",     
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/网飞啦.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/网飞啦.json"
         },
         {
             "key": "✨黑狐影院✨",
@@ -17124,29 +17124,29 @@
             "name": "✨黑蚂蚁影院✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/黑蚂蚁影院.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/黑蚂蚁影院.json"
         },
         {
             "key": "✨哪吒影院✨",
             "name": "✨哪吒影院✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",      
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/main/jar/xyqxbpq.jar",      
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/哪吒影院.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/哪吒影院.json"
         },
         {
             "key": "✨999影视✨",
             "name": "✨999影视✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -17157,7 +17157,7 @@
             "name": "✨水晶影视✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -17185,7 +17185,7 @@
             "name": "✨2水晶影视✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "ext": {
                 "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
@@ -17211,18 +17211,18 @@
             "name": "✨搞笑花影院✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",       
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",       
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/搞笑花影院.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/搞笑花影院.json"
         },
         {
             "key": "✨天天影院✨",
             "name": "✨天天影院✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -17233,7 +17233,7 @@
             "name": "✨uu电影网✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -17244,33 +17244,33 @@
             "name": "✨5678✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/5678.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/5678.json"
         },
         {
             "key": "✨追风影视✨",
             "name": "✨追风影视✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/追风影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/追风影视.json"
         },
         {
             "key": "✨小红影视✨",
             "name": "✨小红影视✨乐哥甄选✨",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/sjc.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/sjc.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/小红影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/小红影视.json"
         },
         {
             "key": "✨PTT视频✨",
@@ -17375,7 +17375,7 @@
             "key": "✨电影驿站✨",
             "name": "✨电影驿站✨乐哥甄选✨",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/sjc.jar",
+            "jar": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/sjc.jar",
             "api": "csp_XBPQ",
             "searchable": 1,
             "quickSearch": 1,
@@ -17909,7 +17909,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/西瓜在线.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/西瓜在线.json"
         },
         {
             "key": "✨影视导航✨",
@@ -17920,7 +17920,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/影视导航.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/影视导航.json"
         },
         {
             "key": "✨播剧影视✨",
@@ -17931,7 +17931,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/播剧影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/播剧影视.json"
         },
         {
             "key": "✨优兔影视✨",
@@ -17942,18 +17942,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/优兔影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/优兔影视.json"
         },
         {
             "key": "✨mp4盒子✨",
             "name": "✨mp4盒子✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/mp4盒子.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/mp4盒子.json"
         },
         {
             "key": "✨八号影院✨",
@@ -17964,18 +17964,18 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/八号影院.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/八号影院.json"
         },
         {
             "key": "✨番茄影视✨",
             "name": "✨番茄影视✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",      
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",      
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/番茄影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/番茄影视.json"
         },
         {
             "key": "✨影视大全✨",
@@ -17986,7 +17986,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/影视大全.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/影视大全.json"
         },
         {
             "key": "✨麦田影院✨",
@@ -17997,7 +17997,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/麦田影院.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/麦田影院.json"
         },
         {
             "key": "✨皮皮虾影视✨",
@@ -18008,7 +18008,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/皮皮虾影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/皮皮虾影视.json"
         },
         {
             "key": "✨全年影视✨",
@@ -18019,7 +18019,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/全年影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/全年影视.json"
         },
         {
             "key": "✨流光影院",
@@ -18030,7 +18030,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/流光影院.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/流光影院.json"
         },
         {
             "key": "✨看电视",
@@ -18041,7 +18041,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/看电视.json"
+            "ext": "hhttps://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/看电视.json"
         },
         {
             "key": "麻花影视",
@@ -18052,7 +18052,7 @@
             "filterable": 1,
             "api": "csp_XBPQ",
             "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",     
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/json1/麻花影视.json"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/json1/麻花影视.json"
         },
         {
             "key": "mk|影视",
@@ -18070,7 +18070,7 @@
             "name": "✨皮皮蛋影视✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -18081,7 +18081,7 @@
             "name": "✨飞快TV✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",     
+            "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",     
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -18092,7 +18092,7 @@
             "name": "✨策驰影院✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-             "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",     
+             "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",     
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -18103,7 +18103,7 @@
             "name": "✨剧集屋✨乐哥甄选✨",
             "type": 3,
             "api": "csp_XBPQ",
-           "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/jar/xyqxbpq.jar",    
+           "jar":"https://ghfast.top/https://raw.githubusercontent.com/lege0001/TVbox/main/TV/jar/xyqxbpq.jar",    
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
